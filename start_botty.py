@@ -32,10 +32,14 @@ async def on_ready():
 async def on_message(message):
     if message.content.startswith('!help'):
         await _botty.help(message)
+    elif message.content.startswith('!invite'):
+        await _botty.invite(message)
     elif message.content.startswith('!maze'):
         await _botty.maze(message)
     elif message.content.lower().startswith('thanks'):
         await _botty.thanks(message)
+    elif message.content.startswith('!friend'):
+        await _botty.friend(message)
 
 if __name__ == "__main__":
 
