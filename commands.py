@@ -4,6 +4,11 @@ import random
 import json
 import re
 import collections, itertools
+from dicts import Dicts
+import requests
+from bs4 import BeautifulSoup
+
+dicts = Dicts()
 
 class Commands:
 
@@ -108,6 +113,310 @@ class Commands:
                     await self._client.send_message(message.channel, 'Sorry, `{}`. '.format(message.author.display_name) + friend_name + ' has not provided a Trainer Code. Go send them a DM or make friends IRL.')
             else:
                 await self._client.send_message(message.channel, 'Use the following commands to find friends and add Trainers to your network:\n\n`!friend <code>` to add your Trainer Code\n`!friend <@username>` to search for a Trainer\'s Code\n`!friend remove` to remove your Trainer Code\n`!friend roulette` to roll the dice and get a random Trainer Code')
+
+    async def dex(self, message):
+        condition = ''
+        if len(message.content.lower().split()) == 1:
+            await self._client.send_message(message.channel, 'Nope. Use ``!dex [Pokemon] [form]`` to search for typing, movesets, CPs, and more for a specific \'mon.')
+        elif len(message.content.lower().split()) == 2:
+            pokemon = message.content.lower().split()[1]
+        elif len(message.content.lower().split()) == 3 and message.content.lower().split()[2] in ['a', 'alolan']:
+            pokemon = message.content.lower().split()[1]
+            condition = 'alolan'
+        elif len(message.content.lower().split()) == 3 and message.content.lower().split()[2] in ['a','s','d', 'attack', 'speed', 'defense']: #deoxys
+            pokemon = message.content.lower().split()[1]
+            condition = message.content.lower().split()[2]
+            if condition == 'a':
+                condition = 'attack'
+            elif condition == 's':
+                condition = 'speed'
+            elif condition == 'd':
+                condition = 'defense'
+        elif len(message.content.lower().split()) == 3 and message.content.lower().split()[2] in ['altered','origin']: #gira
+            pokemon = message.content.lower().split()[1]
+            condition = message.content.lower().split()[2]
+        elif len(message.content.lower().split()) == 3 and message.content.lower().split()[2] == 'armored':
+            pokemon = message.content.lower().split()[1]
+            condition = 'armored'
+        else:
+            await self._client.send_message(message.channel, (
+                'Something\'s not quite right, `{}`. Use ``!dex [Pokemon] [form]`` to search for a specific \'mon.').format(message.author.display_name))
+
+        if pokemon in dicts.pokemon:
+            dex_number = dicts.pokemon.get(pokemon)
+
+            if condition == 'alolan':
+                site = "https://pokemongo.gamepress.gg/pokemon/{}-alolan".format(dex_number)
+            elif condition == 'attack':
+                site = "https://pokemongo.gamepress.gg/pokemon/{}-attack".format(dex_number)
+            elif condition == 'speed':
+                site = "https://pokemongo.gamepress.gg/pokemon/{}-speed".format(dex_number)
+            elif condition == 'defense':
+                site = "https://pokemongo.gamepress.gg/pokemon/{}-defense".format(dex_number)
+            elif condition == 'altered':
+                site = "https://pokemongo.gamepress.gg/pokemon/{}-altered".format(dex_number)
+            elif condition == 'origin':
+                site = "https://pokemongo.gamepress.gg/pokemon/{}-origin".format(dex_number)
+            elif condition == 'armored':
+                site = "https://pokemongo.gamepress.gg/pokemon/{}-armored".format(dex_number)
+            else:
+                site = "https://pokemongo.gamepress.gg/pokemon/{}".format(dex_number)
+            page = requests.get(site)
+            soup = BeautifulSoup(page.content, 'html.parser')
+
+            max_cp = soup.find_all(class_="max-cp-number")
+            stats = soup.find_all(class_="stat-text")
+            types = soup.find_all(class_=("field field--name-field-pokemon-type " +
+                                          "field--type-entity-reference " +
+                                          "field--label-hidden field__items"))
+
+            female = soup.find_all(class_="female-percentage")
+            male = soup.find_all(class_="male-percentage")
+
+            weak_table = soup.find(lambda tag: tag.name=='table' and tag.has_attr('id') and tag['id']=="weak-table")
+            strength_table = soup.find(lambda tag: tag.name=='table' and tag.has_attr('id') and tag['id']=="resist-table")
+            weak_list = weak_table.find_all(class_ = "type-img-cell")
+            strength_list = strength_table.find_all(class_ = "type-img-cell")
+
+            weaknesses = []
+            strengths = []
+            for i in range(len(weak_list)):
+                weaknesses.append(str(weak_list[i].contents[0]).split('/')[-2][:-5])
+
+            for i in range(len(strength_list)):
+                strengths.append(str(strength_list[i].contents[0]).split('/')[-2][:-5])
+
+            quick = []
+            legacy_quick = []
+            for quick_move in soup.find_all(class_=(
+                    "views-field views-field-field-quick-move")):
+                quick.append(quick_move.find(class_=(
+                    "field field--name-title " +
+                    "field--type-string field--label-hidden")))
+                legacy_quick.append(quick_move.find(class_=(
+                    "has-legacy")))
+
+            charge = []
+            legacy_charge = []
+            for charge_move in soup.find_all(class_=(
+                    "views-field views-field-field-charge-move")):
+                charge.append(charge_move.find(class_=(
+                    "field field--name-title " +
+                    "field--type-string field--label-hidden")))
+                legacy_charge.append(charge_move.find(class_=(
+                    "has-legacy")))
+
+            legacy_moves = []
+            for (legacy_quick, legacy_charge) in zip(legacy_quick, legacy_charge):
+                try:
+                    if legacy_quick.get_text() == '*':
+                        legacy_moves.append(' (Legacy)')
+                    else:
+                        try:
+                            if legacy_charge.get_text() == '*':
+                                legacy_moves.append(' (Legacy)')
+                            else:
+                                legacy_moves.append('')
+                        except:
+                            legacy_moves.append('')
+                except:
+                    try:
+                        if legacy_charge.get_text() == '*':
+                            legacy_moves.append(' (Legacy)')
+                        else:
+                            legacy_moves.append('')
+                    except:
+                        legacy_moves.append('')
+
+            offensive_grade = soup.find_all(class_=(
+                "views-field views-field-field-offensive-moveset-grade"))
+            for index, grade in enumerate(offensive_grade):
+                offensive_grade[index] = str(grade.get_text().strip())
+            defensive_grade = soup.find_all(class_=(
+                "views-field views-field-field-defensive-moveset-grade"))
+            for index, grade in enumerate(defensive_grade):
+                defensive_grade[index] = str(grade.get_text().strip())
+
+            offensive_moves = sorted(zip(offensive_grade[1:], quick[1:],
+                                         charge[1:], legacy_moves[1:]),
+                                     key=lambda x: x[0])
+            defensive_moves = sorted(zip(defensive_grade[1:], quick[1:],
+                                         charge[1:], legacy_moves[1:]),
+                                     key=lambda x: x[0])
+
+            title = "%03d" % dex_number + ' | ' + pokemon.upper()
+            if condition:
+                title += ' (' + condition.upper() + ')'
+            elif dex_number == 386: #add normal deoxys title as well
+                title += ' (NORMAL)'
+            elif dex_number == 487:
+                title += ' (ALTERED)'
+
+            table = soup.find(lambda tag: tag.name=='table' and tag.has_attr('id') and tag['id']=="minmaxtable")
+            rows = table.find_all(lambda tag:tag.name=='tr')
+            max_cp_15 = rows[29].find_all('td')[3].contents[0]
+            max_cp_20 = rows[39].find_all('td')[3].contents[0]
+            max_cp_25 = rows[49].find_all('td')[3].contents[0]
+            max_cp_30 = rows[59].find_all('td')[3].contents[0]
+            max_cp_35 = rows[69].find_all('td')[3].contents[0]
+            max_cp_40 = rows[79].find_all('td')[3].contents[0]
+
+            if len(types[0].get_text().split()) == 1:
+                descript = "\n**Type** " + types[0].get_text().split()[0]
+            else:
+                descript = ("\n**Type** " + types[0].get_text().split()[0] + ' | ' +
+                             types[0].get_text().split()[1])
+            descript += "\n"
+
+            if len(weaknesses) == 1:
+                descript += "\n**Weak Against** " + weaknesses[0].capitalize()
+            elif len(weaknesses) == 2:
+                descript += ("\n**Weak Against** " + weaknesses[0].capitalize() + ' | ' +
+                             weaknesses[1].capitalize())
+            elif len(weaknesses) == 3:
+                descript += ("\n**Weak Against** " + weaknesses[0].capitalize() + ' | ' +
+                             weaknesses[1].capitalize() + ' | ' + weaknesses[2].capitalize())
+            elif len(weaknesses) >= 4:
+                descript += ("\n**Weak Against** " + weaknesses[0].capitalize() + ' | ' +
+                             weaknesses[1].capitalize() + ' | ' + weaknesses[2].capitalize()  + ' | ' + weaknesses[3].capitalize())
+
+            if len(strengths) == 1:
+                descript += "\n**Strong Against** " + strengths[0].capitalize()
+            elif len(strengths) == 2:
+                descript += ("\n**Strong Against** " + strengths[0].capitalize() + ' | ' +
+                             strengths[1].capitalize())
+            elif len(strengths) == 3:
+                descript += ("\n**Strong Against** " + strengths[0].capitalize() + ' | ' +
+                             strengths[1].capitalize() + ' | ' + strengths[2].capitalize())
+            elif len(strengths) >= 4:
+                descript += ("\n**Strong Against** " + strengths[0].capitalize() + ' | ' +
+                             strengths[1].capitalize() + ' | ' + strengths[2].capitalize()  + ' | ' + strengths[3].capitalize())
+
+            descript += "\n"
+            descript += ("\n**" + stats[0].get_text().split()[0] + '** ' +
+                         stats[0].get_text().split()[1] + ' | **' +
+                         stats[2].get_text().split()[0] + '** ' +
+                         stats[2].get_text().split()[1] + ' | **' +
+                         stats[4].get_text().split()[0] +
+                         '** ' + stats[4].get_text().split()[1] + '\n')
+            try:
+                descript += ("**♀** " + female[0].get_text().strip() +
+                             "  |  **♂** " + male[0].get_text().strip() + '\n')
+            except:
+                pass
+
+            descript += ("\n**:100: L40** " + max_cp_40 + ' | **L35** ' + max_cp_35 + ' | **L30** ' + max_cp_30 +
+                         '\n**:100: L25** ' + max_cp_25 + ' | **L20** ' + max_cp_20 + ' | **L15** ' + max_cp_15)
+            descript += "\n"
+
+            if len(offensive_moves) > 0:
+
+                descript += "\n**Offensive Movesets**"
+                for (grade, quick, charge, legacy) in offensive_moves:
+                    try:
+                        descript += ('\n(' + grade.strip() + ') ' + quick.get_text().strip() +
+                             '/' + charge.get_text().strip() + legacy)
+                    except:
+                        pass
+                descript += " \n"
+
+                descript += "\n**Defensive Movesets**"
+                for (grade, quick, charge, legacy) in defensive_moves:
+                    try:
+                        descript += ('\n(' + grade.strip() + ') ' + quick.get_text().strip() +
+                                 '/' + charge.get_text().strip() + legacy)
+                    except:
+                        pass
+                descript += "\n"
+
+                if len(soup.find_all(class_=("raid-boss-counters"))) > 0:
+
+                    descript += "\n**Raid Boss Counters**\n"
+                    for counter in raid_counters:
+
+                        descript += '\n' + counter.get_text()
+                    descript += "\n"
+
+            else:
+
+                quick_moves = soup.find(class_=("primary-move")).find_all(class_=(
+                    "field field--name-title field--type-string " +
+                    "field--label-hidden"))
+                charge_moves = soup.find(class_=("secondary-move")).find_all(
+                    class_=("field field--name-title field--type-string " +
+                            "field--label-hidden"))
+                if soup.find(class_=("pokemon-legacy-quick-moves")) is not None:
+                    quick_legacy = soup.find(class_=(
+                        "pokemon-legacy-quick-moves")).find_all(class_=(
+                            "field field--name-title field--type-string " +
+                            "field--label-hidden"))
+                if soup.find(class_=(
+                        "secondary-move-legacy secondary-move")) is not None:
+                    charge_legacy = soup.find(class_=(
+                        "secondary-move-legacy secondary-move")).find_all(class_=(
+                            "field field--name-title field--type-string " +
+                            "field--label-hidden"))
+
+                descript += "\n**Quick Moves**"
+                for quick_move in quick_moves:
+                    descript += '\n' + quick_move.get_text().strip()
+                if soup.find(class_=("pokemon-legacy-quick-moves")) is not None:
+                    for legacy_move in quick_legacy:
+                        descript += '\n' + legacy_move.get_text().strip() + ' (Legacy)'
+                descript += "\n"
+
+                descript += "\n**Charge Moves**"
+                for charge_move in charge_moves:
+                    descript += '\n' + charge_move.get_text().strip()
+                if soup.find(class_=(
+                        "secondary-move-legacy secondary-move")) is not None:
+                    for legacy_move in charge_legacy:
+                        descript += '\n' + legacy_move.get_text().strip() + ' (Legacy)'
+                descript += "\n"
+
+                if len(soup.find_all(class_=("raid-boss-counters"))) > 0:
+
+                    descript += "\nRaid Boss Counters\n"
+                    for counter in raid_counters:
+
+                        descript += '\n' + counter.get_text()
+                    descript += "\n"
+
+            em = discord.Embed(title=title, url=site, description=descript,
+                               color=dicts.type_colors[
+                                   types[0].get_text().split()[0].lower()])
+            if condition == 'alolan':
+                em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_61.png').format(dex_number))
+            elif dex_number == 386: #deoxys
+                if condition == 'attack':
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
+                elif condition == 'defense':
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_13.png').format(dex_number))
+                elif condition == 'speed':
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_14.png').format(dex_number))
+                else:
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_11.png').format(dex_number))
+            elif dex_number == 487: #gira
+                if condition == 'origin':
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
+                else:
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
+            elif dex_number == 150: #mewtwo
+                if condition == 'armored':
+                    em.set_thumbnail(url=('https://pokemongo.gamepress.gg/sites/pokemongo/files/styles/240w/public/2019-07/mewtwoArmored.png?itok=LoC_Rd9g'))
+                else:
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
+
+            else:
+                em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
+
+            em.set_footer(text='Data courtesy of pokemongo.gamepress.gg')
+            await self._client.send_message(message.channel, embed=em)
+        else:
+            await self._client.send_message(message.channel, (
+                "That's not any Pokemon I know of, check your spelling " +
+                "`{}`").format(message.author.display_name))
+
 
     async def help(self, message):
 

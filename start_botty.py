@@ -40,6 +40,8 @@ async def on_message(message):
         await _botty.thanks(message)
     elif message.content.startswith('!friend'):
         await _botty.friend(message)
+    elif message.content.startswith('!dex'):
+        await _botty.dex(message)
 
 if __name__ == "__main__":
 
