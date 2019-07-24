@@ -182,10 +182,8 @@ class Commands:
             strengths = []
             for i in range(len(weak_list)):
                 weaknesses.append(str(weak_list[i].contents[0]).split('/')[-2][:-5])
-
             for i in range(len(strength_list)):
                 strengths.append(str(strength_list[i].contents[0]).split('/')[-2][:-5])
-
             quick = []
             legacy_quick = []
             for quick_move in soup.find_all(class_=(
@@ -195,7 +193,6 @@ class Commands:
                     "field--type-string field--label-hidden")))
                 legacy_quick.append(quick_move.find(class_=(
                     "has-legacy")))
-
             charge = []
             legacy_charge = []
             for charge_move in soup.find_all(class_=(
@@ -205,7 +202,6 @@ class Commands:
                     "field--type-string field--label-hidden")))
                 legacy_charge.append(charge_move.find(class_=(
                     "has-legacy")))
-
             legacy_moves = []
             for (legacy_quick, legacy_charge) in zip(legacy_quick, legacy_charge):
                 try:
@@ -227,7 +223,6 @@ class Commands:
                             legacy_moves.append('')
                     except:
                         legacy_moves.append('')
-
             offensive_grade = soup.find_all(class_=(
                 "views-field views-field-field-offensive-moveset-grade"))
             for index, grade in enumerate(offensive_grade):
@@ -236,14 +231,12 @@ class Commands:
                 "views-field views-field-field-defensive-moveset-grade"))
             for index, grade in enumerate(defensive_grade):
                 defensive_grade[index] = str(grade.get_text().strip())
-
             offensive_moves = sorted(zip(offensive_grade[1:], quick[1:],
                                          charge[1:], legacy_moves[1:]),
                                      key=lambda x: x[0])
             defensive_moves = sorted(zip(defensive_grade[1:], quick[1:],
                                          charge[1:], legacy_moves[1:]),
                                      key=lambda x: x[0])
-
             title = "%03d" % dex_number + ' | ' + pokemon.upper()
             if condition:
                 title += ' (' + condition.upper() + ')'
@@ -251,7 +244,6 @@ class Commands:
                 title += ' (NORMAL)'
             elif dex_number == 487:
                 title += ' (ALTERED)'
-
             table = soup.find(lambda tag: tag.name=='table' and tag.has_attr('id') and tag['id']=="minmaxtable")
             rows = table.find_all(lambda tag:tag.name=='tr')
             max_cp_15 = rows[29].find_all('td')[3].contents[0]
@@ -260,14 +252,12 @@ class Commands:
             max_cp_30 = rows[59].find_all('td')[3].contents[0]
             max_cp_35 = rows[69].find_all('td')[3].contents[0]
             max_cp_40 = rows[79].find_all('td')[3].contents[0]
-
             if len(types[0].get_text().split()) == 1:
                 descript = "\n**Type** " + types[0].get_text().split()[0]
             else:
                 descript = ("\n**Type** " + types[0].get_text().split()[0] + ' | ' +
                              types[0].get_text().split()[1])
             descript += "\n"
-
             if len(weaknesses) == 1:
                 descript += "\n**Weak Against** " + weaknesses[0].capitalize()
             elif len(weaknesses) == 2:
@@ -279,7 +269,6 @@ class Commands:
             elif len(weaknesses) >= 4:
                 descript += ("\n**Weak Against** " + weaknesses[0].capitalize() + ' | ' +
                              weaknesses[1].capitalize() + ' | ' + weaknesses[2].capitalize()  + ' | ' + weaknesses[3].capitalize())
-
             if len(strengths) == 1:
                 descript += "\n**Strong Against** " + strengths[0].capitalize()
             elif len(strengths) == 2:
@@ -291,7 +280,6 @@ class Commands:
             elif len(strengths) >= 4:
                 descript += ("\n**Strong Against** " + strengths[0].capitalize() + ' | ' +
                              strengths[1].capitalize() + ' | ' + strengths[2].capitalize()  + ' | ' + strengths[3].capitalize())
-
             descript += "\n"
             descript += ("\n**" + stats[0].get_text().split()[0] + '** ' +
                          stats[0].get_text().split()[1] + ' | **' +
@@ -304,11 +292,9 @@ class Commands:
                              "  |  **♂** " + male[0].get_text().strip() + '\n')
             except:
                 pass
-
             descript += ("\n**:100: L40** " + max_cp_40 + ' | **L35** ' + max_cp_35 + ' | **L30** ' + max_cp_30 +
                          '\n**:100: L25** ' + max_cp_25 + ' | **L20** ' + max_cp_20 + ' | **L15** ' + max_cp_15)
             descript += "\n"
-
             if len(offensive_moves) > 0:
 
                 descript += "\n**Offensive Movesets**"
@@ -319,7 +305,6 @@ class Commands:
                     except:
                         pass
                 descript += " \n"
-
                 descript += "\n**Defensive Movesets**"
                 for (grade, quick, charge, legacy) in defensive_moves:
                     try:
@@ -328,17 +313,12 @@ class Commands:
                     except:
                         pass
                 descript += "\n"
-
                 if len(soup.find_all(class_=("raid-boss-counters"))) > 0:
-
                     descript += "\n**Raid Boss Counters**\n"
                     for counter in raid_counters:
-
                         descript += '\n' + counter.get_text()
                     descript += "\n"
-
             else:
-
                 quick_moves = soup.find(class_=("primary-move")).find_all(class_=(
                     "field field--name-title field--type-string " +
                     "field--label-hidden"))
@@ -356,7 +336,6 @@ class Commands:
                         "secondary-move-legacy secondary-move")).find_all(class_=(
                             "field field--name-title field--type-string " +
                             "field--label-hidden"))
-
                 descript += "\n**Quick Moves**"
                 for quick_move in quick_moves:
                     descript += '\n' + quick_move.get_text().strip()
@@ -364,7 +343,6 @@ class Commands:
                     for legacy_move in quick_legacy:
                         descript += '\n' + legacy_move.get_text().strip() + ' (Legacy)'
                 descript += "\n"
-
                 descript += "\n**Charge Moves**"
                 for charge_move in charge_moves:
                     descript += '\n' + charge_move.get_text().strip()
@@ -373,15 +351,12 @@ class Commands:
                     for legacy_move in charge_legacy:
                         descript += '\n' + legacy_move.get_text().strip() + ' (Legacy)'
                 descript += "\n"
-
                 if len(soup.find_all(class_=("raid-boss-counters"))) > 0:
 
                     descript += "\nRaid Boss Counters\n"
                     for counter in raid_counters:
-
                         descript += '\n' + counter.get_text()
                     descript += "\n"
-
             em = discord.Embed(title=title, url=site, description=descript,
                                color=dicts.type_colors[
                                    types[0].get_text().split()[0].lower()])
@@ -406,10 +381,8 @@ class Commands:
                     em.set_thumbnail(url=('https://pokemongo.gamepress.gg/sites/pokemongo/files/styles/240w/public/2019-07/mewtwoArmored.png?itok=LoC_Rd9g'))
                 else:
                     em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
-
             else:
                 em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
-
             em.set_footer(text='Data courtesy of pokemongo.gamepress.gg')
             await self._client.send_message(message.channel, embed=em)
         else:
@@ -417,6 +390,125 @@ class Commands:
                 "That's not any Pokemon I know of, check your spelling " +
                 "`{}`").format(message.author.display_name))
 
+    async def rank(self, message):
+        split = message.content.lower().split()
+        leagues = {'great':1500, 'ultra':2500}
+        condition = []
+        if len(split) == 6 or len(split) == 7 or len(split) == 3 or len(split) == 4: #format !rank league pokemon a d s
+            league = split[1]
+            if league not in ['great', 'ultra']:
+                if 'master' in league:
+                    await self._client.send_message(message.channel, 'No CP limit in Master League, you want 100% IVs')
+                else: await self._client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
+            pokemon = split[2]
+            if pokemon not in dicts.pokemon:
+                await self._client.send_message(message.channel, (
+                "That's not any Pokemon I know of, check your spelling " +
+                "`{}`").format(message.author.display_name))
+            if pokemon in ['mew', 'deoxys', 'celebi']: #pokemon that can't be traded
+                miniv = '10'
+            else: miniv = '0'
+            if len(split) == 3:
+                att_iv = str(15)
+                def_iv = str(15)
+                sta_iv = str(15)
+                site = 'https://gostadium.club/pvp/iv?pokemon=' + pokemon.capitalize() + '&max_cp='+str(leagues[league])+'&min_iv='+miniv+'&att_iv=' + att_iv + '&def_iv=' + def_iv + '&sta_iv=' + sta_iv
+            elif len(split) == 7 or len(split) == 4:
+                if pokemon in ['deoxys', 'giratina'] or split[3] == 'alolan' or (pokemon=='mewtwo' and split[3] == 'armored'):
+                    condition = split[3]
+                    if len(split) == 7:
+                        att_iv = split[4]
+                        def_iv = split[5]
+                        sta_iv = split[6]
+                    else:
+                        att_iv = str(15)
+                        def_iv = str(15)
+                        sta_iv = str(15)
+                    site = 'https://gostadium.club/pvp/iv?pokemon=' + pokemon.capitalize() + '+' + condition.capitalize() + '&max_cp='+str(leagues[league])+'&min_iv='+miniv+'&att_iv=' + att_iv + '&def_iv=' + def_iv + '&sta_iv=' + sta_iv
+                else: return client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
+            else:
+                att_iv = split[3]
+                def_iv = split[4]
+                sta_iv = split[5]
+                site = 'https://gostadium.club/pvp/iv?pokemon=' + pokemon.capitalize() + '&max_cp='+str(leagues[league])+'&min_iv='+miniv+'&att_iv=' + att_iv + '&def_iv=' + def_iv + '&sta_iv=' + sta_iv
+            page = requests.get(site)
+            soup = BeautifulSoup(page.content, 'html.parser')
+            rank_table_full = soup.find('table', attrs={'class':'table table-condensed table-striped text-light'})
+            ranks = rank_table_full.find_all(lambda tag:tag.name=='td')
+            rank = ranks[0].get_text()
+            lvl = str(int(float(ranks[1].get_text())))
+            ivs = ranks[2].get_text()
+            cp = ranks[3].get_text()
+            max_stat = ranks[8].get_text()
+            best_lvl = str(int(float(ranks[10].get_text())))
+            best_ivs= ranks[11].get_text()
+            best_cp = ranks[12].get_text()
+            if len(split) == 3:
+                descript = '\n\n'
+                descript += '**Ideal IV **' + best_ivs + ' (' + best_cp + ' CP, Lvl ' + best_lvl + ')\n'
+            elif len(split) == 4:
+                descript = '\n\n'
+                descript += '**Ideal IV **' + best_ivs + ' (' + best_cp + ' CP, Lvl ' + best_lvl + ')\n'
+            elif len(split) == 7:
+                descript = '\n\n'
+                descript += '**Rank** ' + rank + '\n**Level** ' + lvl + '\n**IV** ' + ivs + '\n**CP** ' + cp + '\n**% Max** ' + max_stat + '\n\n'
+                #descript += '**Rank** ' + rank + '\n**IV** ' + ivs + '\n**Level** ' + lvl + '\n**CP** ' + cp + '\n**% Max** ' + max_stat + '\n\n'
+                descript += '**Ideal IV **' + best_ivs + ' (' + best_cp + ' CP, Lvl ' + best_lvl + ')\n'
+            else:
+                descript = '\n\n'
+                descript += '**Rank** ' + rank + '\n**Level** ' + lvl + '\n**IV** ' + ivs + '\n**CP** ' + cp + '\n**% Max** ' + max_stat + '\n\n'
+                descript += '**Ideal IV **' + best_ivs + ' (' + best_cp + ' CP, Lvl ' + best_lvl + ')\n'
+            title = pokemon.upper()
+            if condition:
+                title += ' (' + condition.upper() + ')'
+            #elif dex_number == 386: #add normal deoxys title as well
+            #    title += ' (NORMAL)'
+            #elif dex_number == 487:
+            #    title += ' (ALTERED)'
+            #if len(split) == 6 or len(split) == 7:
+                #title += ' | ' + ivs
+            em = discord.Embed(title=title, url=site, description=descript, color=0x000000)
+            em.set_footer(text='Data courtesy of gostadium.club')
+           #  if condition == 'alolan':
+           #     em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_61.png').format(dex_number))
+           # elif 'deoxys' in pokemon:
+           #     if condition == 'attack':
+           #         em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
+           #     elif condition == 'defense':
+           #         em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_13.png').format(dex_number))
+           #     elif condition == 'speed':
+           #         em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_14.png').format(dex_number))
+           #     else:
+           #         em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_11.png').format(dex_number))
+           # elif 'giratina' in pokemon:
+           #     if condition == 'origin':
+           #         em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
+           #     else:
+          #          em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
+           # else:
+           #     em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
+
+
+            await self._client.send_message(message.channel, embed=em)
+        else:
+            await self._client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
+
+    async def shiny(self, message):
+        condition = ''
+        if len(message.content.lower().split()) == 2:
+            pokemon = message.content.lower().split()[1]
+            if pokemon not in dicts.pokemon:
+                return client.send_message(message.channel, (
+                "That's not any Pokemon I know of, check your spelling " +
+                "`{}`").format(message.author.display_name))
+            dex_num = dicts.pokemon.get(pokemon)
+            img_url = ('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_num)
+            shiny_img_url = ('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00_shiny.png').format(dex_num)
+            title = pokemon.upper()
+            em = discord.Embed(title=title, color=0xffffff)
+            em.set_image(url=shiny_img_url)
+            em.set_thumbnail(url=img_url)
+            await self._client.send_message(message.channel, embed=em)
 
     async def help(self, message):
 
@@ -429,6 +521,7 @@ class Commands:
         info_msg = (":robot: Hi I'm Botty! Here are some of the things I can do for you: \n\n" +
             "`!dex` to display stats for a particular Pokemon \n" +
             "`!rank` to find the best IVs for PvP\n" +
+            "`!shiny` to see the shiny version of a particular Pokemon \n" +
             "`!invite` to get an invite link to the server \n" +
             "`!friend` to see commands for Botty's Friend List  \n")
         await self._client.send_message(message.channel, info_msg)

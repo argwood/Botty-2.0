@@ -1,0 +1,12 @@
+#List of Known Bugs
+
+*Dex - Doesn't work for mons with multi-word names (i.e. Mr. Mime)
+*Friend List - Returns nothing if person removes their code or leaves server
+
+#Planned Features/Updates
+*Rank - add Pokemon sprites as thumbnail
+*Rank - add color-coded embeds
+*Rank - make default league "great"
+*Shiny - improved error handling
+*Shiny - add forms
+
