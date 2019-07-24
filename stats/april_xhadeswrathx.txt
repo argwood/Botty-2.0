@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: xHaDeSWrAtHx
+**Level**: 27
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 513
+**Monthly Rank**: N/A
+    
+**Total XP**: 1,329,114 *(0.5%)*
+**Jogger**: 380.9 *(1.1%)*
+**Collector**: 2,413 *(1.1%)*
+**Scientist**: 195 *(1.1%)*
+**Breeder**: 159 *(2.1%)*
+**Backpacker**: 2,314 *(1.1%)*
+**Battle Girl**: 51 *(0.5%)*
+**Gold Gyms**: 0 *(1.6%)*
+    
+**Pokemon Ranger**: 41 *(1.1%)*
+**Berry Master**: 1 *(0.5%)*
+**Gym Leader**: 0 *(0.5%)*
+**Battle Legend**: 4 *(0.5%)*
+**Champion**: 2 *(0.5%)*
+    
+**Days Played**: 1023 days
+**XP**/day: 1,299
+**KM**/day: 0.4
+**Catches**/day: 2.36
+**Evolves**/day: 0.19
+**Hatches**/day: 0.16
+**Spins**/day: 2.26
+**Battles**/day: 0.05
+**Research**/day: 0.1
+**Berries**/day: 0.0
+**Gym Hours**/day: 0.0
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.0
+**Legendary Raids**/day: 0.0
+    

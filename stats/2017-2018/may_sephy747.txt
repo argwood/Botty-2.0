@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Sephy747
+**Level**: 34
+**Team**: Mystic
+**Region**: Other
+    
+**Total XP**: 5,810,817 *(10.1%)*
+**Gold Gyms**: 10 *(25.5%)*
+**Gym Badge**: 208 *(14.8%)*
+**Jogger**: 867.9 *(8.7%)*
+**Collector**: 10,619 *(13.4%)*
+**Scientist**: 655 *(8.7%)*
+**Breeder**: 393 *(8.1%)*
+**Backpacker**: 7,849 *(6.7%)*
+**Battle Girl**: 1,154 *(12.1%)*
+**Pokemon Ranger**: 266 *(22.8%)*
+**Berry Master**: 4,066 *(16.8%)*
+**Gym Leader**: 13,514 *(35.6%)*
+**Battle Legend**: 54 *(5.4%)*
+**Champion**: 21 *(1.3%)*
+**Pokedex Caught**: 352 *(20.1%)*
+**Pokedex Seen**: 366 *(13.4%)*
+    
+**Days Played**: 691 days
+**XP**/day: 8,409
+**KM**/day: 1.3
+**Catches**/day: 15.37
+**Evolves**/day: 0.95
+**Hatches**/day: 0.57
+**Spins**/day: 11.36
+**Battles**/day: 1.67
+**Quests**/day: 4.29
+**Berries**/day: 11.85
+**Gym Hours**/day: 39.4
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.06
+**Legendary Raids**/day: 0.07
+    

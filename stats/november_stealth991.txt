@@ -1,0 +1,50 @@
+**__NOVEMBER__**
+    
+**Trainer**: Stealth991
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 106
+**Monthly Rank**: N/A
+    
+**Total XP**: 52,359,402 *(47.7%)*
+**Jogger**: 3,439 *(45.0%)*
+**Collector**: 59,760 *(41.3%)*
+**Scientist**: 1,684 *(19.3%)*
+**Breeder**: 2,050 *(40.4%)*
+**Backpacker**: 67,717 *(59.6%)*
+**Battle Girl**: 13,620 *(68.8%)*
+**Gym Badge**: 731 *(70.6%)*
+**Gold Gyms**: 94 *(79.8%)*
+    
+**Pokemon Ranger**: 2,714 *(66.1%)*
+**Berry Master**: 27,044 *(50.5%)*
+**Gym Leader**: 49,760 *(69.7%)*
+**Battle Legend**: 783 *(68.8%)*
+**Champion**: 227 *(38.5%)*
+**Pokedex Caught**: 390.0 *(15.2%)*
+**Pokedex Seen**: 420.0 *(56.2%)*
+    
+**Fisherman**: 457
+**Youngster**: 305
+**Pikachu Fan**: 1763
+**Unown**: 23
+**Pilot**: 1,492,975
+**Gentleman**: 1737
+**Idol**: 17
+    
+**Days Played**: 877 days
+**XP**/day: 59,702
+**KM**/day: 3.9
+**Catches**/day: 68.14
+**Evolves**/day: 1.92
+**Hatches**/day: 2.34
+**Spins**/day: 77.21
+**Battles**/day: 15.53
+**Research**/day: 11.08
+**Berries**/day: 51.41
+**Gym Hours**/day: 94.6
+**Gold Gyms**/day: 0.18
+**Raids**/day: 0.43
+**Legendary Raids**/day: 0.46
+    

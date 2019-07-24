@@ -1,0 +1,39 @@
+**__DECEMBER__**
+    
+**Trainer**: CinnaCloud
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 74
+**Monthly Rank**: N/A
+    
+**Total XP**: 97,877,006 *(85.1%)*
+**Jogger**: 2,346.0 *(19.8%)*
+**Collector**: 61,920 *(45.5%)*
+**Scientist**: 7,501 *(66.9%)*
+**Breeder**: 2,786 *(57.0%)*
+**Backpacker**: 39,609 *(38.0%)*
+**Battle Girl**: 12,415 *(66.9%)*
+**Gold Gyms**: 139 *(90.1%)*
+    
+**Pokemon Ranger**: 1,908 *(35.5%)*
+**Berry Master**: 35,401 *(59.5%)*
+**Gym Leader**: 46,980 *(65.3%)*
+**Battle Legend**: 2074 *(96.7%)*
+**Champion**: 651 *(90.9%)*
+    
+**Days Played**: 906 days
+**XP**/day: 108,032
+**KM**/day: 2.6
+**Catches**/day: 68.34
+**Evolves**/day: 8.28
+**Hatches**/day: 3.08
+**Spins**/day: 43.72
+**Battles**/day: 13.7
+**Research**/day: 6.91
+**Berries**/day: 63.56
+**Gym Hours**/day: 84.34
+**Gold Gyms**/day: 0.25
+**Raids**/day: 1.18
+**Legendary Raids**/day: 1.24
+    

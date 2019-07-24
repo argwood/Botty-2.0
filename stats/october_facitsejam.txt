@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: Facitsejam
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 40
+**Monthly Rank**: 25
+    
+**Total XP**: 94,469,967 *(89.3%)*
+**Jogger**: 7,964.3 *(95.7%)*
+**Collector**: 174,666 *(97.1%)*
+**Scientist**: 23,736 *(99.3%)*
+**Breeder**: 4,300 *(76.4%)*
+**Backpacker**: 205,479 *(100.0%)*
+**Battle Girl**: 12,517 *(72.1%)*
+**Gym Badge**: 517 *(48.6%)*
+**Gold Gyms**: 33 *(47.1%)*
+    
+**Pokemon Ranger**: 7,922 *(95.0%)*
+**Berry Master**: 91,464 *(96.4%)*
+**Gym Leader**: 23,239 *(41.4%)*
+**Battle Legend**: 339 *(26.4%)*
+**Champion**: 185 *(44.3%)*
+**Pokedex Caught**: 401.0 *(77.8%)*
+**Pokedex Seen**: 404.0 *(77.9%)*
+    
+**Days Played**: 842 days
+**XP**/day: 112,197
+**KM**/day: 9.5
+**Catches**/day: 207.44
+**Evolves**/day: 28.19
+**Hatches**/day: 5.11
+**Spins**/day: 244.04
+**Battles**/day: 14.87
+**Research**/day: 36.85
+**Berries**/day: 184.4
+**Gym Hours**/day: 46.85
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.38
+**Legendary Raids**/day: 0.4
+    

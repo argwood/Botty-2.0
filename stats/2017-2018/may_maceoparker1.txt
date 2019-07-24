@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Maceoparker1
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 20,372,623 *(32.9%)*
+**Gold Gyms**: 37 *(63.8%)*
+**Gym Badge**: 377 *(39.6%)*
+**Jogger**: 2,153.5 *(36.9%)*
+**Collector**: 32,079 *(36.9%)*
+**Scientist**: 4,902 *(57.7%)*
+**Breeder**: 1,119 *(34.9%)*
+**Backpacker**: 23,692 *(27.5%)*
+**Battle Girl**: 4,962 *(48.3%)*
+**Pokemon Ranger**: 391 *(41.6%)*
+**Berry Master**: 15,415 *(54.4%)*
+**Gym Leader**: 26,083 *(60.4%)*
+**Battle Legend**: 227 *(28.9%)*
+**Champion**: 182 *(63.1%)*
+**Pokedex Caught**: 362 *(49.7%)*
+**Pokedex Seen**: 370 *(37.6%)*
+    
+**Days Played**: 403 days
+**XP**/day: 50,552
+**KM**/day: 5.3
+**Catches**/day: 79.6
+**Evolves**/day: 12.16
+**Hatches**/day: 2.78
+**Spins**/day: 58.79
+**Battles**/day: 12.31
+**Quests**/day: 6.21
+**Berries**/day: 44.81
+**Gym Hours**/day: 75.82
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.54
+**Legendary Raids**/day: 0.58
+    

@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: 222TheMaster222
+**Level**: 33
+**Team**: Valor
+**Region**: Loop
+**Overall Rank**: 458
+**Monthly Rank**: N/A
+    
+**Total XP**: 3,220,193 *(2.6%)*
+**Jogger**: 803.0 *(2.6%)*
+**Collector**: 5,620 *(3.7%)*
+**Scientist**: 246 *(2.6%)*
+**Breeder**: 189 *(2.6%)*
+**Backpacker**: 4,823 *(3.7%)*
+**Battle Girl**: 582 *(3.7%)*
+**Gold Gyms**: 1 *(2.6%)*
+    
+**Pokemon Ranger**: 378 *(4.2%)*
+**Berry Master**: 2,099 *(7.9%)*
+**Gym Leader**: 954 *(2.1%)*
+**Battle Legend**: 24 *(2.6%)*
+**Champion**: 100 *(12.2%)*
+    
+**Days Played**: 1022 days
+**XP**/day: 3,150
+**KM**/day: 0.8
+**Catches**/day: 5.5
+**Evolves**/day: 0.24
+**Hatches**/day: 0.18
+**Spins**/day: 4.72
+**Battles**/day: 0.57
+**Research**/day: 0.96
+**Berries**/day: 3.12
+**Gym Hours**/day: 1.42
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.15
+**Legendary Raids**/day: 0.16
+    

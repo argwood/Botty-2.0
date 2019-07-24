@@ -1,0 +1,50 @@
+**__OCTOBER__**
+    
+**Trainer**: AvuaE
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 37
+**Monthly Rank**: N/A
+    
+**Total XP**: 82,906,929 *(85.0%)*
+**Jogger**: 4,295.2 *(66.4%)*
+**Collector**: 96,029 *(77.9%)*
+**Scientist**: 12,376 *(88.6%)*
+**Breeder**: 3,816 *(70.0%)*
+**Backpacker**: 97,978 *(88.6%)*
+**Battle Girl**: 11,515 *(67.9%)*
+**Gym Badge**: 902 *(78.6%)*
+**Gold Gyms**: 98 *(83.6%)*
+    
+**Pokemon Ranger**: 2,980 *(75.0%)*
+**Berry Master**: 44,641 *(81.4%)*
+**Gym Leader**: 90,243 *(92.1%)*
+**Battle Legend**: 584 *(50.7%)*
+**Champion**: 192 *(46.4%)*
+**Pokedex Caught**: 403.0 *(91.1%)*
+**Pokedex Seen**: 405.0 *(89.0%)*
+    
+**Fisherman**: 303
+**Youngster**: 647
+**Pikachu Fan**: 915
+**Unown**: 24
+**Pilot**: 7,527,741
+**Gentleman**: 1093
+**Idol**: 3
+    
+**Days Played**: 843 days
+**XP**/day: 98,347
+**KM**/day: 5.1
+**Catches**/day: 113.91
+**Evolves**/day: 14.68
+**Hatches**/day: 4.53
+**Spins**/day: 116.23
+**Battles**/day: 13.66
+**Research**/day: 13.86
+**Berries**/day: 90.0
+**Gym Hours**/day: 181.94
+**Gold Gyms**/day: 0.2
+**Raids**/day: 0.39
+**Legendary Raids**/day: 0.41
+    

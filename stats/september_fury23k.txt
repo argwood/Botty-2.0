@@ -1,0 +1,42 @@
+**__SEPTEMBER__**
+    
+**Trainer**: fury23k
+**Level**: 31
+**Team**: Mystic
+**Region**: Loop
+**Overall Rank**: 400
+**Monthly Rank**: N/A
+    
+**Total XP**: 2,841,829 *(2.9%)*
+**Jogger**: 351.7 *(5.0%)*
+**Collector**: 2,440 *(1.4%)*
+**Scientist**: 195 *(0.7%)*
+**Breeder**: 116 *(2.1%)*
+**Backpacker**: 1,399 *(1.4%)*
+**Battle Girl**: 149 *(2.1%)*
+**Gym Badge**: 51 *(4.3%)*
+**Gold Gyms**: 0 *(7.1%)*
+    
+**Pokemon Ranger**: 89 *(2.1%)*
+**Berry Master**: 191 *(2.1%)*
+**Gym Leader**: 257 *(2.1%)*
+**Battle Legend**: 27 *(7.1%)*
+**Champion**: 14 *(2.9%)*
+**Pokedex Caught**: 263.0 *(4.3%)*
+**Pokedex Seen**: 322.0 *(3.6%)*
+    
+**Days Played**: 801 days
+**XP**/day: 3,547
+**KM**/day: 0.4
+**Catches**/day: 3.05
+**Evolves**/day: 0.24
+**Hatches**/day: 0.14
+**Spins**/day: 1.75
+**Battles**/day: 0.19
+**Research**/day: 0.49
+**Berries**/day: 0.41
+**Gym Hours**/day: 0.56
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.03
+**Legendary Raids**/day: 0.03
+    

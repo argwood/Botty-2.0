@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: artistnntraining
+**Level**: 35
+**Team**: Instinct
+**Region**: South
+**Overall Rank**: 414
+**Monthly Rank**: N/A
+    
+**Total XP**: 7,306,410 *(2.2%)*
+**Jogger**: 885.4 *(2.2%)*
+**Collector**: 10,020 *(2.2%)*
+**Scientist**: 514 *(1.6%)*
+**Breeder**: 443 *(2.2%)*
+**Backpacker**: 9,571 *(2.7%)*
+**Battle Girl**: 1,002 *(3.8%)*
+**Gold Gyms**: 0 *(0.5%)*
+    
+**Pokemon Ranger**: 483 *(2.2%)*
+**Berry Master**: 1,259 *(1.6%)*
+**Gym Leader**: 5,659 *(7.1%)*
+**Battle Legend**: 68 *(2.7%)*
+**Champion**: 48 *(1.1%)*
+    
+**Days Played**: 967 days
+**XP**/day: 7,555
+**KM**/day: 0.9
+**Catches**/day: 10.36
+**Evolves**/day: 0.53
+**Hatches**/day: 0.46
+**Spins**/day: 9.9
+**Battles**/day: 1.04
+**Research**/day: 1.44
+**Berries**/day: 2.04
+**Gym Hours**/day: 9.19
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.08
+**Legendary Raids**/day: 0.08
+    

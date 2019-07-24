@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: Lagcity
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 4
+**Monthly Rank**: 22
+    
+**Total XP**: 100,396,749 *(97.5%)*
+**Jogger**: 5,744.8 *(89.2%)*
+**Collector**: 118,089 *(94.2%)*
+**Scientist**: 19,731 *(99.2%)*
+**Breeder**: 5,238 *(93.3%)*
+**Backpacker**: 89,918 *(90.0%)*
+**Battle Girl**: 36,520 *(98.3%)*
+**Gym Badge**: 1000 *(96.7%)*
+**Gold Gyms**: 311 *(100.0%)*
+    
+**Pokemon Ranger**: 3,294 *(90.0%)*
+**Berry Master**: 57,604 *(95.0%)*
+**Gym Leader**: 149,325 *(99.2%)*
+**Battle Legend**: 606 *(66.7%)*
+**Champion**: 624 *(100.0%)*
+**Pokedex Caught**: 372.0 *(57.6%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 309
+**Youngster**: 1117
+**Pikachu Fan**: 712
+**Unown**: 15
+**Pilot**: 1,012,996
+**Gentleman**: 307
+    
+**Days Played**: 785 days
+**XP**/day: 127,893
+**KM**/day: 7.3
+**Catches**/day: 150.43
+**Evolves**/day: 25.14
+**Hatches**/day: 6.67
+**Spins**/day: 114.55
+**Battles**/day: 46.52
+**Research**/day: 21.39
+**Berries**/day: 132.42
+**Gym Hours**/day: 343.28
+**Gold Gyms**/day: 0.71
+**Raids**/day: 1.45
+**Legendary Raids**/day: 1.54
+    

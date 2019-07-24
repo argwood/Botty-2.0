@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: DJShivaShiva
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 78,901,849 *(91.4%)*
+**Gold Gyms**: 77 *(79.5%)*
+**Gym Badge**: 505 *(52.3%)*
+**Jogger**: 8,622.2 *(98.7%)*
+**Collector**: 112,003 *(94.0%)*
+**Scientist**: 15,401 *(94.0%)*
+**Breeder**: 5,858 *(94.0%)*
+**Backpacker**: 106,882 *(94.0%)*
+**Battle Girl**: 27,204 *(96.0%)*
+**Pokemon Ranger**: 1,361 *(76.2%)*
+**Berry Master**: 43,439 *(88.1%)*
+**Gym Leader**: 35,577 *(63.6%)*
+**Battle Legend**: 998 *(87.4%)*
+**Champion**: 372 *(87.4%)*
+**Pokedex Caught**: 367 *(86.1%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: 723 days
+**XP**/day: 109,131
+**KM**/day: 11.9
+**Catches**/day: 154.91
+**Evolves**/day: 21.3
+**Hatches**/day: 8.1
+**Spins**/day: 147.83
+**Battles**/day: 37.63
+**Quests**/day: 14.79
+**Berries**/day: 116.46
+**Gym Hours**/day: 95.38
+**Gold Gyms**/day: 0.21
+**Raids**/day: 1.01
+**Legendary Raids**/day: 1.08
+    

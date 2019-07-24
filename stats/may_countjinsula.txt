@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: CountJinsula
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 72
+**Monthly Rank**: 42
+    
+**Total XP**: 77,762,098 *(58.3%)*
+**Jogger**: 5,029.2 *(57.5%)*
+**Collector**: 86,327 *(55.8%)*
+**Scientist**: 8,960 *(72.5%)*
+**Breeder**: 6,668 *(83.3%)*
+**Backpacker**: 64,193 *(53.3%)*
+**Battle Girl**: 6,884 *(46.7%)*
+**Gold Gyms**: 47 *(46.7%)*
+    
+**Pokemon Ranger**: 2,077 *(28.3%)*
+**Berry Master**: 33,266 *(53.3%)*
+**Gym Leader**: 34,561 *(45.8%)*
+**Battle Legend**: 1163 *(78.3%)*
+**Champion**: 987 *(93.3%)*
+    
+**Days Played**: 1059 days
+**XP**/day: 73,429
+**KM**/day: 4.7
+**Catches**/day: 81.52
+**Evolves**/day: 8.46
+**Hatches**/day: 6.3
+**Spins**/day: 60.62
+**Battles**/day: 6.5
+**Research**/day: 4.86
+**Berries**/day: 46.99
+**Gym Hours**/day: 48.81
+**Gold Gyms**/day: 0.07
+**Raids**/day: 1.4
+**Legendary Raids**/day: 1.46
+    

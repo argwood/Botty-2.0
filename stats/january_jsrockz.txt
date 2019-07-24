@@ -1,0 +1,54 @@
+**__JANUARY__**
+    
+**Trainer**: jsrockz
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: 13
+**Monthly Rank**: 7
+    
+**Total XP**: 110,908,000 *(89.5%)*
+**Jogger**: 9,212.0 *(96.5%)*
+**Collector**: 125,275 *(86.0%)*
+**Scientist**: 7,242 *(63.2%)*
+**Breeder**: 11,711 *(99.1%)*
+**Backpacker**: 97,198 *(81.6%)*
+**Battle Girl**: 17,674 *(80.7%)*
+**Gold Gyms**: 100 *(80.7%)*
+    
+**Pokemon Ranger**: 3,000 *(62.3%)*
+**Berry Master**: 39,500 *(68.4%)*
+**Gym Leader**: 74,630 *(83.3%)*
+**Battle Legend**: 1737 *(94.7%)*
+**Champion**: 1243 *(100.0%)*
+    
+**Gym Badges**: 930
+**Pokedex Caught**: 440
+**Pokedex Seen**: 443
+**Fisherman**: 353
+**Youngster**: 512
+**Pikachu Fan**: 1516
+**Unown**: 16
+**Pilot**: 5,797,640
+**Gentleman**: 7030
+**Idol**: 40
+**Ace Trainer**: 750
+**Great League Veteran**: 39
+**Ultra League Veteran**: 13
+**Master League Veteran**: 20
+    
+**Days Played**: 927 days
+**XP**/day: 119,641
+**KM**/day: 9.9
+**Catches**/day: 135.14
+**Evolves**/day: 7.81
+**Hatches**/day: 12.63
+**Spins**/day: 104.85
+**Battles**/day: 19.07
+**Research**/day: 9.87
+**Berries**/day: 67.52
+**Gym Hours**/day: 127.57
+**Gold Gyms**/day: 0.17
+**Raids**/day: 2.14
+**Legendary Raids**/day: 2.24
+    

@@ -1,0 +1,42 @@
+**__AUGUST__**
+    
+**Trainer**: Barrengomf
+**Level**: 40
+**Team**: Valor
+**Region**: North
+**Overall Rank**: 136
+**Monthly Rank**: 37
+    
+**Total XP**: 37,480,841 *(48.3%)*
+**Jogger**: 5,435.3 *(86.7%)*
+**Collector**: 67,504 *(60.8%)*
+**Scientist**: 3,569 *(34.2%)*
+**Breeder**: 3,029 *(70.8%)*
+**Backpacker**: 72,828 *(75.8%)*
+**Battle Girl**: 3,492 *(23.3%)*
+**Gym Badge**: 572 *(58.3%)*
+**Gold Gyms**: 6 *(10.8%)*
+    
+**Pokemon Ranger**: 3,107 *(88.3%)*
+**Berry Master**: 10,723 *(24.2%)*
+**Gym Leader**: 5,625 *(9.2%)*
+**Battle Legend**: 420 *(40.8%)*
+**Champion**: 301 *(80.0%)*
+**Pokedex Caught**: 375.0 *(89.8%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Days Played**: 786 days
+**XP**/day: 47,685
+**KM**/day: 6.9
+**Catches**/day: 85.88
+**Evolves**/day: 4.54
+**Hatches**/day: 3.85
+**Spins**/day: 92.66
+**Battles**/day: 4.44
+**Research**/day: 20.18
+**Berries**/day: 24.65
+**Gym Hours**/day: 12.93
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.7
+**Legendary Raids**/day: 0.74
+    

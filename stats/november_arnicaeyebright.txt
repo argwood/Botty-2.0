@@ -1,0 +1,42 @@
+**__NOVEMBER__**
+    
+**Trainer**: ArnicaEyebright
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 6
+**Monthly Rank**: N/A
+    
+**Total XP**: 124,186,334 *(93.6%)*
+**Jogger**: 6,761 *(86.2%)*
+**Collector**: 206,697 *(99.1%)*
+**Scientist**: 22,565 *(98.2%)*
+**Breeder**: 3,700 *(67.0%)*
+**Backpacker**: 164,239 *(98.2%)*
+**Battle Girl**: 44,403 *(100.0%)*
+**Gym Badge**: 530 *(54.1%)*
+**Gold Gyms**: 135 *(89.9%)*
+    
+**Pokemon Ranger**: 2,815 *(67.9%)*
+**Berry Master**: 98,000 *(97.2%)*
+**Gym Leader**: 88,117 *(89.9%)*
+**Battle Legend**: 970 *(83.5%)*
+**Champion**: 688 *(93.6%)*
+**Pokedex Caught**: 408.0 *(58.1%)*
+**Pokedex Seen**: 420.0 *(56.2%)*
+    
+**Days Played**: 858 days
+**XP**/day: 144,739
+**KM**/day: 7.9
+**Catches**/day: 240.91
+**Evolves**/day: 26.3
+**Hatches**/day: 4.31
+**Spins**/day: 191.42
+**Battles**/day: 51.75
+**Research**/day: 11.54
+**Berries**/day: 186.67
+**Gym Hours**/day: 167.84
+**Gold Gyms**/day: 0.26
+**Raids**/day: 1.32
+**Legendary Raids**/day: 1.39
+    

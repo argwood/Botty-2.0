@@ -1,0 +1,54 @@
+**__FEBRUARY__**
+    
+**Trainer**: Thirdwitch
+**Level**: 37
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 381
+**Monthly Rank**: N/A
+    
+**Total XP**: 10,143,546 *(3.0%)*
+**Jogger**: 1,495.4 *(4.0%)*
+**Collector**: 12,913 *(3.0%)*
+**Scientist**: 1,059 *(4.0%)*
+**Breeder**: 590 *(3.0%)*
+**Backpacker**: 9,342 *(2.0%)*
+**Battle Girl**: 2,148 *(9.1%)*
+**Gold Gyms**: 2 *(4.0%)*
+    
+**Pokemon Ranger**: 745 *(4.0%)*
+**Berry Master**: 1,825 *(3.0%)*
+**Gym Leader**: 4,468 *(5.1%)*
+**Battle Legend**: 168 *(8.1%)*
+**Champion**: 64 *(4.0%)*
+    
+**Gym Badges**: 278
+**Pokedex Caught**: 420
+**Pokedex Seen**: 437
+**Fisherman**: 61
+**Youngster**: 66
+**Pikachu Fan**: 207
+**Unown**: 7
+**Pilot**: 139,072
+**Gentleman**: 116
+**Idol**: 1
+**Ace Trainer**: 236
+**Great League Veteran**: 1
+**Ultra League Veteran**: 2
+**Master League Veteran**: 2
+    
+**Days Played**: 949 days
+**XP**/day: 10,688
+**KM**/day: 1.6
+**Catches**/day: 13.61
+**Evolves**/day: 1.12
+**Hatches**/day: 0.62
+**Spins**/day: 9.84
+**Battles**/day: 2.26
+**Research**/day: 2.22
+**Berries**/day: 2.96
+**Gym Hours**/day: 7.25
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.1
+**Legendary Raids**/day: 0.11
+    

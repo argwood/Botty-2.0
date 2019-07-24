@@ -1,0 +1,42 @@
+**__NOVEMBER__**
+    
+**Trainer**: froboy
+**Level**: 37
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 345
+**Monthly Rank**: N/A
+    
+**Total XP**: 11,833,612 *(7.3%)*
+**Jogger**: 1,491 *(10.1%)*
+**Collector**: 15,639 *(9.2%)*
+**Scientist**: 1,578 *(17.4%)*
+**Breeder**: 820 *(8.3%)*
+**Backpacker**: 15,716 *(9.2%)*
+**Battle Girl**: 1,179 *(9.2%)*
+**Gym Badge**: 295 *(27.5%)*
+**Gold Gyms**: 7 *(12.8%)*
+    
+**Pokemon Ranger**: 568 *(8.3%)*
+**Berry Master**: 1,984 *(6.4%)*
+**Gym Leader**: 10,512 *(21.1%)*
+**Battle Legend**: 39 *(4.6%)*
+**Champion**: 74 *(5.5%)*
+**Pokedex Caught**: 392.0 *(19.0%)*
+**Pokedex Seen**: 407.0 *(4.8%)*
+    
+**Days Played**: 873 days
+**XP**/day: 13,555
+**KM**/day: 1.7
+**Catches**/day: 17.91
+**Evolves**/day: 1.81
+**Hatches**/day: 0.94
+**Spins**/day: 18.0
+**Battles**/day: 1.35
+**Research**/day: 2.32
+**Berries**/day: 3.77
+**Gym Hours**/day: 19.98
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.14
+**Legendary Raids**/day: 0.15
+    

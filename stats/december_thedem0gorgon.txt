@@ -1,0 +1,54 @@
+**__DECEMBER__**
+    
+**Trainer**: TheDEM0GORGON
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 53
+**Monthly Rank**: 5
+    
+**Total XP**: 68,221,123 *(61.2%)*
+**Jogger**: 2,656.0 *(26.4%)*
+**Collector**: 105,977 *(77.7%)*
+**Scientist**: 3,437 *(34.7%)*
+**Breeder**: 2,764 *(56.2%)*
+**Backpacker**: 84,733 *(72.7%)*
+**Battle Girl**: 25,103 *(90.1%)*
+**Gold Gyms**: 100 *(85.1%)*
+    
+**Pokemon Ranger**: 7,271 *(93.4%)*
+**Berry Master**: 64,784 *(90.1%)*
+**Gym Leader**: 43,215 *(61.2%)*
+**Battle Legend**: 875 *(76.0%)*
+**Champion**: 510 *(81.8%)*
+    
+**Gym Badges**: 440
+**Pokedex Caught**: 427
+**Pokedex Seen**: 440
+**Fisherman**: 404
+**Youngster**: 626
+**Pikachu Fan**: 1496
+**Unown**: 9
+**Pilot**: 570,054
+**Gentleman**: 1614
+**Idol**: 31
+**Ace Trainer**: 946
+**Great League Veteran**: 42
+**Ultra League Veteran**: 16
+**Master League Veteran**: 21
+    
+**Days Played**: 907 days
+**XP**/day: 75,216
+**KM**/day: 2.9
+**Catches**/day: 116.84
+**Evolves**/day: 3.79
+**Hatches**/day: 3.05
+**Spins**/day: 93.42
+**Battles**/day: 27.68
+**Research**/day: 26.34
+**Berries**/day: 116.31
+**Gym Hours**/day: 77.59
+**Gold Gyms**/day: 0.18
+**Raids**/day: 0.92
+**Legendary Raids**/day: 0.97
+    

@@ -1,0 +1,50 @@
+**__SEPTEMBER__**
+    
+**Trainer**: CinnaCloud
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 98
+**Monthly Rank**: 37
+    
+**Total XP**: 74,765,876 *(85.0%)*
+**Jogger**: 2,029.0 *(24.3%)*
+**Collector**: 48,311 *(42.1%)*
+**Scientist**: 5,917 *(60.0%)*
+**Breeder**: 2,176 *(54.3%)*
+**Backpacker**: 33,283 *(32.9%)*
+**Battle Girl**: 9,776 *(56.4%)*
+**Gym Badge**: 602 *(55.7%)*
+**Gold Gyms**: 102 *(83.6%)*
+    
+**Pokemon Ranger**: 1,173 *(33.6%)*
+**Berry Master**: 27,188 *(55.0%)*
+**Gym Leader**: 35,915 *(60.7%)*
+**Battle Legend**: 1873 *(97.1%)*
+**Champion**: 478 *(88.6%)*
+**Pokedex Caught**: 375.0 *(87.1%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 158
+**Youngster**: 399
+**Pikachu Fan**: 474
+**Unown**: 23
+**Pilot**: 2,395,192
+**Gentleman**: 1043
+**Idol**: 0
+    
+**Days Played**: 814 days
+**XP**/day: 91,849
+**KM**/day: 2.5
+**Catches**/day: 59.35
+**Evolves**/day: 7.27
+**Hatches**/day: 2.67
+**Spins**/day: 40.89
+**Battles**/day: 12.01
+**Research**/day: 6.38
+**Berries**/day: 58.47
+**Gym Hours**/day: 77.24
+**Gold Gyms**/day: 0.22
+**Raids**/day: 1.04
+**Legendary Raids**/day: 1.1
+    

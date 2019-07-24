@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: CrazyCatHusband
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 28,555,281 *(56.5%)*
+**Gold Gyms**: 20 *(43.5%)*
+**Gym Badge**: 566 *(62.9%)*
+**Jogger**: 2,868.7 *(53.2%)*
+**Collector**: 40,872 *(54.0%)*
+**Scientist**: 6,033 *(64.5%)*
+**Breeder**: 3,299 *(83.9%)*
+**Backpacker**: 30,866 *(39.5%)*
+**Battle Girl**: 7,192 *(60.5%)*
+**Pokemon Ranger**: 142 *(23.4%)*
+**Berry Master**: 13,792 *(54.8%)*
+**Gym Leader**: 27,319 *(65.3%)*
+**Battle Legend**: 352 *(48.4%)*
+**Champion**: 144 *(54.0%)*
+**Pokedex Caught**: 359 *(47.6%)*
+**Pokedex Seen**: 370 *(99.2%)*
+    
+**Days Played**: 659 days
+**XP**/day: 43,331
+**KM**/day: 4.4
+**Catches**/day: 62.02
+**Evolves**/day: 9.15
+**Hatches**/day: 5.01
+**Spins**/day: 46.84
+**Battles**/day: 10.91
+**Quests**/day: 4.58
+**Berries**/day: 44.21
+**Gym Hours**/day: 87.56
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.47
+**Legendary Raids**/day: 0.51
+    

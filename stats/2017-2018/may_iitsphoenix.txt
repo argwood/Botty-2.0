@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: iitsPhoenix
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 56,534,263 *(88.6%)*
+**Gold Gyms**: 70 *(83.2%)*
+**Gym Badge**: 493 *(57.7%)*
+**Jogger**: 2,297.1 *(40.9%)*
+**Collector**: 78,047 *(83.9%)*
+**Scientist**: 5,710 *(63.8%)*
+**Breeder**: 3,269 *(79.2%)*
+**Backpacker**: 61,771 *(78.5%)*
+**Battle Girl**: 7,571 *(65.1%)*
+**Pokemon Ranger**: 788 *(75.8%)*
+**Berry Master**: 31,032 *(85.2%)*
+**Gym Leader**: 33,534 *(71.1%)*
+**Battle Legend**: 1240 *(97.3%)*
+**Champion**: 212 *(73.8%)*
+**Pokedex Caught**: 362 *(49.7%)*
+**Pokedex Seen**: 370 *(37.6%)*
+    
+**Days Played**: 723 days
+**XP**/day: 78,194
+**KM**/day: 3.2
+**Catches**/day: 107.95
+**Evolves**/day: 7.9
+**Hatches**/day: 4.52
+**Spins**/day: 85.44
+**Battles**/day: 10.47
+**Quests**/day: 12.92
+**Berries**/day: 90.74
+**Gym Hours**/day: 98.05
+**Gold Gyms**/day: 0.2
+**Raids**/day: 0.63
+**Legendary Raids**/day: 0.68
+    

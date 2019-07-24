@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: cceuphoria
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 307
+**Monthly Rank**: 54
+    
+**Total XP**: 28,382,983 *(15.3%)*
+**Jogger**: 2,730.2 *(16.9%)*
+**Collector**: 40,520 *(23.3%)*
+**Scientist**: 1,573 *(14.8%)*
+**Breeder**: 797 *(7.9%)*
+**Backpacker**: 37,861 *(28.0%)*
+**Battle Girl**: 1,506 *(10.6%)*
+**Gold Gyms**: 6 *(11.1%)*
+    
+**Pokemon Ranger**: 3,172 *(48.1%)*
+**Berry Master**: 8,251 *(18.5%)*
+**Gym Leader**: 6,983 *(12.2%)*
+**Battle Legend**: 191 *(10.6%)*
+**Champion**: 79 *(7.4%)*
+    
+**Days Played**: 490 days
+**XP**/day: 57,924
+**KM**/day: 5.6
+**Catches**/day: 82.69
+**Evolves**/day: 3.21
+**Hatches**/day: 1.63
+**Spins**/day: 77.27
+**Battles**/day: 3.07
+**Research**/day: 8.03
+**Berries**/day: 12.21
+**Gym Hours**/day: 10.33
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.12
+**Legendary Raids**/day: 0.12
+    

@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: 19Luigi84
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 25,134,171 *(47.7%)*
+**Gold Gyms**: 13 *(33.3%)*
+**Gym Badge**: 295 *(18.9%)*
+**Jogger**: 4,163.1 *(83.8%)*
+**Collector**: 58,982 *(75.7%)*
+**Scientist**: 8,594 *(83.8%)*
+**Breeder**: 1,450 *(45.0%)*
+**Backpacker**: 48,805 *(65.8%)*
+**Battle Girl**: 5,180 *(52.3%)*
+**Berry Master**: 13,154 *(60.4%)*
+**Gym Leader**: 15,985 *(42.3%)*
+**Battle Legend**: 303 *(36.9%)*
+**Champion**: 45 *(4.5%)*
+**Pokedex Caught**: 361 *(93.7%)*
+**Pokedex Seen**: 368 *(93.7%)*
+    
+**Days Played**: 622 days
+**XP**/day: 40,408
+**KM**/day: 6.7
+**Catches**/day: 94.83
+**Evolves**/day: 13.82
+**Hatches**/day: 2.33
+**Spins**/day: 78.46
+**Battles**/day: 8.33
+**Berries**/day: 46.65
+**Gym Hours**/day: 56.68
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.16
+**Legendary Raids**/day: 0.18
+    

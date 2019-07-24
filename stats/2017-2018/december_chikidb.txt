@@ -1,0 +1,38 @@
+**Trainer**: ChikidB
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 20,538,785 *(46.0%)*
+**Gold Gyms**: 3 *(20.5%)*
+**Gym Badge**: 656 *(86.0%)*
+**Jogger**: 1,624.2 *(39.0%)*
+**Collector**: 26,902 *(42.0%)*
+**Scientist**: 2,789 *(40.0%)*
+**Breeder**: 787 *(29.0%)*
+**Backpacker**: 34,720 *(62.0%)*
+**Battle Girl**: 3,642 *(51.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 9,969 *(52.0%)*
+**Gym Leader**: 7,433 *(37.0%)*
+**Battle Legend**: 335 *(58.0%)*
+**Champion**: 80 *(32.5%)*
+**Pokedex Caught**: 356 *(42.0%)*
+**Pokedex Seen**: 367 *(36.0%)*
+    
+**Days Played**: 633 days
+**XP**/day: 32,446
+**KM**/day: 2.6
+**Catches**/day: 42.5
+**Evolves**/day: 4.41
+**Catches**/evolve: 9.65
+**Hatches**/day: 1.24
+**KM**/egg: 2.06
+**Spins**/day: 54.85
+**Battles**/day: 5.75
+**Berries**/day: 35.35
+**Gym Hours**/day: 26.36
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.29
+**Legendary Raids**/day: 0.32
+    

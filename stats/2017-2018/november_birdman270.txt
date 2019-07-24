@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: birdman270
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 22,003,001 *(77.4%)*
+**Gold Gyms**: 0 *(7.5%)*
+**Gym Badge**: 205 *(30.1%)*
+**Jogger**: 2,798.0 *(75.2%)*
+**Collector**: 31,812 *(65.4%)*
+**Scientist**: 5,800 *(83.5%)*
+**Breeder**: 1,598 *(64.7%)*
+**Backpacker**: 32,624 *(63.9%)*
+**Battle Girl**: 6,327 *(83.5%)*
+**Ace Trainer**: 1627 *(75.9%)*
+**Berry Master**: 1,793 *(28.6%)*
+**Gym Leader**: 2,096 *(10.5%)*
+**Battle Legend**: 312 *(91.0%)*
+**Champion**: 74 *(63.9%)*
+**Pokedex Caught**: 247 *(76.7%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 470 days
+**XP**/day: 46,814
+**KM**/day: 6.0
+**Catches**/day: 67.69
+**Evolves**/day: 12.34
+**Catches**/evolve: 5.48
+**Hatches**/day: 3.4
+**KM**/egg: 1.75
+**Spins**/day: 69.41
+**Battles**/day: 13.46
+**Berries**/day: 13.18
+**Gym Hours**/day: 15.41
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.56
+**Legendary Raids**/day: 0.7
+    

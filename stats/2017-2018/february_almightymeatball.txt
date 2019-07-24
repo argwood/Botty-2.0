@@ -1,0 +1,37 @@
+**Trainer Name**:  almightymeatball
+Team:  Mystic
+Region:  Burbs
+Level:  38.0
+    
+Total XP Percentile:  20.5 %
+Gold Gyms Percentile:  25.0 %
+Gym Badge Percentile:  37.9 %
+Jogger Percentile:  8.9 %
+Collector Percentile:  21.4 %
+Scientist Percentile:  33.0 %
+Breeder Percentile:  43.8 %
+Backpacker Percentile:  13.4 %
+Battle Girl Percentile:  10.7 %
+Berry Master Percentile:  5.4 %
+Gym Leader Percentile:  39.3 %
+Battle Legend Percentile:  7.1 %
+Champion Percentile:  4.0 %
+Pokedex Caught Percentile:  22.8 %
+Pokedex Seen Percentile:  8.9 %
+    
+Days Played:  602 days
+XP/day:  22047
+km/day:  1.9
+catches/day:  34.27
+evolves/day:  4.83
+catches/evolve:  7.1
+hatches/day:  2.17
+km/egg:  0.87
+spins/day:  23.12
+battles/day:  2.68
+berries/day:  6.85
+gym hours/day:  58.35
+gold gyms/day:  0.04
+normal raids/day:  0.18
+legendary raids/day:  0.2
+    

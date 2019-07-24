@@ -1,0 +1,50 @@
+**__NOVEMBER__**
+    
+**Trainer**: 5olake
+**Level**: 40
+**Team**: Valor
+**Region**: North
+**Overall Rank**: 139
+**Monthly Rank**: 25
+    
+**Total XP**: 48,132,863 *(41.3%)*
+**Jogger**: 3,613 *(47.7%)*
+**Collector**: 60,935 *(42.2%)*
+**Scientist**: 8,226 *(69.7%)*
+**Breeder**: 6,430 *(90.8%)*
+**Backpacker**: 42,869 *(35.8%)*
+**Battle Girl**: 10,656 *(56.0%)*
+**Gym Badge**: 147 *(9.2%)*
+**Gold Gyms**: 20 *(29.4%)*
+    
+**Pokemon Ranger**: 1,585 *(33.9%)*
+**Berry Master**: 15,659 *(35.8%)*
+**Gym Leader**: 6,775 *(10.1%)*
+**Battle Legend**: 437 *(35.8%)*
+**Champion**: 369 *(63.3%)*
+**Pokedex Caught**: 408.0 *(58.1%)*
+**Pokedex Seen**: 421.0 *(67.6%)*
+    
+**Fisherman**: 208
+**Youngster**: 343
+**Pikachu Fan**: 733
+**Unown**: 6
+**Pilot**: 1,236,540
+**Gentleman**: 359
+**Idol**: 14
+    
+**Days Played**: 871 days
+**XP**/day: 55,261
+**KM**/day: 4.1
+**Catches**/day: 69.96
+**Evolves**/day: 9.44
+**Hatches**/day: 7.38
+**Spins**/day: 49.22
+**Battles**/day: 12.23
+**Research**/day: 6.47
+**Berries**/day: 29.77
+**Gym Hours**/day: 12.88
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.71
+**Legendary Raids**/day: 0.74
+    

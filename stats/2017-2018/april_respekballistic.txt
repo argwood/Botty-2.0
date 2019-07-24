@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: RespekBallistic
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 72,518,778 *(98.4%)*
+**Gold Gyms**: 3 *(8.1%)*
+**Gym Badge**: 399 *(42.7%)*
+**Jogger**: 2,417.1 *(42.7%)*
+**Collector**: 65,918 *(77.4%)*
+**Scientist**: 7,565 *(75.8%)*
+**Breeder**: 4,053 *(91.9%)*
+**Backpacker**: 41,395 *(54.0%)*
+**Battle Girl**: 4,825 *(44.4%)*
+**Pokemon Ranger**: 251 *(54.0%)*
+**Berry Master**: 12,064 *(48.4%)*
+**Gym Leader**: 6,144 *(16.1%)*
+**Battle Legend**: 1837 *(100.0%)*
+**Champion**: 145 *(55.6%)*
+**Pokedex Caught**: 365 *(96.0%)*
+**Pokedex Seen**: 370 *(99.2%)*
+    
+**Days Played**: 658 days
+**XP**/day: 110,210
+**KM**/day: 3.7
+**Catches**/day: 100.18
+**Evolves**/day: 11.5
+**Hatches**/day: 6.16
+**Spins**/day: 62.91
+**Battles**/day: 7.33
+**Quests**/day: 8.1
+**Berries**/day: 38.67
+**Gym Hours**/day: 19.69
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.47
+**Legendary Raids**/day: 0.51
+    

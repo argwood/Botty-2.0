@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: TheMaeMaes
+**Level**: 39
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 17,949,436 *(27.5%)*
+**Gold Gyms**: 18 *(43.0%)*
+**Gym Badge**: 454 *(49.0%)*
+**Jogger**: 1,337.0 *(15.4%)*
+**Collector**: 25,585 *(25.5%)*
+**Scientist**: 3,597 *(44.3%)*
+**Breeder**: 1,536 *(49.0%)*
+**Backpacker**: 16,193 *(16.1%)*
+**Battle Girl**: 3,087 *(30.2%)*
+**Pokemon Ranger**: 182 *(12.1%)*
+**Berry Master**: 2,989 *(12.1%)*
+**Gym Leader**: 21,491 *(53.0%)*
+**Battle Legend**: 143 *(19.5%)*
+**Champion**: 69 *(16.1%)*
+**Pokedex Caught**: 355 *(24.2%)*
+**Pokedex Seen**: 366 *(13.4%)*
+    
+**Days Played**: 694 days
+**XP**/day: 25,863
+**KM**/day: 1.9
+**Catches**/day: 36.87
+**Evolves**/day: 5.18
+**Hatches**/day: 2.21
+**Spins**/day: 23.33
+**Battles**/day: 4.45
+**Quests**/day: 2.94
+**Berries**/day: 8.71
+**Gym Hours**/day: 62.66
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.2
+**Legendary Raids**/day: 0.22
+    

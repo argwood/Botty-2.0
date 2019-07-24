@@ -1,0 +1,37 @@
+**Trainer**: EmperorMing8
+**Level**: 38.0
+**Team**: Mystic
+**Region**: North
+    
+**Total XP** Percentile: 23.9 %
+**Gold Gyms** Percentile: 34.1 %
+**Gym Badge** Percentile: 26.5 %
+**Jogger** Percentile: 38.1 %
+**Collector** Percentile: 24.8 %
+**Scientist** Percentile: 26.5 %
+**Breeder** Percentile: 42.5 %
+**Backpacker** Percentile: 23.9 %
+**Battle Girl** Percentile: 26.5 %
+**Berry Master** Percentile: 13.3 %
+**Gym Leader** Percentile: 58.4 %
+**Battle Legend** Percentile: 46.9 %
+**Champion** Percentile: 56.6 %
+**Pokedex Caught** Percentile: 19.0 %
+**Pokedex Seen** Percentile: 15.5 %
+    
+**Days Played**: -130 days
+**XP**/day: -106573
+**KM**/day: -16.1
+**Catches**/day: -177.58
+**Evolves**/day: -18.65
+**Catches**/evolve: 9.52
+**Hatches**/day: -9.56
+**KM**/egg: 1.68
+**Spins**/day: -164.76
+**Battles**/day: -17.89
+**Berries**/day: -6.02
+**Gym Hours**/day: -39.93
+**Gold Gyms**/day: -0.03
+**Raids**/day: -0.26
+**Legendary Raids**/day: -0.24
+    

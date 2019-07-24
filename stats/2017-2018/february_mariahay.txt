@@ -1,0 +1,37 @@
+**__FEBRUARY__**
+    
+**Trainer**: MariahAY
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 22,000,476 *(50.4%)*
+**Gold Gyms**: 3 *(10.6%)*
+**Gym Badge**: 746 *(85.0%)*
+**Jogger**: 1,464.9 *(20.4%)*
+**Collector**: 26,240 *(30.1%)*
+**Scientist**: 3,672 *(42.5%)*
+**Breeder**: 1,124 *(38.9%)*
+**Backpacker**: 22,323 *(29.2%)*
+**Battle Girl**: 1,103 *(6.2%)*
+**Berry Master**: 2,819 *(12.4%)*
+**Gym Leader**: 5,038 *(10.6%)*
+**Battle Legend**: 410 *(84.1%)*
+**Champion**: 167 *(75.2%)*
+**Pokedex Caught**: 344 *(41.6%)*
+**Pokedex Seen**: 361 *(19.5%)*
+    
+**Days Played**: 600 days
+**XP**/day: 36,667
+**KM**/day: 2.4
+**Catches**/day: 43.73
+**Evolves**/day: 6.12
+**Hatches**/day: 1.87
+**Spins**/day: 37.2
+**Battles**/day: 1.84
+**Berries**/day: 11.23
+**Gym Hours**/day: 20.07
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.68
+**Legendary Raids**/day: 0.76
+    

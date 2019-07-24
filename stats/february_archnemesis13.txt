@@ -1,0 +1,39 @@
+**__FEBRUARY__**
+    
+**Trainer**: ArchNemesis13
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 75
+**Monthly Rank**: N/A
+    
+**Total XP**: 140,799,633 *(90.9%)*
+**Jogger**: 5,044.0 *(55.6%)*
+**Collector**: 131,179 *(80.8%)*
+**Scientist**: 14,395 *(82.8%)*
+**Breeder**: 5,329 *(74.7%)*
+**Backpacker**: 79,287 *(61.6%)*
+**Battle Girl**: 3,386 *(18.2%)*
+**Gold Gyms**: 44 *(40.4%)*
+    
+**Pokemon Ranger**: 2,655 *(36.4%)*
+**Berry Master**: 11,372 *(16.2%)*
+**Gym Leader**: 11,518 *(13.1%)*
+**Battle Legend**: 1975 *(92.9%)*
+**Champion**: 1015 *(98.0%)*
+    
+**Days Played**: 884 days
+**XP**/day: 159,275
+**KM**/day: 5.7
+**Catches**/day: 148.39
+**Evolves**/day: 16.28
+**Hatches**/day: 6.03
+**Spins**/day: 89.69
+**Battles**/day: 3.83
+**Research**/day: 7.93
+**Berries**/day: 18.46
+**Gym Hours**/day: 18.7
+**Gold Gyms**/day: 0.07
+**Raids**/day: 1.66
+**Legendary Raids**/day: 1.73
+    

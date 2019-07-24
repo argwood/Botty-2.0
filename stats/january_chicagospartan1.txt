@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: ChicagoSpartan1
+**Level**: 40
+**Team**: Valor
+**Region**: West
+**Overall Rank**: 224
+**Monthly Rank**: N/A
+    
+**Total XP**: 36,055,863 *(27.2%)*
+**Jogger**: 4,481.0 *(55.3%)*
+**Collector**: 64,491 *(44.7%)*
+**Scientist**: 5,502 *(59.6%)*
+**Breeder**: 1,991 *(36.8%)*
+**Backpacker**: 64,294 *(56.1%)*
+**Battle Girl**: 2,344 *(19.3%)*
+**Gold Gyms**: 6 *(14.0%)*
+    
+**Pokemon Ranger**: 1,094 *(20.2%)*
+**Berry Master**: 31,388 *(56.1%)*
+**Gym Leader**: 15,552 *(27.2%)*
+**Battle Legend**: 72 *(10.5%)*
+**Champion**: 123 *(16.7%)*
+    
+**Days Played**: 933 days
+**XP**/day: 38,645
+**KM**/day: 4.8
+**Catches**/day: 69.12
+**Evolves**/day: 5.9
+**Hatches**/day: 2.13
+**Spins**/day: 68.91
+**Battles**/day: 2.51
+**Research**/day: 3.58
+**Berries**/day: 53.47
+**Gym Hours**/day: 26.49
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.21
+**Legendary Raids**/day: 0.22
+    

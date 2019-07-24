@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Cyclamens
+**Level**: 38
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 12,823,337 *(13.9%)*
+**Gold Gyms**: 4 *(9.3%)*
+**Gym Badge**: 479 *(51.0%)*
+**Jogger**: 1,677.1 *(18.5%)*
+**Collector**: 25,835 *(20.5%)*
+**Scientist**: 1,382 *(15.9%)*
+**Breeder**: 451 *(7.9%)*
+**Backpacker**: 19,153 *(18.5%)*
+**Battle Girl**: 2,311 *(14.6%)*
+**Pokemon Ranger**: 811 *(47.0%)*
+**Berry Master**: 2,819 *(7.3%)*
+**Gym Leader**: 8,928 *(19.9%)*
+**Battle Legend**: 147 *(12.6%)*
+**Champion**: 112 *(27.2%)*
+**Pokedex Caught**: 360 *(23.8%)*
+**Pokedex Seen**: 370 *(20.5%)*
+    
+**Days Played**: 721 days
+**XP**/day: 17,785
+**KM**/day: 2.3
+**Catches**/day: 35.83
+**Evolves**/day: 1.92
+**Hatches**/day: 0.63
+**Spins**/day: 26.56
+**Battles**/day: 3.21
+**Quests**/day: 8.91
+**Berries**/day: 7.58
+**Gym Hours**/day: 24.0
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.3
+**Legendary Raids**/day: 0.33
+    

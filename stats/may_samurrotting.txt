@@ -1,0 +1,54 @@
+**__MAY__**
+    
+**Trainer**: samurrotting
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 259
+**Monthly Rank**: N/A
+    
+**Total XP**: 34,572,300 *(23.3%)*
+**Jogger**: 2,598.4 *(19.2%)*
+**Collector**: 65,258 *(40.8%)*
+**Scientist**: 3,281 *(35.0%)*
+**Breeder**: 3,246 *(55.0%)*
+**Backpacker**: 25,927 *(20.0%)*
+**Battle Girl**: 1,742 *(19.2%)*
+**Gold Gyms**: 8 *(19.2%)*
+    
+**Pokemon Ranger**: 2,346 *(38.3%)*
+**Berry Master**: 8,402 *(20.0%)*
+**Gym Leader**: 5,922 *(16.7%)*
+**Battle Legend**: 309 *(22.5%)*
+**Champion**: 344 *(52.5%)*
+    
+**Gym Badges**: 236
+**Pokedex Caught**: 467
+**Pokedex Seen**: 474
+**Fisherman**: 118
+**Youngster**: 269
+**Pikachu Fan**: 990
+**Unown**: 2
+**Pilot**: 578,981
+**Gentleman**: 2836
+**Idol**: 29
+**Ace Trainer**: 22
+**Great League Veteran**: 35
+**Ultra League Veteran**: 2
+**Master League Veteran**: 1
+    
+**Days Played**: 1054 days
+**XP**/day: 32,801
+**KM**/day: 2.5
+**Catches**/day: 61.91
+**Evolves**/day: 3.11
+**Hatches**/day: 3.08
+**Spins**/day: 24.6
+**Battles**/day: 1.65
+**Research**/day: 5.53
+**Berries**/day: 11.92
+**Gym Hours**/day: 8.4
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.49
+**Legendary Raids**/day: 0.51
+    

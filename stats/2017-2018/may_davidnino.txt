@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: DavidNino
+**Level**: 29
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 1,687,516 *(0.7%)*
+**Gold Gyms**: 0 *(4.0%)*
+**Gym Badge**: 85 *(4.0%)*
+**Jogger**: 200.8 *(1.3%)*
+**Collector**: 2,709 *(0.7%)*
+**Scientist**: 161 *(0.7%)*
+**Breeder**: 89 *(1.3%)*
+**Backpacker**: 2,978 *(2.0%)*
+**Battle Girl**: 225 *(1.3%)*
+**Pokemon Ranger**: 95 *(4.7%)*
+**Berry Master**: 203 *(1.3%)*
+**Gym Leader**: 163 *(0.7%)*
+**Battle Legend**: 28 *(4.0%)*
+**Champion**: 17 *(0.7%)*
+**Pokedex Caught**: 297 *(1.3%)*
+**Pokedex Seen**: 330 *(2.7%)*
+    
+**Days Played**: 691 days
+**XP**/day: 2,442
+**KM**/day: 0.3
+**Catches**/day: 3.92
+**Evolves**/day: 0.23
+**Hatches**/day: 0.13
+**Spins**/day: 4.31
+**Battles**/day: 0.33
+**Quests**/day: 1.56
+**Berries**/day: 0.59
+**Gym Hours**/day: 0.48
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.05
+**Legendary Raids**/day: 0.05
+    

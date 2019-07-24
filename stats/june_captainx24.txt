@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: CaptainX24
+**Level**: 40
+**Team**: Mystic
+**Region**: Loop
+**Overall Rank**: 4
+**Monthly Rank**: 1
+    
+**Total XP**: 176,944,683 *(94.6%)*
+**Jogger**: 8,094.7 *(87.5%)*
+**Collector**: 191,438 *(94.6%)*
+**Scientist**: 20,178 *(94.6%)*
+**Breeder**: 7,039 *(86.6%)*
+**Backpacker**: 170,886 *(96.4%)*
+**Battle Girl**: 45,264 *(96.4%)*
+**Gold Gyms**: 297 *(93.8%)*
+    
+**Pokemon Ranger**: 31,225 *(100.0%)*
+**Berry Master**: 157,701 *(98.2%)*
+**Gym Leader**: 125,194 *(92.9%)*
+**Battle Legend**: 1482 *(83.0%)*
+**Champion**: 885 *(90.2%)*
+    
+**Days Played**: 1090 days
+**XP**/day: 162,334
+**KM**/day: 7.4
+**Catches**/day: 175.63
+**Evolves**/day: 18.51
+**Hatches**/day: 6.46
+**Spins**/day: 156.78
+**Battles**/day: 41.53
+**Research**/day: 68.18
+**Berries**/day: 213.4
+**Gym Hours**/day: 169.41
+**Gold Gyms**/day: 0.4
+**Raids**/day: 1.2
+**Legendary Raids**/day: 1.25
+    

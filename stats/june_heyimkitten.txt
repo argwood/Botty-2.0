@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: HeyImKitten
+**Level**: 30
+**Team**: Instinct
+**Region**: Loop
+**Overall Rank**: 531
+**Monthly Rank**: N/A
+    
+**Total XP**: 2,411,966 *(1.8%)*
+**Jogger**: 365.1 *(2.7%)*
+**Collector**: 1,618 *(1.8%)*
+**Scientist**: 108 *(1.8%)*
+**Breeder**: 126 *(2.7%)*
+**Backpacker**: 855 *(0.9%)*
+**Battle Girl**: 462 *(5.4%)*
+**Gold Gyms**: 0 *(4.5%)*
+    
+**Pokemon Ranger**: 139 *(3.6%)*
+**Berry Master**: 365 *(3.6%)*
+**Gym Leader**: 732 *(4.5%)*
+**Battle Legend**: 26 *(3.6%)*
+**Champion**: 22 *(2.7%)*
+    
+**Days Played**: 344 days
+**XP**/day: 7,011
+**KM**/day: 1.1
+**Catches**/day: 4.7
+**Evolves**/day: 0.31
+**Hatches**/day: 0.37
+**Spins**/day: 2.49
+**Battles**/day: 1.34
+**Research**/day: 0.3
+**Berries**/day: 0.49
+**Gym Hours**/day: 0.99
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.03
+**Legendary Raids**/day: 0.03
+    

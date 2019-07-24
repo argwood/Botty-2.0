@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: IlliniBrett
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 49,816,186 *(77.5%)*
+**Gold Gyms**: 28 *(41.7%)*
+**Gym Badge**: 428 *(42.4%)*
+**Jogger**: 5,880.1 *(89.4%)*
+**Collector**: 82,605 *(78.1%)*
+**Scientist**: 9,240 *(81.5%)*
+**Breeder**: 4,804 *(88.1%)*
+**Backpacker**: 84,358 *(89.4%)*
+**Battle Girl**: 10,780 *(70.9%)*
+**Pokemon Ranger**: 979 *(57.6%)*
+**Berry Master**: 34,412 *(81.5%)*
+**Gym Leader**: 19,316 *(38.4%)*
+**Battle Legend**: 480 *(51.0%)*
+**Champion**: 210 *(62.3%)*
+**Pokedex Caught**: 364 *(41.7%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: 719 days
+**XP**/day: 69,285
+**KM**/day: 8.2
+**Catches**/day: 114.89
+**Evolves**/day: 12.85
+**Hatches**/day: 6.68
+**Spins**/day: 117.33
+**Battles**/day: 14.99
+**Quests**/day: 10.88
+**Berries**/day: 92.75
+**Gym Hours**/day: 52.06
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.57
+**Legendary Raids**/day: 0.62
+    

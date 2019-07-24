@@ -1,0 +1,54 @@
+**__MARCH__**
+    
+**Trainer**: goatguard
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 148
+**Monthly Rank**: 56
+    
+**Total XP**: 50,973,447 *(28.0%)*
+**Jogger**: 5,613.7 *(65.4%)*
+**Collector**: 78,504 *(44.5%)*
+**Scientist**: 1,651 *(12.1%)*
+**Breeder**: 1,627 *(23.1%)*
+**Backpacker**: 50,982 *(35.2%)*
+**Battle Girl**: 10,134 *(46.7%)*
+**Gold Gyms**: 51 *(46.2%)*
+    
+**Pokemon Ranger**: 2,774 *(37.4%)*
+**Berry Master**: 26,696 *(38.5%)*
+**Gym Leader**: 55,725 *(68.1%)*
+**Battle Legend**: 759 *(50.5%)*
+**Champion**: 146 *(14.3%)*
+    
+**Gym Badges**: 0
+**Pokedex Caught**: 424
+**Pokedex Seen**: 460
+**Fisherman**: 203
+**Youngster**: 238
+**Pikachu Fan**: 1102
+**Unown**: 15
+**Pilot**: 3,406,922
+**Gentleman**: 5183
+**Idol**: 38
+**Ace Trainer**: 323
+**Great League Veteran**: 159
+**Ultra League Veteran**: 10
+**Master League Veteran**: 29
+    
+**Days Played**: 995 days
+**XP**/day: 51,229
+**KM**/day: 5.6
+**Catches**/day: 78.9
+**Evolves**/day: 1.66
+**Hatches**/day: 1.64
+**Spins**/day: 51.24
+**Battles**/day: 10.18
+**Research**/day: 7.58
+**Berries**/day: 41.26
+**Gym Hours**/day: 86.13
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.23
+**Legendary Raids**/day: 0.24
+    

@@ -1,0 +1,37 @@
+**Trainer**: dad1051
+**Level**: 39.0
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP** Percentile: 30.1 %
+**Gold Gyms** Percentile: 98.2 %
+**Gym Badge** Percentile: 68.1 %
+**Jogger** Percentile: 89.4 %
+**Collector** Percentile: 38.1 %
+**Scientist** Percentile: 31.0 %
+**Breeder** Percentile: 62.8 %
+**Backpacker** Percentile: 46.9 %
+**Battle Girl** Percentile: 72.6 %
+**Berry Master** Percentile: 46.9 %
+**Gym Leader** Percentile: 97.3 %
+**Battle Legend** Percentile: 31.9 %
+**Champion** Percentile: 77.0 %
+**Pokedex Caught** Percentile: 42.9 %
+**Pokedex Seen** Percentile: 46.9 %
+    
+**Days Played**: 597 days
+**XP**/day: 27290
+**KM**/day: 7.7
+**Catches**/day: 49.1
+**Evolves**/day: 4.54
+**Catches**/evolve: 10.82
+**Hatches**/day: 3.1
+**KM**/egg: 2.5
+**Spins**/day: 60.54
+**Battles**/day: 11.41
+**Berries**/day: 33.18
+**Gym Hours**/day: 274.84
+**Gold Gyms**/day: 0.49
+**Raids**/day: 0.7
+**Legendary Raids**/day: 0.78
+    

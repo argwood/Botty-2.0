@@ -1,0 +1,42 @@
+**__AUGUST__**
+    
+**Trainer**: JayLynMik
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 125
+**Monthly Rank**: N/A
+    
+**Total XP**: 41,339,857 *(55.0%)*
+**Jogger**: 4,561.1 *(79.2%)*
+**Collector**: 51,396 *(44.2%)*
+**Scientist**: 9,231 *(81.7%)*
+**Breeder**: 3,436 *(75.0%)*
+**Backpacker**: 38,928 *(36.7%)*
+**Battle Girl**: 650 *(5.0%)*
+**Gym Badge**: 346 *(28.3%)*
+**Gold Gyms**: 40 *(50.8%)*
+    
+**Pokemon Ranger**: 1,183 *(38.3%)*
+**Berry Master**: 15,792 *(38.3%)*
+**Gym Leader**: 28,789 *(47.5%)*
+**Battle Legend**: 682 *(75.0%)*
+**Champion**: 130 *(25.0%)*
+**Pokedex Caught**: 368.0 *(26.3%)*
+**Pokedex Seen**: 375.0 *(26.3%)*
+    
+**Days Played**: 783 days
+**XP**/day: 52,796
+**KM**/day: 5.8
+**Catches**/day: 65.64
+**Evolves**/day: 11.79
+**Hatches**/day: 4.39
+**Spins**/day: 49.72
+**Battles**/day: 0.83
+**Research**/day: 7.68
+**Berries**/day: 36.3
+**Gym Hours**/day: 66.18
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.3
+**Legendary Raids**/day: 0.32
+    

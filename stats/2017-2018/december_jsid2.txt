@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: JSid2
+**Level**: 38
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 13,553,170 *(31.0%)*
+**Gold Gyms**: 24 *(75.0%)*
+**Gym Badge**: 524 *(71.0%)*
+**Jogger**: 1,320.3 *(20.0%)*
+**Collector**: 18,663 *(25.0%)*
+**Scientist**: 2,884 *(37.0%)*
+**Breeder**: 883 *(30.0%)*
+**Backpacker**: 19,873 *(32.0%)*
+**Battle Girl**: 4,390 *(59.0%)*
+**Ace Trainer**: 395 *(36.0%)*
+**Berry Master**: 7,072 *(52.0%)*
+**Gym Leader**: 18,696 *(69.0%)*
+**Battle Legend**: 175 *(40.0%)*
+**Champion**: 86 *(47.0%)*
+**Pokedex Caught**: 298 *(59.0%)*
+**Pokedex Seen**: 313 *(62.0%)*
+    
+**Days Played**: 541 days
+**XP**/day: 25,052
+**KM**/day: 2.4
+**Catches**/day: 34.5
+**Evolves**/day: 5.33
+**Hatches**/day: 1.63
+**Spins**/day: 36.73
+**Battles**/day: 8.11
+**Berries**/day: 37.22
+**Gym Hours**/day: 98.4
+**Gold Gyms**/day: 0.13
+**Raids**/day: 0.46
+**Legendary Raids**/day: 0.54
+    

@@ -1,0 +1,54 @@
+**__MAY__**
+    
+**Trainer**: Sephy747
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 45,464,674 *(31.7%)*
+**Jogger**: 3,306.5 *(28.3%)*
+**Collector**: 71,938 *(46.7%)*
+**Scientist**: 2,037 *(22.5%)*
+**Breeder**: 2,549 *(41.7%)*
+**Backpacker**: 42,995 *(39.2%)*
+**Battle Girl**: 3,033 *(25.0%)*
+**Gold Gyms**: 39 *(41.7%)*
+    
+**Pokemon Ranger**: 4,578 *(72.5%)*
+**Berry Master**: 30,165 *(50.0%)*
+**Gym Leader**: 46,556 *(53.3%)*
+**Battle Legend**: 424 *(30.8%)*
+**Champion**: 225 *(33.3%)*
+    
+**Gym Badges**: 349
+**Pokedex Caught**: 468
+**Pokedex Seen**: 476
+**Fisherman**: 226
+**Youngster**: 241
+**Pikachu Fan**: 721
+**Unown**: 3
+**Pilot**: 1,463,685
+**Gentleman**: 3077
+**Idol**: 38
+**Ace Trainer**: 66
+**Great League Veteran**: 218
+**Ultra League Veteran**: 42
+**Master League Veteran**: 18
+    
+**Days Played**: 1056 days
+**XP**/day: 43,053
+**KM**/day: 3.1
+**Catches**/day: 68.12
+**Evolves**/day: 1.93
+**Hatches**/day: 2.41
+**Spins**/day: 40.71
+**Battles**/day: 2.87
+**Research**/day: 10.72
+**Berries**/day: 42.61
+**Gym Hours**/day: 65.76
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.32
+**Legendary Raids**/day: 0.33
+    

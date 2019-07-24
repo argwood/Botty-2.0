@@ -1,0 +1,37 @@
+**__JANUARY__**
+    
+**Trainer**: CheckRight42
+**Level**: 39
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 17,055,575 *(33.7%)*
+**Gold Gyms**: 23 *(70.9%)*
+**Gym Badge**: 334 *(31.4%)*
+**Jogger**: 1,609.7 *(24.4%)*
+**Collector**: 25,188 *(33.7%)*
+**Scientist**: 4,961 *(54.7%)*
+**Breeder**: 1,507 *(50.0%)*
+**Backpacker**: 20,225 *(26.7%)*
+**Battle Girl**: 4,413 *(53.5%)*
+**Berry Master**: 5,146 *(30.2%)*
+**Gym Leader**: 14,454 *(55.8%)*
+**Battle Legend**: 197 *(32.6%)*
+**Champion**: 127 *(65.1%)*
+**Pokedex Caught**: 323 *(64.0%)*
+**Pokedex Seen**: 331 *(37.2%)*
+    
+**Days Played**: 564 days
+**XP**/day: 30,240
+**KM**/day: 2.9
+**Catches**/day: 44.66
+**Evolves**/day: 8.8
+**Hatches**/day: 2.67
+**Spins**/day: 35.86
+**Battles**/day: 7.82
+**Berries**/day: 23.71
+**Gym Hours**/day: 66.61
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.6
+**Legendary Raids**/day: 0.68
+    

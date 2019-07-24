@@ -1,0 +1,38 @@
+**Trainer**: RocketChimp
+**Level**: 34
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 5,314,436 *(14.0%)*
+**Gold Gyms**: 1 *(13.5%)*
+**Gym Badge**: 54 *(2.0%)*
+**Jogger**: 748.4 *(10.0%)*
+**Collector**: 9,545 *(14.0%)*
+**Scientist**: 1,419 *(22.0%)*
+**Breeder**: 724 *(25.0%)*
+**Backpacker**: 8,855 *(13.0%)*
+**Battle Girl**: 679 *(13.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 1,243 *(8.0%)*
+**Gym Leader**: 1,533 *(11.0%)*
+**Battle Legend**: 8 *(1.0%)*
+**Champion**: 33 *(9.0%)*
+**Pokedex Caught**: 338 *(22.0%)*
+**Pokedex Seen**: 351 *(13.5%)*
+    
+**Days Played**: 662 days
+**XP**/day: 8,027
+**KM**/day: 1.1
+**Catches**/day: 14.42
+**Evolves**/day: 2.14
+**Catches**/evolve: 6.73
+**Hatches**/day: 1.09
+**KM**/egg: 1.03
+**Spins**/day: 13.38
+**Battles**/day: 1.03
+**Berries**/day: 3.98
+**Gym Hours**/day: 4.91
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.11
+**Legendary Raids**/day: 0.12
+    

@@ -1,0 +1,42 @@
+**__SEPTEMBER__**
+    
+**Trainer**: Emirence
+**Level**: 35
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 351
+**Monthly Rank**: N/A
+    
+**Total XP**: 7,076,791 *(12.1%)*
+**Jogger**: 679.4 *(10.0%)*
+**Collector**: 9,488 *(10.0%)*
+**Scientist**: 672 *(10.7%)*
+**Breeder**: 595 *(15.0%)*
+**Backpacker**: 7,330 *(8.6%)*
+**Battle Girl**: 549 *(7.1%)*
+**Gym Badge**: 174 *(14.3%)*
+**Gold Gyms**: 1 *(10.0%)*
+    
+**Pokemon Ranger**: 237 *(5.0%)*
+**Berry Master**: 1,123 *(9.3%)*
+**Gym Leader**: 2,316 *(9.3%)*
+**Battle Legend**: 44 *(7.9%)*
+**Champion**: 53 *(12.1%)*
+**Pokedex Caught**: 354.0 *(14.4%)*
+**Pokedex Seen**: 368.0 *(14.4%)*
+    
+**Days Played**: 815 days
+**XP**/day: 8,683
+**KM**/day: 0.8
+**Catches**/day: 11.64
+**Evolves**/day: 0.82
+**Hatches**/day: 0.73
+**Spins**/day: 8.99
+**Battles**/day: 0.67
+**Research**/day: 1.29
+**Berries**/day: 2.42
+**Gym Hours**/day: 4.98
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.11
+**Legendary Raids**/day: 0.12
+    

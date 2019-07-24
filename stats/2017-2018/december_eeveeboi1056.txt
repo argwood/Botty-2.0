@@ -1,0 +1,38 @@
+**Trainer**: EeveeBoi1056
+**Level**: 33
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 4,495,845 *(10.0%)*
+**Gold Gyms**: 0 *(6.0%)*
+**Gym Badge**: 307 *(40.0%)*
+**Jogger**: 1,543.8 *(34.0%)*
+**Collector**: 9,428 *(13.0%)*
+**Scientist**: 212 *(3.0%)*
+**Breeder**: 322 *(10.0%)*
+**Backpacker**: 8,740 *(12.0%)*
+**Battle Girl**: 966 *(16.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 866 *(7.0%)*
+**Gym Leader**: 2,164 *(14.0%)*
+**Battle Legend**: 60 *(17.5%)*
+**Champion**: 31 *(7.0%)*
+**Pokedex Caught**: 314 *(11.0%)*
+**Pokedex Seen**: 359 *(17.0%)*
+    
+**Days Played**: 659 days
+**XP**/day: 6,822
+**KM**/day: 2.3
+**Catches**/day: 14.31
+**Evolves**/day: 0.32
+**Catches**/evolve: 44.47
+**Hatches**/day: 0.49
+**KM**/egg: 4.79
+**Spins**/day: 13.26
+**Battles**/day: 1.47
+**Berries**/day: 2.53
+**Gym Hours**/day: 6.33
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.09
+**Legendary Raids**/day: 0.1
+    

@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Rueboy86
+**Level**: 40
+**Team**: Valor
+**Region**: Other
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 148,817,931 *(91.0%)*
+**Jogger**: 13,791.5 *(100.0%)*
+**Collector**: 192,297 *(93.1%)*
+**Scientist**: 9,799 *(70.9%)*
+**Breeder**: 8,222 *(91.5%)*
+**Backpacker**: 144,795 *(90.5%)*
+**Battle Girl**: 29,359 *(87.3%)*
+**Gold Gyms**: 106 *(77.2%)*
+    
+**Pokemon Ranger**: 9,647 *(93.1%)*
+**Berry Master**: 105,231 *(93.7%)*
+**Gym Leader**: 66,784 *(73.0%)*
+**Battle Legend**: 2424 *(95.8%)*
+**Champion**: 773 *(87.3%)*
+    
+**Days Played**: 1019 days
+**XP**/day: 146,043
+**KM**/day: 13.5
+**Catches**/day: 188.71
+**Evolves**/day: 9.62
+**Hatches**/day: 8.07
+**Spins**/day: 142.1
+**Battles**/day: 28.81
+**Research**/day: 24.36
+**Berries**/day: 155.44
+**Gym Hours**/day: 98.65
+**Gold Gyms**/day: 0.16
+**Raids**/day: 1.15
+**Legendary Raids**/day: 1.19
+    

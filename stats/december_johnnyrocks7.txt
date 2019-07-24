@@ -1,0 +1,39 @@
+**__DECEMBER__**
+    
+**Trainer**: JohnnyRocks7
+**Level**: 32
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 432
+**Monthly Rank**: 70
+    
+**Total XP**: 2,951,347 *(2.5%)*
+**Jogger**: 485.0 *(2.5%)*
+**Collector**: 4,620 *(1.7%)*
+**Scientist**: 406 *(1.7%)*
+**Breeder**: 192 *(2.5%)*
+**Backpacker**: 4,418 *(2.5%)*
+**Battle Girl**: 628 *(4.1%)*
+**Gold Gyms**: 1 *(3.3%)*
+    
+**Pokemon Ranger**: 203 *(3.3%)*
+**Berry Master**: 861 *(3.3%)*
+**Gym Leader**: 1,032 *(2.5%)*
+**Battle Legend**: 19 *(2.5%)*
+**Champion**: 51 *(3.3%)*
+    
+**Days Played**: 903 days
+**XP**/day: 3,268
+**KM**/day: 0.5
+**Catches**/day: 5.12
+**Evolves**/day: 0.45
+**Hatches**/day: 0.21
+**Spins**/day: 4.89
+**Battles**/day: 0.7
+**Research**/day: 0.74
+**Berries**/day: 1.55
+**Gym Hours**/day: 1.86
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.09
+**Legendary Raids**/day: 0.1
+    

@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: Goldfire35
+**Level**: 35
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 6,496,799 *(18.8%)*
+**Gold Gyms**: 1 *(15.8%)*
+**Gym Badge**: 191 *(24.8%)*
+**Jogger**: 522.3 *(7.5%)*
+**Collector**: 7,595 *(12.8%)*
+**Scientist**: 792 *(17.3%)*
+**Breeder**: 301 *(13.5%)*
+**Backpacker**: 5,800 *(9.8%)*
+**Battle Girl**: 753 *(12.0%)*
+**Ace Trainer**: 25 *(12.0%)*
+**Berry Master**: 830 *(9.0%)*
+**Gym Leader**: 3,158 *(19.5%)*
+**Battle Legend**: 211 *(75.2%)*
+**Champion**: 80 *(68.4%)*
+**Pokedex Caught**: 245 *(33.1%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 504 days
+**XP**/day: 12,890
+**KM**/day: 1.0
+**Catches**/day: 15.07
+**Evolves**/day: 1.57
+**Catches**/evolve: 9.59
+**Hatches**/day: 0.6
+**KM**/egg: 1.74
+**Spins**/day: 11.51
+**Battles**/day: 1.49
+**Berries**/day: 5.35
+**Gym Hours**/day: 20.37
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.53
+**Legendary Raids**/day: 0.64
+    

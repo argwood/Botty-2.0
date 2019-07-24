@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: EKYAJ4
+**Level**: 40
+**Team**: Valor
+**Region**: Other
+**Overall Rank**: 349
+**Monthly Rank**: N/A
+    
+**Total XP**: 23,548,946 *(10.6%)*
+**Jogger**: 1,305.3 *(5.3%)*
+**Collector**: 22,100 *(9.0%)*
+**Scientist**: 1,060 *(6.3%)*
+**Breeder**: 1,322 *(21.7%)*
+**Backpacker**: 12,830 *(7.9%)*
+**Battle Girl**: 1,559 *(11.1%)*
+**Gold Gyms**: 8 *(14.3%)*
+    
+**Pokemon Ranger**: 1,037 *(11.6%)*
+**Berry Master**: 2,491 *(9.0%)*
+**Gym Leader**: 5,390 *(10.1%)*
+**Battle Legend**: 423 *(28.6%)*
+**Champion**: 82 *(8.5%)*
+    
+**Days Played**: 284 days
+**XP**/day: 82,918
+**KM**/day: 4.6
+**Catches**/day: 77.82
+**Evolves**/day: 3.73
+**Hatches**/day: 4.65
+**Spins**/day: 45.18
+**Battles**/day: 5.49
+**Research**/day: 2.62
+**Berries**/day: 3.68
+**Gym Hours**/day: 7.96
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.12
+**Legendary Raids**/day: 0.13
+    

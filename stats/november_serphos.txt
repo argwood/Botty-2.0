@@ -1,0 +1,42 @@
+**__NOVEMBER__**
+    
+**Trainer**: Serphos
+**Level**: 39
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 346
+**Monthly Rank**: N/A
+    
+**Total XP**: 18,439,612 *(11.0%)*
+**Jogger**: 1,205 *(7.3%)*
+**Collector**: 13,751 *(6.4%)*
+**Scientist**: 845 *(6.4%)*
+**Breeder**: 1,628 *(30.3%)*
+**Backpacker**: 18,825 *(15.6%)*
+**Battle Girl**: 786 *(6.4%)*
+**Gym Badge**: 256 *(21.1%)*
+**Gold Gyms**: 1 *(6.4%)*
+    
+**Pokemon Ranger**: 733 *(11.0%)*
+**Berry Master**: 1,926 *(5.5%)*
+**Gym Leader**: 1,140 *(2.8%)*
+**Battle Legend**: 148 *(11.9%)*
+**Champion**: 102 *(12.8%)*
+**Pokedex Caught**: 408.0 *(58.1%)*
+**Pokedex Seen**: 413.0 *(18.1%)*
+    
+**Days Played**: 146 days
+**XP**/day: 126,298
+**KM**/day: 8.3
+**Catches**/day: 94.18
+**Evolves**/day: 5.79
+**Hatches**/day: 11.15
+**Spins**/day: 128.94
+**Battles**/day: 5.38
+**Research**/day: 3.0
+**Berries**/day: 3.67
+**Gym Hours**/day: 2.17
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.2
+**Legendary Raids**/day: 0.21
+    

@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: Kdog0073
+**Level**: 39
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 16,717,806 *(22.5%)*
+**Gold Gyms**: 75 *(90.1%)*
+**Gym Badge**: 180 *(5.4%)*
+**Jogger**: 1,245.3 *(9.9%)*
+**Collector**: 19,001 *(13.5%)*
+**Scientist**: 2,765 *(25.2%)*
+**Breeder**: 849 *(16.2%)*
+**Backpacker**: 17,487 *(16.2%)*
+**Battle Girl**: 7,651 *(71.2%)*
+**Berry Master**: 7,626 *(33.3%)*
+**Gym Leader**: 46,113 *(82.0%)*
+**Battle Legend**: 333 *(46.8%)*
+**Champion**: 39 *(2.7%)*
+**Pokedex Caught**: 351 *(30.6%)*
+**Pokedex Seen**: 368 *(93.7%)*
+    
+**Days Played**: 632 days
+**XP**/day: 26,452
+**KM**/day: 2.0
+**Catches**/day: 30.06
+**Evolves**/day: 4.38
+**Hatches**/day: 1.34
+**Spins**/day: 27.67
+**Battles**/day: 12.11
+**Berries**/day: 27.04
+**Gym Hours**/day: 163.52
+**Gold Gyms**/day: 0.27
+**Raids**/day: 0.14
+**Legendary Raids**/day: 0.15
+    

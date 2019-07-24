@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: TonyValdivieso
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 29,740,751 *(93.2%)*
+**Gold Gyms**: 5 *(39.8%)*
+**Gym Badge**: 584 *(95.5%)*
+**Jogger**: 4,722.0 *(98.5%)*
+**Collector**: 57,815 *(97.7%)*
+**Scientist**: 7,926 *(94.7%)*
+**Breeder**: 2,305 *(80.5%)*
+**Backpacker**: 72,754 *(98.5%)*
+**Battle Girl**: 1,986 *(42.1%)*
+**Ace Trainer**: 0 *(7.5%)*
+**Berry Master**: 10,328 *(90.2%)*
+**Gym Leader**: 5,848 *(36.1%)*
+**Battle Legend**: 184 *(68.4%)*
+**Champion**: 103 *(77.4%)*
+**Pokedex Caught**: 248 *(88.0%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 505 days
+**XP**/day: 58,892
+**KM**/day: 9.4
+**Catches**/day: 114.49
+**Evolves**/day: 15.7
+**Catches**/evolve: 7.29
+**Hatches**/day: 4.56
+**KM**/egg: 2.05
+**Spins**/day: 144.07
+**Battles**/day: 3.93
+**Berries**/day: 66.63
+**Gym Hours**/day: 37.73
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.68
+**Legendary Raids**/day: 0.82
+    

@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: BadTrainer27
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 2
+**Monthly Rank**: 7
+    
+**Total XP**: 173,282,848 *(95.0%)*
+**Jogger**: 9,314.8 *(94.2%)*
+**Collector**: 229,738 *(97.5%)*
+**Scientist**: 21,355 *(95.0%)*
+**Breeder**: 6,658 *(82.5%)*
+**Backpacker**: 298,173 *(100.0%)*
+**Battle Girl**: 49,611 *(100.0%)*
+**Gold Gyms**: 422 *(100.0%)*
+    
+**Pokemon Ranger**: 4,549 *(71.7%)*
+**Berry Master**: 180,022 *(100.0%)*
+**Gym Leader**: 192,520 *(98.3%)*
+**Battle Legend**: 1651 *(89.2%)*
+**Champion**: 1009 *(95.8%)*
+    
+**Days Played**: 1043 days
+**XP**/day: 166,138
+**KM**/day: 8.9
+**Catches**/day: 220.27
+**Evolves**/day: 20.47
+**Hatches**/day: 6.38
+**Spins**/day: 285.88
+**Battles**/day: 47.57
+**Research**/day: 10.65
+**Berries**/day: 254.27
+**Gym Hours**/day: 271.92
+**Gold Gyms**/day: 0.6
+**Raids**/day: 1.43
+**Legendary Raids**/day: 1.49
+    

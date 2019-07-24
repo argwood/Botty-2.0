@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: PupusasNBeerPlz
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 37,433,428 *(76.6%)*
+**Gold Gyms**: 40 *(69.4%)*
+**Gym Badge**: 334 *(29.8%)*
+**Jogger**: 5,636.5 *(93.5%)*
+**Collector**: 80,111 *(89.5%)*
+**Scientist**: 5,402 *(58.9%)*
+**Breeder**: 1,791 *(59.7%)*
+**Backpacker**: 66,230 *(84.7%)*
+**Battle Girl**: 16,044 *(89.5%)*
+**Pokemon Ranger**: 279 *(58.9%)*
+**Berry Master**: 20,336 *(74.2%)*
+**Gym Leader**: 26,633 *(63.7%)*
+**Battle Legend**: 415 *(66.9%)*
+**Champion**: 158 *(62.9%)*
+**Pokedex Caught**: 362 *(75.8%)*
+**Pokedex Seen**: 370 *(99.2%)*
+    
+**Days Played**: 661 days
+**XP**/day: 56,631
+**KM**/day: 8.5
+**Catches**/day: 121.2
+**Evolves**/day: 8.17
+**Hatches**/day: 2.71
+**Spins**/day: 100.2
+**Battles**/day: 24.27
+**Quests**/day: 9.0
+**Berries**/day: 65.18
+**Gym Hours**/day: 85.36
+**Gold Gyms**/day: 0.13
+**Raids**/day: 0.51
+**Legendary Raids**/day: 0.56
+    

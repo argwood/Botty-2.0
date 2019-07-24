@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: AndrewAlexander
+**Level**: 40
+**Team**: Instinct
+**Region**: North
+    
+**Total XP**: 40,278,000 *(64.9%)*
+**Gold Gyms**: 26 *(39.7%)*
+**Gym Badge**: 745 *(75.5%)*
+**Jogger**: 3,536.2 *(58.3%)*
+**Collector**: 50,900 *(48.3%)*
+**Scientist**: 5,319 *(55.0%)*
+**Breeder**: 1,731 *(41.7%)*
+**Backpacker**: 42,056 *(47.0%)*
+**Battle Girl**: 4,767 *(38.4%)*
+**Pokemon Ranger**: 1,353 *(75.5%)*
+**Berry Master**: 12,224 *(35.1%)*
+**Gym Leader**: 20,243 *(41.7%)*
+**Battle Legend**: 971 *(86.1%)*
+**Champion**: 188 *(52.3%)*
+**Pokedex Caught**: 374 *(99.3%)*
+**Pokedex Seen**: 374 *(99.3%)*
+    
+**Days Played**: 751 days
+**XP**/day: 53,632
+**KM**/day: 4.7
+**Catches**/day: 67.78
+**Evolves**/day: 7.08
+**Hatches**/day: 2.3
+**Spins**/day: 56.0
+**Battles**/day: 6.35
+**Quests**/day: 11.28
+**Berries**/day: 30.48
+**Gym Hours**/day: 50.48
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.47
+**Legendary Raids**/day: 0.51
+    

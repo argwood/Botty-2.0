@@ -1,0 +1,38 @@
+**Trainer**: pikapika8997
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 25,838,904 *(62.0%)*
+**Gold Gyms**: 22 *(66.5%)*
+**Gym Badge**: 596 *(82.0%)*
+**Jogger**: 3,822.1 *(85.0%)*
+**Collector**: 41,945 *(67.0%)*
+**Scientist**: 6,523 *(83.0%)*
+**Breeder**: 2,075 *(77.0%)*
+**Backpacker**: 48,825 *(81.0%)*
+**Battle Girl**: 5,456 *(65.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 5,440 *(33.0%)*
+**Gym Leader**: 46,358 *(90.0%)*
+**Battle Legend**: 396 *(70.0%)*
+**Champion**: 104 *(47.0%)*
+**Pokedex Caught**: 357 *(43.5%)*
+**Pokedex Seen**: 366 *(30.5%)*
+    
+**Days Played**: 623 days
+**XP**/day: 41,474
+**KM**/day: 6.1
+**Catches**/day: 67.33
+**Evolves**/day: 10.47
+**Catches**/evolve: 6.43
+**Hatches**/day: 3.33
+**KM**/egg: 1.84
+**Spins**/day: 78.37
+**Battles**/day: 8.76
+**Berries**/day: 19.29
+**Gym Hours**/day: 164.39
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.37
+**Legendary Raids**/day: 0.41
+    

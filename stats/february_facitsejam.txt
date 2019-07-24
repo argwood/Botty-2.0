@@ -1,0 +1,39 @@
+**__FEBRUARY__**
+    
+**Trainer**: facitsejam
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 39
+**Monthly Rank**: 21
+    
+**Total XP**: 115,138,574 *(80.8%)*
+**Jogger**: 9,064.0 *(94.9%)*
+**Collector**: 209,834 *(97.0%)*
+**Scientist**: 27,568 *(99.0%)*
+**Breeder**: 4,797 *(66.7%)*
+**Backpacker**: 247,883 *(99.0%)*
+**Battle Girl**: 15,304 *(72.7%)*
+**Gold Gyms**: 38 *(33.3%)*
+    
+**Pokemon Ranger**: 11,582 *(96.0%)*
+**Berry Master**: 121,358 *(98.0%)*
+**Gym Leader**: 28,451 *(33.3%)*
+**Battle Legend**: 362 *(17.2%)*
+**Champion**: 244 *(27.3%)*
+    
+**Days Played**: 962 days
+**XP**/day: 119,686
+**KM**/day: 9.4
+**Catches**/day: 218.12
+**Evolves**/day: 28.66
+**Hatches**/day: 4.99
+**Spins**/day: 257.67
+**Battles**/day: 15.91
+**Research**/day: 34.57
+**Berries**/day: 197.01
+**Gym Hours**/day: 46.19
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.4
+**Legendary Raids**/day: 0.42
+    

@@ -1,0 +1,38 @@
+**Trainer**: SithOfSpades
+**Level**: 40
+**Team**: Mystic
+**Region**: Loop
+    
+**Total XP**: 46,861,312 *(88.0%)*
+**Gold Gyms**: 30 *(61.3%)*
+**Gym Badge**: 251 *(24.8%)*
+**Jogger**: 5,981.6 *(96.2%)*
+**Collector**: 77,316 *(86.5%)*
+**Scientist**: 9,131 *(84.2%)*
+**Breeder**: 6,100 *(99.2%)*
+**Backpacker**: 79,781 *(91.7%)*
+**Battle Girl**: 12,696 *(87.2%)*
+**Ace Trainer**: 0 *(50.4%)*
+**Berry Master**: 27,423 *(85.0%)*
+**Gym Leader**: 12,673 *(42.9%)*
+**Battle Legend**: 536 *(85.7%)*
+**Champion**: 323 *(93.2%)*
+**Pokedex Caught**: 363 *(78.6%)*
+**Pokedex Seen**: 367 *(44.0%)*
+    
+**Days Played**: 658 days
+**XP**/day: 71,217
+**KM**/day: 9.1
+**Catches**/day: 117.5
+**Evolves**/day: 13.88
+**Catches**/evolve: 8.47
+**Hatches**/day: 9.27
+**KM**/egg: 0.98
+**Spins**/day: 121.25
+**Battles**/day: 19.29
+**Berries**/day: 87.89
+**Gym Hours**/day: 40.62
+**Gold Gyms**/day: 0.1
+**Raids**/day: 1.05
+**Legendary Raids**/day: 1.15
+    

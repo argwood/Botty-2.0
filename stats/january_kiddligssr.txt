@@ -1,0 +1,37 @@
+**Trainer**: KiddLigsSr
+**Level**: 34
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 5,051,074 *(13.6%)*
+**Gold Gyms**: 1 *(6.8%)*
+**Gym Badge**: 210 *(36.4%)*
+**Jogger**: 807.0 *(18.2%)*
+**Collector**: 5,755 *(13.6%)*
+**Scientist**: 411 *(9.1%)*
+**Breeder**: 693 *(22.7%)*
+**Backpacker**: 5,865 *(18.2%)*
+**Battle Girl**: 240 *(4.5%)*
+**Berry Master**: 738 *(4.5%)*
+**Gym Leader**: 2,842 *(13.6%)*
+**Battle Legend**: 89 *(22.7%)*
+**Champion**: 63 *(22.7%)*
+**Pokedex Caught**: 350 *(18.2%)*
+**Pokedex Seen**: 361 *(15.9%)*
+    
+**Days Played**: 693 days
+**XP**/day: 7,288
+**KM**/day: 1.2
+**Catches**/day: 8.3
+**Evolves**/day: 0.59
+**Catches**/evolve: 14.0
+**Hatches**/day: 1.0
+**KM**/egg: 1.16
+**Spins**/day: 8.46
+**Battles**/day: 0.35
+**Berries**/day: 2.15
+**Gym Hours**/day: 8.29
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.19
+**Legendary Raids**/day: 0.2
+    

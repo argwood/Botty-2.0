@@ -1,0 +1,54 @@
+**__APRIL__**
+    
+**Trainer**: PwettyBettyBoop 
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 55,371,384 *(37.0%)*
+**Jogger**: 6,661.0 *(76.2%)*
+**Collector**: 109,245 *(65.6%)*
+**Scientist**: 6,972 *(52.9%)*
+**Breeder**: 4,491 *(64.0%)*
+**Backpacker**: 71,924 *(54.5%)*
+**Battle Girl**: 7,264 *(41.3%)*
+**Gold Gyms**: 23 *(25.4%)*
+    
+**Pokemon Ranger**: 4,141 *(65.1%)*
+**Berry Master**: 16,503 *(32.3%)*
+**Gym Leader**: 45,846 *(57.1%)*
+**Battle Legend**: 620 *(41.8%)*
+**Champion**: 409 *(63.0%)*
+    
+**Gym Badges**: 177
+**Pokedex Caught**: 460
+**Pokedex Seen**: 463
+**Fisherman**: 415
+**Youngster**: 594
+**Pikachu Fan**: 1432
+**Unown**: 6
+**Pilot**: 3,191,844
+**Gentleman**: 3960
+**Idol**: 31
+**Ace Trainer**: 1200
+**Great League Veteran**: 172
+**Ultra League Veteran**: 24
+**Master League Veteran**: 48
+    
+**Days Played**: 1008 days
+**XP**/day: 54,931
+**KM**/day: 6.6
+**Catches**/day: 108.38
+**Evolves**/day: 6.92
+**Hatches**/day: 4.46
+**Spins**/day: 71.35
+**Battles**/day: 7.21
+**Research**/day: 10.46
+**Berries**/day: 24.38
+**Gym Hours**/day: 67.72
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.61
+**Legendary Raids**/day: 0.63
+    

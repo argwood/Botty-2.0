@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: MikeN1ke92
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 21,242,453 *(59.0%)*
+**Gold Gyms**: 6 *(36.0%)*
+**Gym Badge**: 544 *(73.0%)*
+**Jogger**: 1,044.3 *(9.0%)*
+**Collector**: 22,512 *(33.0%)*
+**Scientist**: 3,044 *(39.0%)*
+**Breeder**: 1,246 *(44.0%)*
+**Backpacker**: 22,368 *(34.0%)*
+**Battle Girl**: 880 *(8.0%)*
+**Ace Trainer**: 4 *(6.0%)*
+**Berry Master**: 3,128 *(25.0%)*
+**Gym Leader**: 7,128 *(33.0%)*
+**Battle Legend**: 473 *(92.0%)*
+**Champion**: 142 *(79.0%)*
+**Pokedex Caught**: 300 *(66.0%)*
+**Pokedex Seen**: 314 *(65.0%)*
+    
+**Days Played**: 283 days
+**XP**/day: 75,061
+**KM**/day: 3.7
+**Catches**/day: 79.55
+**Evolves**/day: 10.76
+**Hatches**/day: 4.4
+**Spins**/day: 79.04
+**Battles**/day: 3.11
+**Berries**/day: 16.46
+**Gym Hours**/day: 37.52
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.76
+**Legendary Raids**/day: 0.89
+    

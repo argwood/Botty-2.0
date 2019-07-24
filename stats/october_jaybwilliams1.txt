@@ -1,0 +1,50 @@
+**__OCTOBER__**
+    
+**Trainer**: jaybwilliams1
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 207
+**Monthly Rank**: N/A
+    
+**Total XP**: 28,814,680 *(24.3%)*
+**Jogger**: 2,428.0 *(31.4%)*
+**Collector**: 48,241 *(36.4%)*
+**Scientist**: 2,208 *(22.9%)*
+**Breeder**: 1,184 *(22.1%)*
+**Backpacker**: 33,460 *(29.3%)*
+**Battle Girl**: 2,388 *(22.1%)*
+**Gym Badge**: 380 *(32.9%)*
+**Gold Gyms**: 32 *(44.3%)*
+    
+**Pokemon Ranger**: 1,746 *(42.9%)*
+**Berry Master**: 12,890 *(33.6%)*
+**Gym Leader**: 28,059 *(50.7%)*
+**Battle Legend**: 485 *(44.3%)*
+**Champion**: 144 *(30.7%)*
+**Pokedex Caught**: 388.0 *(28.1%)*
+**Pokedex Seen**: 394.0 *(16.2%)*
+    
+**Fisherman**: 223
+**Youngster**: 219
+**Pikachu Fan**: 428
+**Unown**: 6
+**Pilot**: 886,982
+**Gentleman**: 1691
+**Idol**: 3
+    
+**Days Played**: 835 days
+**XP**/day: 34,508
+**KM**/day: 2.9
+**Catches**/day: 57.77
+**Evolves**/day: 2.64
+**Hatches**/day: 1.42
+**Spins**/day: 40.07
+**Battles**/day: 2.86
+**Research**/day: 8.43
+**Berries**/day: 26.41
+**Gym Hours**/day: 57.5
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.3
+**Legendary Raids**/day: 0.31
+    

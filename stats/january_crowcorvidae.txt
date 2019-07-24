@@ -1,0 +1,54 @@
+**__JANUARY__**
+    
+**Trainer**: crowcorvidae
+**Level**: 39
+**Team**: Instinct
+**Region**: Loop
+**Overall Rank**: 380
+**Monthly Rank**: N/A
+    
+**Total XP**: 15,241,646 *(12.3%)*
+**Jogger**: 747.2 *(8.8%)*
+**Collector**: 19,324 *(13.2%)*
+**Scientist**: 1,319 *(17.5%)*
+**Breeder**: 914 *(14.9%)*
+**Backpacker**: 12,852 *(11.4%)*
+**Battle Girl**: 465 *(6.1%)*
+**Gold Gyms**: 0 *(6.1%)*
+    
+**Pokemon Ranger**: 968 *(17.5%)*
+**Berry Master**: 972 *(6.1%)*
+**Gym Leader**: 1,706 *(8.8%)*
+**Battle Legend**: 174 *(15.8%)*
+**Champion**: 98 *(14.0%)*
+    
+**Gym Badges**: 171
+**Pokedex Caught**: 419
+**Pokedex Seen**: 434
+**Fisherman**: 47
+**Youngster**: 80
+**Pikachu Fan**: 349
+**Unown**: 0
+**Pilot**: 195,526
+**Gentleman**: 537
+**Idol**: 3
+**Ace Trainer**: 39
+**Great League Veteran**: 9
+**Ultra League Veteran**: 3
+**Master League Veteran**: 7
+    
+**Days Played**: 926 days
+**XP**/day: 16,459
+**KM**/day: 0.8
+**Catches**/day: 20.87
+**Evolves**/day: 1.42
+**Hatches**/day: 0.99
+**Spins**/day: 13.88
+**Battles**/day: 0.5
+**Research**/day: 3.15
+**Berries**/day: 1.65
+**Gym Hours**/day: 2.9
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.17
+**Legendary Raids**/day: 0.18
+    

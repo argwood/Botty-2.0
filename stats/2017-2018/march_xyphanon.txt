@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: Xyphanon
+**Level**: 33
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 4,290,554 *(2.7%)*
+**Gold Gyms**: 8 *(20.7%)*
+**Gym Badge**: 331 *(24.3%)*
+**Jogger**: 153.8 *(0.9%)*
+**Collector**: 4,914 *(1.8%)*
+**Scientist**: 205 *(0.9%)*
+**Breeder**: 57 *(0.9%)*
+**Backpacker**: 4,025 *(1.8%)*
+**Battle Girl**: 669 *(1.8%)*
+**Berry Master**: 2,440 *(9.9%)*
+**Gym Leader**: 36,849 *(77.5%)*
+**Battle Legend**: 128 *(9.9%)*
+**Champion**: 91 *(27.0%)*
+**Pokedex Caught**: 301 *(1.8%)*
+**Pokedex Seen**: 356 *(2.7%)*
+    
+**Days Played**: 455 days
+**XP**/day: 9,429
+**KM**/day: 0.3
+**Catches**/day: 10.8
+**Evolves**/day: 0.45
+**Hatches**/day: 0.13
+**Spins**/day: 8.85
+**Battles**/day: 1.47
+**Berries**/day: 8.65
+**Gym Hours**/day: 130.67
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.33
+**Legendary Raids**/day: 0.36
+    

@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Wngu86
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 56,162,230 *(87.9%)*
+**Gold Gyms**: 173 *(98.0%)*
+**Gym Badge**: 867 *(88.6%)*
+**Jogger**: 4,934.1 *(85.9%)*
+**Collector**: 81,480 *(85.9%)*
+**Scientist**: 9,886 *(88.6%)*
+**Breeder**: 3,877 *(88.6%)*
+**Backpacker**: 68,672 *(85.2%)*
+**Battle Girl**: 20,021 *(94.6%)*
+**Pokemon Ranger**: 2,165 *(97.3%)*
+**Berry Master**: 38,667 *(91.3%)*
+**Gym Leader**: 75,639 *(96.0%)*
+**Battle Legend**: 1138 *(96.0%)*
+**Champion**: 462 *(96.0%)*
+**Pokedex Caught**: 363 *(65.1%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 694 days
+**XP**/day: 80,925
+**KM**/day: 7.1
+**Catches**/day: 117.41
+**Evolves**/day: 14.24
+**Hatches**/day: 5.59
+**Spins**/day: 98.95
+**Battles**/day: 28.85
+**Quests**/day: 34.92
+**Berries**/day: 112.73
+**Gym Hours**/day: 220.52
+**Gold Gyms**/day: 0.5
+**Raids**/day: 1.36
+**Legendary Raids**/day: 1.48
+    

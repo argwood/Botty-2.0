@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: DJDrogon
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: 34
+**Monthly Rank**: 52
+    
+**Total XP**: 95,688,070 *(83.3%)*
+**Jogger**: 6,844.0 *(86.0%)*
+**Collector**: 118,836 *(83.3%)*
+**Scientist**: 7,288 *(65.8%)*
+**Breeder**: 4,290 *(71.9%)*
+**Backpacker**: 112,175 *(90.4%)*
+**Battle Girl**: 12,846 *(70.2%)*
+**Gold Gyms**: 50 *(51.8%)*
+    
+**Pokemon Ranger**: 2,776 *(54.4%)*
+**Berry Master**: 32,533 *(57.9%)*
+**Gym Leader**: 57,736 *(74.6%)*
+**Battle Legend**: 1351 *(89.5%)*
+**Champion**: 491 *(73.7%)*
+    
+**Days Played**: 938 days
+**XP**/day: 102,012
+**KM**/day: 7.3
+**Catches**/day: 126.69
+**Evolves**/day: 7.77
+**Hatches**/day: 4.57
+**Spins**/day: 119.59
+**Battles**/day: 13.7
+**Research**/day: 9.04
+**Berries**/day: 55.33
+**Gym Hours**/day: 98.19
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.84
+**Legendary Raids**/day: 0.88
+    

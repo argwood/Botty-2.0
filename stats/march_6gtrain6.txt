@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: 6Gtrain6
+**Level**: 40
+**Team**: Mystic
+**Region**: Loop
+**Overall Rank**: 127
+**Monthly Rank**: N/A
+    
+**Total XP**: 54,312,694 *(30.8%)*
+**Jogger**: 5,127.0 *(59.3%)*
+**Collector**: 70,047 *(37.4%)*
+**Scientist**: 4,885 *(37.9%)*
+**Breeder**: 4,924 *(71.4%)*
+**Backpacker**: 55,516 *(39.6%)*
+**Battle Girl**: 8,297 *(41.2%)*
+**Gold Gyms**: 21 *(19.2%)*
+    
+**Pokemon Ranger**: 3,892 *(62.6%)*
+**Berry Master**: 16,494 *(28.6%)*
+**Gym Leader**: 18,389 *(20.9%)*
+**Battle Legend**: 649 *(37.9%)*
+**Champion**: 396 *(61.5%)*
+    
+**Days Played**: 959 days
+**XP**/day: 56,634
+**KM**/day: 5.3
+**Catches**/day: 73.04
+**Evolves**/day: 5.09
+**Hatches**/day: 5.13
+**Spins**/day: 57.89
+**Battles**/day: 8.65
+**Research**/day: 11.72
+**Berries**/day: 26.91
+**Gym Hours**/day: 30.0
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.65
+**Legendary Raids**/day: 0.68
+    

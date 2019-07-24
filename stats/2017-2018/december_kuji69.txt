@@ -1,0 +1,39 @@
+Trainer Name:  Kuji69
+Team:  Instinct
+Region:  North
+Level:  39
+    
+Total XP Percentile:  42.0 %
+Gold Gyms Percentile:  38.0 %
+Gym Badge Percentile:  68.2 %
+Jogger Percentile:  27.0 %
+Collector Percentile:  29.0 %
+Scientist Percentile:  34.0 %
+Breeder Percentile:  40.0 %
+Backpacker Percentile:  35.0 %
+Battle Girl Percentile:  51.0 %
+Ace Trainer Percentile:  32.0 %
+Berry Master Percentile:  41.0 %
+Gym Leader Percentile:  34.0 %
+Battle Legend Percentile:  86.0 %
+Champion Percentile:  86.5 %
+Pokedex Caught Percentile:  18.2 %
+Pokedex Seen Percentile:  25.3 %
+    
+Days Played:  536 days
+XP/day:  30359
+km/day:  2.8
+catches/day:  37.62
+evolves/day:  5.19
+catches/evolve:  7.24
+hatches/day:  2.08
+km/egg:  1.36
+spins/day:  41.75
+battles/day:  5.81
+spins/day:  41.75
+berries/day:  30.72
+gym hours/day:  37.53
+gold gyms/day:  0.04
+normal raids/day:  0.84
+legendary raids/day:  0.98
+    

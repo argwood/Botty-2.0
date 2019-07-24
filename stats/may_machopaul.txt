@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: MachoPaul
+**Level**: 40
+**Team**: Instinct
+**Region**: North
+**Overall Rank**: 170
+**Monthly Rank**: N/A
+    
+**Total XP**: 56,794,282 *(41.7%)*
+**Jogger**: 3,658.7 *(30.8%)*
+**Collector**: 64,982 *(40.0%)*
+**Scientist**: 2,694 *(30.8%)*
+**Breeder**: 1,686 *(28.3%)*
+**Backpacker**: 53,052 *(47.5%)*
+**Battle Girl**: 12,919 *(63.3%)*
+**Gold Gyms**: 46 *(45.0%)*
+    
+**Pokemon Ranger**: 2,931 *(45.8%)*
+**Berry Master**: 18,600 *(41.7%)*
+**Gym Leader**: 23,604 *(37.5%)*
+**Battle Legend**: 699 *(49.2%)*
+**Champion**: 159 *(22.5%)*
+    
+**Days Played**: 1055 days
+**XP**/day: 53,833
+**KM**/day: 3.5
+**Catches**/day: 61.59
+**Evolves**/day: 2.55
+**Hatches**/day: 1.6
+**Spins**/day: 50.29
+**Battles**/day: 12.25
+**Research**/day: 6.91
+**Berries**/day: 26.38
+**Gym Hours**/day: 33.48
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.23
+**Legendary Raids**/day: 0.24
+    

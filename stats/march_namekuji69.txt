@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: Namekuji69
+**Level**: 40
+**Team**: Instinct
+**Region**: North
+**Overall Rank**: 90
+**Monthly Rank**: N/A
+    
+**Total XP**: 73,698,935 *(49.5%)*
+**Jogger**: 3,558.0 *(30.2%)*
+**Collector**: 70,422 *(39.0%)*
+**Scientist**: 3,448 *(27.5%)*
+**Breeder**: 2,966 *(46.7%)*
+**Backpacker**: 65,313 *(46.2%)*
+**Battle Girl**: 16,679 *(73.1%)*
+**Gold Gyms**: 87 *(69.8%)*
+    
+**Pokemon Ranger**: 2,005 *(23.6%)*
+**Berry Master**: 37,547 *(54.9%)*
+**Gym Leader**: 43,105 *(55.5%)*
+**Battle Legend**: 1170 *(78.6%)*
+**Champion**: 473 *(70.3%)*
+    
+**Days Played**: 962 days
+**XP**/day: 76,610
+**KM**/day: 3.7
+**Catches**/day: 73.2
+**Evolves**/day: 3.58
+**Hatches**/day: 3.08
+**Spins**/day: 67.89
+**Battles**/day: 17.34
+**Research**/day: 5.99
+**Berries**/day: 60.95
+**Gym Hours**/day: 69.98
+**Gold Gyms**/day: 0.14
+**Raids**/day: 0.77
+**Legendary Raids**/day: 0.81
+    

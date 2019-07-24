@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Rlavorgn
+**Level**: 40
+**Team**: Instinct
+**Region**: North
+    
+**Total XP**: 45,056,525 *(82.6%)*
+**Gold Gyms**: 19 *(43.6%)*
+**Gym Badge**: 775 *(82.6%)*
+**Jogger**: 3,415.4 *(66.4%)*
+**Collector**: 56,257 *(70.5%)*
+**Scientist**: 6,430 *(73.2%)*
+**Breeder**: 4,066 *(89.9%)*
+**Backpacker**: 56,771 *(75.2%)*
+**Battle Girl**: 4,870 *(47.0%)*
+**Pokemon Ranger**: 713 *(69.8%)*
+**Berry Master**: 25,637 *(80.5%)*
+**Gym Leader**: 10,318 *(29.5%)*
+**Battle Legend**: 900 *(92.6%)*
+**Champion**: 279 *(84.6%)*
+**Pokedex Caught**: 365 *(90.6%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 678 days
+**XP**/day: 66,455
+**KM**/day: 5.0
+**Catches**/day: 82.97
+**Evolves**/day: 9.48
+**Hatches**/day: 6.0
+**Spins**/day: 83.73
+**Battles**/day: 7.18
+**Quests**/day: 11.88
+**Berries**/day: 75.18
+**Gym Hours**/day: 30.26
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.83
+**Legendary Raids**/day: 0.9
+    

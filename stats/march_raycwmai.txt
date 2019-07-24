@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: RayCWMai
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 147
+**Monthly Rank**: N/A
+    
+**Total XP**: 57,007,026 *(32.4%)*
+**Jogger**: 3,316.5 *(25.8%)*
+**Collector**: 82,880 *(47.8%)*
+**Scientist**: 3,603 *(28.0%)*
+**Breeder**: 1,157 *(11.5%)*
+**Backpacker**: 53,486 *(37.9%)*
+**Battle Girl**: 10,312 *(47.3%)*
+**Gold Gyms**: 37 *(31.9%)*
+    
+**Pokemon Ranger**: 3,937 *(64.3%)*
+**Berry Master**: 38,075 *(56.0%)*
+**Gym Leader**: 31,435 *(40.1%)*
+**Battle Legend**: 895 *(62.6%)*
+**Champion**: 187 *(20.9%)*
+    
+**Days Played**: 994 days
+**XP**/day: 57,351
+**KM**/day: 3.3
+**Catches**/day: 83.38
+**Evolves**/day: 3.62
+**Hatches**/day: 1.16
+**Spins**/day: 53.81
+**Battles**/day: 10.37
+**Research**/day: 10.76
+**Berries**/day: 58.85
+**Gym Hours**/day: 48.59
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.29
+**Legendary Raids**/day: 0.3
+    

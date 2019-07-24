@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Mathattack812
+**Level**: 38
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 13,134,893 *(17.4%)*
+**Gold Gyms**: 17 *(38.9%)*
+**Gym Badge**: 471 *(51.7%)*
+**Jogger**: 2,093.0 *(35.6%)*
+**Collector**: 21,992 *(20.1%)*
+**Scientist**: 2,506 *(29.5%)*
+**Breeder**: 844 *(22.1%)*
+**Backpacker**: 18,044 *(18.8%)*
+**Battle Girl**: 2,942 *(28.9%)*
+**Pokemon Ranger**: 767 *(72.5%)*
+**Berry Master**: 3,286 *(12.8%)*
+**Gym Leader**: 24,879 *(59.7%)*
+**Battle Legend**: 70 *(8.7%)*
+**Champion**: 83 *(22.1%)*
+**Pokedex Caught**: 358 *(26.8%)*
+**Pokedex Seen**: 366 *(13.4%)*
+    
+**Days Played**: 692 days
+**XP**/day: 18,981
+**KM**/day: 3.0
+**Catches**/day: 31.78
+**Evolves**/day: 3.62
+**Hatches**/day: 1.22
+**Spins**/day: 26.08
+**Battles**/day: 4.25
+**Quests**/day: 8.52
+**Berries**/day: 8.86
+**Gym Hours**/day: 67.06
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.23
+**Legendary Raids**/day: 0.24
+    

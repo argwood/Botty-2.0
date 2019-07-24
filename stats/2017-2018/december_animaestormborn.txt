@@ -1,0 +1,38 @@
+**Trainer**: AnimaeStormborn
+**Level**: 39
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 15,596,064 *(32.0%)*
+**Gold Gyms**: 30 *(71.5%)*
+**Gym Badge**: 452 *(68.0%)*
+**Jogger**: 1,048.6 *(17.0%)*
+**Collector**: 24,227 *(36.0%)*
+**Scientist**: 2,830 *(43.0%)*
+**Breeder**: 1,566 *(65.0%)*
+**Backpacker**: 19,372 *(30.0%)*
+**Battle Girl**: 3,780 *(53.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 7,323 *(43.0%)*
+**Gym Leader**: 31,742 *(81.0%)*
+**Battle Legend**: 87 *(22.0%)*
+**Champion**: 90 *(36.5%)*
+**Pokedex Caught**: 362 *(66.0%)*
+**Pokedex Seen**: 371 *(85.5%)*
+    
+**Days Played**: 511 days
+**XP**/day: 30,520
+**KM**/day: 2.1
+**Catches**/day: 47.41
+**Evolves**/day: 5.54
+**Catches**/evolve: 8.56
+**Hatches**/day: 3.06
+**KM**/egg: 0.67
+**Spins**/day: 37.91
+**Battles**/day: 7.4
+**Berries**/day: 21.35
+**Gym Hours**/day: 92.54
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.27
+**Legendary Raids**/day: 0.29
+    

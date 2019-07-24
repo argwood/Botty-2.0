@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: PyroPen63
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 210
+**Monthly Rank**: 46
+    
+**Total XP**: 40,847,779 *(23.8%)*
+**Jogger**: 2,085.0 *(11.1%)*
+**Collector**: 30,783 *(13.2%)*
+**Scientist**: 2,665 *(25.4%)*
+**Breeder**: 1,256 *(18.0%)*
+**Backpacker**: 27,628 *(17.5%)*
+**Battle Girl**: 15,868 *(70.4%)*
+**Gold Gyms**: 76 *(65.1%)*
+    
+**Pokemon Ranger**: 2,090 *(25.9%)*
+**Berry Master**: 19,978 *(39.2%)*
+**Gym Leader**: 66,755 *(72.5%)*
+**Battle Legend**: 410 *(27.0%)*
+**Champion**: 143 *(16.9%)*
+    
+**Days Played**: 1024 days
+**XP**/day: 39,890
+**KM**/day: 2.0
+**Catches**/day: 30.06
+**Evolves**/day: 2.6
+**Hatches**/day: 1.23
+**Spins**/day: 26.98
+**Battles**/day: 15.5
+**Research**/day: 5.28
+**Berries**/day: 29.51
+**Gym Hours**/day: 98.6
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.21
+**Legendary Raids**/day: 0.22
+    

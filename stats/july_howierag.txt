@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: Howierag
+**Level**: 40
+**Team**: Mystic
+**Region**: Loop
+    
+**Total XP**: 45,126,267 *(70.3%)*
+**Jogger**: 2,590.8 *(43.6%)*
+**Collector**: 43,182 *(48.2%)*
+**Scientist**: 2,300 *(31.3%)*
+**Breeder**: 1,854 *(52.3%)*
+**Backpacker**: 30,571 *(37.9%)*
+**Battle Girl**: 9,892 *(68.7%)*
+**Gym Badge**: 971 *(89.2%)*
+**Gold Gyms**: 14 *(33.3%)*
+    
+**Pokemon Ranger**: 964 *(49.2%)*
+**Berry Master**: 8,795 *(34.9%)*
+**Gym Leader**: 13,993 *(35.9%)*
+**Battle Legend**: 1222 *(92.8%)*
+**Champion**: 248 *(74.9%)*
+**Pokedex Caught**: 371 *(83.1%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 165
+**Youngster**: 374
+**Pikachu Fan**: 513
+**Unown**: 25
+**Pilot**: 455,040
+**Gentleman**: 104
+    
+**Days Played**: 747 days
+**XP**/day: 60,409
+**KM**/day: 3.5
+**Catches**/day: 57.81
+**Evolves**/day: 3.08
+**Hatches**/day: 2.48
+**Spins**/day: 40.93
+**Battles**/day: 13.24
+**Research**/day: 7.9
+**Berries**/day: 21.82
+**Gym Hours**/day: 34.72
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.62
+**Legendary Raids**/day: 0.66
+    

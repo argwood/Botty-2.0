@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: JLasker1
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 44,372,579 *(68.9%)*
+**Gold Gyms**: 45 *(60.3%)*
+**Gym Badge**: 545 *(58.9%)*
+**Jogger**: 3,928.6 *(68.2%)*
+**Collector**: 72,337 *(70.2%)*
+**Scientist**: 10,498 *(86.8%)*
+**Breeder**: 2,264 *(54.3%)*
+**Backpacker**: 50,424 *(56.3%)*
+**Battle Girl**: 5,904 *(48.3%)*
+**Pokemon Ranger**: 1,420 *(78.1%)*
+**Berry Master**: 22,988 *(60.9%)*
+**Gym Leader**: 24,439 *(51.0%)*
+**Battle Legend**: 457 *(47.0%)*
+**Champion**: 191 *(53.6%)*
+**Pokedex Caught**: 369 *(94.0%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: -8 days
+**XP**/day: -5,546,572
+**KM**/day: -491.1
+**Catches**/day: -9042.12
+**Evolves**/day: -1312.25
+**Hatches**/day: -283.0
+**Spins**/day: -6303.0
+**Battles**/day: -738.0
+**Quests**/day: 15.43
+**Berries**/day: 61.63
+**Gym Hours**/day: 65.52
+**Gold Gyms**/day: 0.12
+**Raids**/day: 0.52
+**Legendary Raids**/day: 0.56
+    

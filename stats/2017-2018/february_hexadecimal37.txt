@@ -1,0 +1,37 @@
+**__FEBRUARY__**
+    
+**Trainer**: Hexadecimal37
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 21,768,513 *(49.6%)*
+**Gold Gyms**: 7 *(21.2%)*
+**Gym Badge**: 822 *(89.4%)*
+**Jogger**: 1,948.4 *(34.5%)*
+**Collector**: 33,539 *(41.6%)*
+**Scientist**: 3,225 *(37.2%)*
+**Breeder**: 536 *(13.3%)*
+**Backpacker**: 26,773 *(32.7%)*
+**Battle Girl**: 1,801 *(13.3%)*
+**Berry Master**: 11,320 *(58.4%)*
+**Gym Leader**: 11,647 *(28.3%)*
+**Battle Legend**: 458 *(85.0%)*
+**Champion**: 98 *(39.8%)*
+**Pokedex Caught**: 347 *(51.3%)*
+**Pokedex Seen**: 364 *(39.8%)*
+    
+**Days Played**: 600 days
+**XP**/day: 36,280
+**KM**/day: 3.2
+**Catches**/day: 55.9
+**Evolves**/day: 5.38
+**Hatches**/day: 0.89
+**Spins**/day: 44.62
+**Battles**/day: 3.0
+**Berries**/day: 45.1
+**Gym Hours**/day: 46.4
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.4
+**Legendary Raids**/day: 0.44
+    

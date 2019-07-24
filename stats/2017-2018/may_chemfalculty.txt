@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: ChemFalculty
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 30,039,983 *(56.4%)*
+**Gold Gyms**: 41 *(64.4%)*
+**Gym Badge**: 198 *(12.8%)*
+**Jogger**: 1,901.6 *(30.9%)*
+**Collector**: 31,729 *(34.9%)*
+**Scientist**: 3,518 *(40.9%)*
+**Breeder**: 2,093 *(62.4%)*
+**Backpacker**: 31,793 *(41.6%)*
+**Battle Girl**: 9,103 *(75.2%)*
+**Pokemon Ranger**: 295 *(25.5%)*
+**Berry Master**: 19,874 *(69.1%)*
+**Gym Leader**: 21,019 *(51.7%)*
+**Battle Legend**: 634 *(83.9%)*
+**Champion**: 164 *(52.3%)*
+**Pokedex Caught**: 362 *(49.7%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 687 days
+**XP**/day: 43,726
+**KM**/day: 2.8
+**Catches**/day: 46.18
+**Evolves**/day: 5.12
+**Hatches**/day: 3.05
+**Spins**/day: 46.28
+**Battles**/day: 13.25
+**Quests**/day: 4.76
+**Berries**/day: 57.94
+**Gym Hours**/day: 61.28
+**Gold Gyms**/day: 0.12
+**Raids**/day: 0.48
+**Legendary Raids**/day: 0.52
+    

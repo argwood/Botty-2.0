@@ -1,0 +1,42 @@
+**__SEPTEMBER__**
+    
+**Trainer**: IrritatingChild
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 109
+**Monthly Rank**: 52
+    
+**Total XP**: 35,544,000 *(37.1%)*
+**Jogger**: 3,820.0 *(62.1%)*
+**Collector**: 66,670 *(55.0%)*
+**Scientist**: 3,600 *(39.3%)*
+**Breeder**: 1,680 *(41.4%)*
+**Backpacker**: 60,320 *(61.4%)*
+**Battle Girl**: 16,027 *(82.1%)*
+**Gym Badge**: 70 *(5.0%)*
+**Gold Gyms**: 70 *(72.9%)*
+    
+**Pokemon Ranger**: 1,761 *(53.6%)*
+**Berry Master**: 29,380 *(61.4%)*
+**Gym Leader**: 56,630 *(80.0%)*
+**Battle Legend**: 404 *(34.3%)*
+**Champion**: 140 *(35.7%)*
+**Pokedex Caught**: 0.0 *(2.9%)*
+**Pokedex Seen**: 0.0 *(2.9%)*
+    
+**Days Played**: 776 days
+**XP**/day: 45,804
+**KM**/day: 4.9
+**Catches**/day: 85.91
+**Evolves**/day: 4.64
+**Hatches**/day: 2.16
+**Spins**/day: 77.73
+**Battles**/day: 20.65
+**Research**/day: 9.62
+**Berries**/day: 63.32
+**Gym Hours**/day: 122.05
+**Gold Gyms**/day: 0.15
+**Raids**/day: 0.3
+**Legendary Raids**/day: 0.32
+    

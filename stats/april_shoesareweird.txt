@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: ShoesAreWeird
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 155
+**Monthly Rank**: N/A
+    
+**Total XP**: 43,020,296 *(24.3%)*
+**Jogger**: 2,957.0 *(20.1%)*
+**Collector**: 30,203 *(12.7%)*
+**Scientist**: 4,478 *(38.1%)*
+**Breeder**: 3,896 *(58.7%)*
+**Backpacker**: 40,525 *(31.7%)*
+**Battle Girl**: 16,235 *(71.4%)*
+**Gold Gyms**: 75 *(64.0%)*
+    
+**Pokemon Ranger**: 2,748 *(37.6%)*
+**Berry Master**: 20,272 *(39.7%)*
+**Gym Leader**: 48,138 *(58.7%)*
+**Battle Legend**: 315 *(17.5%)*
+**Champion**: 479 *(69.8%)*
+    
+**Days Played**: 1019 days
+**XP**/day: 42,218
+**KM**/day: 2.9
+**Catches**/day: 29.64
+**Evolves**/day: 4.39
+**Hatches**/day: 3.82
+**Spins**/day: 39.77
+**Battles**/day: 15.93
+**Research**/day: 6.94
+**Berries**/day: 29.94
+**Gym Hours**/day: 71.1
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.71
+**Legendary Raids**/day: 0.74
+    

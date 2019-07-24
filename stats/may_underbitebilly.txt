@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: UnderBiteBilly
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 30
+**Monthly Rank**: 11
+    
+**Total XP**: 91,920,922 *(66.7%)*
+**Jogger**: 8,677.3 *(89.2%)*
+**Collector**: 159,477 *(90.0%)*
+**Scientist**: 16,906 *(89.2%)*
+**Breeder**: 3,615 *(59.2%)*
+**Backpacker**: 96,360 *(71.7%)*
+**Battle Girl**: 18,225 *(76.7%)*
+**Gold Gyms**: 82 *(66.7%)*
+    
+**Pokemon Ranger**: 5,503 *(79.2%)*
+**Berry Master**: 55,778 *(72.5%)*
+**Gym Leader**: 56,279 *(64.2%)*
+**Battle Legend**: 937 *(65.8%)*
+**Champion**: 315 *(47.5%)*
+    
+**Days Played**: 1058 days
+**XP**/day: 86,881
+**KM**/day: 8.2
+**Catches**/day: 150.73
+**Evolves**/day: 15.98
+**Hatches**/day: 3.42
+**Spins**/day: 91.08
+**Battles**/day: 17.23
+**Research**/day: 12.89
+**Berries**/day: 78.78
+**Gym Hours**/day: 79.49
+**Gold Gyms**/day: 0.12
+**Raids**/day: 0.45
+**Legendary Raids**/day: 0.46
+    

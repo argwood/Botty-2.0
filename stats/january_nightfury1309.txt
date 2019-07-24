@@ -1,0 +1,37 @@
+**__JANUARY__**
+    
+**Trainer**: NightFury1309
+**Level**: 36
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 9,386,834 *(10.5%)*
+**Gold Gyms**: 2 *(7.0%)*
+**Gym Badge**: 365 *(34.9%)*
+**Jogger**: 1,333.9 *(16.3%)*
+**Collector**: 15,696 *(15.1%)*
+**Scientist**: 2,274 *(25.6%)*
+**Breeder**: 714 *(15.1%)*
+**Backpacker**: 17,226 *(17.4%)*
+**Battle Girl**: 1,611 *(11.6%)*
+**Berry Master**: 2,578 *(11.6%)*
+**Gym Leader**: 5,021 *(17.4%)*
+**Battle Legend**: 111 *(11.6%)*
+**Champion**: 54 *(9.3%)*
+**Pokedex Caught**: 322 *(62.8%)*
+**Pokedex Seen**: 334 *(45.3%)*
+    
+**Days Played**: 537 days
+**XP**/day: 17,480
+**KM**/day: 2.5
+**Catches**/day: 29.23
+**Evolves**/day: 4.23
+**Hatches**/day: 1.33
+**Spins**/day: 32.08
+**Battles**/day: 3.0
+**Berries**/day: 11.83
+**Gym Hours**/day: 23.03
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.25
+**Legendary Raids**/day: 0.29
+    

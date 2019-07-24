@@ -1,0 +1,54 @@
+**__JUNE__**
+    
+**Trainer**: LitePenguins
+**Level**: 37
+**Team**: Mystic
+**Region**: Loop
+**Overall Rank**: 457
+**Monthly Rank**: N/A
+    
+**Total XP**: 10,286,809 *(9.8%)*
+**Jogger**: 946.1 *(7.1%)*
+**Collector**: 14,734 *(13.4%)*
+**Scientist**: 744 *(12.5%)*
+**Breeder**: 365 *(5.4%)*
+**Backpacker**: 11,043 *(12.5%)*
+**Battle Girl**: 245 *(1.8%)*
+**Gold Gyms**: 0 *(4.5%)*
+    
+**Pokemon Ranger**: 649 *(10.7%)*
+**Berry Master**: 1,090 *(7.1%)*
+**Gym Leader**: 392 *(1.8%)*
+**Battle Legend**: 88 *(11.6%)*
+**Champion**: 24 *(3.6%)*
+    
+**Gym Badges**: 185
+**Pokedex Caught**: 359
+**Pokedex Seen**: 452
+**Fisherman**: 29
+**Youngster**: 105
+**Pikachu Fan**: 123
+**Unown**: 12
+**Pilot**: 27,255
+**Gentleman**: 15
+**Idol**: 2
+**Ace Trainer**: 85
+**Great League Veteran**: 1
+**Ultra League Veteran**: 0
+**Master League Veteran**: 0
+    
+**Days Played**: 1088 days
+**XP**/day: 9,454
+**KM**/day: 0.9
+**Catches**/day: 13.54
+**Evolves**/day: 0.68
+**Hatches**/day: 0.34
+**Spins**/day: 10.15
+**Battles**/day: 0.23
+**Research**/day: 1.42
+**Berries**/day: 1.48
+**Gym Hours**/day: 0.53
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.03
+**Legendary Raids**/day: 0.03
+    

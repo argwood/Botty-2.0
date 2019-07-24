@@ -1,0 +1,50 @@
+**__NOVEMBER__**
+    
+**Trainer**: Mzall
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 8
+**Monthly Rank**: 7
+    
+**Total XP**: 100,739,227 *(89.0%)*
+**Jogger**: 7,018 *(88.1%)*
+**Collector**: 117,079 *(87.2%)*
+**Scientist**: 11,435 *(83.5%)*
+**Breeder**: 5,084 *(81.7%)*
+**Backpacker**: 159,278 *(95.4%)*
+**Battle Girl**: 20,728 *(83.5%)*
+**Gym Badge**: 1000 *(97.2%)*
+**Gold Gyms**: 171 *(92.7%)*
+    
+**Pokemon Ranger**: 5,017 *(88.1%)*
+**Berry Master**: 80,425 *(95.4%)*
+**Gym Leader**: 88,767 *(91.7%)*
+**Battle Legend**: 1070 *(85.3%)*
+**Champion**: 363 *(62.4%)*
+**Pokedex Caught**: 416.0 *(93.3%)*
+**Pokedex Seen**: 425.0 *(92.4%)*
+    
+**Fisherman**: 506
+**Youngster**: 736
+**Pikachu Fan**: 1006
+**Unown**: 28
+**Pilot**: 1,933,901
+**Gentleman**: 1932
+**Idol**: 33
+    
+**Days Played**: 876 days
+**XP**/day: 114,999
+**KM**/day: 8.0
+**Catches**/day: 133.65
+**Evolves**/day: 13.05
+**Hatches**/day: 5.8
+**Spins**/day: 181.82
+**Battles**/day: 23.66
+**Research**/day: 20.48
+**Berries**/day: 152.9
+**Gym Hours**/day: 168.76
+**Gold Gyms**/day: 0.33
+**Raids**/day: 0.7
+**Legendary Raids**/day: 0.73
+    

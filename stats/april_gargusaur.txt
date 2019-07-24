@@ -1,0 +1,54 @@
+**__APRIL__**
+    
+**Trainer**: Gargusaur
+**Level**: 40
+**Team**: Instinct
+**Region**: North
+**Overall Rank**: 281
+**Monthly Rank**: 24
+    
+**Total XP**: 30,738,531 *(15.9%)*
+**Jogger**: 3,362.5 *(27.5%)*
+**Collector**: 48,089 *(31.2%)*
+**Scientist**: 1,463 *(13.8%)*
+**Breeder**: 1,259 *(18.5%)*
+**Backpacker**: 39,572 *(30.7%)*
+**Battle Girl**: 2,984 *(19.0%)*
+**Gold Gyms**: 10 *(15.9%)*
+    
+**Pokemon Ranger**: 3,670 *(56.1%)*
+**Berry Master**: 11,613 *(22.8%)*
+**Gym Leader**: 4,893 *(9.0%)*
+**Battle Legend**: 355 *(21.7%)*
+**Champion**: 65 *(5.3%)*
+    
+**Gym Badges**: 316
+**Pokedex Caught**: 463
+**Pokedex Seen**: 466
+**Fisherman**: 121
+**Youngster**: 95
+**Pikachu Fan**: 366
+**Unown**: 1
+**Pilot**: 4,100,382
+**Gentleman**: 5063
+**Idol**: 39
+**Ace Trainer**: 141
+**Great League Veteran**: 63
+**Ultra League Veteran**: 69
+**Master League Veteran**: 10
+    
+**Days Played**: 1026 days
+**XP**/day: 29,959
+**KM**/day: 3.3
+**Catches**/day: 46.87
+**Evolves**/day: 1.43
+**Hatches**/day: 1.23
+**Spins**/day: 38.57
+**Battles**/day: 2.91
+**Research**/day: 9.27
+**Berries**/day: 17.15
+**Gym Hours**/day: 7.23
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.1
+**Legendary Raids**/day: 0.1
+    

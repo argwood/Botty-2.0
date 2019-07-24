@@ -1,0 +1,42 @@
+**__SEPTEMBER__**
+    
+**Trainer**: MotoCoder
+**Level**: 34
+**Team**: Mystic
+**Region**: Loop
+**Overall Rank**: 342
+**Monthly Rank**: N/A
+    
+**Total XP**: 5,365,175 *(7.1%)*
+**Jogger**: 976.8 *(12.9%)*
+**Collector**: 12,764 *(13.6%)*
+**Scientist**: 714 *(12.1%)*
+**Breeder**: 528 *(12.9%)*
+**Backpacker**: 14,285 *(16.4%)*
+**Battle Girl**: 899 *(12.1%)*
+**Gym Badge**: 135 *(10.0%)*
+**Gold Gyms**: 0 *(7.1%)*
+    
+**Pokemon Ranger**: 583 *(19.3%)*
+**Berry Master**: 2,616 *(15.7%)*
+**Gym Leader**: 1,842 *(8.6%)*
+**Battle Legend**: 25 *(5.7%)*
+**Champion**: 29 *(7.9%)*
+**Pokedex Caught**: 334.0 *(10.1%)*
+**Pokedex Seen**: 360.0 *(10.8%)*
+    
+**Days Played**: 807 days
+**XP**/day: 6,648
+**KM**/day: 1.2
+**Catches**/day: 15.82
+**Evolves**/day: 0.88
+**Hatches**/day: 0.65
+**Spins**/day: 17.7
+**Battles**/day: 1.11
+**Research**/day: 3.22
+**Berries**/day: 5.66
+**Gym Hours**/day: 3.99
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.06
+**Legendary Raids**/day: 0.07
+    

@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Poopsmcgee3 
+**Level**: 40
+**Team**: Valor
+**Region**: South
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 49,654,802 *(31.7%)*
+**Jogger**: 3,290.0 *(24.3%)*
+**Collector**: 46,174 *(30.2%)*
+**Scientist**: 1,986 *(19.0%)*
+**Breeder**: 2,743 *(44.4%)*
+**Backpacker**: 59,878 *(47.1%)*
+**Battle Girl**: 6,897 *(38.6%)*
+**Gold Gyms**: 46 *(43.4%)*
+    
+**Pokemon Ranger**: 4,294 *(66.7%)*
+**Berry Master**: 36,931 *(55.6%)*
+**Gym Leader**: 31,857 *(42.3%)*
+**Battle Legend**: 748 *(52.9%)*
+**Champion**: 346 *(52.4%)*
+    
+**Days Played**: 681 days
+**XP**/day: 72,914
+**KM**/day: 4.8
+**Catches**/day: 67.8
+**Evolves**/day: 2.92
+**Hatches**/day: 4.03
+**Spins**/day: 87.93
+**Battles**/day: 10.13
+**Research**/day: 11.73
+**Berries**/day: 57.08
+**Gym Hours**/day: 49.24
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.54
+**Legendary Raids**/day: 0.56
+    

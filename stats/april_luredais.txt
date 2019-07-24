@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: luredais
+**Level**: 29
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 500
+**Monthly Rank**: N/A
+    
+**Total XP**: 1,941,243 *(1.6%)*
+**Jogger**: 181.0 *(0.5%)*
+**Collector**: 5,426 *(3.2%)*
+**Scientist**: 299 *(3.2%)*
+**Breeder**: 89 *(0.5%)*
+**Backpacker**: 4,294 *(3.2%)*
+**Battle Girl**: 477 *(2.6%)*
+**Gold Gyms**: 0 *(1.6%)*
+    
+**Pokemon Ranger**: 167 *(1.6%)*
+**Berry Master**: 1,086 *(3.7%)*
+**Gym Leader**: 361 *(1.1%)*
+**Battle Legend**: 6 *(1.1%)*
+**Champion**: 6 *(1.1%)*
+    
+**Days Played**: 1028 days
+**XP**/day: 1,888
+**KM**/day: 0.2
+**Catches**/day: 5.28
+**Evolves**/day: 0.29
+**Hatches**/day: 0.09
+**Spins**/day: 4.18
+**Battles**/day: 0.46
+**Research**/day: 0.42
+**Berries**/day: 1.6
+**Gym Hours**/day: 0.53
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.01
+**Legendary Raids**/day: 0.01
+    

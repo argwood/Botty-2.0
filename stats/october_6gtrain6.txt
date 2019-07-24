@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: 6gtrain6
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 141
+**Monthly Rank**: N/A
+    
+**Total XP**: 40,504,681 *(39.3%)*
+**Jogger**: 4,293.0 *(65.7%)*
+**Collector**: 50,464 *(39.3%)*
+**Scientist**: 4,468 *(45.0%)*
+**Breeder**: 3,911 *(71.4%)*
+**Backpacker**: 46,800 *(42.9%)*
+**Battle Girl**: 7,222 *(52.1%)*
+**Gym Badge**: 280 *(25.0%)*
+**Gold Gyms**: 18 *(29.3%)*
+    
+**Pokemon Ranger**: 2,747 *(70.7%)*
+**Berry Master**: 11,735 *(30.7%)*
+**Gym Leader**: 14,013 *(30.0%)*
+**Battle Legend**: 413 *(32.1%)*
+**Champion**: 301 *(67.9%)*
+**Pokedex Caught**: 402.0 *(85.2%)*
+**Pokedex Seen**: 404.0 *(77.9%)*
+    
+**Days Played**: 842 days
+**XP**/day: 48,105
+**KM**/day: 5.1
+**Catches**/day: 59.93
+**Evolves**/day: 5.31
+**Hatches**/day: 4.64
+**Spins**/day: 55.58
+**Battles**/day: 8.58
+**Research**/day: 12.78
+**Berries**/day: 23.66
+**Gym Hours**/day: 28.25
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.61
+**Legendary Raids**/day: 0.65
+    

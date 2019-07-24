@@ -1,0 +1,38 @@
+**Trainer**: Jabronin
+**Level**: 40
+**Team**: Mystic
+**Region**: Loop
+    
+**Total XP**: 22,090,933 *(49.6%)*
+**Gold Gyms**: 3 *(13.2%)*
+**Gym Badge**: 667 *(70.7%)*
+**Jogger**: 3,782.3 *(78.2%)*
+**Collector**: 57,002 *(69.2%)*
+**Scientist**: 3,594 *(42.9%)*
+**Breeder**: 872 *(23.3%)*
+**Backpacker**: 47,991 *(61.7%)*
+**Battle Girl**: 742 *(6.0%)*
+**Ace Trainer**: 0 *(50.4%)*
+**Berry Master**: 13,819 *(60.9%)*
+**Gym Leader**: 6,938 *(27.8%)*
+**Battle Legend**: 338 *(57.9%)*
+**Champion**: 59 *(15.8%)*
+**Pokedex Caught**: 363 *(78.6%)*
+**Pokedex Seen**: 371 *(84.2%)*
+    
+**Days Played**: 693 days
+**XP**/day: 31,877
+**KM**/day: 5.5
+**Catches**/day: 82.25
+**Evolves**/day: 5.19
+**Catches**/evolve: 15.86
+**Hatches**/day: 1.26
+**KM**/egg: 4.34
+**Spins**/day: 69.25
+**Battles**/day: 1.07
+**Berries**/day: 40.29
+**Gym Hours**/day: 20.23
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.17
+**Legendary Raids**/day: 0.19
+    

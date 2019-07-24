@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: Landon23PKM
+**Level**: 37
+**Team**: Valor
+**Region**: South
+    
+**Total XP**: 10,650,438 *(9.0%)*
+**Gold Gyms**: 1 *(3.6%)*
+**Gym Badge**: 190 *(6.3%)*
+**Jogger**: 2,037.3 *(31.5%)*
+**Collector**: 19,932 *(15.3%)*
+**Scientist**: 2,896 *(29.7%)*
+**Breeder**: 992 *(25.2%)*
+**Backpacker**: 20,250 *(19.8%)*
+**Battle Girl**: 1,985 *(11.7%)*
+**Berry Master**: 1,890 *(5.4%)*
+**Gym Leader**: 2,223 *(1.8%)*
+**Battle Legend**: 34 *(1.8%)*
+**Champion**: 51 *(5.4%)*
+**Pokedex Caught**: 344 *(18.9%)*
+**Pokedex Seen**: 363 *(11.7%)*
+    
+**Days Played**: 633 days
+**XP**/day: 16,825
+**KM**/day: 3.2
+**Catches**/day: 31.49
+**Evolves**/day: 4.58
+**Hatches**/day: 1.57
+**Spins**/day: 31.99
+**Battles**/day: 3.14
+**Berries**/day: 6.7
+**Gym Hours**/day: 7.88
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.18
+**Legendary Raids**/day: 0.2
+    

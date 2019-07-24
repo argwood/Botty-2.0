@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: AngelEyesSakura
+**Level**: 33
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 4,149,233 *(12.8%)*
+**Gold Gyms**: 0 *(7.5%)*
+**Gym Badge**: 154 *(18.0%)*
+**Jogger**: 1,006.3 *(19.5%)*
+**Collector**: 10,690 *(21.1%)*
+**Scientist**: 732 *(15.8%)*
+**Breeder**: 343 *(15.8%)*
+**Backpacker**: 10,516 *(20.3%)*
+**Battle Girl**: 228 *(6.0%)*
+**Ace Trainer**: 298 *(31.6%)*
+**Berry Master**: 322 *(2.3%)*
+**Gym Leader**: 318 *(2.3%)*
+**Battle Legend**: 23 *(3.0%)*
+**Champion**: 11 *(2.3%)*
+**Pokedex Caught**: 238 *(15.0%)*
+**Pokedex Seen**: 248 *(11.3%)*
+    
+**Days Played**: 504 days
+**XP**/day: 8,232
+**KM**/day: 2.0
+**Catches**/day: 21.21
+**Evolves**/day: 1.45
+**Catches**/evolve: 14.6
+**Hatches**/day: 0.68
+**KM**/egg: 2.93
+**Spins**/day: 20.87
+**Battles**/day: 0.45
+**Berries**/day: 2.09
+**Gym Hours**/day: 2.06
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.07
+**Legendary Raids**/day: 0.09
+    

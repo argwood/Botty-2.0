@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: R0o11
+**Level**: 40
+**Team**: Instinct
+**Region**: South
+**Overall Rank**: 199
+**Monthly Rank**: N/A
+    
+**Total XP**: 34,738,353 *(41.7%)*
+**Jogger**: 2,385.6 *(30.8%)*
+**Collector**: 38,841 *(30.8%)*
+**Scientist**: 3,041 *(27.5%)*
+**Breeder**: 1,883 *(51.7%)*
+**Backpacker**: 36,421 *(30.8%)*
+**Battle Girl**: 3,158 *(20.8%)*
+**Gym Badge**: 565 *(55.8%)*
+**Gold Gyms**: 7 *(11.7%)*
+    
+**Pokemon Ranger**: 1,668 *(58.3%)*
+**Berry Master**: 13,603 *(35.0%)*
+**Gym Leader**: 4,667 *(6.7%)*
+**Battle Legend**: 755 *(80.8%)*
+**Champion**: 128 *(23.3%)*
+**Pokedex Caught**: 374.0 *(78.8%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 214
+**Youngster**: 308
+**Pikachu Fan**: 428
+**Unown**: 11
+**Pilot**: 784,141
+**Gentleman**: 784
+    
+**Days Played**: 780 days
+**XP**/day: 44,536
+**KM**/day: 3.1
+**Catches**/day: 49.8
+**Evolves**/day: 3.9
+**Hatches**/day: 2.41
+**Spins**/day: 46.69
+**Battles**/day: 4.05
+**Research**/day: 10.83
+**Berries**/day: 31.27
+**Gym Hours**/day: 10.73
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.3
+**Legendary Raids**/day: 0.32
+    

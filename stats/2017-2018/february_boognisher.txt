@@ -1,0 +1,37 @@
+**__FEBRUARY__**
+    
+**Trainer**: Boognisher
+**Level**: 36
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 7,533,112 *(8.8%)*
+**Gold Gyms**: 12 *(37.2%)*
+**Gym Badge**: 262 *(17.7%)*
+**Jogger**: 888.9 *(6.2%)*
+**Collector**: 11,137 *(8.0%)*
+**Scientist**: 1,334 *(14.2%)*
+**Breeder**: 269 *(5.3%)*
+**Backpacker**: 12,116 *(11.5%)*
+**Battle Girl**: 1,734 *(12.4%)*
+**Berry Master**: 2,005 *(8.0%)*
+**Gym Leader**: 16,836 *(48.7%)*
+**Battle Legend**: 150 *(15.9%)*
+**Champion**: 45 *(5.3%)*
+**Pokedex Caught**: 312 *(7.1%)*
+**Pokedex Seen**: 352 *(6.2%)*
+    
+**Days Played**: 601 days
+**XP**/day: 12,534
+**KM**/day: 1.5
+**Catches**/day: 18.53
+**Evolves**/day: 2.22
+**Hatches**/day: 0.45
+**Spins**/day: 20.16
+**Battles**/day: 2.89
+**Berries**/day: 7.99
+**Gym Hours**/day: 67.08
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.18
+**Legendary Raids**/day: 0.2
+    

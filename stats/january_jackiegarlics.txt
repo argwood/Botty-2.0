@@ -1,0 +1,54 @@
+**__JANUARY__**
+    
+**Trainer**: jackiegarlics
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 282
+**Monthly Rank**: 69
+    
+**Total XP**: 28,224,454 *(20.2%)*
+**Jogger**: 2,247.0 *(21.1%)*
+**Collector**: 32,631 *(21.9%)*
+**Scientist**: 1,974 *(24.6%)*
+**Breeder**: 2,135 *(39.5%)*
+**Backpacker**: 29,154 *(25.4%)*
+**Battle Girl**: 1,184 *(10.5%)*
+**Gold Gyms**: 8 *(17.5%)*
+    
+**Pokemon Ranger**: 1,728 *(30.7%)*
+**Berry Master**: 2,221 *(12.3%)*
+**Gym Leader**: 7,315 *(15.8%)*
+**Battle Legend**: 252 *(19.3%)*
+**Champion**: 307 *(52.6%)*
+    
+**Gym Badges**: 156
+**Pokedex Caught**: 426
+**Pokedex Seen**: 441
+**Fisherman**: 114
+**Youngster**: 130
+**Pikachu Fan**: 550
+**Unown**: 6
+**Pilot**: 598,667
+**Gentleman**: 1063
+**Idol**: 24
+**Ace Trainer**: 131
+**Great League Veteran**: 26
+**Ultra League Veteran**: 14
+**Master League Veteran**: 6
+    
+**Days Played**: 934 days
+**XP**/day: 30,218
+**KM**/day: 2.4
+**Catches**/day: 34.94
+**Evolves**/day: 2.11
+**Hatches**/day: 2.29
+**Spins**/day: 31.21
+**Battles**/day: 1.27
+**Research**/day: 5.63
+**Berries**/day: 3.78
+**Gym Hours**/day: 12.44
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.53
+**Legendary Raids**/day: 0.55
+    

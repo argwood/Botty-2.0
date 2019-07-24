@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: MeatyandtheMan
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 46
+**Monthly Rank**: 47
+    
+**Total XP**: 43,311,922 *(58.3%)*
+**Jogger**: 4,404.0 *(77.5%)*
+**Collector**: 55,524 *(50.8%)*
+**Scientist**: 4,629 *(48.3%)*
+**Breeder**: 3,554 *(77.5%)*
+**Backpacker**: 59,604 *(66.7%)*
+**Battle Girl**: 17,501 *(86.7%)*
+**Gym Badge**: 350 *(30.0%)*
+**Gold Gyms**: 81 *(78.3%)*
+    
+**Pokemon Ranger**: 1,990 *(67.5%)*
+**Berry Master**: 30,415 *(71.7%)*
+**Gym Leader**: 43,214 *(69.2%)*
+**Battle Legend**: 778 *(81.7%)*
+**Champion**: 280 *(75.0%)*
+**Pokedex Caught**: 372.0 *(57.6%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 481
+**Youngster**: 457
+**Pikachu Fan**: 1048
+**Unown**: 22
+**Pilot**: 1,011,267
+**Gentleman**: 171
+    
+**Days Played**: 781 days
+**XP**/day: 55,457
+**KM**/day: 5.6
+**Catches**/day: 71.09
+**Evolves**/day: 5.93
+**Hatches**/day: 4.55
+**Spins**/day: 76.32
+**Battles**/day: 22.41
+**Research**/day: 12.92
+**Berries**/day: 69.92
+**Gym Hours**/day: 99.34
+**Gold Gyms**/day: 0.19
+**Raids**/day: 0.65
+**Legendary Raids**/day: 0.69
+    

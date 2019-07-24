@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: TeamFRESHR0CKET
+**Level**: 40
+**Team**: Valor
+**Region**: Loop
+    
+**Total XP**: 26,168,059 *(40.0%)*
+**Jogger**: 5,836.2 *(90.3%)*
+**Collector**: 30,381 *(32.3%)*
+**Scientist**: 5,627 *(64.1%)*
+**Breeder**: 4,704 *(89.2%)*
+**Backpacker**: 71,283 *(77.4%)*
+**Battle Girl**: 2,740 *(29.7%)*
+**Gym Badge**: 273 *(25.6%)*
+**Gold Gyms**: 10 *(29.2%)*
+    
+**Pokemon Ranger**: 466 *(27.7%)*
+**Berry Master**: 10,516 *(40.0%)*
+**Gym Leader**: 3,226 *(14.9%)*
+**Battle Legend**: 248 *(28.7%)*
+**Champion**: 150 *(47.2%)*
+**Pokedex Caught**: 370 *(72.8%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 166
+**Youngster**: 341
+**Pikachu Fan**: 543
+**Unown**: 11
+**Pilot**: 192,358
+**Gentleman**: 35
+    
+**Days Played**: 751 days
+**XP**/day: 34,844
+**KM**/day: 7.8
+**Catches**/day: 40.45
+**Evolves**/day: 7.49
+**Hatches**/day: 6.26
+**Spins**/day: 94.92
+**Battles**/day: 3.65
+**Research**/day: 3.79
+**Berries**/day: 26.03
+**Gym Hours**/day: 7.99
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.38
+**Legendary Raids**/day: 0.4
+    

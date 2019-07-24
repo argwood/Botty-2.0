@@ -1,0 +1,54 @@
+**__DECEMBER__**
+    
+**Trainer**: ProfCDHJ2000
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: 211
+**Monthly Rank**: N/A
+    
+**Total XP**: 33,475,780 *(24.8%)*
+**Jogger**: 3,284.0 *(43.8%)*
+**Collector**: 39,967 *(28.9%)*
+**Scientist**: 3,580 *(36.4%)*
+**Breeder**: 2,013 *(38.8%)*
+**Backpacker**: 22,763 *(19.8%)*
+**Battle Girl**: 3,737 *(20.7%)*
+**Gold Gyms**: 33 *(36.4%)*
+    
+**Pokemon Ranger**: 1,601 *(30.6%)*
+**Berry Master**: 2,512 *(9.9%)*
+**Gym Leader**: 40,517 *(58.7%)*
+**Battle Legend**: 293 *(20.7%)*
+**Champion**: 370 *(65.3%)*
+    
+**Gym Badges**: 420
+**Pokedex Caught**: 427
+**Pokedex Seen**: 434
+**Fisherman**: 151
+**Youngster**: 209
+**Pikachu Fan**: 949
+**Unown**: 2
+**Pilot**: 250,576
+**Gentleman**: 114
+**Idol**: 1
+**Ace Trainer**: 250
+**Great League Veteran**: 2
+**Ultra League Veteran**: 8
+**Master League Veteran**: 25
+    
+**Days Played**: 903 days
+**XP**/day: 37,071
+**KM**/day: 3.6
+**Catches**/day: 44.26
+**Evolves**/day: 3.96
+**Hatches**/day: 2.23
+**Spins**/day: 25.21
+**Battles**/day: 4.14
+**Research**/day: 5.8
+**Berries**/day: 4.51
+**Gym Hours**/day: 72.74
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.67
+**Legendary Raids**/day: 0.7
+    

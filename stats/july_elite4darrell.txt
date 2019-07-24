@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: Elite4Darrell
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 91,020,457 *(92.8%)*
+**Jogger**: 5,657.0 *(88.2%)*
+**Collector**: 105,336 *(91.3%)*
+**Scientist**: 13,226 *(91.8%)*
+**Breeder**: 6,641 *(97.9%)*
+**Backpacker**: 80,985 *(86.2%)*
+**Battle Girl**: 16,937 *(85.6%)*
+**Gym Badge**: 1000 *(97.4%)*
+**Gold Gyms**: 113 *(90.3%)*
+    
+**Pokemon Ranger**: 5,773 *(98.5%)*
+**Berry Master**: 50,412 *(92.8%)*
+**Gym Leader**: 64,812 *(87.2%)*
+**Battle Legend**: 1053 *(87.7%)*
+**Champion**: 391 *(89.7%)*
+**Pokedex Caught**: 370 *(72.8%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 410
+**Youngster**: 609
+**Pikachu Fan**: 1085
+**Unown**: 17
+**Pilot**: 447,759
+**Gentleman**: 135
+    
+**Days Played**: 755 days
+**XP**/day: 120,556
+**KM**/day: 7.5
+**Catches**/day: 139.52
+**Evolves**/day: 17.52
+**Hatches**/day: 8.8
+**Spins**/day: 107.26
+**Battles**/day: 22.43
+**Research**/day: 46.93
+**Berries**/day: 124.78
+**Gym Hours**/day: 160.43
+**Gold Gyms**/day: 0.28
+**Raids**/day: 0.98
+**Legendary Raids**/day: 1.05
+    

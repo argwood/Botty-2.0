@@ -1,0 +1,39 @@
+**__FEBRUARY__**
+    
+**Trainer**: RauDevar
+**Level**: 40
+**Team**: Instinct
+**Region**: South
+**Overall Rank**: 183
+**Monthly Rank**: 63
+    
+**Total XP**: 47,423,063 *(19.2%)*
+**Jogger**: 2,002.7 *(8.1%)*
+**Collector**: 43,014 *(20.2%)*
+**Scientist**: 4,275 *(31.3%)*
+**Breeder**: 1,323 *(15.2%)*
+**Backpacker**: 39,738 *(23.2%)*
+**Battle Girl**: 13,032 *(62.6%)*
+**Gold Gyms**: 76 *(64.6%)*
+    
+**Pokemon Ranger**: 1,478 *(12.1%)*
+**Berry Master**: 26,953 *(36.4%)*
+**Gym Leader**: 46,649 *(59.6%)*
+**Battle Legend**: 510 *(28.3%)*
+**Champion**: 146 *(13.1%)*
+    
+**Days Played**: 545 days
+**XP**/day: 87,014
+**KM**/day: 3.7
+**Catches**/day: 78.92
+**Evolves**/day: 7.84
+**Hatches**/day: 2.43
+**Spins**/day: 72.91
+**Battles**/day: 23.91
+**Research**/day: 4.41
+**Berries**/day: 43.75
+**Gym Hours**/day: 75.73
+**Gold Gyms**/day: 0.12
+**Raids**/day: 0.24
+**Legendary Raids**/day: 0.25
+    

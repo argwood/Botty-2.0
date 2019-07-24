@@ -1,0 +1,39 @@
+**Trainer**: Nathansmo1138  I recently changed my name, in case there is any confusion
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 38,706,155 *(62.7%)*
+**Gold Gyms**: 40 *(60.9%)*
+**Gym Badge**: 657 *(71.5%)*
+**Jogger**: 3,133.0 *(53.4%)*
+**Collector**: 62,199 *(66.3%)*
+**Scientist**: 6,069 *(66.8%)*
+**Breeder**: 1,522 *(43.0%)*
+**Backpacker**: 79,355 *(85.0%)*
+**Battle Girl**: 10,052 *(69.9%)*
+**Pokemon Ranger**: 1,881 *(78.8%)*
+**Berry Master**: 38,354 *(86.0%)*
+**Gym Leader**: 40,666 *(74.6%)*
+**Battle Legend**: 427 *(50.3%)*
+**Champion**: 222 *(68.7%)*
+**Pokedex Caught**: 370 *(66.1%)*
+**Pokedex Seen**: 374 *(71.0%)*
+    
+**Days Played**: 753 days
+**XP**/day: 51,402
+**KM**/day: 4.2
+**Catches**/day: 82.6
+**Evolves**/day: 8.06
+**Catches**/evolve: 10.25
+**Hatches**/day: 2.02
+**KM**/egg: 2.06
+**Spins**/day: 105.39
+**Battles**/day: 13.35
+**Quests**/day: 15.42
+**Berries**/day: 95.17
+**Gym Hours**/day: 100.91
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.56
+**Legendary Raids**/day: 0.6
+    

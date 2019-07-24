@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: HandsomeCitizen
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 21,742,906 *(24.5%)*
+**Gold Gyms**: 12 *(19.9%)*
+**Gym Badge**: 309 *(27.8%)*
+**Jogger**: 2,268.0 *(32.5%)*
+**Collector**: 26,475 *(21.9%)*
+**Scientist**: 3,053 *(30.5%)*
+**Breeder**: 1,247 *(29.1%)*
+**Backpacker**: 21,006 *(19.9%)*
+**Battle Girl**: 4,225 *(35.1%)*
+**Pokemon Ranger**: 606 *(35.1%)*
+**Berry Master**: 5,226 *(13.9%)*
+**Gym Leader**: 13,728 *(27.8%)*
+**Battle Legend**: 296 *(25.2%)*
+**Champion**: 132 *(32.5%)*
+**Pokedex Caught**: 349 *(12.6%)*
+**Pokedex Seen**: 368 *(8.6%)*
+    
+**Days Played**: 716 days
+**XP**/day: 30,367
+**KM**/day: 3.2
+**Catches**/day: 36.98
+**Evolves**/day: 4.26
+**Hatches**/day: 1.74
+**Spins**/day: 29.34
+**Battles**/day: 5.9
+**Quests**/day: 6.52
+**Berries**/day: 13.97
+**Gym Hours**/day: 36.71
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.36
+**Legendary Raids**/day: 0.38
+    

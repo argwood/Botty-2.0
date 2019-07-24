@@ -1,0 +1,37 @@
+**__JANUARY__**
+    
+**Trainer**: ChienyuJason
+**Level**: 39
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 17,652,089 *(34.9%)*
+**Gold Gyms**: 30 *(76.7%)*
+**Gym Badge**: 251 *(14.0%)*
+**Jogger**: 4,927.4 *(93.0%)*
+**Collector**: 36,080 *(48.8%)*
+**Scientist**: 3,612 *(39.5%)*
+**Breeder**: 1,346 *(47.7%)*
+**Backpacker**: 37,205 *(52.3%)*
+**Battle Girl**: 4,509 *(55.8%)*
+**Berry Master**: 10,137 *(61.6%)*
+**Gym Leader**: 20,960 *(65.1%)*
+**Battle Legend**: 248 *(55.8%)*
+**Champion**: 102 *(50.0%)*
+**Pokedex Caught**: 328 *(77.9%)*
+**Pokedex Seen**: 334 *(45.3%)*
+    
+**Days Played**: 473 days
+**XP**/day: 37,319
+**KM**/day: 10.4
+**Catches**/day: 76.28
+**Evolves**/day: 7.64
+**Hatches**/day: 2.85
+**Spins**/day: 78.66
+**Battles**/day: 9.53
+**Berries**/day: 46.71
+**Gym Hours**/day: 96.59
+**Gold Gyms**/day: 0.14
+**Raids**/day: 0.48
+**Legendary Raids**/day: 0.55
+    

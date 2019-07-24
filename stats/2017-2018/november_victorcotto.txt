@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: VictorCotto
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 29,228,549 *(91.0%)*
+**Gold Gyms**: 13 *(76.7%)*
+**Gym Badge**: 520 *(91.0%)*
+**Jogger**: 3,505.6 *(88.0%)*
+**Collector**: 63,359 *(99.2%)*
+**Scientist**: 5,214 *(76.7%)*
+**Breeder**: 2,602 *(87.2%)*
+**Backpacker**: 64,550 *(94.7%)*
+**Battle Girl**: 3,125 *(56.4%)*
+**Ace Trainer**: 592 *(40.6%)*
+**Berry Master**: 18,965 *(99.2%)*
+**Gym Leader**: 14,795 *(74.4%)*
+**Battle Legend**: 96 *(23.3%)*
+**Champion**: 47 *(25.6%)*
+**Pokedex Caught**: 248 *(88.0%)*
+**Pokedex Seen**: 251 *(99.2%)*
+    
+**Days Played**: 506 days
+**XP**/day: 57,763
+**KM**/day: 6.9
+**Catches**/day: 125.22
+**Evolves**/day: 10.3
+**Catches**/evolve: 12.15
+**Hatches**/day: 5.14
+**KM**/egg: 1.35
+**Spins**/day: 127.57
+**Battles**/day: 6.18
+**Berries**/day: 122.35
+**Gym Hours**/day: 95.45
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.31
+**Legendary Raids**/day: 0.38
+    

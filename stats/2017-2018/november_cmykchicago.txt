@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: cmykchicago
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 24,418,333 *(82.0%)*
+**Gold Gyms**: 2 *(24.1%)*
+**Gym Badge**: 519 *(90.2%)*
+**Jogger**: 2,829.9 *(76.7%)*
+**Collector**: 44,636 *(84.2%)*
+**Scientist**: 6,016 *(85.0%)*
+**Breeder**: 2,176 *(78.2%)*
+**Backpacker**: 55,995 *(93.2%)*
+**Battle Girl**: 2,001 *(42.9%)*
+**Ace Trainer**: 190 *(23.3%)*
+**Berry Master**: 7,790 *(78.2%)*
+**Gym Leader**: 3,672 *(24.8%)*
+**Battle Legend**: 204 *(74.4%)*
+**Champion**: 121 *(83.5%)*
+**Pokedex Caught**: 247 *(76.7%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 505 days
+**XP**/day: 48,353
+**KM**/day: 5.6
+**Catches**/day: 88.39
+**Evolves**/day: 11.91
+**Catches**/evolve: 7.42
+**Hatches**/day: 4.31
+**KM**/egg: 1.3
+**Spins**/day: 110.88
+**Battles**/day: 3.96
+**Berries**/day: 50.26
+**Gym Hours**/day: 23.69
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.8
+**Legendary Raids**/day: 0.97
+    

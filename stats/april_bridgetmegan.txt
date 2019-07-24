@@ -1,0 +1,54 @@
+**__APRIL__**
+    
+**Trainer**: bridgetmegan
+**Level**: 40
+**Team**: Instinct
+**Region**: South
+**Overall Rank**: 322
+**Monthly Rank**: 48
+    
+**Total XP**: 25,553,240 *(13.2%)*
+**Jogger**: 2,722.4 *(16.4%)*
+**Collector**: 40,295 *(22.8%)*
+**Scientist**: 1,260 *(9.5%)*
+**Breeder**: 1,033 *(10.6%)*
+**Backpacker**: 30,199 *(19.0%)*
+**Battle Girl**: 1,388 *(9.5%)*
+**Gold Gyms**: 5 *(10.1%)*
+    
+**Pokemon Ranger**: 4,354 *(68.3%)*
+**Berry Master**: 7,722 *(17.5%)*
+**Gym Leader**: 1,858 *(4.8%)*
+**Battle Legend**: 175 *(9.0%)*
+**Champion**: 86 *(9.5%)*
+    
+**Gym Badges**: 217
+**Pokedex Caught**: 452
+**Pokedex Seen**: 466
+**Fisherman**: 109
+**Youngster**: 172
+**Pikachu Fan**: 704
+**Unown**: 8
+**Pilot**: 151,364
+**Gentleman**: 60
+**Idol**: 33
+**Ace Trainer**: 146
+**Great League Veteran**: 6
+**Ultra League Veteran**: 7
+**Master League Veteran**: 0
+    
+**Days Played**: 1028 days
+**XP**/day: 24,857
+**KM**/day: 2.6
+**Catches**/day: 39.2
+**Evolves**/day: 1.23
+**Hatches**/day: 1.0
+**Spins**/day: 29.38
+**Battles**/day: 1.35
+**Research**/day: 10.99
+**Berries**/day: 11.41
+**Gym Hours**/day: 2.74
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.13
+**Legendary Raids**/day: 0.13
+    

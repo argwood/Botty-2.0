@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Abhinav7998
+**Level**: 37
+**Team**: Instinct
+**Region**: South
+**Overall Rank**: 400
+**Monthly Rank**: 66
+    
+**Total XP**: 11,812,524 *(5.8%)*
+**Jogger**: 1,845.8 *(11.7%)*
+**Collector**: 12,587 *(5.0%)*
+**Scientist**: 642 *(6.7%)*
+**Breeder**: 452 *(5.0%)*
+**Backpacker**: 6,623 *(3.3%)*
+**Battle Girl**: 887 *(7.5%)*
+**Gold Gyms**: 6 *(14.2%)*
+    
+**Pokemon Ranger**: 1,319 *(19.2%)*
+**Berry Master**: 917 *(4.2%)*
+**Gym Leader**: 1,852 *(5.0%)*
+**Battle Legend**: 253 *(18.3%)*
+**Champion**: 159 *(22.5%)*
+    
+**Days Played**: 323 days
+**XP**/day: 36,571
+**KM**/day: 5.7
+**Catches**/day: 38.97
+**Evolves**/day: 1.99
+**Hatches**/day: 1.4
+**Spins**/day: 20.5
+**Battles**/day: 2.75
+**Research**/day: 3.09
+**Berries**/day: 1.3
+**Gym Hours**/day: 2.62
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.23
+**Legendary Raids**/day: 0.23
+    

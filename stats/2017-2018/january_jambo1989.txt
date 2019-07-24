@@ -1,0 +1,37 @@
+**Trainer**: Jambo1989
+**Level**: 36.0
+**Team**: Mystic
+**Region**: North
+    
+**Total XP** Percentile: 0.9 %
+**Gold Gyms** Percentile: 17.3 %
+**Gym Badge** Percentile: 22.1 %
+**Jogger** Percentile: 46.9 %
+**Collector** Percentile: 13.3 %
+**Scientist** Percentile: 19.5 %
+**Breeder** Percentile: 28.3 %
+**Backpacker** Percentile: 39.8 %
+**Battle Girl** Percentile: 23.9 %
+**Berry Master** Percentile: 40.7 %
+**Gym Leader** Percentile: 31.0 %
+**Battle Legend** Percentile: 3.5 %
+**Champion** Percentile: 8.8 %
+**Pokedex Caught** Percentile: 48.7 %
+**Pokedex Seen** Percentile: 62.4 %
+    
+**Days Played**: 602 days
+**XP**/day: 2023
+**KM**/day: 4.1
+**Catches**/day: 27.29
+**Evolves**/day: 2.7
+**Catches**/evolve: 10.09
+**Hatches**/day: 1.58
+**KM**/egg: 2.58
+**Spins**/day: 49.99
+**Battles**/day: 3.48
+**Berries**/day: 29.17
+**Gym Hours**/day: 48.81
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.21
+**Legendary Raids**/day: 0.24
+    

@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Mamochomp
+**Level**: 38
+**Team**: Instinct
+**Region**: North
+**Overall Rank**: 432
+**Monthly Rank**: N/A
+    
+**Total XP**: 12,968,320 *(12.5%)*
+**Jogger**: 1,734.9 *(12.5%)*
+**Collector**: 13,947 *(12.5%)*
+**Scientist**: 1,655 *(20.5%)*
+**Breeder**: 1,650 *(27.7%)*
+**Backpacker**: 15,337 *(16.1%)*
+**Battle Girl**: 861 *(8.9%)*
+**Gold Gyms**: 1 *(7.1%)*
+    
+**Pokemon Ranger**: 244 *(5.4%)*
+**Berry Master**: 869 *(6.2%)*
+**Gym Leader**: 1,235 *(5.4%)*
+**Battle Legend**: 41 *(8.0%)*
+**Champion**: 42 *(8.0%)*
+    
+**Days Played**: 1056 days
+**XP**/day: 12,280
+**KM**/day: 1.6
+**Catches**/day: 13.21
+**Evolves**/day: 1.57
+**Hatches**/day: 1.56
+**Spins**/day: 14.52
+**Battles**/day: 0.82
+**Research**/day: 0.53
+**Berries**/day: 1.18
+**Gym Hours**/day: 1.67
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.06
+**Legendary Raids**/day: 0.06
+    

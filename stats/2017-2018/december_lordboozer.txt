@@ -1,0 +1,38 @@
+**Trainer**: Lordboozer
+**Level**: 39
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 16,326,208 *(35.0%)*
+**Gold Gyms**: 24 *(68.5%)*
+**Gym Badge**: 548 *(79.0%)*
+**Jogger**: 1,093.7 *(21.0%)*
+**Collector**: 31,766 *(53.0%)*
+**Scientist**: 2,627 *(37.0%)*
+**Breeder**: 495 *(18.0%)*
+**Backpacker**: 21,913 *(38.0%)*
+**Battle Girl**: 3,106 *(44.5%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 15,389 *(76.0%)*
+**Gym Leader**: 28,177 *(78.0%)*
+**Battle Legend**: 127 *(28.0%)*
+**Champion**: 181 *(75.0%)*
+**Pokedex Caught**: 355 *(40.0%)*
+**Pokedex Seen**: 369 *(44.5%)*
+    
+**Days Played**: 682 days
+**XP**/day: 23,938
+**KM**/day: 1.6
+**Catches**/day: 46.58
+**Evolves**/day: 3.85
+**Catches**/evolve: 12.09
+**Hatches**/day: 0.73
+**KM**/egg: 2.21
+**Spins**/day: 32.13
+**Battles**/day: 4.55
+**Berries**/day: 45.0
+**Gym Hours**/day: 82.39
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.54
+**Legendary Raids**/day: 0.58
+    

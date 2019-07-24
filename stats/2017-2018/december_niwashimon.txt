@@ -1,0 +1,38 @@
+**Trainer**: Niwashimon
+**Level**: 39
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 16,224,172 *(34.0%)*
+**Gold Gyms**: 15 *(50.0%)*
+**Gym Badge**: 591 *(81.0%)*
+**Jogger**: 2,240.5 *(57.0%)*
+**Collector**: 22,938 *(31.0%)*
+**Scientist**: 2,897 *(46.0%)*
+**Breeder**: 1,180 *(48.5%)*
+**Backpacker**: 21,212 *(35.0%)*
+**Battle Girl**: 4,793 *(58.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 5,748 *(35.0%)*
+**Gym Leader**: 11,069 *(46.0%)*
+**Battle Legend**: 232 *(42.0%)*
+**Champion**: 139 *(66.5%)*
+**Pokedex Caught**: 367 *(99.0%)*
+**Pokedex Seen**: 371 *(85.5%)*
+    
+**Days Played**: 643 days
+**XP**/day: 25,231
+**KM**/day: 3.5
+**Catches**/day: 35.67
+**Evolves**/day: 4.51
+**Catches**/evolve: 7.92
+**Hatches**/day: 1.84
+**KM**/egg: 1.9
+**Spins**/day: 32.99
+**Battles**/day: 7.45
+**Berries**/day: 16.71
+**Gym Hours**/day: 32.18
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.41
+**Legendary Raids**/day: 0.44
+    

@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: PalladiumFlux
+**Level**: 40
+**Team**: Instinct
+**Region**: Loop
+**Overall Rank**: 264
+**Monthly Rank**: N/A
+    
+**Total XP**: 47,472,949 *(29.1%)*
+**Jogger**: 4,910.0 *(56.1%)*
+**Collector**: 48,907 *(32.3%)*
+**Scientist**: 5,604 *(46.0%)*
+**Breeder**: 7,979 *(91.0%)*
+**Backpacker**: 58,218 *(45.5%)*
+**Battle Girl**: 1,946 *(12.2%)*
+**Gold Gyms**: 3 *(6.9%)*
+    
+**Pokemon Ranger**: 906 *(9.5%)*
+**Berry Master**: 2,008 *(6.3%)*
+**Gym Leader**: 1,335 *(2.6%)*
+**Battle Legend**: 113 *(6.9%)*
+**Champion**: 200 *(31.7%)*
+    
+**Days Played**: 1018 days
+**XP**/day: 46,633
+**KM**/day: 4.8
+**Catches**/day: 48.04
+**Evolves**/day: 5.5
+**Hatches**/day: 7.84
+**Spins**/day: 57.19
+**Battles**/day: 1.91
+**Research**/day: 2.29
+**Berries**/day: 2.97
+**Gym Hours**/day: 1.97
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.3
+**Legendary Raids**/day: 0.31
+    

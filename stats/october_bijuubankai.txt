@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: BijuuBanKai
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 90
+**Monthly Rank**: N/A
+    
+**Total XP**: 78,436,622 *(81.4%)*
+**Jogger**: 3,304.7 *(45.0%)*
+**Collector**: 59,413 *(47.1%)*
+**Scientist**: 9,463 *(79.3%)*
+**Breeder**: 3,407 *(63.6%)*
+**Backpacker**: 60,765 *(59.3%)*
+**Battle Girl**: 4,694 *(38.6%)*
+**Gym Badge**: 454 *(41.4%)*
+**Gold Gyms**: 45 *(55.0%)*
+    
+**Pokemon Ranger**: 1,563 *(37.9%)*
+**Berry Master**: 12,667 *(32.9%)*
+**Gym Leader**: 40,971 *(65.0%)*
+**Battle Legend**: 1609 *(93.6%)*
+**Champion**: 260 *(60.7%)*
+**Pokedex Caught**: 404.0 *(96.3%)*
+**Pokedex Seen**: 406.0 *(95.6%)*
+    
+**Days Played**: 841 days
+**XP**/day: 93,265
+**KM**/day: 3.9
+**Catches**/day: 70.65
+**Evolves**/day: 11.25
+**Hatches**/day: 4.05
+**Spins**/day: 72.25
+**Battles**/day: 5.58
+**Research**/day: 7.27
+**Berries**/day: 25.54
+**Gym Hours**/day: 82.6
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.53
+**Legendary Raids**/day: 0.56
+    

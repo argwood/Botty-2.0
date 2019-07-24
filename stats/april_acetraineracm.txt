@@ -1,0 +1,54 @@
+**__APRIL__**
+    
+**Trainer**: AceTrainerACM
+**Level**: 40
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 173
+**Monthly Rank**: 51
+    
+**Total XP**: 50,801,990 *(32.8%)*
+**Jogger**: 3,763.6 *(33.3%)*
+**Collector**: 42,350 *(27.5%)*
+**Scientist**: 4,363 *(36.5%)*
+**Breeder**: 3,570 *(56.1%)*
+**Backpacker**: 30,312 *(19.6%)*
+**Battle Girl**: 5,816 *(36.0%)*
+**Gold Gyms**: 46 *(43.4%)*
+    
+**Pokemon Ranger**: 2,383 *(32.3%)*
+**Berry Master**: 19,032 *(37.6%)*
+**Gym Leader**: 20,964 *(25.9%)*
+**Battle Legend**: 660 *(45.5%)*
+**Champion**: 273 *(41.3%)*
+    
+**Gym Badges**: 0
+**Pokedex Caught**: 0
+**Pokedex Seen**: 0
+**Fisherman**: 0
+**Youngster**: 0
+**Pikachu Fan**: 0
+**Unown**: 0
+**Pilot**: 0
+**Gentleman**: 0
+**Idol**: 0
+**Ace Trainer**: 0
+**Great League Veteran**: 432
+**Ultra League Veteran**: 0
+**Master League Veteran**: 0
+    
+**Days Played**: 1027 days
+**XP**/day: 49,466
+**KM**/day: 3.7
+**Catches**/day: 41.24
+**Evolves**/day: 4.25
+**Hatches**/day: 3.48
+**Spins**/day: 29.52
+**Battles**/day: 5.66
+**Research**/day: 6.02
+**Berries**/day: 28.11
+**Gym Hours**/day: 30.97
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.41
+**Legendary Raids**/day: 0.42
+    

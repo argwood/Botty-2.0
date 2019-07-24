@@ -1,0 +1,54 @@
+**__JUNE__**
+    
+**Trainer**: zalamah
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 37
+**Monthly Rank**: 30
+    
+**Total XP**: 126,732,863 *(86.6%)*
+**Jogger**: 7,681.5 *(83.9%)*
+**Collector**: 135,993 *(79.5%)*
+**Scientist**: 6,784 *(60.7%)*
+**Breeder**: 5,697 *(77.7%)*
+**Backpacker**: 108,987 *(80.4%)*
+**Battle Girl**: 7,826 *(51.8%)*
+**Gold Gyms**: 66 *(58.9%)*
+    
+**Pokemon Ranger**: 6,917 *(83.0%)*
+**Berry Master**: 59,503 *(75.0%)*
+**Gym Leader**: 69,570 *(76.8%)*
+**Battle Legend**: 1911 *(90.2%)*
+**Champion**: 404 *(57.1%)*
+    
+**Gym Badges**: 1000
+**Pokedex Caught**: 484
+**Pokedex Seen**: 484
+**Fisherman**: 449
+**Youngster**: 861
+**Pikachu Fan**: 1104
+**Unown**: 20
+**Pilot**: 3,453,143
+**Gentleman**: 3839
+**Idol**: 125
+**Ace Trainer**: 1405
+**Great League Veteran**: 235
+**Ultra League Veteran**: 102
+**Master League Veteran**: 93
+    
+**Days Played**: 1088 days
+**XP**/day: 116,482
+**KM**/day: 7.1
+**Catches**/day: 124.99
+**Evolves**/day: 6.24
+**Hatches**/day: 5.24
+**Spins**/day: 100.17
+**Battles**/day: 7.19
+**Research**/day: 15.14
+**Berries**/day: 80.63
+**Gym Hours**/day: 94.27
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.55
+**Legendary Raids**/day: 0.57
+    

@@ -1,0 +1,54 @@
+**__FEBRUARY__**
+    
+**Trainer**: DissentOfMan
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 18
+**Monthly Rank**: 14
+    
+**Total XP**: 91,701,014 *(71.7%)*
+**Jogger**: 6,343.0 *(77.8%)*
+**Collector**: 115,122 *(70.7%)*
+**Scientist**: 9,762 *(67.7%)*
+**Breeder**: 3,745 *(54.5%)*
+**Backpacker**: 95,658 *(72.7%)*
+**Battle Girl**: 41,602 *(99.0%)*
+**Gold Gyms**: 288 *(97.0%)*
+    
+**Pokemon Ranger**: 4,409 *(72.7%)*
+**Berry Master**: 52,188 *(74.7%)*
+**Gym Leader**: 144,531 *(96.0%)*
+**Battle Legend**: 997 *(67.7%)*
+**Champion**: 461 *(68.7%)*
+    
+**Gym Badges**: 720
+**Pokedex Caught**: 465
+**Pokedex Seen**: 465
+**Fisherman**: 558
+**Youngster**: 688
+**Pikachu Fan**: 1530
+**Unown**: 28
+**Pilot**: 3,310,552
+**Gentleman**: 1787
+**Idol**: 75
+**Ace Trainer**: 5695
+**Great League Veteran**: 116
+**Ultra League Veteran**: 96
+**Master League Veteran**: 98
+    
+**Days Played**: 958 days
+**XP**/day: 95,721
+**KM**/day: 6.6
+**Catches**/day: 120.17
+**Evolves**/day: 10.19
+**Hatches**/day: 3.91
+**Spins**/day: 99.85
+**Battles**/day: 43.43
+**Research**/day: 13.16
+**Berries**/day: 84.72
+**Gym Hours**/day: 234.63
+**Gold Gyms**/day: 0.47
+**Raids**/day: 0.75
+**Legendary Raids**/day: 0.79
+    

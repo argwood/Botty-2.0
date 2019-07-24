@@ -1,0 +1,50 @@
+**__SEPTEMBER__**
+    
+**Trainer**: DJDrogon
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 36
+**Monthly Rank**: 20
+    
+**Total XP**: 72,812,205 *(84.3%)*
+**Jogger**: 5,661.5 *(83.6%)*
+**Collector**: 95,894 *(82.9%)*
+**Scientist**: 6,755 *(62.1%)*
+**Breeder**: 3,265 *(67.9%)*
+**Backpacker**: 94,569 *(86.4%)*
+**Battle Girl**: 12,380 *(71.4%)*
+**Gym Badge**: 1000 *(97.9%)*
+**Gold Gyms**: 49 *(59.3%)*
+    
+**Pokemon Ranger**: 1,689 *(50.7%)*
+**Berry Master**: 28,281 *(57.9%)*
+**Gym Leader**: 55,905 *(79.3%)*
+**Battle Legend**: 1255 *(87.9%)*
+**Champion**: 366 *(81.4%)*
+**Pokedex Caught**: 376.0 *(100.0%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 349
+**Youngster**: 635
+**Pikachu Fan**: 600
+**Unown**: 25
+**Pilot**: 4,644,377
+**Gentleman**: 2354
+**Idol**: 1
+    
+**Days Played**: 815 days
+**XP**/day: 89,340
+**KM**/day: 6.9
+**Catches**/day: 117.66
+**Evolves**/day: 8.29
+**Hatches**/day: 4.01
+**Spins**/day: 116.04
+**Battles**/day: 15.19
+**Research**/day: 9.18
+**Berries**/day: 60.82
+**Gym Hours**/day: 120.23
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.79
+**Legendary Raids**/day: 0.84
+    

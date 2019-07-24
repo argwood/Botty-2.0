@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Dualsimian 
+**Level**: 40
+**Team**: Mystic
+**Region**: Loop
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 32,687,296 *(22.5%)*
+**Jogger**: 2,681.8 *(20.0%)*
+**Collector**: 29,836 *(20.8%)*
+**Scientist**: 2,259 *(25.8%)*
+**Breeder**: 898 *(11.7%)*
+**Backpacker**: 21,577 *(14.2%)*
+**Battle Girl**: 4,719 *(36.7%)*
+**Gold Gyms**: 16 *(28.3%)*
+    
+**Pokemon Ranger**: 798 *(8.3%)*
+**Berry Master**: 6,665 *(18.3%)*
+**Gym Leader**: 20,487 *(35.0%)*
+**Battle Legend**: 338 *(25.0%)*
+**Champion**: 159 *(22.5%)*
+    
+**Days Played**: 1051 days
+**XP**/day: 31,101
+**KM**/day: 2.6
+**Catches**/day: 28.39
+**Evolves**/day: 2.15
+**Hatches**/day: 0.85
+**Spins**/day: 20.53
+**Battles**/day: 4.49
+**Research**/day: 1.88
+**Berries**/day: 9.45
+**Gym Hours**/day: 29.06
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.23
+**Legendary Raids**/day: 0.24
+    

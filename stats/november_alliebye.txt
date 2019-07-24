@@ -1,0 +1,42 @@
+**__NOVEMBER__**
+    
+**Trainer**: Alliebye
+**Level**: 40
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 173
+**Monthly Rank**: N/A
+    
+**Total XP**: 41,329,411 *(34.9%)*
+**Jogger**: 4,163 *(61.5%)*
+**Collector**: 64,608 *(46.8%)*
+**Scientist**: 7,816 *(66.1%)*
+**Breeder**: 4,116 *(72.5%)*
+**Backpacker**: 46,920 *(42.2%)*
+**Battle Girl**: 2,993 *(22.9%)*
+**Gym Badge**: 315 *(29.4%)*
+**Gold Gyms**: 16 *(25.7%)*
+    
+**Pokemon Ranger**: 1,363 *(24.8%)*
+**Berry Master**: 2,698 *(10.1%)*
+**Gym Leader**: 8,797 *(14.7%)*
+**Battle Legend**: 294 *(24.8%)*
+**Champion**: 922 *(98.2%)*
+**Pokedex Caught**: 409.0 *(63.8%)*
+**Pokedex Seen**: 417.0 *(34.3%)*
+    
+**Days Played**: 875 days
+**XP**/day: 47,233
+**KM**/day: 4.8
+**Catches**/day: 73.84
+**Evolves**/day: 8.93
+**Hatches**/day: 4.7
+**Spins**/day: 53.62
+**Battles**/day: 3.42
+**Research**/day: 5.56
+**Berries**/day: 5.13
+**Gym Hours**/day: 16.72
+**Gold Gyms**/day: 0.03
+**Raids**/day: 1.77
+**Legendary Raids**/day: 1.86
+    

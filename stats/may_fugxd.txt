@@ -1,0 +1,54 @@
+**__MAY__**
+    
+**Trainer**: fugxd
+**Level**: 39
+**Team**: Valor
+**Region**: North
+**Overall Rank**: 397
+**Monthly Rank**: N/A
+    
+**Total XP**: 15,994,712 *(7.5%)*
+**Jogger**: 1,214.7 *(5.8%)*
+**Collector**: 18,857 *(10.8%)*
+**Scientist**: 524 *(5.0%)*
+**Breeder**: 600 *(5.8%)*
+**Backpacker**: 17,382 *(11.7%)*
+**Battle Girl**: 861 *(6.7%)*
+**Gold Gyms**: 3 *(9.2%)*
+    
+**Pokemon Ranger**: 1,268 *(18.3%)*
+**Berry Master**: 1,433 *(6.7%)*
+**Gym Leader**: 3,805 *(10.8%)*
+**Battle Legend**: 143 *(9.2%)*
+**Champion**: 98 *(11.7%)*
+    
+**Gym Badges**: 227
+**Pokedex Caught**: 426
+**Pokedex Seen**: 470
+**Fisherman**: 61
+**Youngster**: 88
+**Pikachu Fan**: 318
+**Unown**: 0
+**Pilot**: 137,627
+**Gentleman**: 258
+**Idol**: 12
+**Ace Trainer**: 28
+**Great League Veteran**: 5
+**Ultra League Veteran**: 4
+**Master League Veteran**: 1
+    
+**Days Played**: 1055 days
+**XP**/day: 15,160
+**KM**/day: 1.2
+**Catches**/day: 17.87
+**Evolves**/day: 0.5
+**Hatches**/day: 0.57
+**Spins**/day: 16.48
+**Battles**/day: 0.82
+**Research**/day: 2.97
+**Berries**/day: 2.02
+**Gym Hours**/day: 5.37
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.14
+**Legendary Raids**/day: 0.14
+    

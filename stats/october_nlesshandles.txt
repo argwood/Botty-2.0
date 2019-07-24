@@ -1,0 +1,50 @@
+**__OCTOBER__**
+    
+**Trainer**: NlessHandles
+**Level**: 40
+**Team**: Instinct
+**Region**: South
+**Overall Rank**: 71
+**Monthly Rank**: 42
+    
+**Total XP**: 60,710,840 *(66.4%)*
+**Jogger**: 5,608.6 *(82.9%)*
+**Collector**: 82,907 *(68.6%)*
+**Scientist**: 4,592 *(46.4%)*
+**Breeder**: 4,282 *(75.7%)*
+**Backpacker**: 85,579 *(80.0%)*
+**Battle Girl**: 10,804 *(64.3%)*
+**Gym Badge**: 752 *(67.1%)*
+**Gold Gyms**: 31 *(42.9%)*
+    
+**Pokemon Ranger**: 2,470 *(67.1%)*
+**Berry Master**: 40,535 *(75.7%)*
+**Gym Leader**: 14,533 *(30.7%)*
+**Battle Legend**: 964 *(82.1%)*
+**Champion**: 178 *(42.9%)*
+**Pokedex Caught**: 396.0 *(54.8%)*
+**Pokedex Seen**: 403.0 *(62.5%)*
+    
+**Fisherman**: 308
+**Youngster**: 530
+**Pikachu Fan**: 1079
+**Unown**: 12
+**Pilot**: 1,227,608
+**Gentleman**: 1317
+**Idol**: 16
+    
+**Days Played**: 846 days
+**XP**/day: 71,762
+**KM**/day: 6.6
+**Catches**/day: 98.0
+**Evolves**/day: 5.43
+**Hatches**/day: 5.06
+**Spins**/day: 101.16
+**Battles**/day: 12.77
+**Research**/day: 11.49
+**Berries**/day: 81.72
+**Gym Hours**/day: 29.3
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.36
+**Legendary Raids**/day: 0.38
+    

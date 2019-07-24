@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: R2ann
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 43,258,873 *(67.2%)*
+**Jogger**: 4,199.0 *(75.4%)*
+**Collector**: 65,304 *(71.3%)*
+**Scientist**: 6,621 *(70.8%)*
+**Breeder**: 2,066 *(59.0%)*
+**Backpacker**: 64,246 *(73.8%)*
+**Battle Girl**: 9,164 *(65.1%)*
+**Gym Badge**: 602 *(68.7%)*
+**Gold Gyms**: 64 *(75.4%)*
+    
+**Pokemon Ranger**: 1,313 *(63.1%)*
+**Berry Master**: 23,051 *(63.6%)*
+**Gym Leader**: 46,755 *(77.9%)*
+**Battle Legend**: 399 *(45.1%)*
+**Champion**: 246 *(73.8%)*
+**Pokedex Caught**: 371 *(83.1%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 182
+**Youngster**: 453
+**Pikachu Fan**: 783
+**Unown**: 20
+**Pilot**: 381,276
+**Gentleman**: 53
+    
+**Days Played**: 752 days
+**XP**/day: 57,525
+**KM**/day: 5.6
+**Catches**/day: 86.84
+**Evolves**/day: 8.8
+**Hatches**/day: 2.75
+**Spins**/day: 85.43
+**Battles**/day: 12.19
+**Research**/day: 10.59
+**Berries**/day: 56.92
+**Gym Hours**/day: 115.44
+**Gold Gyms**/day: 0.16
+**Raids**/day: 0.61
+**Legendary Raids**/day: 0.66
+    

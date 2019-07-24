@@ -1,0 +1,38 @@
+**Trainer**: DJShivaShiva
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 72,600,772 *(97.0%)*
+**Gold Gyms**: 64 *(84.2%)*
+**Gym Badge**: 480 *(54.1%)*
+**Jogger**: 8,221.7 *(99.2%)*
+**Collector**: 103,014 *(98.5%)*
+**Scientist**: 14,899 *(97.7%)*
+**Breeder**: 5,593 *(98.5%)*
+**Backpacker**: 101,779 *(96.2%)*
+**Battle Girl**: 25,203 *(98.5%)*
+**Ace Trainer**: 0 *(50.4%)*
+**Berry Master**: 38,794 *(96.2%)*
+**Gym Leader**: 31,292 *(72.2%)*
+**Battle Legend**: 890 *(95.5%)*
+**Champion**: 321 *(91.7%)*
+**Pokedex Caught**: 364 *(89.5%)*
+**Pokedex Seen**: 371 *(84.2%)*
+    
+**Days Played**: 693 days
+**XP**/day: 104,763
+**KM**/day: 11.9
+**Catches**/day: 148.65
+**Evolves**/day: 21.5
+**Catches**/evolve: 6.91
+**Hatches**/day: 8.07
+**KM**/egg: 1.47
+**Spins**/day: 146.87
+**Battles**/day: 36.37
+**Berries**/day: 113.1
+**Gym Hours**/day: 91.23
+**Gold Gyms**/day: 0.19
+**Raids**/day: 0.95
+**Legendary Raids**/day: 1.03
+    

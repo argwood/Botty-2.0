@@ -1,0 +1,39 @@
+**__DECEMBER__**
+    
+**Trainer**: JoNaHnAtOr1996
+**Level**: 40
+**Team**: Instinct
+**Region**: Loop
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 131,972,545 *(94.2%)*
+**Jogger**: 8,172.0 *(93.4%)*
+**Collector**: 179,435 *(95.9%)*
+**Scientist**: 15,646 *(92.6%)*
+**Breeder**: 4,251 *(74.4%)*
+**Backpacker**: 155,365 *(95.9%)*
+**Battle Girl**: 26,692 *(91.7%)*
+**Gold Gyms**: 67 *(62.8%)*
+    
+**Pokemon Ranger**: 11,989 *(99.2%)*
+**Berry Master**: 47,705 *(76.0%)*
+**Gym Leader**: 11,141 *(16.5%)*
+**Battle Legend**: 2659 *(99.2%)*
+**Champion**: 628 *(89.3%)*
+    
+**Days Played**: 896 days
+**XP**/day: 147,290
+**KM**/day: 9.1
+**Catches**/day: 200.26
+**Evolves**/day: 17.46
+**Hatches**/day: 4.74
+**Spins**/day: 173.4
+**Battles**/day: 29.79
+**Research**/day: 43.44
+**Berries**/day: 85.65
+**Gym Hours**/day: 20.0
+**Gold Gyms**/day: 0.12
+**Raids**/day: 1.14
+**Legendary Raids**/day: 1.19
+    

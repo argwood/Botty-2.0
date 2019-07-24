@@ -1,0 +1,50 @@
+**__SEPTEMBER__**
+    
+**Trainer**: o0oufocoffeeo0o
+**Level**: 38
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 294
+**Monthly Rank**: 71
+    
+**Total XP**: 13,428,406 *(15.7%)*
+**Jogger**: 1,350.8 *(17.1%)*
+**Collector**: 19,992 *(17.9%)*
+**Scientist**: 1,541 *(22.1%)*
+**Breeder**: 587 *(14.3%)*
+**Backpacker**: 13,186 *(13.6%)*
+**Battle Girl**: 1,910 *(17.9%)*
+**Gym Badge**: 351 *(35.0%)*
+**Gold Gyms**: 14 *(25.0%)*
+    
+**Pokemon Ranger**: 1,092 *(32.1%)*
+**Berry Master**: 5,714 *(20.0%)*
+**Gym Leader**: 13,056 *(32.1%)*
+**Battle Legend**: 117 *(15.0%)*
+**Champion**: 87 *(17.9%)*
+**Pokedex Caught**: 368.0 *(24.5%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 104
+**Youngster**: 60
+**Pikachu Fan**: 445
+**Unown**: 1
+**Pilot**: 417,046
+**Gentleman**: 339
+**Idol**: 2
+    
+**Days Played**: 813 days
+**XP**/day: 16,517
+**KM**/day: 1.7
+**Catches**/day: 24.59
+**Evolves**/day: 1.9
+**Hatches**/day: 0.72
+**Spins**/day: 16.22
+**Battles**/day: 2.35
+**Research**/day: 5.97
+**Berries**/day: 12.31
+**Gym Hours**/day: 28.14
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.19
+**Legendary Raids**/day: 0.2
+    

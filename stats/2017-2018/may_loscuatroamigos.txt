@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: LosCuatroAmigos
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 23,573,206 *(43.0%)*
+**Gold Gyms**: 24 *(49.0%)*
+**Gym Badge**: 784 *(83.2%)*
+**Jogger**: 3,092.3 *(59.1%)*
+**Collector**: 27,169 *(26.2%)*
+**Scientist**: 5,065 *(59.1%)*
+**Breeder**: 3,717 *(85.2%)*
+**Backpacker**: 36,829 *(50.3%)*
+**Battle Girl**: 2,034 *(18.1%)*
+**Pokemon Ranger**: 652 *(63.1%)*
+**Berry Master**: 13,820 *(48.3%)*
+**Gym Leader**: 16,344 *(43.0%)*
+**Battle Legend**: 435 *(61.1%)*
+**Champion**: 109 *(34.2%)*
+**Pokedex Caught**: 366 *(94.6%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 687 days
+**XP**/day: 34,313
+**KM**/day: 4.5
+**Catches**/day: 39.55
+**Evolves**/day: 7.37
+**Hatches**/day: 5.41
+**Spins**/day: 53.61
+**Battles**/day: 2.96
+**Quests**/day: 10.52
+**Berries**/day: 40.29
+**Gym Hours**/day: 47.65
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.32
+**Legendary Raids**/day: 0.35
+    

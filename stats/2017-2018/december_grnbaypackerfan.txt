@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: GrnbayPackerFan
+**Level**: 38
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 12,612,671 *(26.0%)*
+**Gold Gyms**: 3 *(16.0%)*
+**Gym Badge**: 186 *(13.0%)*
+**Jogger**: 1,251.5 *(16.0%)*
+**Collector**: 18,285 *(24.0%)*
+**Scientist**: 3,141 *(41.0%)*
+**Breeder**: 894 *(31.0%)*
+**Backpacker**: 14,052 *(16.0%)*
+**Battle Girl**: 1,609 *(19.0%)*
+**Ace Trainer**: 537 *(40.0%)*
+**Berry Master**: 1,569 *(7.0%)*
+**Gym Leader**: 3,357 *(9.0%)*
+**Battle Legend**: 174 *(39.0%)*
+**Champion**: 63 *(23.0%)*
+**Pokedex Caught**: 274 *(9.0%)*
+**Pokedex Seen**: 291 *(5.0%)*
+    
+**Days Played**: 358 days
+**XP**/day: 35,230
+**KM**/day: 3.5
+**Catches**/day: 51.08
+**Evolves**/day: 8.77
+**Hatches**/day: 2.5
+**Spins**/day: 39.25
+**Battles**/day: 4.49
+**Berries**/day: 8.26
+**Gym Hours**/day: 17.67
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.34
+**Legendary Raids**/day: 0.39
+    

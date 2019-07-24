@@ -1,0 +1,39 @@
+**__DECEMBER__**
+    
+**Trainer**: Argus1446
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 182
+**Monthly Rank**: 55
+    
+**Total XP**: 36,726,382 *(28.1%)*
+**Jogger**: 2,333.0 *(19.0%)*
+**Collector**: 50,875 *(37.2%)*
+**Scientist**: 4,155 *(43.8%)*
+**Breeder**: 1,411 *(24.8%)*
+**Backpacker**: 50,302 *(46.3%)*
+**Battle Girl**: 4,704 *(33.1%)*
+**Gold Gyms**: 43 *(45.5%)*
+    
+**Pokemon Ranger**: 1,995 *(39.7%)*
+**Berry Master**: 27,626 *(47.1%)*
+**Gym Leader**: 24,706 *(31.4%)*
+**Battle Legend**: 330 *(26.4%)*
+**Champion**: 254 *(43.0%)*
+    
+**Days Played**: 905 days
+**XP**/day: 40,581
+**KM**/day: 2.6
+**Catches**/day: 56.22
+**Evolves**/day: 4.59
+**Hatches**/day: 1.56
+**Spins**/day: 55.58
+**Battles**/day: 5.2
+**Research**/day: 7.23
+**Berries**/day: 49.6
+**Gym Hours**/day: 44.36
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.46
+**Legendary Raids**/day: 0.48
+    

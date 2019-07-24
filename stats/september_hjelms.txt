@@ -1,0 +1,50 @@
+**__SEPTEMBER__**
+    
+**Trainer**: Hjelms
+**Level**: 37
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 325
+**Monthly Rank**: 80
+    
+**Total XP**: 9,953,873 *(12.9%)*
+**Jogger**: 1,180.0 *(15.0%)*
+**Collector**: 15,069 *(15.7%)*
+**Scientist**: 825 *(12.9%)*
+**Breeder**: 512 *(12.1%)*
+**Backpacker**: 11,570 *(12.9%)*
+**Battle Girl**: 709 *(9.3%)*
+**Gym Badge**: 274 *(27.1%)*
+**Gold Gyms**: 7 *(17.9%)*
+    
+**Pokemon Ranger**: 353 *(10.0%)*
+**Berry Master**: 1,981 *(15.0%)*
+**Gym Leader**: 9,196 *(24.3%)*
+**Battle Legend**: 91 *(13.6%)*
+**Champion**: 84 *(16.4%)*
+**Pokedex Caught**: 373.0 *(62.6%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 62
+**Youngster**: 60
+**Pikachu Fan**: 329
+**Unown**: 13
+**Pilot**: 190,517
+**Gentleman**: 405
+**Idol**: 0
+    
+**Days Played**: 800 days
+**XP**/day: 12,442
+**KM**/day: 1.5
+**Catches**/day: 18.84
+**Evolves**/day: 1.03
+**Hatches**/day: 0.64
+**Spins**/day: 14.46
+**Battles**/day: 0.89
+**Research**/day: 1.92
+**Berries**/day: 4.26
+**Gym Hours**/day: 19.78
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.18
+**Legendary Raids**/day: 0.19
+    

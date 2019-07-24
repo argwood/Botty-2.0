@@ -1,0 +1,37 @@
+**__FEBRUARY__**
+    
+**Trainer**: SentouRyoku
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 33,023,068 *(82.3%)*
+**Gold Gyms**: 36 *(76.1%)*
+**Gym Badge**: 493 *(54.9%)*
+**Jogger**: 7,791.6 *(100.0%)*
+**Collector**: 67,191 *(91.2%)*
+**Scientist**: 5,924 *(69.0%)*
+**Breeder**: 3,221 *(86.7%)*
+**Backpacker**: 76,356 *(92.9%)*
+**Battle Girl**: 9,535 *(84.1%)*
+**Berry Master**: 20,685 *(89.4%)*
+**Gym Leader**: 25,512 *(68.1%)*
+**Battle Legend**: 466 *(85.8%)*
+**Champion**: 279 *(95.6%)*
+**Pokedex Caught**: 357 *(86.7%)*
+**Pokedex Seen**: 368 *(100.0%)*
+    
+**Days Played**: 589 days
+**XP**/day: 56,066
+**KM**/day: 13.2
+**Catches**/day: 114.08
+**Evolves**/day: 10.06
+**Hatches**/day: 5.47
+**Spins**/day: 129.64
+**Battles**/day: 16.19
+**Berries**/day: 82.41
+**Gym Hours**/day: 101.64
+**Gold Gyms**/day: 0.14
+**Raids**/day: 1.13
+**Legendary Raids**/day: 1.26
+    

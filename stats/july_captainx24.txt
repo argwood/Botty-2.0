@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: CaptainX24
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 53,330,809 *(80.0%)*
+**Jogger**: 3,839.3 *(67.7%)*
+**Collector**: 77,000 *(76.4%)*
+**Scientist**: 8,557 *(81.0%)*
+**Breeder**: 1,444 *(39.0%)*
+**Backpacker**: 59,581 *(69.7%)*
+**Battle Girl**: 17,971 *(88.2%)*
+**Gym Badge**: 587 *(65.1%)*
+**Gold Gyms**: 93 *(86.2%)*
+    
+**Pokemon Ranger**: 7,707 *(99.5%)*
+**Berry Master**: 36,287 *(84.6%)*
+**Gym Leader**: 49,337 *(79.0%)*
+**Battle Legend**: 465 *(54.4%)*
+**Champion**: 188 *(58.5%)*
+**Pokedex Caught**: 369 *(59.5%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 195
+**Youngster**: 569
+**Pikachu Fan**: 970
+**Unown**: 10
+**Pilot**: 131,367
+**Gentleman**: 32
+    
+**Days Played**: 755 days
+**XP**/day: 70,636
+**KM**/day: 5.1
+**Catches**/day: 101.99
+**Evolves**/day: 11.33
+**Hatches**/day: 1.91
+**Spins**/day: 78.92
+**Battles**/day: 23.8
+**Research**/day: 62.66
+**Berries**/day: 89.82
+**Gym Hours**/day: 122.12
+**Gold Gyms**/day: 0.23
+**Raids**/day: 0.47
+**Legendary Raids**/day: 0.5
+    

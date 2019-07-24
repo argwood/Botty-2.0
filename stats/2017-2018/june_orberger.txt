@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: OrBerger
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 37,295,072 *(60.3%)*
+**Gold Gyms**: 30 *(43.0%)*
+**Gym Badge**: 292 *(26.5%)*
+**Jogger**: 10,155.1 *(100.0%)*
+**Collector**: 83,403 *(78.8%)*
+**Scientist**: 5,353 *(55.6%)*
+**Breeder**: 4,991 *(90.7%)*
+**Backpacker**: 73,801 *(78.8%)*
+**Battle Girl**: 4,636 *(37.7%)*
+**Pokemon Ranger**: 1,300 *(74.8%)*
+**Berry Master**: 25,043 *(66.9%)*
+**Gym Leader**: 17,025 *(33.1%)*
+**Battle Legend**: 546 *(65.6%)*
+**Champion**: 214 *(64.2%)*
+**Pokedex Caught**: 367 *(86.1%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: 721 days
+**XP**/day: 51,726
+**KM**/day: 14.1
+**Catches**/day: 115.68
+**Evolves**/day: 7.42
+**Hatches**/day: 6.92
+**Spins**/day: 102.36
+**Battles**/day: 6.43
+**Quests**/day: 14.13
+**Berries**/day: 67.14
+**Gym Hours**/day: 45.64
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.58
+**Legendary Raids**/day: 0.62
+    

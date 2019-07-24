@@ -2,6 +2,7 @@ import os
 import discord
 import asyncio
 import commands
+from dtc import DTC
 
 '''
 Botty Lite - a sassy but smart Discord bot for Pokemon GO
@@ -9,9 +10,14 @@ Botty Lite - a sassy but smart Discord bot for Pokemon GO
 Provide bot token as environment variable:
     export TOKEN='my_token_here'
 
+By default, DTC-specific functions are turned off.
+Use 'dtc=True' with caution.
+
 Usage:
     python3 start_botty.py
 '''
+
+dtc = True
 
 client = discord.Client()
 
@@ -22,6 +28,8 @@ except KeyError:
     client.close()
 
 _botty = commands.Commands(client)
+if dtc:
+    _dtc = DTC(client)
 
 @client.event
 async def on_ready():
@@ -46,6 +54,22 @@ async def on_message(message):
         await _botty.rank(message)
     elif message.content.startswith('!shiny'):
         await _botty.shiny(message)
+
+    if dtc:
+        if message.content.startswith('!stats') or message.content.startswith('!userstats'):
+            await _dtc.userstats(message)
+        elif message.content.startswith('!guide'):
+            await _dtc.guide(message)
+        elif message.content.startswith('!merch'):
+            await _dtc.merch(message)
+        elif message.content.startswith('!patreon'):
+            await _dtc.patreon(message)
+        elif message.content.startswith('!map'):
+            await _dtc.map(message)
+        elif message.content.lower().startswith('where is ') or message.content.lower().startswith('where\'s'):
+            await _dtc.HPgyms(message)
+        elif ('303367823516893196' in message.channel.id):
+            await _dtc.announcement_count(message)
 
 if __name__ == "__main__":
 

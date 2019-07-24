@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Skokiepoke
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 62,880,966 *(88.1%)*
+**Gold Gyms**: 206 *(98.7%)*
+**Gym Badge**: 1000 *(96.0%)*
+**Jogger**: 5,346.0 *(84.1%)*
+**Collector**: 87,745 *(82.8%)*
+**Scientist**: 10,633 *(88.1%)*
+**Breeder**: 3,044 *(66.2%)*
+**Backpacker**: 89,390 *(91.4%)*
+**Battle Girl**: 19,841 *(90.7%)*
+**Pokemon Ranger**: 1,121 *(63.6%)*
+**Berry Master**: 38,628 *(86.8%)*
+**Gym Leader**: 95,897 *(98.0%)*
+**Battle Legend**: 1000 *(88.1%)*
+**Champion**: 449 *(94.7%)*
+**Pokedex Caught**: 367 *(86.1%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: 718 days
+**XP**/day: 87,577
+**KM**/day: 7.4
+**Catches**/day: 122.21
+**Evolves**/day: 14.81
+**Hatches**/day: 4.24
+**Spins**/day: 124.5
+**Battles**/day: 27.63
+**Quests**/day: 12.18
+**Berries**/day: 103.56
+**Gym Hours**/day: 257.1
+**Gold Gyms**/day: 0.55
+**Raids**/day: 1.22
+**Legendary Raids**/day: 1.31
+    

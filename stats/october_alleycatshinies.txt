@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: Alleycatshinies
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 225
+**Monthly Rank**: N/A
+    
+**Total XP**: 27,070,627 *(22.1%)*
+**Jogger**: 2,277.1 *(24.3%)*
+**Collector**: 44,851 *(32.1%)*
+**Scientist**: 3,256 *(32.1%)*
+**Breeder**: 2,213 *(48.6%)*
+**Backpacker**: 46,807 *(43.6%)*
+**Battle Girl**: 1,415 *(12.9%)*
+**Gym Badge**: 215 *(15.7%)*
+**Gold Gyms**: 10 *(17.1%)*
+    
+**Pokemon Ranger**: 1,519 *(37.1%)*
+**Berry Master**: 8,568 *(24.3%)*
+**Gym Leader**: 6,223 *(14.3%)*
+**Battle Legend**: 281 *(20.7%)*
+**Champion**: 249 *(58.6%)*
+**Pokedex Caught**: nan *(nan%)*
+**Pokedex Seen**: 404.0 *(77.9%)*
+    
+**Days Played**: 847 days
+**XP**/day: 31,960
+**KM**/day: 2.7
+**Catches**/day: 52.95
+**Evolves**/day: 3.84
+**Hatches**/day: 2.61
+**Spins**/day: 55.26
+**Battles**/day: 1.67
+**Research**/day: 7.07
+**Berries**/day: 17.27
+**Gym Hours**/day: 12.55
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.51
+**Legendary Raids**/day: 0.53
+    

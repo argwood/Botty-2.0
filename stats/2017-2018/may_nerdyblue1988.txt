@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Nerdyblue1988
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 35,844,386 *(71.1%)*
+**Gold Gyms**: 80 *(85.2%)*
+**Gym Badge**: 557 *(64.4%)*
+**Jogger**: 4,209.1 *(79.9%)*
+**Collector**: 51,089 *(63.1%)*
+**Scientist**: 6,772 *(77.2%)*
+**Breeder**: 1,900 *(59.1%)*
+**Backpacker**: 44,083 *(57.7%)*
+**Battle Girl**: 18,681 *(92.6%)*
+**Pokemon Ranger**: 671 *(65.8%)*
+**Berry Master**: 23,629 *(77.2%)*
+**Gym Leader**: 54,277 *(85.2%)*
+**Battle Legend**: 735 *(85.9%)*
+**Champion**: 286 *(85.2%)*
+**Pokedex Caught**: 363 *(65.1%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 694 days
+**XP**/day: 51,648
+**KM**/day: 6.1
+**Catches**/day: 73.62
+**Evolves**/day: 9.76
+**Hatches**/day: 2.74
+**Spins**/day: 63.52
+**Battles**/day: 26.92
+**Quests**/day: 10.82
+**Berries**/day: 68.89
+**Gym Hours**/day: 158.24
+**Gold Gyms**/day: 0.23
+**Raids**/day: 0.84
+**Legendary Raids**/day: 0.91
+    

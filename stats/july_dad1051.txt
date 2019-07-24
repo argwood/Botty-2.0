@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: dad1051
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 29,969,455 *(46.7%)*
+**Jogger**: 5,592.0 *(87.7%)*
+**Collector**: 40,895 *(45.1%)*
+**Scientist**: 3,586 *(44.6%)*
+**Breeder**: 2,356 *(63.6%)*
+**Backpacker**: 46,195 *(56.4%)*
+**Battle Girl**: 9,287 *(66.7%)*
+**Gym Badge**: 811 *(81.0%)*
+**Gold Gyms**: 158 *(93.3%)*
+    
+**Pokemon Ranger**: 1,190 *(57.9%)*
+**Berry Master**: 15,602 *(48.2%)*
+**Gym Leader**: 90,121 *(96.4%)*
+**Battle Legend**: 411 *(48.2%)*
+**Champion**: 248 *(74.9%)*
+**Pokedex Caught**: 370 *(72.8%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Days Played**: 20 days
+**XP**/day: 1,498,472
+**KM**/day: 279.6
+**Catches**/day: 2044.75
+**Evolves**/day: 179.3
+**Hatches**/day: 117.8
+**Spins**/day: 2309.75
+**Battles**/day: 464.35
+**Research**/day: 9.67
+**Berries**/day: 38.62
+**Gym Hours**/day: 223.07
+**Gold Gyms**/day: 0.39
+**Raids**/day: 0.62
+**Legendary Raids**/day: 0.66
+    

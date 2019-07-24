@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: SonicEnzo8
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 52,391,330 *(77.9%)*
+**Jogger**: 4,740.1 *(79.5%)*
+**Collector**: 90,336 *(84.6%)*
+**Scientist**: 7,622 *(76.4%)*
+**Breeder**: 2,341 *(62.6%)*
+**Backpacker**: 71,789 *(78.5%)*
+**Battle Girl**: 17,986 *(88.7%)*
+**Gym Badge**: 1000 *(97.4%)*
+**Gold Gyms**: 78 *(81.5%)*
+    
+**Pokemon Ranger**: 1,616 *(73.3%)*
+**Berry Master**: 27,588 *(71.3%)*
+**Gym Leader**: 63,572 *(85.6%)*
+**Battle Legend**: 632 *(78.5%)*
+**Champion**: 154 *(47.7%)*
+**Pokedex Caught**: 371 *(83.1%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 613
+**Youngster**: 590
+**Pikachu Fan**: 1666
+**Unown**: 16
+**Pilot**: 578,954
+**Gentleman**: 167
+    
+**Days Played**: 751 days
+**XP**/day: 69,762
+**KM**/day: 6.3
+**Catches**/day: 120.29
+**Evolves**/day: 10.15
+**Hatches**/day: 3.12
+**Spins**/day: 95.59
+**Battles**/day: 23.95
+**Research**/day: 13.14
+**Berries**/day: 68.29
+**Gym Hours**/day: 157.36
+**Gold Gyms**/day: 0.19
+**Raids**/day: 0.39
+**Legendary Raids**/day: 0.41
+    

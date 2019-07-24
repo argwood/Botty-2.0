@@ -1,0 +1,37 @@
+**Trainer**: HokagoTT
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 41,764,400 *(86.4%)*
+**Gold Gyms**: 25 *(63.6%)*
+**Gym Badge**: 239 *(40.9%)*
+**Jogger**: 5,146.2 *(86.4%)*
+**Collector**: 63,980 *(86.4%)*
+**Scientist**: 12,160 *(100.0%)*
+**Breeder**: 4,542 *(86.4%)*
+**Backpacker**: 72,961 *(95.5%)*
+**Battle Girl**: 3,770 *(50.0%)*
+**Berry Master**: 22,975 *(86.4%)*
+**Gym Leader**: 10,020 *(40.9%)*
+**Battle Legend**: 445 *(59.1%)*
+**Champion**: 179 *(59.1%)*
+**Pokedex Caught**: 364 *(77.3%)*
+**Pokedex Seen**: 371 *(72.7%)*
+    
+**Days Played**: 691 days
+**XP**/day: 60,440
+**KM**/day: 7.4
+**Catches**/day: 92.59
+**Evolves**/day: 17.6
+**Catches**/evolve: 5.26
+**Hatches**/day: 6.57
+**KM**/egg: 1.13
+**Spins**/day: 105.59
+**Battles**/day: 5.46
+**Berries**/day: 66.98
+**Gym Hours**/day: 29.21
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.53
+**Legendary Raids**/day: 0.57
+    

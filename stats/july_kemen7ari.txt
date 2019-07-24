@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: Kemen7ari
+**Level**: 40
+**Team**: Valor
+**Region**: South
+    
+**Total XP**: 35,863,318 *(56.9%)*
+**Jogger**: 2,626.8 *(45.1%)*
+**Collector**: 47,073 *(52.3%)*
+**Scientist**: 6,966 *(72.8%)*
+**Breeder**: 3,026 *(73.3%)*
+**Backpacker**: 42,832 *(53.3%)*
+**Battle Girl**: 4,634 *(44.6%)*
+**Gym Badge**: 351 *(38.5%)*
+**Gold Gyms**: 29 *(52.8%)*
+    
+**Pokemon Ranger**: 1,029 *(51.3%)*
+**Berry Master**: 11,587 *(42.1%)*
+**Gym Leader**: 17,963 *(42.1%)*
+**Battle Legend**: 510 *(61.0%)*
+**Champion**: 318 *(86.2%)*
+**Pokedex Caught**: 374 *(100.0%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Days Played**: 755 days
+**XP**/day: 47,501
+**KM**/day: 3.5
+**Catches**/day: 62.35
+**Evolves**/day: 9.23
+**Hatches**/day: 4.01
+**Spins**/day: 56.73
+**Battles**/day: 6.14
+**Research**/day: 8.37
+**Berries**/day: 28.68
+**Gym Hours**/day: 44.46
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.8
+**Legendary Raids**/day: 0.85
+    

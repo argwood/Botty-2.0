@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Morukii
+**Level**: 39
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 15,612,066 *(23.4%)*
+**Gold Gyms**: 6 *(15.3%)*
+**Gym Badge**: 397 *(41.9%)*
+**Jogger**: 3,879.5 *(75.0%)*
+**Collector**: 39,012 *(51.6%)*
+**Scientist**: 720 *(7.3%)*
+**Breeder**: 2,320 *(71.0%)*
+**Backpacker**: 52,974 *(71.0%)*
+**Battle Girl**: 1,608 *(12.9%)*
+**Pokemon Ranger**: 147 *(25.0%)*
+**Berry Master**: 5,745 *(21.8%)*
+**Gym Leader**: 7,298 *(20.2%)*
+**Battle Legend**: 125 *(14.5%)*
+**Champion**: 79 *(19.4%)*
+**Pokedex Caught**: 359 *(47.6%)*
+**Pokedex Seen**: 370 *(99.2%)*
+    
+**Days Played**: 662 days
+**XP**/day: 23,583
+**KM**/day: 5.9
+**Catches**/day: 58.93
+**Evolves**/day: 1.09
+**Hatches**/day: 3.5
+**Spins**/day: 80.02
+**Battles**/day: 2.43
+**Quests**/day: 4.74
+**Berries**/day: 18.41
+**Gym Hours**/day: 23.39
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.26
+**Legendary Raids**/day: 0.28
+    

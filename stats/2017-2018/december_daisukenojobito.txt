@@ -1,0 +1,38 @@
+**Trainer**: DaisukenojoBito
+**Level**: 37
+**Team**: Valor
+**Region**: South
+    
+**Total XP**: 11,763,050 *(24.0%)*
+**Gold Gyms**: 9 *(36.0%)*
+**Gym Badge**: 82 *(5.0%)*
+**Jogger**: 1,417.6 *(29.0%)*
+**Collector**: 22,775 *(30.0%)*
+**Scientist**: 2,175 *(32.0%)*
+**Breeder**: 694 *(24.0%)*
+**Backpacker**: 22,943 *(40.0%)*
+**Battle Girl**: 5,943 *(71.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 7,831 *(47.0%)*
+**Gym Leader**: 4,770 *(26.0%)*
+**Battle Legend**: 119 *(27.0%)*
+**Champion**: 49 *(18.0%)*
+**Pokedex Caught**: 362 *(66.0%)*
+**Pokedex Seen**: 371 *(85.5%)*
+    
+**Days Played**: 694 days
+**XP**/day: 16,949
+**KM**/day: 2.0
+**Catches**/day: 32.82
+**Evolves**/day: 3.13
+**Catches**/evolve: 10.47
+**Hatches**/day: 1.0
+**KM**/egg: 2.04
+**Spins**/day: 33.06
+**Battles**/day: 8.56
+**Berries**/day: 22.83
+**Gym Hours**/day: 13.91
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.14
+**Legendary Raids**/day: 0.16
+    

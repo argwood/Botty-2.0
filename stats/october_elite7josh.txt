@@ -1,0 +1,50 @@
+**__OCTOBER__**
+    
+**Trainer**: Elite7Josh
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 257
+**Monthly Rank**: N/A
+    
+**Total XP**: 29,278,193 *(25.0%)*
+**Jogger**: 1,418.2 *(13.6%)*
+**Collector**: 27,573 *(17.9%)*
+**Scientist**: 2,159 *(22.1%)*
+**Breeder**: 1,506 *(32.9%)*
+**Backpacker**: 15,450 *(12.1%)*
+**Battle Girl**: 2,335 *(20.7%)*
+**Gym Badge**: 199 *(12.9%)*
+**Gold Gyms**: 25 *(39.3%)*
+    
+**Pokemon Ranger**: 1,512 *(36.4%)*
+**Berry Master**: 5,361 *(17.9%)*
+**Gym Leader**: 18,145 *(33.6%)*
+**Battle Legend**: 275 *(20.0%)*
+**Champion**: 148 *(34.3%)*
+**Pokedex Caught**: 395.0 *(52.6%)*
+**Pokedex Seen**: 403.0 *(62.5%)*
+    
+**Fisherman**: 137
+**Youngster**: 116
+**Pikachu Fan**: 606
+**Unown**: 7
+**Pilot**: 641,889
+**Gentleman**: 765
+**Idol**: 8
+    
+**Days Played**: 834 days
+**XP**/day: 35,105
+**KM**/day: 1.7
+**Catches**/day: 33.06
+**Evolves**/day: 2.59
+**Hatches**/day: 1.81
+**Spins**/day: 18.53
+**Battles**/day: 2.8
+**Research**/day: 7.03
+**Berries**/day: 10.81
+**Gym Hours**/day: 36.58
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.3
+**Legendary Raids**/day: 0.32
+    

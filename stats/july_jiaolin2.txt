@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: Jiaolin2
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 36,370,861 *(57.9%)*
+**Jogger**: 1,942.7 *(27.2%)*
+**Collector**: 23,791 *(25.6%)*
+**Scientist**: 1,996 *(28.7%)*
+**Breeder**: 1,879 *(53.3%)*
+**Backpacker**: 25,485 *(31.8%)*
+**Battle Girl**: 2,455 *(25.6%)*
+**Gym Badge**: 314 *(29.7%)*
+**Gold Gyms**: 46 *(66.2%)*
+    
+**Pokemon Ranger**: 389 *(21.0%)*
+**Berry Master**: 6,953 *(29.7%)*
+**Gym Leader**: 29,121 *(61.5%)*
+**Battle Legend**: 912 *(84.6%)*
+**Champion**: 256 *(76.9%)*
+**Pokedex Caught**: 371 *(83.1%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Days Played**: 739 days
+**XP**/day: 49,216
+**KM**/day: 2.6
+**Catches**/day: 32.19
+**Evolves**/day: 2.7
+**Hatches**/day: 2.54
+**Spins**/day: 34.49
+**Battles**/day: 3.32
+**Research**/day: 3.16
+**Berries**/day: 17.21
+**Gym Hours**/day: 72.08
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.64
+**Legendary Raids**/day: 0.68
+    

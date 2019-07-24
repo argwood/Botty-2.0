@@ -1,0 +1,50 @@
+**__SEPTEMBER__**
+    
+**Trainer**: 123valkyerie
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: 227
+**Monthly Rank**: N/A
+    
+**Total XP**: 26,392,374 *(27.1%)*
+**Jogger**: 1,656.2 *(21.4%)*
+**Collector**: 33,004 *(27.9%)*
+**Scientist**: 3,101 *(35.0%)*
+**Breeder**: 1,673 *(40.0%)*
+**Backpacker**: 16,034 *(17.9%)*
+**Battle Girl**: 2,715 *(22.9%)*
+**Gym Badge**: 158 *(12.9%)*
+**Gold Gyms**: 15 *(28.6%)*
+    
+**Pokemon Ranger**: 1,491 *(43.6%)*
+**Berry Master**: 1,820 *(14.3%)*
+**Gym Leader**: 9,577 *(25.7%)*
+**Battle Legend**: 551 *(47.9%)*
+**Champion**: 485 *(90.0%)*
+**Pokedex Caught**: 370.0 *(32.4%)*
+**Pokedex Seen**: 373.0 *(18.0%)*
+    
+**Fisherman**: 139
+**Youngster**: 264
+**Pikachu Fan**: 382
+**Unown**: 4
+**Pilot**: 370,613
+**Gentleman**: 1231
+**Idol**: 1
+    
+**Days Played**: 805 days
+**XP**/day: 32,785
+**KM**/day: 2.1
+**Catches**/day: 41.0
+**Evolves**/day: 3.85
+**Hatches**/day: 2.08
+**Spins**/day: 19.92
+**Battles**/day: 3.37
+**Research**/day: 8.1
+**Berries**/day: 3.91
+**Gym Hours**/day: 20.6
+**Gold Gyms**/day: 0.03
+**Raids**/day: 1.05
+**Legendary Raids**/day: 1.11
+    

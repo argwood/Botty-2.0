@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: EjRajzer
+**Level**: 38
+**Team**: Instinct
+**Region**: North
+    
+**Total XP**: 12,012,963 *(44.4%)*
+**Gold Gyms**: 4 *(36.8%)*
+**Gym Badge**: 364 *(71.4%)*
+**Jogger**: 1,136.9 *(22.6%)*
+**Collector**: 13,355 *(27.8%)*
+**Scientist**: 1,574 *(34.6%)*
+**Breeder**: 1,749 *(66.9%)*
+**Backpacker**: 14,113 *(28.6%)*
+**Battle Girl**: 1,869 *(39.1%)*
+**Ace Trainer**: 0 *(7.5%)*
+**Berry Master**: 2,378 *(33.1%)*
+**Gym Leader**: 3,749 *(25.6%)*
+**Battle Legend**: 169 *(61.7%)*
+**Champion**: 112 *(79.7%)*
+**Pokedex Caught**: 248 *(88.0%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 479 days
+**XP**/day: 25,079
+**KM**/day: 2.4
+**Catches**/day: 27.88
+**Evolves**/day: 3.29
+**Catches**/evolve: 8.48
+**Hatches**/day: 3.65
+**KM**/egg: 0.65
+**Spins**/day: 29.46
+**Battles**/day: 3.9
+**Berries**/day: 15.34
+**Gym Hours**/day: 24.19
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.74
+**Legendary Raids**/day: 0.9
+    

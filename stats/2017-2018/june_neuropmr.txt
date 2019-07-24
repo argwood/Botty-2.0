@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: NeuroPMR
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 57,010,670 *(84.1%)*
+**Gold Gyms**: 10 *(17.9%)*
+**Gym Badge**: 679 *(68.9%)*
+**Jogger**: 3,869.5 *(65.6%)*
+**Collector**: 51,827 *(49.0%)*
+**Scientist**: 5,101 *(53.0%)*
+**Breeder**: 2,221 *(51.7%)*
+**Backpacker**: 47,617 *(52.3%)*
+**Battle Girl**: 2,350 *(15.2%)*
+**Pokemon Ranger**: 521 *(26.5%)*
+**Berry Master**: 8,679 *(25.8%)*
+**Gym Leader**: 2,990 *(6.0%)*
+**Battle Legend**: 1620 *(98.0%)*
+**Champion**: 214 *(64.2%)*
+**Pokedex Caught**: 359 *(19.2%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: 720 days
+**XP**/day: 79,181
+**KM**/day: 5.4
+**Catches**/day: 71.98
+**Evolves**/day: 7.08
+**Hatches**/day: 3.08
+**Spins**/day: 66.13
+**Battles**/day: 3.26
+**Quests**/day: 5.66
+**Berries**/day: 23.27
+**Gym Hours**/day: 8.02
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.58
+**Legendary Raids**/day: 0.62
+    

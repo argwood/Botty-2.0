@@ -1,0 +1,54 @@
+**__JUNE__**
+    
+**Trainer**: CrepperTWB
+**Level**: 40
+**Team**: Mystic
+**Region**: West
+**Overall Rank**: 347
+**Monthly Rank**: N/A
+    
+**Total XP**: 22,190,843 *(17.0%)*
+**Jogger**: 2,409.9 *(20.5%)*
+**Collector**: 23,117 *(17.0%)*
+**Scientist**: 1,201 *(17.0%)*
+**Breeder**: 787 *(14.3%)*
+**Backpacker**: 11,526 *(14.3%)*
+**Battle Girl**: 3,922 *(33.0%)*
+**Gold Gyms**: 10 *(24.1%)*
+    
+**Pokemon Ranger**: 1,180 *(19.6%)*
+**Berry Master**: 3,203 *(17.0%)*
+**Gym Leader**: 12,882 *(28.6%)*
+**Battle Legend**: 235 *(21.4%)*
+**Champion**: 89 *(14.3%)*
+    
+**Gym Badges**: 224
+**Pokedex Caught**: 459
+**Pokedex Seen**: 483
+**Fisherman**: 39
+**Youngster**: 65
+**Pikachu Fan**: 414
+**Unown**: 7
+**Pilot**: 2,950,459
+**Gentleman**: 1427
+**Idol**: 27
+**Ace Trainer**: 67
+**Great League Veteran**: 9
+**Ultra League Veteran**: 0
+**Master League Veteran**: 0
+    
+**Days Played**: 1088 days
+**XP**/day: 20,395
+**KM**/day: 2.2
+**Catches**/day: 21.25
+**Evolves**/day: 1.1
+**Hatches**/day: 0.72
+**Spins**/day: 10.59
+**Battles**/day: 3.6
+**Research**/day: 2.58
+**Berries**/day: 4.34
+**Gym Hours**/day: 17.46
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.12
+**Legendary Raids**/day: 0.13
+    

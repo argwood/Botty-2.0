@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Azalie7 
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 42,910,010 *(31.2%)*
+**Jogger**: 4,147.0 *(42.0%)*
+**Collector**: 35,598 *(25.0%)*
+**Scientist**: 2,941 *(34.8%)*
+**Breeder**: 1,319 *(23.2%)*
+**Backpacker**: 26,107 *(24.1%)*
+**Battle Girl**: 4,119 *(33.9%)*
+**Gold Gyms**: 103 *(73.2%)*
+    
+**Pokemon Ranger**: 714 *(12.5%)*
+**Berry Master**: 18,649 *(39.3%)*
+**Gym Leader**: 69,012 *(75.9%)*
+**Battle Legend**: 863 *(57.1%)*
+**Champion**: 181 *(28.6%)*
+    
+**Days Played**: -14 days
+**XP**/day: -3,065,000
+**KM**/day: -296.2
+**Catches**/day: -2542.71
+**Evolves**/day: -210.07
+**Hatches**/day: -94.21
+**Spins**/day: -1864.79
+**Battles**/day: -294.21
+**Research**/day: 1.56
+**Berries**/day: 25.27
+**Gym Hours**/day: 93.51
+**Gold Gyms**/day: 0.14
+**Raids**/day: 0.25
+**Legendary Raids**/day: 0.26
+    

@@ -1,0 +1,50 @@
+**__NOVEMBER__**
+    
+**Trainer**: TorchRed
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 77
+**Monthly Rank**: N/A
+    
+**Total XP**: 69,437,906 *(69.7%)*
+**Jogger**: 2,711 *(31.2%)*
+**Collector**: 74,582 *(55.0%)*
+**Scientist**: 5,285 *(50.5%)*
+**Breeder**: 5,510 *(84.4%)*
+**Backpacker**: 54,316 *(49.5%)*
+**Battle Girl**: 5,872 *(39.4%)*
+**Gym Badge**: 234 *(17.4%)*
+**Gold Gyms**: 70 *(67.9%)*
+    
+**Pokemon Ranger**: 2,661 *(62.4%)*
+**Berry Master**: 44,262 *(74.3%)*
+**Gym Leader**: 40,330 *(58.7%)*
+**Battle Legend**: 576 *(45.9%)*
+**Champion**: 452 *(75.2%)*
+**Pokedex Caught**: 412.0 *(79.0%)*
+**Pokedex Seen**: 420.0 *(56.2%)*
+    
+**Fisherman**: 193
+**Youngster**: 542
+**Pikachu Fan**: 758
+**Unown**: 15
+**Pilot**: 2,220,553
+**Gentleman**: 995
+**Idol**: 48
+    
+**Days Played**: 876 days
+**XP**/day: 79,267
+**KM**/day: 3.1
+**Catches**/day: 85.14
+**Evolves**/day: 6.03
+**Hatches**/day: 6.29
+**Spins**/day: 62.0
+**Battles**/day: 6.7
+**Research**/day: 10.86
+**Berries**/day: 84.15
+**Gym Hours**/day: 76.67
+**Gold Gyms**/day: 0.13
+**Raids**/day: 0.87
+**Legendary Raids**/day: 0.91
+    

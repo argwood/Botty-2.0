@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: CremeBruleeme
+**Level**: 36
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 8,307,054 *(8.0%)*
+**Jogger**: 550.6 *(4.5%)*
+**Collector**: 11,008 *(8.9%)*
+**Scientist**: 475 *(6.2%)*
+**Breeder**: 671 *(10.7%)*
+**Backpacker**: 5,599 *(4.5%)*
+**Battle Girl**: 441 *(4.5%)*
+**Gold Gyms**: 0 *(4.5%)*
+    
+**Pokemon Ranger**: 488 *(9.8%)*
+**Berry Master**: 437 *(4.5%)*
+**Gym Leader**: 2,204 *(8.0%)*
+**Battle Legend**: 74 *(9.8%)*
+**Champion**: 205 *(31.2%)*
+    
+**Days Played**: 85 days
+**XP**/day: 97,730
+**KM**/day: 6.5
+**Catches**/day: 129.51
+**Evolves**/day: 5.59
+**Hatches**/day: 7.89
+**Spins**/day: 65.87
+**Battles**/day: 5.19
+**Research**/day: 1.07
+**Berries**/day: 0.59
+**Gym Hours**/day: 2.99
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.28
+**Legendary Raids**/day: 0.29
+    

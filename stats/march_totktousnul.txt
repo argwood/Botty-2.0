@@ -1,0 +1,54 @@
+**__MARCH__**
+    
+**Trainer**: totktousnul
+**Level**: 39
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 286
+**Monthly Rank**: 57
+    
+**Total XP**: 15,905,628 *(4.9%)*
+**Jogger**: 3,161.0 *(21.4%)*
+**Collector**: 24,971 *(7.1%)*
+**Scientist**: 1,667 *(12.6%)*
+**Breeder**: 1,145 *(11.0%)*
+**Backpacker**: 20,203 *(7.7%)*
+**Battle Girl**: 3,057 *(17.0%)*
+**Gold Gyms**: 29 *(25.8%)*
+    
+**Pokemon Ranger**: 1,785 *(18.1%)*
+**Berry Master**: 9,556 *(14.3%)*
+**Gym Leader**: 37,478 *(46.2%)*
+**Battle Legend**: 64 *(2.2%)*
+**Champion**: 136 *(11.5%)*
+    
+**Gym Badges**: 0
+**Pokedex Caught**: 441
+**Pokedex Seen**: 464
+**Fisherman**: 111
+**Youngster**: 108
+**Pikachu Fan**: 380
+**Unown**: 0
+**Pilot**: 0
+**Gentleman**: 0
+**Idol**: 0
+**Ace Trainer**: 0
+**Great League Veteran**: 0
+**Ultra League Veteran**: 0
+**Master League Veteran**: 0
+    
+**Days Played**: 667 days
+**XP**/day: 23,846
+**KM**/day: 4.7
+**Catches**/day: 37.44
+**Evolves**/day: 2.5
+**Hatches**/day: 1.72
+**Spins**/day: 30.29
+**Battles**/day: 4.58
+**Research**/day: 4.88
+**Berries**/day: 14.77
+**Gym Hours**/day: 57.93
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.21
+**Legendary Raids**/day: 0.22
+    

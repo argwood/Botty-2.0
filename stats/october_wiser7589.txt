@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: Wiser7589
+**Level**: 32
+**Team**: Valor
+**Region**: North
+**Overall Rank**: 411
+**Monthly Rank**: N/A
+    
+**Total XP**: 3,622,892 *(3.6%)*
+**Jogger**: 302.4 *(3.6%)*
+**Collector**: 3,693 *(2.1%)*
+**Scientist**: 217 *(2.1%)*
+**Breeder**: 107 *(2.9%)*
+**Backpacker**: 2,989 *(2.9%)*
+**Battle Girl**: 635 *(5.0%)*
+**Gym Badge**: 89 *(5.0%)*
+**Gold Gyms**: 0 *(5.7%)*
+    
+**Pokemon Ranger**: 388 *(5.7%)*
+**Berry Master**: 662 *(4.3%)*
+**Gym Leader**: 780 *(2.1%)*
+**Battle Legend**: 34 *(5.0%)*
+**Champion**: 25 *(2.9%)*
+**Pokedex Caught**: 345.0 *(5.2%)*
+**Pokedex Seen**: 381.0 *(5.9%)*
+    
+**Days Played**: 829 days
+**XP**/day: 4,370
+**KM**/day: 0.4
+**Catches**/day: 4.45
+**Evolves**/day: 0.26
+**Hatches**/day: 0.13
+**Spins**/day: 3.61
+**Battles**/day: 0.77
+**Research**/day: 1.8
+**Berries**/day: 1.33
+**Gym Hours**/day: 1.57
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.05
+**Legendary Raids**/day: 0.05
+    

@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: jayc4life
+**Level**: 35
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 7,377,408 *(11.3%)*
+**Jogger**: 776.7 *(10.3%)*
+**Collector**: 12,037 *(14.9%)*
+**Scientist**: 792 *(13.8%)*
+**Breeder**: 546 *(14.9%)*
+**Backpacker**: 10,638 *(13.3%)*
+**Battle Girl**: 2,987 *(31.8%)*
+**Gym Badge**: 237 *(22.6%)*
+**Gold Gyms**: 4 *(15.4%)*
+    
+**Pokemon Ranger**: 246 *(11.8%)*
+**Berry Master**: 4,477 *(24.6%)*
+**Gym Leader**: 7,357 *(25.6%)*
+**Battle Legend**: 68 *(11.8%)*
+**Champion**: 148 *(45.1%)*
+**Pokedex Caught**: 363 *(26.7%)*
+**Pokedex Seen**: 372 *(27.7%)*
+    
+**Fisherman**: 53
+**Youngster**: 48
+**Pikachu Fan**: 162
+**Unown**: 0
+**Pilot**: 23,611
+**Gentleman**: 4
+    
+**Days Played**: 755 days
+**XP**/day: 9,771
+**KM**/day: 1.0
+**Catches**/day: 15.94
+**Evolves**/day: 1.05
+**Hatches**/day: 0.72
+**Spins**/day: 14.09
+**Battles**/day: 3.96
+**Research**/day: 2.0
+**Berries**/day: 11.08
+**Gym Hours**/day: 18.21
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.37
+**Legendary Raids**/day: 0.4
+    

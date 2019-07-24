@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: TheBearPenguin
+**Level**: 33
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 406
+**Monthly Rank**: N/A
+    
+**Total XP**: 4,670,559 *(5.3%)*
+**Jogger**: 588.0 *(7.0%)*
+**Collector**: 8,231 *(7.9%)*
+**Scientist**: 548 *(7.9%)*
+**Breeder**: 207 *(3.5%)*
+**Backpacker**: 5,327 *(5.3%)*
+**Battle Girl**: 8,231 *(51.8%)*
+**Gold Gyms**: 1 *(10.5%)*
+    
+**Pokemon Ranger**: 418 *(8.8%)*
+**Berry Master**: 567 *(4.4%)*
+**Gym Leader**: 1,809 *(9.6%)*
+**Battle Legend**: 20 *(3.5%)*
+**Champion**: 34 *(5.3%)*
+    
+**Days Played**: 939 days
+**XP**/day: 4,973
+**KM**/day: 0.6
+**Catches**/day: 8.77
+**Evolves**/day: 0.58
+**Hatches**/day: 0.22
+**Spins**/day: 5.67
+**Battles**/day: 8.77
+**Research**/day: 1.36
+**Berries**/day: 0.96
+**Gym Hours**/day: 3.08
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.06
+**Legendary Raids**/day: 0.06
+    

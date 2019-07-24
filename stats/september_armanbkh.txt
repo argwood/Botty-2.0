@@ -1,0 +1,50 @@
+**__SEPTEMBER__**
+    
+**Trainer**: ArmanBKH
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 37
+**Monthly Rank**: N/A
+    
+**Total XP**: 75,326,933 *(85.7%)*
+**Jogger**: 4,715.2 *(79.3%)*
+**Collector**: 76,160 *(67.9%)*
+**Scientist**: 11,985 *(87.9%)*
+**Breeder**: 5,111 *(87.9%)*
+**Backpacker**: 58,659 *(60.0%)*
+**Battle Girl**: 9,885 *(57.1%)*
+**Gym Badge**: 531 *(51.4%)*
+**Gold Gyms**: 94 *(81.4%)*
+    
+**Pokemon Ranger**: 1,922 *(59.3%)*
+**Berry Master**: 30,000 *(62.9%)*
+**Gym Leader**: 68,699 *(85.7%)*
+**Battle Legend**: 770 *(72.1%)*
+**Champion**: 220 *(55.7%)*
+**Pokedex Caught**: 374.0 *(78.4%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 238
+**Youngster**: 678
+**Pikachu Fan**: 606
+**Unown**: 16
+**Pilot**: 1,145,978
+**Gentleman**: 347
+**Idol**: 10
+    
+**Days Played**: 815 days
+**XP**/day: 92,425
+**KM**/day: 5.8
+**Catches**/day: 93.45
+**Evolves**/day: 14.71
+**Hatches**/day: 6.27
+**Spins**/day: 71.97
+**Battles**/day: 12.13
+**Research**/day: 10.45
+**Berries**/day: 64.52
+**Gym Hours**/day: 147.74
+**Gold Gyms**/day: 0.2
+**Raids**/day: 0.48
+**Legendary Raids**/day: 0.51
+    

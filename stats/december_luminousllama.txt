@@ -1,0 +1,39 @@
+**__DECEMBER__**
+    
+**Trainer**: LuminousLlama
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: 23
+**Monthly Rank**: N/A
+    
+**Total XP**: 115,732,769 *(91.7%)*
+**Jogger**: 3,042.0 *(38.8%)*
+**Collector**: 131,908 *(89.3%)*
+**Scientist**: 12,382 *(85.1%)*
+**Breeder**: 5,091 *(81.0%)*
+**Backpacker**: 105,918 *(88.4%)*
+**Battle Girl**: 11,136 *(59.5%)*
+**Gold Gyms**: 83 *(75.2%)*
+    
+**Pokemon Ranger**: 3,094 *(66.9%)*
+**Berry Master**: 49,405 *(79.3%)*
+**Gym Leader**: 57,024 *(76.0%)*
+**Battle Legend**: 1399 *(89.3%)*
+**Champion**: 799 *(95.9%)*
+    
+**Days Played**: 907 days
+**XP**/day: 127,599
+**KM**/day: 3.4
+**Catches**/day: 145.43
+**Evolves**/day: 13.65
+**Hatches**/day: 5.61
+**Spins**/day: 116.78
+**Battles**/day: 12.28
+**Research**/day: 11.21
+**Berries**/day: 88.7
+**Gym Hours**/day: 102.38
+**Gold Gyms**/day: 0.15
+**Raids**/day: 1.44
+**Legendary Raids**/day: 1.52
+    

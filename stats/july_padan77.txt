@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: padan77
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 0 *(0.5%)*
+**Jogger**: 5,233.7 *(84.1%)*
+**Collector**: 63,928 *(68.2%)*
+**Scientist**: 8,562 *(81.5%)*
+**Breeder**: 1,529 *(44.1%)*
+**Backpacker**: 59,574 *(69.2%)*
+**Battle Girl**: 0 *(0.5%)*
+**Gym Badge**: 418 *(46.7%)*
+**Gold Gyms**: 0 *(7.7%)*
+    
+**Pokemon Ranger**: 2,069 *(83.6%)*
+**Berry Master**: 35,426 *(83.6%)*
+**Gym Leader**: 0 *(0.5%)*
+**Battle Legend**: 344 *(37.9%)*
+**Champion**: 100 *(26.2%)*
+**Pokedex Caught**: 360 *(23.6%)*
+**Pokedex Seen**: 373 *(41.5%)*
+    
+**Days Played**: 20 days
+**XP**/day: 0
+**KM**/day: 261.7
+**Catches**/day: 3196.4
+**Evolves**/day: 428.1
+**Hatches**/day: 76.45
+**Spins**/day: 2978.7
+**Battles**/day: 0.0
+**Research**/day: 16.82
+**Berries**/day: 87.69
+**Gym Hours**/day: 0.0
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.25
+**Legendary Raids**/day: 0.27
+    

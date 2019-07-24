@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: Keystone80435
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 44,323,733 *(69.2%)*
+**Jogger**: 3,718.3 *(65.6%)*
+**Collector**: 44,068 *(49.7%)*
+**Scientist**: 4,700 *(56.4%)*
+**Breeder**: 7,003 *(98.5%)*
+**Backpacker**: 48,399 *(59.0%)*
+**Battle Girl**: 3,174 *(34.4%)*
+**Gym Badge**: 928 *(87.2%)*
+**Gold Gyms**: 19 *(41.5%)*
+    
+**Pokemon Ranger**: 1,120 *(54.4%)*
+**Berry Master**: 19,382 *(57.4%)*
+**Gym Leader**: 34,162 *(68.2%)*
+**Battle Legend**: 324 *(35.4%)*
+**Champion**: 351 *(88.7%)*
+**Pokedex Caught**: 372 *(89.7%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 314
+**Youngster**: 487
+**Pikachu Fan**: 1098
+**Unown**: 11
+**Pilot**: 220,525
+**Gentleman**: 44
+    
+**Days Played**: 752 days
+**XP**/day: 58,941
+**KM**/day: 4.9
+**Catches**/day: 58.6
+**Evolves**/day: 6.25
+**Hatches**/day: 9.31
+**Spins**/day: 64.36
+**Battles**/day: 4.22
+**Research**/day: 9.11
+**Berries**/day: 47.98
+**Gym Hours**/day: 84.56
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.88
+**Legendary Raids**/day: 0.94
+    

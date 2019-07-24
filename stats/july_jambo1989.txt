@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: jambo1989
+**Level**: 39
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 19,217,409 *(25.6%)*
+**Jogger**: 3,717.8 *(65.1%)*
+**Collector**: 35,917 *(39.5%)*
+**Scientist**: 3,010 *(37.9%)*
+**Breeder**: 1,422 *(38.5%)*
+**Backpacker**: 50,834 *(60.0%)*
+**Battle Girl**: 4,538 *(44.1%)*
+**Gym Badge**: 492 *(53.8%)*
+**Gold Gyms**: 17 *(36.9%)*
+    
+**Pokemon Ranger**: 1,692 *(74.9%)*
+**Berry Master**: 24,639 *(67.2%)*
+**Gym Leader**: 21,756 *(50.8%)*
+**Battle Legend**: 101 *(13.3%)*
+**Champion**: 100 *(26.2%)*
+**Pokedex Caught**: 370 *(72.8%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Days Played**: 753 days
+**XP**/day: 25,521
+**KM**/day: 4.9
+**Catches**/day: 47.7
+**Evolves**/day: 4.0
+**Hatches**/day: 1.89
+**Spins**/day: 67.51
+**Battles**/day: 6.03
+**Research**/day: 13.98
+**Berries**/day: 61.29
+**Gym Hours**/day: 54.12
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.25
+**Legendary Raids**/day: 0.27
+    

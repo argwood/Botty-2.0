@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: KyleNgai
+**Level**: 40
+**Team**: Instinct
+**Region**: West
+**Overall Rank**: 155
+**Monthly Rank**: N/A
+    
+**Total XP**: 52,624,188 *(42.1%)*
+**Jogger**: 4,610.0 *(57.9%)*
+**Collector**: 42,795 *(33.3%)*
+**Scientist**: 3,024 *(34.2%)*
+**Breeder**: 3,924 *(64.9%)*
+**Backpacker**: 36,590 *(35.1%)*
+**Battle Girl**: 2,833 *(22.8%)*
+**Gold Gyms**: 28 *(35.1%)*
+    
+**Pokemon Ranger**: 3,071 *(64.9%)*
+**Berry Master**: 13,945 *(33.3%)*
+**Gym Leader**: 17,553 *(29.8%)*
+**Battle Legend**: 1159 *(84.2%)*
+**Champion**: 496 *(75.4%)*
+    
+**Days Played**: 940 days
+**XP**/day: 55,983
+**KM**/day: 4.9
+**Catches**/day: 45.53
+**Evolves**/day: 3.22
+**Hatches**/day: 4.17
+**Spins**/day: 38.93
+**Battles**/day: 3.01
+**Research**/day: 10.0
+**Berries**/day: 23.72
+**Gym Hours**/day: 29.85
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.85
+**Legendary Raids**/day: 0.89
+    

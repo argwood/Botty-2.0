@@ -1,0 +1,38 @@
+**Trainer**: ACgymLeader
+**Level**: 37
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 9,542,143 *(20.0%)*
+**Gold Gyms**: 4 *(26.0%)*
+**Gym Badge**: 419 *(62.0%)*
+**Jogger**: 886.9 *(14.0%)*
+**Collector**: 20,121 *(24.0%)*
+**Scientist**: 1,201 *(16.0%)*
+**Breeder**: 279 *(8.0%)*
+**Backpacker**: 16,371 *(26.0%)*
+**Battle Girl**: 2,383 *(32.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 7,033 *(39.0%)*
+**Gym Leader**: 10,078 *(42.0%)*
+**Battle Legend**: 97 *(24.5%)*
+**Champion**: 47 *(16.0%)*
+**Pokedex Caught**: 326 *(17.0%)*
+**Pokedex Seen**: 369 *(44.5%)*
+    
+**Days Played**: 693 days
+**XP**/day: 13,769
+**KM**/day: 1.3
+**Catches**/day: 29.03
+**Evolves**/day: 1.73
+**Catches**/evolve: 16.75
+**Hatches**/day: 0.4
+**KM**/egg: 3.18
+**Spins**/day: 23.62
+**Battles**/day: 3.44
+**Berries**/day: 20.5
+**Gym Hours**/day: 29.38
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.14
+**Legendary Raids**/day: 0.15
+    

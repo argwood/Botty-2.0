@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: hastagStella
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 35,981,364 *(57.4%)*
+**Jogger**: 3,288.2 *(60.5%)*
+**Collector**: 64,850 *(70.3%)*
+**Scientist**: 7,724 *(76.9%)*
+**Breeder**: 1,379 *(37.4%)*
+**Backpacker**: 49,651 *(59.5%)*
+**Battle Girl**: 10,955 *(72.8%)*
+**Gym Badge**: 1004 *(99.0%)*
+**Gold Gyms**: 94 *(86.7%)*
+    
+**Pokemon Ranger**: 866 *(42.1%)*
+**Berry Master**: 27,954 *(73.8%)*
+**Gym Leader**: 64,041 *(86.2%)*
+**Battle Legend**: 321 *(34.4%)*
+**Champion**: 124 *(34.9%)*
+**Pokedex Caught**: 372 *(89.7%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Days Played**: 718 days
+**XP**/day: 50,113
+**KM**/day: 4.6
+**Catches**/day: 90.32
+**Evolves**/day: 10.76
+**Hatches**/day: 1.92
+**Spins**/day: 69.15
+**Battles**/day: 15.26
+**Research**/day: 7.04
+**Berries**/day: 69.19
+**Gym Hours**/day: 158.52
+**Gold Gyms**/day: 0.23
+**Raids**/day: 0.31
+**Legendary Raids**/day: 0.33
+    

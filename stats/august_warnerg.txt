@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: WarnerG
+**Level**: 40
+**Team**: Valor
+**Region**: Loop
+**Overall Rank**: 204
+**Monthly Rank**: 32
+    
+**Total XP**: 32,981,334 *(35.8%)*
+**Jogger**: 2,726.2 *(36.7%)*
+**Collector**: 36,200 *(26.7%)*
+**Scientist**: 2,419 *(23.3%)*
+**Breeder**: 2,055 *(55.8%)*
+**Backpacker**: 30,711 *(25.8%)*
+**Battle Girl**: 1,301 *(7.5%)*
+**Gym Badge**: 456 *(44.2%)*
+**Gold Gyms**: 4 *(5.8%)*
+    
+**Pokemon Ranger**: 2,490 *(80.0%)*
+**Berry Master**: 6,314 *(10.8%)*
+**Gym Leader**: 3,986 *(5.0%)*
+**Battle Legend**: 545 *(59.2%)*
+**Champion**: 463 *(92.5%)*
+**Pokedex Caught**: 373.0 *(66.1%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 147
+**Youngster**: 126
+**Pikachu Fan**: 387
+**Unown**: 18
+**Pilot**: 4,907,389
+**Gentleman**: 1480
+    
+**Days Played**: 783 days
+**XP**/day: 42,121
+**KM**/day: 3.5
+**Catches**/day: 46.23
+**Evolves**/day: 3.09
+**Hatches**/day: 2.62
+**Spins**/day: 39.22
+**Battles**/day: 1.66
+**Research**/day: 16.38
+**Berries**/day: 14.58
+**Gym Hours**/day: 9.21
+**Gold Gyms**/day: 0.01
+**Raids**/day: 1.08
+**Legendary Raids**/day: 1.15
+    

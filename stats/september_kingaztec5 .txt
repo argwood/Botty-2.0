@@ -1,0 +1,42 @@
+**__SEPTEMBER__**
+    
+**Trainer**: Kingaztec5 
+**Level**: 28
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 394
+**Monthly Rank**: N/A
+    
+**Total XP**: 1,393,431 *(0.7%)*
+**Jogger**: 233.0 *(0.7%)*
+**Collector**: 355 *(0.7%)*
+**Scientist**: 1,539 *(21.4%)*
+**Breeder**: 68 *(0.7%)*
+**Backpacker**: 1,177 *(0.7%)*
+**Battle Girl**: 1,177 *(15.0%)*
+**Gym Badge**: 31 *(2.1%)*
+**Gold Gyms**: 0 *(7.1%)*
+    
+**Pokemon Ranger**: 48 *(0.7%)*
+**Berry Master**: 241 *(4.3%)*
+**Gym Leader**: 177 *(1.4%)*
+**Battle Legend**: 12 *(4.3%)*
+**Champion**: 12 *(2.1%)*
+**Pokedex Caught**: 233.0 *(3.6%)*
+**Pokedex Seen**: 355.0 *(7.9%)*
+    
+**Days Played**: 804 days
+**XP**/day: 1,733
+**KM**/day: 0.3
+**Catches**/day: 0.44
+**Evolves**/day: 1.91
+**Hatches**/day: 0.08
+**Spins**/day: 1.46
+**Battles**/day: 1.46
+**Research**/day: 0.27
+**Berries**/day: 0.52
+**Gym Hours**/day: 0.38
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.03
+**Legendary Raids**/day: 0.03
+    

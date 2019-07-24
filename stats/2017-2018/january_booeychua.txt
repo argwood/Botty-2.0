@@ -1,0 +1,37 @@
+**Trainer**: BooeyChua
+**Level**: 40.0
+**Team**: Valor
+**Region**: Loop
+    
+**Total XP** Percentile: 54.0 %
+**Gold Gyms** Percentile: 52.2 %
+**Gym Badge** Percentile: 75.7 %
+**Jogger** Percentile: 95.6 %
+**Collector** Percentile: 77.9 %
+**Scientist** Percentile: 23.9 %
+**Breeder** Percentile: 81.4 %
+**Backpacker** Percentile: 83.2 %
+**Battle Girl** Percentile: 65.5 %
+**Berry Master** Percentile: 35.4 %
+**Gym Leader** Percentile: 70.8 %
+**Battle Legend** Percentile: 19.9 %
+**Champion** Percentile: 47.3 %
+**Pokedex Caught** Percentile: 11.5 %
+**Pokedex Seen** Percentile: 62.4 %
+    
+**Days Played**: 585 days
+**XP**/day: 39202
+**KM**/day: 9.4
+**Catches**/day: 98.19
+**Evolves**/day: 3.72
+**Catches**/evolve: 26.42
+**Hatches**/day: 4.86
+**KM**/egg: 1.93
+**Spins**/day: 102.77
+**Battles**/day: 10.35
+**Berries**/day: 25.32
+**Gym Hours**/day: 112.96
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.43
+**Legendary Raids**/day: 0.48
+    

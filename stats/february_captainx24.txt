@@ -1,0 +1,54 @@
+**__FEBRUARY__**
+    
+**Trainer**: CaptainX24
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 8
+**Monthly Rank**: 1
+    
+**Total XP**: 128,886,615 *(86.9%)*
+**Jogger**: 6,314.1 *(74.7%)*
+**Collector**: 147,423 *(88.9%)*
+**Scientist**: 17,410 *(89.9%)*
+**Breeder**: 4,464 *(65.7%)*
+**Backpacker**: 119,592 *(87.9%)*
+**Battle Girl**: 31,347 *(91.9%)*
+**Gold Gyms**: 198 *(90.9%)*
+    
+**Pokemon Ranger**: 21,972 *(100.0%)*
+**Berry Master**: 98,985 *(94.9%)*
+**Gym Leader**: 100,164 *(88.9%)*
+**Battle Legend**: 1029 *(69.7%)*
+**Champion**: 513 *(76.8%)*
+    
+**Gym Badges**: 0
+**Pokedex Caught**: 0
+**Pokedex Seen**: 0
+**Fisherman**: 0
+**Youngster**: 0
+**Pikachu Fan**: 0
+**Unown**: 0
+**Pilot**: 0
+**Gentleman**: 0
+**Idol**: 0
+**Ace Trainer**: 0
+**Great League Veteran**: 80
+**Ultra League Veteran**: 72
+**Master League Veteran**: 17
+    
+**Days Played**: 967 days
+**XP**/day: 133,285
+**KM**/day: 6.5
+**Catches**/day: 152.45
+**Evolves**/day: 18.0
+**Hatches**/day: 4.62
+**Spins**/day: 123.67
+**Battles**/day: 32.42
+**Research**/day: 65.59
+**Berries**/day: 160.69
+**Gym Hours**/day: 162.6
+**Gold Gyms**/day: 0.32
+**Raids**/day: 0.84
+**Legendary Raids**/day: 0.88
+    

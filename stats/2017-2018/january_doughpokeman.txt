@@ -1,0 +1,37 @@
+**Trainer**: DoughPokeMan
+**Level**: 40.0
+**Team**: Valor
+**Region**: North
+    
+**Total XP** Percentile: 75.2 %
+**Gold Gyms** Percentile: 74.8 %
+**Gym Badge** Percentile: 81.4 %
+**Jogger** Percentile: 59.3 %
+**Collector** Percentile: 77.0 %
+**Scientist** Percentile: 84.1 %
+**Breeder** Percentile: 70.8 %
+**Backpacker** Percentile: 77.0 %
+**Battle Girl** Percentile: 88.5 %
+**Berry Master** Percentile: 85.0 %
+**Gym Leader** Percentile: 75.2 %
+**Battle Legend** Percentile: 61.1 %
+**Champion** Percentile: 93.4 %
+**Pokedex Caught** Percentile: 54.9 %
+**Pokedex Seen** Percentile: 79.2 %
+    
+**Days Played**: 593 days
+**XP**/day: 50645
+**KM**/day: 5.0
+**Catches**/day: 96.41
+**Evolves**/day: 12.54
+**Catches**/evolve: 7.69
+**Hatches**/day: 3.58
+**KM**/egg: 1.41
+**Spins**/day: 87.57
+**Battles**/day: 21.23
+**Berries**/day: 75.7
+**Gym Hours**/day: 122.69
+**Gold Gyms**/day: 0.14
+**Raids**/day: 1.07
+**Legendary Raids**/day: 1.2
+    

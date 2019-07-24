@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: MVandy
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 27,980,206 *(54.8%)*
+**Gold Gyms**: 31 *(58.9%)*
+**Gym Badge**: 210 *(13.7%)*
+**Jogger**: 2,480.2 *(45.2%)*
+**Collector**: 38,771 *(50.0%)*
+**Scientist**: 4,677 *(54.8%)*
+**Breeder**: 2,979 *(79.8%)*
+**Backpacker**: 30,958 *(40.3%)*
+**Battle Girl**: 8,672 *(71.0%)*
+**Pokemon Ranger**: 280 *(59.7%)*
+**Berry Master**: 16,023 *(63.7%)*
+**Gym Leader**: 18,802 *(49.2%)*
+**Battle Legend**: 447 *(71.8%)*
+**Champion**: 153 *(59.7%)*
+**Pokedex Caught**: 361 *(63.7%)*
+**Pokedex Seen**: 369 *(49.2%)*
+    
+**Days Played**: 663 days
+**XP**/day: 42,202
+**KM**/day: 3.7
+**Catches**/day: 58.48
+**Evolves**/day: 7.05
+**Hatches**/day: 4.49
+**Spins**/day: 46.69
+**Battles**/day: 13.08
+**Quests**/day: 9.03
+**Berries**/day: 51.36
+**Gym Hours**/day: 60.26
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.5
+**Legendary Raids**/day: 0.54
+    

@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: NursingHomeFyre
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 201
+**Monthly Rank**: N/A
+    
+**Total XP**: 22,408,180 *(18.3%)*
+**Jogger**: 2,781.4 *(40.0%)*
+**Collector**: 37,413 *(28.3%)*
+**Scientist**: 4,339 *(44.2%)*
+**Breeder**: 1,201 *(27.5%)*
+**Backpacker**: 37,232 *(32.5%)*
+**Battle Girl**: 15,861 *(84.2%)*
+**Gym Badge**: 253 *(17.5%)*
+**Gold Gyms**: 43 *(53.3%)*
+    
+**Pokemon Ranger**: 557 *(15.0%)*
+**Berry Master**: 10,533 *(23.3%)*
+**Gym Leader**: 24,795 *(39.2%)*
+**Battle Legend**: 175 *(12.5%)*
+**Champion**: 80 *(11.7%)*
+**Pokedex Caught**: 370.0 *(39.0%)*
+**Pokedex Seen**: 375.0 *(26.3%)*
+    
+**Fisherman**: 108
+**Youngster**: 422
+**Pikachu Fan**: 230
+**Unown**: 3
+**Pilot**: 457,632
+**Gentleman**: 66
+    
+**Days Played**: 782 days
+**XP**/day: 28,654
+**KM**/day: 3.6
+**Catches**/day: 47.84
+**Evolves**/day: 5.55
+**Hatches**/day: 1.54
+**Spins**/day: 47.61
+**Battles**/day: 20.28
+**Research**/day: 3.69
+**Berries**/day: 24.38
+**Gym Hours**/day: 57.4
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.19
+**Legendary Raids**/day: 0.2
+    

@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: CaptainX24
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 36,658,061 *(71.8%)*
+**Gold Gyms**: 73 *(84.6%)*
+**Gym Badge**: 411 *(43.0%)*
+**Jogger**: 3,145.8 *(61.1%)*
+**Collector**: 56,516 *(71.1%)*
+**Scientist**: 6,940 *(79.2%)*
+**Breeder**: 1,045 *(30.2%)*
+**Backpacker**: 47,064 *(62.4%)*
+**Battle Girl**: 14,668 *(87.9%)*
+**Pokemon Ranger**: 3,571 *(100.0%)*
+**Berry Master**: 26,607 *(81.2%)*
+**Gym Leader**: 38,161 *(76.5%)*
+**Battle Legend**: 316 *(38.3%)*
+**Champion**: 157 *(50.3%)*
+**Pokedex Caught**: 365 *(90.6%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 694 days
+**XP**/day: 52,821
+**KM**/day: 4.5
+**Catches**/day: 81.44
+**Evolves**/day: 10.0
+**Hatches**/day: 1.51
+**Spins**/day: 67.82
+**Battles**/day: 21.14
+**Quests**/day: 57.6
+**Berries**/day: 77.57
+**Gym Hours**/day: 111.26
+**Gold Gyms**/day: 0.21
+**Raids**/day: 0.46
+**Legendary Raids**/day: 0.5
+    

@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: Professor58
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 133
+**Monthly Rank**: 53
+    
+**Total XP**: 78,295,594 *(80.7%)*
+**Jogger**: 3,069.9 *(42.1%)*
+**Collector**: 61,692 *(50.7%)*
+**Scientist**: 8,258 *(72.1%)*
+**Breeder**: 2,837 *(60.0%)*
+**Backpacker**: 43,489 *(39.3%)*
+**Battle Girl**: 2,616 *(23.6%)*
+**Gym Badge**: 275 *(23.6%)*
+**Gold Gyms**: 27 *(40.7%)*
+    
+**Pokemon Ranger**: 1,656 *(39.3%)*
+**Berry Master**: 16,917 *(40.0%)*
+**Gym Leader**: 8,322 *(18.6%)*
+**Battle Legend**: 1593 *(92.9%)*
+**Champion**: 230 *(53.6%)*
+**Pokedex Caught**: 404.0 *(96.3%)*
+**Pokedex Seen**: 406.0 *(95.6%)*
+    
+**Days Played**: 844 days
+**XP**/day: 92,767
+**KM**/day: 3.6
+**Catches**/day: 73.09
+**Evolves**/day: 9.78
+**Hatches**/day: 3.36
+**Spins**/day: 51.53
+**Battles**/day: 3.1
+**Research**/day: 7.7
+**Berries**/day: 34.11
+**Gym Hours**/day: 16.78
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.47
+**Legendary Raids**/day: 0.49
+    

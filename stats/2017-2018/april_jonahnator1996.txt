@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: JoNaHnAtor1996
+**Level**: 40
+**Team**: Instinct
+**Region**: Loop
+    
+**Total XP**: 61,399,196 *(91.9%)*
+**Gold Gyms**: 22 *(46.0%)*
+**Gym Badge**: 497 *(54.8%)*
+**Jogger**: 4,139.5 *(79.0%)*
+**Collector**: 81,591 *(92.7%)*
+**Scientist**: 8,510 *(79.0%)*
+**Breeder**: 2,207 *(69.4%)*
+**Backpacker**: 84,105 *(92.7%)*
+**Battle Girl**: 9,326 *(76.6%)*
+**Pokemon Ranger**: 807 *(91.1%)*
+**Berry Master**: 16,045 *(64.5%)*
+**Gym Leader**: 4,159 *(9.7%)*
+**Battle Legend**: 1515 *(99.2%)*
+**Champion**: 236 *(81.5%)*
+**Pokedex Caught**: 366 *(99.2%)*
+**Pokedex Seen**: 370 *(99.2%)*
+    
+**Days Played**: 651 days
+**XP**/day: 94,315
+**KM**/day: 6.4
+**Catches**/day: 125.33
+**Evolves**/day: 13.07
+**Hatches**/day: 3.39
+**Spins**/day: 129.19
+**Battles**/day: 14.33
+**Quests**/day: 26.03
+**Berries**/day: 51.43
+**Gym Hours**/day: 13.33
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.77
+**Legendary Raids**/day: 0.84
+    

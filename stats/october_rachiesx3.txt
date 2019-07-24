@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: Rachiesx3
+**Level**: 39
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: 282
+**Monthly Rank**: 81
+    
+**Total XP**: 17,110,784 *(14.3%)*
+**Jogger**: 1,635.0 *(16.4%)*
+**Collector**: 34,190 *(24.3%)*
+**Scientist**: 3,941 *(37.9%)*
+**Breeder**: 1,079 *(20.7%)*
+**Backpacker**: 28,373 *(22.1%)*
+**Battle Girl**: 3,075 *(26.4%)*
+**Gym Badge**: 226 *(16.4%)*
+**Gold Gyms**: 8 *(15.0%)*
+    
+**Pokemon Ranger**: 667 *(15.7%)*
+**Berry Master**: 9,756 *(25.7%)*
+**Gym Leader**: 7,513 *(17.1%)*
+**Battle Legend**: 58 *(7.9%)*
+**Champion**: 121 *(22.9%)*
+**Pokedex Caught**: 337.0 *(4.4%)*
+**Pokedex Seen**: 391.0 *(11.8%)*
+    
+**Days Played**: 845 days
+**XP**/day: 20,249
+**KM**/day: 1.9
+**Catches**/day: 40.46
+**Evolves**/day: 4.66
+**Hatches**/day: 1.28
+**Spins**/day: 33.58
+**Battles**/day: 3.64
+**Research**/day: 3.12
+**Berries**/day: 19.71
+**Gym Hours**/day: 15.18
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.25
+**Legendary Raids**/day: 0.26
+    

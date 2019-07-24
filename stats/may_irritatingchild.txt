@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: IrritatingChild
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 80
+**Monthly Rank**: N/A
+    
+**Total XP**: 63,825,000 *(46.7%)*
+**Jogger**: 5,563.0 *(66.7%)*
+**Collector**: 87,925 *(57.5%)*
+**Scientist**: 4,340 *(41.7%)*
+**Breeder**: 2,305 *(34.2%)*
+**Backpacker**: 76,080 *(60.8%)*
+**Battle Girl**: 23,200 *(84.2%)*
+**Gold Gyms**: 132 *(85.0%)*
+    
+**Pokemon Ranger**: 3,538 *(54.2%)*
+**Berry Master**: 43,280 *(61.7%)*
+**Gym Leader**: 93,333 *(85.8%)*
+**Battle Legend**: 579 *(41.7%)*
+**Champion**: 264 *(37.5%)*
+    
+**Days Played**: 1017 days
+**XP**/day: 62,758
+**KM**/day: 5.5
+**Catches**/day: 86.46
+**Evolves**/day: 4.27
+**Hatches**/day: 2.27
+**Spins**/day: 74.81
+**Battles**/day: 22.81
+**Research**/day: 8.34
+**Berries**/day: 61.39
+**Gym Hours**/day: 132.39
+**Gold Gyms**/day: 0.19
+**Raids**/day: 0.38
+**Legendary Raids**/day: 0.39
+    

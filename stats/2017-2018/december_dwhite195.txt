@@ -1,0 +1,38 @@
+**Trainer**: Dwhite195
+**Level**: 39
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 18,217,879 *(40.0%)*
+**Gold Gyms**: 8 *(32.5%)*
+**Gym Badge**: 435 *(64.0%)*
+**Jogger**: 2,932.4 *(69.0%)*
+**Collector**: 30,852 *(51.0%)*
+**Scientist**: 4,587 *(64.0%)*
+**Breeder**: 1,328 *(56.0%)*
+**Backpacker**: 25,318 *(44.0%)*
+**Battle Girl**: 2,892 *(42.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 8,190 *(48.0%)*
+**Gym Leader**: 6,308 *(32.0%)*
+**Battle Legend**: 155 *(34.0%)*
+**Champion**: 151 *(68.0%)*
+**Pokedex Caught**: 361 *(58.5%)*
+**Pokedex Seen**: 371 *(85.5%)*
+    
+**Days Played**: 690 days
+**XP**/day: 26,402
+**KM**/day: 4.2
+**Catches**/day: 44.71
+**Evolves**/day: 6.65
+**Catches**/evolve: 6.73
+**Hatches**/day: 1.92
+**KM**/egg: 2.21
+**Spins**/day: 36.69
+**Battles**/day: 4.19
+**Berries**/day: 24.02
+**Gym Hours**/day: 18.5
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.45
+**Legendary Raids**/day: 0.49
+    

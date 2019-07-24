@@ -1,6 +1,5 @@
 import discord
 import asyncio
-import random
 import json
 import re
 import collections, itertools

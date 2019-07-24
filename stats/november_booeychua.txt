@@ -1,0 +1,50 @@
+**__NOVEMBER__**
+    
+**Trainer**: Booeychua
+**Level**: 40
+**Team**: Valor
+**Region**: Loop
+**Overall Rank**: 123
+**Monthly Rank**: 59
+    
+**Total XP**: 39,341,058 *(32.1%)*
+**Jogger**: 7,430 *(90.8%)*
+**Collector**: 87,711 *(63.3%)*
+**Scientist**: 2,327 *(25.7%)*
+**Breeder**: 3,721 *(67.9%)*
+**Backpacker**: 80,251 *(69.7%)*
+**Battle Girl**: 9,816 *(52.3%)*
+**Gym Badge**: 1000 *(97.2%)*
+**Gold Gyms**: 64 *(62.4%)*
+    
+**Pokemon Ranger**: 1,209 *(21.1%)*
+**Berry Master**: 12,982 *(29.4%)*
+**Gym Leader**: 70,323 *(84.4%)*
+**Battle Legend**: 308 *(29.4%)*
+**Champion**: 212 *(35.8%)*
+**Pokedex Caught**: 382.0 *(7.6%)*
+**Pokedex Seen**: 421.0 *(67.6%)*
+    
+**Fisherman**: 279
+**Youngster**: 556
+**Pikachu Fan**: 876
+**Unown**: 8
+**Pilot**: 33,435
+**Gentleman**: 771
+**Idol**: 6
+    
+**Days Played**: 880 days
+**XP**/day: 44,705
+**KM**/day: 8.4
+**Catches**/day: 99.67
+**Evolves**/day: 2.64
+**Hatches**/day: 4.23
+**Spins**/day: 91.19
+**Battles**/day: 11.15
+**Research**/day: 4.93
+**Berries**/day: 24.68
+**Gym Hours**/day: 133.69
+**Gold Gyms**/day: 0.12
+**Raids**/day: 0.41
+**Legendary Raids**/day: 0.43
+    

@@ -1,0 +1,37 @@
+**__JANUARY__**
+    
+**Trainer**: steveeyes
+**Level**: 40
+**Team**: Mystic
+**Region**: Loop
+    
+**Total XP**: 45,379,671 *(96.5%)*
+**Gold Gyms**: 19 *(60.5%)*
+**Gym Badge**: 491 *(55.8%)*
+**Jogger**: 3,060.5 *(72.1%)*
+**Collector**: 60,735 *(87.2%)*
+**Scientist**: 8,713 *(91.9%)*
+**Breeder**: 3,801 *(94.2%)*
+**Backpacker**: 88,243 *(98.8%)*
+**Battle Girl**: 4,201 *(52.3%)*
+**Berry Master**: 27,061 *(97.7%)*
+**Gym Leader**: 12,288 *(45.3%)*
+**Battle Legend**: 258 *(61.6%)*
+**Champion**: 126 *(64.0%)*
+**Pokedex Caught**: 310 *(23.3%)*
+**Pokedex Seen**: 337 *(62.8%)*
+    
+**Days Played**: 559 days
+**XP**/day: 81,180
+**KM**/day: 5.5
+**Catches**/day: 108.65
+**Evolves**/day: 15.59
+**Hatches**/day: 6.8
+**Spins**/day: 157.86
+**Battles**/day: 7.52
+**Berries**/day: 124.13
+**Gym Hours**/day: 56.37
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.59
+**Legendary Raids**/day: 0.67
+    

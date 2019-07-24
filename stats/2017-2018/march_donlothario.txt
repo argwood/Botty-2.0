@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: DonLothario
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 25,589,536 *(48.6%)*
+**Gold Gyms**: 7 *(18.0%)*
+**Gym Badge**: 224 *(9.9%)*
+**Jogger**: 5,831.2 *(96.4%)*
+**Collector**: 63,508 *(81.1%)*
+**Scientist**: 2,087 *(18.0%)*
+**Breeder**: 5,722 *(100.0%)*
+**Backpacker**: 59,305 *(79.3%)*
+**Battle Girl**: 2,089 *(15.3%)*
+**Berry Master**: 13,614 *(65.8%)*
+**Gym Leader**: 6,494 *(14.4%)*
+**Battle Legend**: 151 *(12.6%)*
+**Champion**: 150 *(66.7%)*
+**Pokedex Caught**: 319 *(4.5%)*
+**Pokedex Seen**: 364 *(15.3%)*
+    
+**Days Played**: 631 days
+**XP**/day: 40,553
+**KM**/day: 9.2
+**Catches**/day: 100.65
+**Evolves**/day: 3.31
+**Hatches**/day: 9.07
+**Spins**/day: 93.99
+**Battles**/day: 3.31
+**Berries**/day: 48.28
+**Gym Hours**/day: 23.03
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.54
+**Legendary Raids**/day: 0.6
+    

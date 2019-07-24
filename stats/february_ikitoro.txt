@@ -1,0 +1,54 @@
+**__FEBRUARY__**
+    
+**Trainer**: Ikitoro
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 38
+**Monthly Rank**: 17
+    
+**Total XP**: 88,457,527 *(70.7%)*
+**Jogger**: 4,994.8 *(54.5%)*
+**Collector**: 103,833 *(63.6%)*
+**Scientist**: 10,019 *(69.7%)*
+**Breeder**: 1,978 *(25.3%)*
+**Backpacker**: 117,083 *(84.8%)*
+**Battle Girl**: 35,520 *(96.0%)*
+**Gold Gyms**: 160 *(87.9%)*
+    
+**Pokemon Ranger**: 5,243 *(80.8%)*
+**Berry Master**: 118,448 *(97.0%)*
+**Gym Leader**: 57,162 *(70.7%)*
+**Battle Legend**: 723 *(46.5%)*
+**Champion**: 225 *(24.2%)*
+    
+**Gym Badges**: 518
+**Pokedex Caught**: 447
+**Pokedex Seen**: 462
+**Fisherman**: 269
+**Youngster**: 609
+**Pikachu Fan**: 1397
+**Unown**: 19
+**Pilot**: 5,978,196
+**Gentleman**: 5145
+**Idol**: 90
+**Ace Trainer**: 354
+**Great League Veteran**: 74
+**Ultra League Veteran**: 15
+**Master League Veteran**: 34
+    
+**Days Played**: 967 days
+**XP**/day: 91,476
+**KM**/day: 5.2
+**Catches**/day: 107.38
+**Evolves**/day: 10.36
+**Hatches**/day: 2.05
+**Spins**/day: 121.08
+**Battles**/day: 36.73
+**Research**/day: 15.65
+**Berries**/day: 192.29
+**Gym Hours**/day: 92.8
+**Gold Gyms**/day: 0.26
+**Raids**/day: 0.37
+**Legendary Raids**/day: 0.38
+    

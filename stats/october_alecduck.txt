@@ -1,0 +1,50 @@
+**__OCTOBER__**
+    
+**Trainer**: Alecduck
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 216
+**Monthly Rank**: N/A
+    
+**Total XP**: 50,353,534 *(55.0%)*
+**Jogger**: 2,421.0 *(30.7%)*
+**Collector**: 48,424 *(37.1%)*
+**Scientist**: 5,365 *(51.4%)*
+**Breeder**: 4,466 *(78.6%)*
+**Backpacker**: 37,622 *(34.3%)*
+**Battle Girl**: 594 *(4.3%)*
+**Gym Badge**: 541 *(50.0%)*
+**Gold Gyms**: 5 *(12.1%)*
+    
+**Pokemon Ranger**: 987 *(21.4%)*
+**Berry Master**: 4,135 *(16.4%)*
+**Gym Leader**: 2,915 *(10.0%)*
+**Battle Legend**: 630 *(61.4%)*
+**Champion**: 185 *(44.3%)*
+**Pokedex Caught**: 399.0 *(66.7%)*
+**Pokedex Seen**: 402.0 *(51.5%)*
+    
+**Fisherman**: 150
+**Youngster**: 419
+**Pikachu Fan**: 695
+**Unown**: 7
+**Pilot**: 4,206,406
+**Gentleman**: 2203
+**Idol**: 8
+    
+**Days Played**: 835 days
+**XP**/day: 60,303
+**KM**/day: 2.9
+**Catches**/day: 57.99
+**Evolves**/day: 6.43
+**Hatches**/day: 5.35
+**Spins**/day: 45.06
+**Battles**/day: 0.71
+**Research**/day: 4.59
+**Berries**/day: 8.34
+**Gym Hours**/day: 5.88
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.38
+**Legendary Raids**/day: 0.4
+    

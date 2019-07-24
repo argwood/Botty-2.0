@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: JLasker1
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 40,628,136 *(78.5%)*
+**Gold Gyms**: 43 *(66.4%)*
+**Gym Badge**: 482 *(56.4%)*
+**Jogger**: 3,728.4 *(73.8%)*
+**Collector**: 66,581 *(77.2%)*
+**Scientist**: 10,076 *(89.9%)*
+**Breeder**: 2,151 *(63.8%)*
+**Backpacker**: 47,096 *(63.1%)*
+**Battle Girl**: 5,459 *(51.7%)*
+**Pokemon Ranger**: 828 *(78.5%)*
+**Berry Master**: 20,476 *(69.8%)*
+**Gym Leader**: 22,403 *(53.7%)*
+**Battle Legend**: 395 *(54.4%)*
+**Champion**: 178 *(58.4%)*
+**Pokedex Caught**: 367 *(99.3%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 692 days
+**XP**/day: 58,711
+**KM**/day: 5.4
+**Catches**/day: 96.22
+**Evolves**/day: 14.56
+**Hatches**/day: 3.11
+**Spins**/day: 68.06
+**Battles**/day: 7.89
+**Quests**/day: 13.35
+**Berries**/day: 59.7
+**Gym Hours**/day: 65.31
+**Gold Gyms**/day: 0.13
+**Raids**/day: 0.53
+**Legendary Raids**/day: 0.57
+    

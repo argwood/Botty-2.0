@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: AkumaIsekia
+**Level**: 35
+**Team**: Mystic
+**Region**: Loop
+**Overall Rank**: 355
+**Monthly Rank**: N/A
+    
+**Total XP**: 7,059,202 *(7.1%)*
+**Jogger**: 904.1 *(10.0%)*
+**Collector**: 9,547 *(6.4%)*
+**Scientist**: 727 *(8.6%)*
+**Breeder**: 895 *(17.1%)*
+**Backpacker**: 10,635 *(9.3%)*
+**Battle Girl**: 1,122 *(10.7%)*
+**Gym Badge**: 214 *(15.0%)*
+**Gold Gyms**: 2 *(10.0%)*
+    
+**Pokemon Ranger**: 539 *(11.4%)*
+**Berry Master**: 2,447 *(12.1%)*
+**Gym Leader**: 3,182 *(10.7%)*
+**Battle Legend**: 57 *(7.1%)*
+**Champion**: 47 *(7.1%)*
+**Pokedex Caught**: 368.0 *(9.6%)*
+**Pokedex Seen**: 383.0 *(7.4%)*
+    
+**Days Played**: 838 days
+**XP**/day: 8,423
+**KM**/day: 1.1
+**Catches**/day: 11.39
+**Evolves**/day: 0.87
+**Hatches**/day: 1.07
+**Spins**/day: 12.69
+**Battles**/day: 1.34
+**Research**/day: 2.6
+**Berries**/day: 5.01
+**Gym Hours**/day: 6.52
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.1
+**Legendary Raids**/day: 0.1
+    

@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: waywardcub
+**Level**: 28
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 1,465,287 *(1.5%)*
+**Jogger**: 134.7 *(1.0%)*
+**Collector**: 1,270 *(0.5%)*
+**Scientist**: 116 *(1.0%)*
+**Breeder**: 79 *(1.5%)*
+**Backpacker**: 1,236 *(1.0%)*
+**Battle Girl**: 107 *(1.0%)*
+**Gym Badge**: 53 *(3.1%)*
+**Gold Gyms**: 0 *(7.7%)*
+    
+**Pokemon Ranger**: 60 *(0.5%)*
+**Berry Master**: 224 *(2.6%)*
+**Gym Leader**: 170 *(1.0%)*
+**Battle Legend**: 19 *(4.1%)*
+**Champion**: 14 *(2.6%)*
+**Pokedex Caught**: 256 *(5.6%)*
+**Pokedex Seen**: 305 *(4.1%)*
+    
+**Days Played**: 754 days
+**XP**/day: 1,943
+**KM**/day: 0.2
+**Catches**/day: 1.68
+**Evolves**/day: 0.15
+**Hatches**/day: 0.1
+**Spins**/day: 1.64
+**Battles**/day: 0.14
+**Research**/day: 0.49
+**Berries**/day: 0.55
+**Gym Hours**/day: 0.42
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.04
+**Legendary Raids**/day: 0.04
+    

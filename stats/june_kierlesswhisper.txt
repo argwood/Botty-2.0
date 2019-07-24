@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: KierlessWhisper
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 295
+**Monthly Rank**: N/A
+    
+**Total XP**: 21,582,578 *(16.1%)*
+**Jogger**: 2,148.0 *(16.1%)*
+**Collector**: 26,247 *(17.9%)*
+**Scientist**: 2,323 *(26.8%)*
+**Breeder**: 2,806 *(49.1%)*
+**Backpacker**: 25,402 *(23.2%)*
+**Battle Girl**: 2,984 *(28.6%)*
+**Gold Gyms**: 8 *(21.4%)*
+    
+**Pokemon Ranger**: 2,058 *(29.5%)*
+**Berry Master**: 5,762 *(23.2%)*
+**Gym Leader**: 16,829 *(33.9%)*
+**Battle Legend**: 122 *(12.5%)*
+**Champion**: 384 *(56.2%)*
+    
+**Days Played**: -7 days
+**XP**/day: -3,083,225
+**KM**/day: -306.9
+**Catches**/day: -3749.57
+**Evolves**/day: -331.86
+**Hatches**/day: -400.86
+**Spins**/day: -3628.86
+**Battles**/day: -426.29
+**Research**/day: 4.51
+**Berries**/day: 7.82
+**Gym Hours**/day: 22.83
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.52
+**Legendary Raids**/day: 0.54
+    

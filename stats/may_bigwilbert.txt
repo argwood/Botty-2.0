@@ -1,0 +1,54 @@
+**__MAY__**
+    
+**Trainer**: bigwilbert
+**Level**: 40
+**Team**: Valor
+**Region**: Other
+**Overall Rank**: 37
+**Monthly Rank**: 37
+    
+**Total XP**: 144,738,520 *(88.3%)*
+**Jogger**: 4,325.0 *(45.0%)*
+**Collector**: 130,786 *(78.3%)*
+**Scientist**: 7,890 *(65.0%)*
+**Breeder**: 7,429 *(88.3%)*
+**Backpacker**: 96,937 *(72.5%)*
+**Battle Girl**: 7,710 *(49.2%)*
+**Gold Gyms**: 101 *(73.3%)*
+    
+**Pokemon Ranger**: 4,388 *(69.2%)*
+**Berry Master**: 61,857 *(79.2%)*
+**Gym Leader**: 37,994 *(50.0%)*
+**Battle Legend**: 2453 *(97.5%)*
+**Champion**: 575 *(76.7%)*
+    
+**Gym Badges**: 1000
+**Pokedex Caught**: 482
+**Pokedex Seen**: 483
+**Fisherman**: 379
+**Youngster**: 817
+**Pikachu Fan**: 1046
+**Unown**: 28
+**Pilot**: 1,730,449
+**Gentleman**: 3039
+**Idol**: 125
+**Ace Trainer**: 1695
+**Great League Veteran**: 205
+**Ultra League Veteran**: 61
+**Master League Veteran**: 200
+    
+**Days Played**: 1059 days
+**XP**/day: 136,674
+**KM**/day: 4.1
+**Catches**/day: 123.5
+**Evolves**/day: 7.45
+**Hatches**/day: 7.02
+**Spins**/day: 91.54
+**Battles**/day: 7.28
+**Research**/day: 10.28
+**Berries**/day: 87.37
+**Gym Hours**/day: 53.66
+**Gold Gyms**/day: 0.14
+**Raids**/day: 0.82
+**Legendary Raids**/day: 0.85
+    

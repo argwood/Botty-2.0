@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Termessos
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 48,172,468 *(75.5%)*
+**Gold Gyms**: 74 *(78.8%)*
+**Gym Badge**: 947 *(86.1%)*
+**Jogger**: 3,454.4 *(57.0%)*
+**Collector**: 77,802 *(73.5%)*
+**Scientist**: 11,878 *(91.4%)*
+**Breeder**: 2,098 *(50.3%)*
+**Backpacker**: 65,350 *(71.5%)*
+**Battle Girl**: 8,600 *(57.6%)*
+**Pokemon Ranger**: 2,182 *(86.8%)*
+**Berry Master**: 27,266 *(72.2%)*
+**Gym Leader**: 38,472 *(66.2%)*
+**Battle Legend**: 511 *(57.6%)*
+**Champion**: 134 *(33.8%)*
+**Pokedex Caught**: 365 *(55.6%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: 716 days
+**XP**/day: 67,279
+**KM**/day: 4.8
+**Catches**/day: 108.66
+**Evolves**/day: 16.59
+**Hatches**/day: 2.93
+**Spins**/day: 91.27
+**Battles**/day: 12.01
+**Quests**/day: 23.72
+**Berries**/day: 73.1
+**Gym Hours**/day: 103.14
+**Gold Gyms**/day: 0.2
+**Raids**/day: 0.36
+**Legendary Raids**/day: 0.39
+    

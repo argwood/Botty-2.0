@@ -1,0 +1,37 @@
+**__JANUARY__**
+    
+**Trainer**: Holojon
+**Level**: 40
+**Team**: Instinct
+**Region**: North
+    
+**Total XP**: 33,742,946 *(82.6%)*
+**Gold Gyms**: 9 *(37.2%)*
+**Gym Badge**: 450 *(48.8%)*
+**Jogger**: 2,624.5 *(55.8%)*
+**Collector**: 32,177 *(45.3%)*
+**Scientist**: 4,108 *(46.5%)*
+**Breeder**: 3,807 *(95.3%)*
+**Backpacker**: 31,009 *(43.0%)*
+**Battle Girl**: 3,673 *(46.5%)*
+**Berry Master**: 3,964 *(22.1%)*
+**Gym Leader**: 3,585 *(9.3%)*
+**Battle Legend**: 382 *(82.6%)*
+**Champion**: 619 *(100.0%)*
+**Pokedex Caught**: 305 *(16.3%)*
+**Pokedex Seen**: 338 *(70.9%)*
+    
+**Days Played**: 563 days
+**XP**/day: 59,934
+**KM**/day: 4.7
+**Catches**/day: 57.15
+**Evolves**/day: 7.3
+**Hatches**/day: 6.76
+**Spins**/day: 55.08
+**Battles**/day: 6.52
+**Berries**/day: 18.18
+**Gym Hours**/day: 16.44
+**Gold Gyms**/day: 0.04
+**Raids**/day: 2.89
+**Legendary Raids**/day: 3.29
+    

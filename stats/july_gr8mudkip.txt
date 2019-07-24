@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: Gr8Mudkip
+**Level**: 30
+**Team**: Valor
+**Region**: West
+    
+**Total XP**: 2,285,551 *(4.1%)*
+**Jogger**: 414.3 *(6.2%)*
+**Collector**: 3,533 *(4.1%)*
+**Scientist**: 525 *(7.7%)*
+**Breeder**: 190 *(5.1%)*
+**Backpacker**: 3,999 *(5.1%)*
+**Battle Girl**: 714 *(12.8%)*
+**Gym Badge**: 57 *(3.6%)*
+**Gold Gyms**: 0 *(7.7%)*
+    
+**Pokemon Ranger**: 101 *(3.6%)*
+**Berry Master**: 146 *(0.5%)*
+**Gym Leader**: 550 *(4.1%)*
+**Battle Legend**: 11 *(3.1%)*
+**Champion**: 10 *(1.5%)*
+**Pokedex Caught**: 244 *(4.6%)*
+**Pokedex Seen**: 305 *(4.1%)*
+    
+**Days Played**: 755 days
+**XP**/day: 3,027
+**KM**/day: 0.5
+**Catches**/day: 4.68
+**Evolves**/day: 0.7
+**Hatches**/day: 0.25
+**Spins**/day: 5.3
+**Battles**/day: 0.95
+**Research**/day: 0.82
+**Berries**/day: 0.36
+**Gym Hours**/day: 1.36
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.03
+**Legendary Raids**/day: 0.03
+    

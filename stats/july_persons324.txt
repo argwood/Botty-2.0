@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: Persons324
+**Level**: 34
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 4,991,055 *(8.7%)*
+**Jogger**: 1,694.9 *(22.6%)*
+**Collector**: 9,113 *(9.7%)*
+**Scientist**: 568 *(9.7%)*
+**Breeder**: 793 *(20.5%)*
+**Backpacker**: 16,230 *(20.0%)*
+**Battle Girl**: 274 *(6.7%)*
+**Gym Badge**: 85 *(7.2%)*
+**Gold Gyms**: 1 *(11.8%)*
+    
+**Pokemon Ranger**: 239 *(10.3%)*
+**Berry Master**: 499 *(5.6%)*
+**Gym Leader**: 2,284 *(12.3%)*
+**Battle Legend**: 28 *(6.2%)*
+**Champion**: 25 *(6.2%)*
+**Pokedex Caught**: 364 *(28.7%)*
+**Pokedex Seen**: 371 *(22.1%)*
+    
+**Days Played**: 752 days
+**XP**/day: 6,637
+**KM**/day: 2.3
+**Catches**/day: 12.12
+**Evolves**/day: 0.76
+**Hatches**/day: 1.05
+**Spins**/day: 21.58
+**Battles**/day: 0.36
+**Research**/day: 1.58
+**Berries**/day: 1.16
+**Gym Hours**/day: 5.29
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.06
+**Legendary Raids**/day: 0.06
+    

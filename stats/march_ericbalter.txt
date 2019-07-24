@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: EricBalter
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 42
+**Monthly Rank**: 31
+    
+**Total XP**: 59,526,034 *(34.1%)*
+**Jogger**: 6,241.4 *(72.0%)*
+**Collector**: 69,365 *(35.2%)*
+**Scientist**: 5,745 *(46.2%)*
+**Breeder**: 5,755 *(81.3%)*
+**Backpacker**: 56,170 *(40.1%)*
+**Battle Girl**: 30,513 *(90.7%)*
+**Gold Gyms**: 308 *(97.8%)*
+    
+**Pokemon Ranger**: 6,734 *(85.7%)*
+**Berry Master**: 43,699 *(64.8%)*
+**Gym Leader**: 136,157 *(95.1%)*
+**Battle Legend**: 708 *(45.6%)*
+**Champion**: 624 *(81.9%)*
+    
+**Days Played**: 997 days
+**XP**/day: 59,705
+**KM**/day: 6.3
+**Catches**/day: 69.57
+**Evolves**/day: 5.76
+**Hatches**/day: 5.77
+**Spins**/day: 56.34
+**Battles**/day: 30.6
+**Research**/day: 18.4
+**Berries**/day: 67.54
+**Gym Hours**/day: 210.44
+**Gold Gyms**/day: 0.48
+**Raids**/day: 0.97
+**Legendary Raids**/day: 1.01
+    

@@ -1,0 +1,42 @@
+**__NOVEMBER__**
+    
+**Trainer**: Mappah
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 238
+**Monthly Rank**: 66
+    
+**Total XP**: 30,235,576 *(23.9%)*
+**Jogger**: 2,671 *(29.4%)*
+**Collector**: 30,930 *(20.2%)*
+**Scientist**: 1,267 *(12.8%)*
+**Breeder**: 1,005 *(16.5%)*
+**Backpacker**: 21,172 *(18.3%)*
+**Battle Girl**: 3,984 *(27.5%)*
+**Gym Badge**: 245 *(20.2%)*
+**Gold Gyms**: 48 *(50.5%)*
+    
+**Pokemon Ranger**: 1,626 *(35.8%)*
+**Berry Master**: 12,437 *(28.4%)*
+**Gym Leader**: 30,584 *(47.7%)*
+**Battle Legend**: 251 *(20.2%)*
+**Champion**: 143 *(19.3%)*
+**Pokedex Caught**: 400.0 *(30.5%)*
+**Pokedex Seen**: 415.0 *(26.7%)*
+    
+**Days Played**: 140 days
+**XP**/day: 215,968
+**KM**/day: 19.1
+**Catches**/day: 220.93
+**Evolves**/day: 9.05
+**Hatches**/day: 7.18
+**Spins**/day: 151.23
+**Battles**/day: 28.46
+**Research**/day: 6.64
+**Berries**/day: 23.64
+**Gym Hours**/day: 58.14
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.27
+**Legendary Raids**/day: 0.29
+    

@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: fugXD
+**Level**: 32
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 3,161,673 *(3.3%)*
+**Gold Gyms**: 0 *(3.3%)*
+**Gym Badge**: 109 *(6.6%)*
+**Jogger**: 432.0 *(4.0%)*
+**Collector**: 6,484 *(3.3%)*
+**Scientist**: 273 *(2.0%)*
+**Breeder**: 183 *(3.3%)*
+**Backpacker**: 5,635 *(4.0%)*
+**Battle Girl**: 245 *(2.6%)*
+**Pokemon Ranger**: 255 *(12.6%)*
+**Berry Master**: 780 *(4.0%)*
+**Gym Leader**: 832 *(2.6%)*
+**Battle Legend**: 26 *(3.3%)*
+**Champion**: 30 *(4.6%)*
+**Pokedex Caught**: 310 *(4.6%)*
+**Pokedex Seen**: 356 *(5.3%)*
+    
+**Days Played**: 719 days
+**XP**/day: 4,397
+**KM**/day: 0.6
+**Catches**/day: 9.02
+**Evolves**/day: 0.38
+**Hatches**/day: 0.25
+**Spins**/day: 7.84
+**Battles**/day: 0.34
+**Quests**/day: 2.8
+**Berries**/day: 2.1
+**Gym Hours**/day: 2.24
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.08
+**Legendary Raids**/day: 0.09
+    

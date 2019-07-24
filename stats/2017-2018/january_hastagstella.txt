@@ -1,0 +1,37 @@
+**Trainer**: hastagStella
+**Level**: 40.0
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP** Percentile: 43.4 %
+**Gold Gyms** Percentile: 84.1 %
+**Gym Badge** Percentile: 88.5 %
+**Jogger** Percentile: 51.3 %
+**Collector** Percentile: 57.5 %
+**Scientist** Percentile: 61.1 %
+**Breeder** Percentile: 31.0 %
+**Backpacker** Percentile: 44.2 %
+**Battle Girl** Percentile: 73.5 %
+**Berry Master** Percentile: 69.9 %
+**Gym Leader** Percentile: 85.0 %
+**Battle Legend** Percentile: 24.8 %
+**Champion** Percentile: 34.5 %
+**Pokedex Caught** Percentile: 78.3 %
+**Pokedex Seen** Percentile: 62.4 %
+    
+**Days Played**: 565 days
+**XP**/day: 37524
+**KM**/day: 4.6
+**Catches**/day: 73.47
+**Evolves**/day: 9.64
+**Catches**/evolve: 7.62
+**Hatches**/day: 1.75
+**KM**/egg: 2.62
+**Spins**/day: 60.51
+**Battles**/day: 13.49
+**Berries**/day: 55.96
+**Gym Hours**/day: 161.91
+**Gold Gyms**/day: 0.19
+**Raids**/day: 0.38
+**Legendary Raids**/day: 0.43
+    

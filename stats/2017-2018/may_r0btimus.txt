@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: r0btimus
+**Level**: 33
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 4,300,591 *(4.0%)*
+**Gold Gyms**: 0 *(4.0%)*
+**Gym Badge**: 93 *(4.7%)*
+**Jogger**: 691.0 *(6.0%)*
+**Collector**: 6,553 *(6.0%)*
+**Scientist**: 848 *(12.8%)*
+**Breeder**: 663 *(16.1%)*
+**Backpacker**: 7,095 *(6.0%)*
+**Battle Girl**: 642 *(8.1%)*
+**Pokemon Ranger**: 33 *(0.7%)*
+**Berry Master**: 471 *(2.7%)*
+**Gym Leader**: 310 *(1.3%)*
+**Battle Legend**: 21 *(2.0%)*
+**Champion**: 32 *(4.7%)*
+**Pokedex Caught**: 306 *(2.0%)*
+**Pokedex Seen**: 328 *(2.0%)*
+    
+**Days Played**: 691 days
+**XP**/day: 6,223
+**KM**/day: 1.0
+**Catches**/day: 9.48
+**Evolves**/day: 1.23
+**Hatches**/day: 0.96
+**Spins**/day: 10.27
+**Battles**/day: 0.93
+**Quests**/day: 0.55
+**Berries**/day: 1.38
+**Gym Hours**/day: 0.91
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.09
+**Legendary Raids**/day: 0.1
+    

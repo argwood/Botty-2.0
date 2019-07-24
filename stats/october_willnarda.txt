@@ -1,0 +1,50 @@
+**__OCTOBER__**
+    
+**Trainer**: WillnardA
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: 35
+**Monthly Rank**: N/A
+    
+**Total XP**: 100,000,150 *(90.7%)*
+**Jogger**: 3,720.0 *(52.9%)*
+**Collector**: 150,000 *(94.3%)*
+**Scientist**: 7,410 *(67.9%)*
+**Breeder**: 3,750 *(68.6%)*
+**Backpacker**: 80,050 *(75.7%)*
+**Battle Girl**: 19,450 *(83.6%)*
+**Gym Badge**: 852 *(75.0%)*
+**Gold Gyms**: 54 *(65.0%)*
+    
+**Pokemon Ranger**: 5,000 *(90.0%)*
+**Berry Master**: 38,300 *(72.9%)*
+**Gym Leader**: 44,100 *(67.9%)*
+**Battle Legend**: 1000 *(83.6%)*
+**Champion**: 302 *(68.6%)*
+**Pokedex Caught**: 387.0 *(24.4%)*
+**Pokedex Seen**: 404.0 *(77.9%)*
+    
+**Fisherman**: 430
+**Youngster**: 1200
+**Pikachu Fan**: 2000
+**Unown**: 6
+**Pilot**: 1,300,450
+**Gentleman**: 550
+**Idol**: 24
+    
+**Days Played**: 840 days
+**XP**/day: 119,047
+**KM**/day: 4.4
+**Catches**/day: 178.57
+**Evolves**/day: 8.82
+**Hatches**/day: 4.46
+**Spins**/day: 95.3
+**Battles**/day: 23.15
+**Research**/day: 23.26
+**Berries**/day: 77.22
+**Gym Hours**/day: 88.91
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.61
+**Legendary Raids**/day: 0.65
+    

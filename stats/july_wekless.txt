@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: Wekless
+**Level**: 28
+**Team**: Mystic
+**Region**: Loop
+    
+**Total XP**: 1,595,298 *(2.6%)*
+**Jogger**: 162.4 *(2.1%)*
+**Collector**: 2,443 *(2.1%)*
+**Scientist**: 114 *(0.5%)*
+**Breeder**: 57 *(0.5%)*
+**Backpacker**: 3,338 *(3.6%)*
+**Battle Girl**: 152 *(2.1%)*
+**Gym Badge**: 79 *(6.7%)*
+**Gold Gyms**: 0 *(7.7%)*
+    
+**Pokemon Ranger**: 117 *(4.6%)*
+**Berry Master**: 147 *(1.0%)*
+**Gym Leader**: 177 *(1.5%)*
+**Battle Legend**: 11 *(3.1%)*
+**Champion**: 7 *(0.5%)*
+**Pokedex Caught**: 241 *(4.1%)*
+**Pokedex Seen**: 302 *(3.1%)*
+    
+**Days Played**: 755 days
+**XP**/day: 2,112
+**KM**/day: 0.2
+**Catches**/day: 3.24
+**Evolves**/day: 0.15
+**Hatches**/day: 0.08
+**Spins**/day: 4.42
+**Battles**/day: 0.2
+**Research**/day: 0.95
+**Berries**/day: 0.36
+**Gym Hours**/day: 0.44
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.02
+**Legendary Raids**/day: 0.02
+    

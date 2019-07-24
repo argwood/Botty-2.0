@@ -1,0 +1,54 @@
+**__JANUARY__**
+    
+**Trainer**: darkfire006
+**Level**: 34
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 399
+**Monthly Rank**: 74
+    
+**Total XP**: 5,221,313 *(6.1%)*
+**Jogger**: 698.0 *(7.9%)*
+**Collector**: 6,243 *(5.3%)*
+**Scientist**: 785 *(8.8%)*
+**Breeder**: 701 *(11.4%)*
+**Backpacker**: 7,948 *(8.8%)*
+**Battle Girl**: 742 *(8.8%)*
+**Gold Gyms**: 10 *(19.3%)*
+    
+**Pokemon Ranger**: 196 *(3.5%)*
+**Berry Master**: 1,135 *(8.8%)*
+**Gym Leader**: 11,343 *(21.1%)*
+**Battle Legend**: 0 *(1.8%)*
+**Champion**: 59 *(8.8%)*
+    
+**Gym Badges**: 96
+**Pokedex Caught**: 404
+**Pokedex Seen**: 420
+**Fisherman**: 14
+**Youngster**: 26
+**Pikachu Fan**: 61
+**Unown**: 0
+**Pilot**: 171,113
+**Gentleman**: 19
+**Idol**: 1
+**Ace Trainer**: 33
+**Great League Veteran**: 3
+**Ultra League Veteran**: 0
+**Master League Veteran**: 0
+    
+**Days Played**: 936 days
+**XP**/day: 5,578
+**KM**/day: 0.7
+**Catches**/day: 6.67
+**Evolves**/day: 0.84
+**Hatches**/day: 0.75
+**Spins**/day: 8.49
+**Battles**/day: 0.79
+**Research**/day: 0.64
+**Berries**/day: 1.94
+**Gym Hours**/day: 19.39
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.1
+**Legendary Raids**/day: 0.11
+    

@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: wajiw
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 189
+**Monthly Rank**: N/A
+    
+**Total XP**: 50,850,169 *(35.8%)*
+**Jogger**: 5,549.2 *(65.0%)*
+**Collector**: 78,992 *(49.2%)*
+**Scientist**: 3,868 *(40.0%)*
+**Breeder**: 2,094 *(31.7%)*
+**Backpacker**: 72,037 *(57.5%)*
+**Battle Girl**: 3,310 *(27.5%)*
+**Gold Gyms**: 8 *(19.2%)*
+    
+**Pokemon Ranger**: 1,750 *(25.0%)*
+**Berry Master**: 17,654 *(38.3%)*
+**Gym Leader**: 11,484 *(26.7%)*
+**Battle Legend**: 703 *(50.8%)*
+**Champion**: 168 *(26.7%)*
+    
+**Days Played**: 1046 days
+**XP**/day: 48,613
+**KM**/day: 5.3
+**Catches**/day: 75.52
+**Evolves**/day: 3.7
+**Hatches**/day: 2.0
+**Spins**/day: 68.87
+**Battles**/day: 3.16
+**Research**/day: 4.11
+**Berries**/day: 24.97
+**Gym Hours**/day: 16.24
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.24
+**Legendary Raids**/day: 0.25
+    

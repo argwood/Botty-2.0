@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: PUGster66
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 10
+**Monthly Rank**: 8
+    
+**Total XP**: 198,705,280 *(99.2%)*
+**Jogger**: 5,990.3 *(70.0%)*
+**Collector**: 133,316 *(80.8%)*
+**Scientist**: 20,480 *(92.5%)*
+**Breeder**: 9,580 *(95.0%)*
+**Backpacker**: 89,753 *(70.0%)*
+**Battle Girl**: 21,385 *(81.7%)*
+**Gold Gyms**: 305 *(97.5%)*
+    
+**Pokemon Ranger**: 4,369 *(68.3%)*
+**Berry Master**: 65,323 *(85.0%)*
+**Gym Leader**: 144,979 *(94.2%)*
+**Battle Legend**: 3053 *(100.0%)*
+**Champion**: 844 *(88.3%)*
+    
+**Days Played**: 1055 days
+**XP**/day: 188,346
+**KM**/day: 5.7
+**Catches**/day: 126.37
+**Evolves**/day: 19.41
+**Hatches**/day: 9.08
+**Spins**/day: 85.07
+**Battles**/day: 20.27
+**Research**/day: 10.23
+**Berries**/day: 92.26
+**Gym Hours**/day: 204.77
+**Gold Gyms**/day: 0.43
+**Raids**/day: 1.2
+**Legendary Raids**/day: 1.24
+    

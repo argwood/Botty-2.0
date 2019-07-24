@@ -1,0 +1,38 @@
+**Trainer**: JammyV
+**Level**: 38
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 12,888,110 *(26.0%)*
+**Gold Gyms**: 16 *(52.0%)*
+**Gym Badge**: 240 *(32.0%)*
+**Jogger**: 1,081.5 *(20.0%)*
+**Collector**: 20,490 *(25.0%)*
+**Scientist**: 1,395 *(20.0%)*
+**Breeder**: 565 *(19.0%)*
+**Backpacker**: 18,928 *(29.0%)*
+**Battle Girl**: 2,661 *(40.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 7,640 *(45.0%)*
+**Gym Leader**: 7,413 *(36.0%)*
+**Battle Legend**: 149 *(33.0%)*
+**Champion**: 47 *(16.0%)*
+**Pokedex Caught**: 320 *(13.0%)*
+**Pokedex Seen**: 365 *(25.5%)*
+    
+**Days Played**: 689 days
+**XP**/day: 18,705
+**KM**/day: 1.6
+**Catches**/day: 29.74
+**Evolves**/day: 2.02
+**Catches**/evolve: 14.69
+**Hatches**/day: 0.82
+**KM**/egg: 1.91
+**Spins**/day: 27.47
+**Battles**/day: 3.86
+**Berries**/day: 22.4
+**Gym Hours**/day: 21.74
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.14
+**Legendary Raids**/day: 0.15
+    

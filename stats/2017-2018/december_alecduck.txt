@@ -1,0 +1,38 @@
+**Trainer**: Alecduck
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 28,447,000 *(67.0%)*
+**Gold Gyms**: 3 *(20.5%)*
+**Gym Badge**: 324 *(41.5%)*
+**Jogger**: 1,961.0 *(50.0%)*
+**Collector**: 32,586 *(56.0%)*
+**Scientist**: 5,178 *(71.0%)*
+**Breeder**: 3,385 *(88.0%)*
+**Backpacker**: 30,344 *(55.0%)*
+**Battle Girl**: 472 *(9.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 2,026 *(16.0%)*
+**Gym Leader**: 1,564 *(12.0%)*
+**Battle Legend**: 310 *(53.0%)*
+**Champion**: 118 *(55.0%)*
+**Pokedex Caught**: 345 *(32.5%)*
+**Pokedex Seen**: 364 *(22.0%)*
+    
+**Days Played**: 681 days
+**XP**/day: 41,772
+**KM**/day: 2.9
+**Catches**/day: 47.85
+**Evolves**/day: 7.6
+**Catches**/evolve: 6.29
+**Hatches**/day: 4.97
+**KM**/egg: 0.58
+**Spins**/day: 44.56
+**Battles**/day: 0.69
+**Berries**/day: 5.92
+**Gym Hours**/day: 4.57
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.35
+**Legendary Raids**/day: 0.38
+    

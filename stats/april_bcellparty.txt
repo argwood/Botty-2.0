@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: bcellparty
+**Level**: 40
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 43
+**Monthly Rank**: 29
+    
+**Total XP**: 84,407,824 *(60.3%)*
+**Jogger**: 7,887.2 *(88.4%)*
+**Collector**: 112,588 *(69.3%)*
+**Scientist**: 10,346 *(75.7%)*
+**Breeder**: 5,069 *(70.9%)*
+**Backpacker**: 79,507 *(62.4%)*
+**Battle Girl**: 15,250 *(68.3%)*
+**Gold Gyms**: 67 *(58.2%)*
+    
+**Pokemon Ranger**: 10,061 *(93.7%)*
+**Berry Master**: 43,117 *(61.9%)*
+**Gym Leader**: 31,435 *(41.3%)*
+**Battle Legend**: 1016 *(68.8%)*
+**Champion**: 410 *(64.0%)*
+    
+**Days Played**: 1025 days
+**XP**/day: 82,349
+**KM**/day: 7.7
+**Catches**/day: 109.84
+**Evolves**/day: 10.09
+**Hatches**/day: 4.95
+**Spins**/day: 77.57
+**Battles**/day: 14.88
+**Research**/day: 25.41
+**Berries**/day: 63.69
+**Gym Hours**/day: 46.43
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.61
+**Legendary Raids**/day: 0.63
+    

@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Neverwhall
+**Level**: 39
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 17,474,463 *(27.4%)*
+**Gold Gyms**: 70 *(85.5%)*
+**Gym Badge**: 820 *(83.9%)*
+**Jogger**: 1,948.7 *(32.3%)*
+**Collector**: 23,075 *(25.0%)*
+**Scientist**: 1,783 *(22.6%)*
+**Breeder**: 986 *(28.2%)*
+**Backpacker**: 21,012 *(25.0%)*
+**Battle Girl**: 7,593 *(64.5%)*
+**Pokemon Ranger**: 94 *(16.1%)*
+**Berry Master**: 6,573 *(29.0%)*
+**Gym Leader**: 53,332 *(85.5%)*
+**Battle Legend**: 443 *(71.0%)*
+**Champion**: 139 *(52.4%)*
+**Pokedex Caught**: 346 *(26.6%)*
+**Pokedex Seen**: 369 *(49.2%)*
+    
+**Days Played**: 653 days
+**XP**/day: 26,760
+**KM**/day: 3.0
+**Catches**/day: 35.34
+**Evolves**/day: 2.73
+**Hatches**/day: 1.51
+**Spins**/day: 32.18
+**Battles**/day: 11.63
+**Quests**/day: 3.03
+**Berries**/day: 21.07
+**Gym Hours**/day: 170.94
+**Gold Gyms**/day: 0.22
+**Raids**/day: 0.45
+**Legendary Raids**/day: 0.49
+    

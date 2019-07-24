@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: dinosaurman1 
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 50,483,518 *(26.9%)*
+**Jogger**: 3,680.0 *(33.0%)*
+**Collector**: 59,937 *(27.5%)*
+**Scientist**: 5,222 *(41.2%)*
+**Breeder**: 3,755 *(57.1%)*
+**Backpacker**: 39,126 *(24.7%)*
+**Battle Girl**: 2,881 *(14.3%)*
+**Gold Gyms**: 41 *(36.3%)*
+    
+**Pokemon Ranger**: 1,732 *(16.5%)*
+**Berry Master**: 11,028 *(17.0%)*
+**Gym Leader**: 23,193 *(25.8%)*
+**Battle Legend**: 812 *(56.0%)*
+**Champion**: 644 *(82.4%)*
+    
+**Days Played**: 967 days
+**XP**/day: 52,206
+**KM**/day: 3.8
+**Catches**/day: 61.98
+**Evolves**/day: 5.4
+**Hatches**/day: 3.88
+**Spins**/day: 40.46
+**Battles**/day: 2.98
+**Research**/day: 5.17
+**Berries**/day: 17.9
+**Gym Hours**/day: 37.65
+**Gold Gyms**/day: 0.07
+**Raids**/day: 1.05
+**Legendary Raids**/day: 1.1
+    

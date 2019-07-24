@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: TeamFRESHR0CKET
+**Level**: 39
+**Team**: Valor
+**Region**: Loop
+    
+**Total XP**: 17,107,668 *(63.9%)*
+**Gold Gyms**: 2 *(24.1%)*
+**Gym Badge**: 169 *(21.8%)*
+**Jogger**: 4,641.9 *(97.0%)*
+**Collector**: 23,606 *(48.9%)*
+**Scientist**: 4,657 *(66.9%)*
+**Breeder**: 3,485 *(97.7%)*
+**Backpacker**: 55,037 *(92.5%)*
+**Battle Girl**: 2,002 *(43.6%)*
+**Ace Trainer**: 934 *(57.9%)*
+**Berry Master**: 5,062 *(58.6%)*
+**Gym Leader**: 1,193 *(5.3%)*
+**Battle Legend**: 136 *(46.6%)*
+**Champion**: 72 *(61.7%)*
+**Pokedex Caught**: 247 *(76.7%)*
+**Pokedex Seen**: 251 *(99.2%)*
+    
+**Days Played**: 502 days
+**XP**/day: 34,079
+**KM**/day: 9.2
+**Catches**/day: 47.02
+**Evolves**/day: 9.28
+**Catches**/evolve: 5.07
+**Hatches**/day: 6.94
+**KM**/egg: 1.33
+**Spins**/day: 109.64
+**Battles**/day: 3.99
+**Berries**/day: 32.66
+**Gym Hours**/day: 7.7
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.48
+**Legendary Raids**/day: 0.58
+    

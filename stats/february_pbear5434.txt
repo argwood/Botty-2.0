@@ -1,0 +1,54 @@
+**__FEBRUARY__**
+    
+**Trainer**: Pbear5434
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 60
+**Monthly Rank**: 28
+    
+**Total XP**: 86,120,542 *(68.7%)*
+**Jogger**: 10,748.8 *(99.0%)*
+**Collector**: 114,997 *(69.7%)*
+**Scientist**: 18,370 *(91.9%)*
+**Breeder**: 8,165 *(92.9%)*
+**Backpacker**: 74,152 *(54.5%)*
+**Battle Girl**: 1,346 *(6.1%)*
+**Gold Gyms**: 59 *(53.5%)*
+    
+**Pokemon Ranger**: 3,420 *(52.5%)*
+**Berry Master**: 32,199 *(45.5%)*
+**Gym Leader**: 40,928 *(52.5%)*
+**Battle Legend**: 1115 *(76.8%)*
+**Champion**: 323 *(49.5%)*
+    
+**Gym Badges**: 452
+**Pokedex Caught**: 460
+**Pokedex Seen**: 464
+**Fisherman**: 327
+**Youngster**: 704
+**Pikachu Fan**: 972
+**Unown**: 5
+**Pilot**: 1,644,031
+**Gentleman**: 8069
+**Idol**: 34
+**Ace Trainer**: 677
+**Great League Veteran**: 53
+**Ultra League Veteran**: 37
+**Master League Veteran**: 46
+    
+**Days Played**: 965 days
+**XP**/day: 89,244
+**KM**/day: 11.1
+**Catches**/day: 119.17
+**Evolves**/day: 19.04
+**Hatches**/day: 8.46
+**Spins**/day: 76.84
+**Battles**/day: 1.39
+**Research**/day: 10.21
+**Berries**/day: 52.27
+**Gym Hours**/day: 66.44
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.53
+**Legendary Raids**/day: 0.55
+    

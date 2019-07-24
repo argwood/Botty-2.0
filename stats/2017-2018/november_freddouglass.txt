@@ -1,0 +1,38 @@
+**Trainer**: FredDouglass
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 20,027,511 *(39.8%)*
+**Gold Gyms**: 4 *(16.5%)*
+**Gym Badge**: 454 *(51.1%)*
+**Jogger**: 3,569.8 *(71.4%)*
+**Collector**: 44,479 *(57.1%)*
+**Scientist**: 5,612 *(63.2%)*
+**Breeder**: 882 *(24.1%)*
+**Backpacker**: 40,721 *(51.9%)*
+**Battle Girl**: 1,668 *(17.3%)*
+**Ace Trainer**: 0 *(50.4%)*
+**Berry Master**: 7,658 *(42.9%)*
+**Gym Leader**: 9,590 *(38.3%)*
+**Battle Legend**: 205 *(35.3%)*
+**Champion**: 98 *(34.2%)*
+**Pokedex Caught**: 293 *(21.1%)*
+**Pokedex Seen**: 309 *(21.1%)*
+    
+**Days Played**: 533 days
+**XP**/day: 37,575
+**KM**/day: 6.7
+**Catches**/day: 83.45
+**Evolves**/day: 10.53
+**Catches**/evolve: 7.93
+**Hatches**/day: 1.65
+**KM**/egg: 4.05
+**Spins**/day: 76.4
+**Battles**/day: 3.13
+**Berries**/day: 41.39
+**Gym Hours**/day: 51.84
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.54
+**Legendary Raids**/day: 0.63
+    

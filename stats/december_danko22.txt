@@ -1,0 +1,39 @@
+**__DECEMBER__**
+    
+**Trainer**: Danko22
+**Level**: 40
+**Team**: Valor
+**Region**: North
+**Overall Rank**: 76
+**Monthly Rank**: N/A
+    
+**Total XP**: 72,313,851 *(68.6%)*
+**Jogger**: 5,119.0 *(76.0%)*
+**Collector**: 102,400 *(73.6%)*
+**Scientist**: 5,681 *(56.2%)*
+**Breeder**: 4,668 *(76.9%)*
+**Backpacker**: 83,355 *(71.9%)*
+**Battle Girl**: 4,225 *(24.8%)*
+**Gold Gyms**: 24 *(29.8%)*
+    
+**Pokemon Ranger**: 2,438 *(51.2%)*
+**Berry Master**: 41,550 *(71.1%)*
+**Gym Leader**: 11,568 *(18.2%)*
+**Battle Legend**: 1443 *(91.7%)*
+**Champion**: 599 *(86.0%)*
+    
+**Days Played**: 907 days
+**XP**/day: 79,728
+**KM**/day: 5.6
+**Catches**/day: 112.9
+**Evolves**/day: 6.26
+**Hatches**/day: 5.15
+**Spins**/day: 91.9
+**Battles**/day: 4.66
+**Research**/day: 8.87
+**Berries**/day: 74.73
+**Gym Hours**/day: 20.81
+**Gold Gyms**/day: 0.04
+**Raids**/day: 1.09
+**Legendary Raids**/day: 1.14
+    

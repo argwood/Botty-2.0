@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: Timyoy2
+**Level**: 39
+**Team**: Instinct
+**Region**: Other
+**Overall Rank**: 236
+**Monthly Rank**: N/A
+    
+**Total XP**: 17,677,397 *(14.2%)*
+**Jogger**: 1,691.7 *(16.7%)*
+**Collector**: 20,789 *(11.7%)*
+**Scientist**: 1,354 *(13.3%)*
+**Breeder**: 833 *(15.8%)*
+**Backpacker**: 34,211 *(29.2%)*
+**Battle Girl**: 2,419 *(15.8%)*
+**Gym Badge**: 880 *(83.3%)*
+**Gold Gyms**: 29 *(40.0%)*
+    
+**Pokemon Ranger**: 637 *(19.2%)*
+**Berry Master**: 7,861 *(15.0%)*
+**Gym Leader**: 47,315 *(75.0%)*
+**Battle Legend**: 227 *(20.0%)*
+**Champion**: 164 *(44.2%)*
+**Pokedex Caught**: 373.0 *(66.1%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 115
+**Youngster**: 119
+**Pikachu Fan**: 381
+**Unown**: 13
+**Pilot**: 410,432
+**Gentleman**: 164
+    
+**Days Played**: 710 days
+**XP**/day: 24,897
+**KM**/day: 2.4
+**Catches**/day: 29.28
+**Evolves**/day: 1.91
+**Hatches**/day: 1.17
+**Spins**/day: 48.18
+**Battles**/day: 3.41
+**Research**/day: 4.14
+**Berries**/day: 18.07
+**Gym Hours**/day: 108.77
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.38
+**Legendary Raids**/day: 0.4
+    

@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Andyjng
+**Level**: 40
+**Team**: Mystic
+**Region**: West
+    
+**Total XP**: 45,835,350 *(84.6%)*
+**Gold Gyms**: 18 *(43.0%)*
+**Gym Badge**: 680 *(77.9%)*
+**Jogger**: 6,194.0 *(96.0%)*
+**Collector**: 89,029 *(93.3%)*
+**Scientist**: 9,917 *(89.3%)*
+**Breeder**: 2,405 *(67.1%)*
+**Backpacker**: 66,378 *(81.2%)*
+**Battle Girl**: 6,062 *(57.0%)*
+**Pokemon Ranger**: 1,364 *(89.9%)*
+**Berry Master**: 18,633 *(66.4%)*
+**Gym Leader**: 17,296 *(44.3%)*
+**Battle Legend**: 458 *(65.1%)*
+**Champion**: 118 *(39.6%)*
+**Pokedex Caught**: 367 *(99.3%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 694 days
+**XP**/day: 66,045
+**KM**/day: 8.9
+**Catches**/day: 128.28
+**Evolves**/day: 14.29
+**Hatches**/day: 3.47
+**Spins**/day: 95.65
+**Battles**/day: 8.73
+**Quests**/day: 22.0
+**Berries**/day: 54.32
+**Gym Hours**/day: 50.43
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.35
+**Legendary Raids**/day: 0.38
+    

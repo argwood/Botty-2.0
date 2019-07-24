@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: SprinkleCheer
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 13
+**Monthly Rank**: 4
+    
+**Total XP**: 178,798,564 *(97.8%)*
+**Jogger**: 5,034.1 *(56.0%)*
+**Collector**: 165,494 *(91.2%)*
+**Scientist**: 16,189 *(86.3%)*
+**Breeder**: 9,544 *(95.6%)*
+**Backpacker**: 102,147 *(78.0%)*
+**Battle Girl**: 15,302 *(70.3%)*
+**Gold Gyms**: 70 *(61.5%)*
+    
+**Pokemon Ranger**: 6,518 *(84.6%)*
+**Berry Master**: 71,140 *(85.7%)*
+**Gym Leader**: 42,818 *(53.8%)*
+**Battle Legend**: 1943 *(90.7%)*
+**Champion**: 1054 *(98.4%)*
+    
+**Days Played**: 992 days
+**XP**/day: 180,240
+**KM**/day: 5.1
+**Catches**/day: 166.83
+**Evolves**/day: 16.32
+**Hatches**/day: 9.62
+**Spins**/day: 102.97
+**Battles**/day: 15.43
+**Research**/day: 17.81
+**Berries**/day: 109.95
+**Gym Hours**/day: 66.18
+**Gold Gyms**/day: 0.11
+**Raids**/day: 1.64
+**Legendary Raids**/day: 1.71
+    

@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: DJabberwokz
+**Level**: 40
+**Team**: Instinct
+**Region**: Other
+**Overall Rank**: 41
+**Monthly Rank**: N/A
+    
+**Total XP**: 100,923,300 *(76.9%)*
+**Jogger**: 7,048.5 *(84.1%)*
+**Collector**: 122,375 *(78.0%)*
+**Scientist**: 7,381 *(52.7%)*
+**Breeder**: 4,312 *(60.4%)*
+**Backpacker**: 115,032 *(83.0%)*
+**Battle Girl**: 12,913 *(59.9%)*
+**Gold Gyms**: 50 *(42.9%)*
+    
+**Pokemon Ranger**: 2,973 *(42.3%)*
+**Berry Master**: 32,980 *(47.3%)*
+**Gym Leader**: 57,918 *(69.8%)*
+**Battle Legend**: 1429 *(83.5%)*
+**Champion**: 497 *(72.5%)*
+    
+**Days Played**: 966 days
+**XP**/day: 104,475
+**KM**/day: 7.3
+**Catches**/day: 126.68
+**Evolves**/day: 7.64
+**Hatches**/day: 4.46
+**Spins**/day: 119.08
+**Battles**/day: 13.37
+**Research**/day: 8.87
+**Berries**/day: 53.54
+**Gym Hours**/day: 94.02
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.81
+**Legendary Raids**/day: 0.85
+    

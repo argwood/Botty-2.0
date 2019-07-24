@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: MeatyandtheMan
+**Level**: 39
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 19,900,269 *(50.0%)*
+**Gold Gyms**: 49 *(92.0%)*
+**Gym Badge**: 199 *(16.0%)*
+**Jogger**: 2,617.2 *(54.0%)*
+**Collector**: 32,233 *(50.0%)*
+**Scientist**: 4,254 *(50.0%)*
+**Breeder**: 2,481 *(81.0%)*
+**Backpacker**: 36,766 *(54.0%)*
+**Battle Girl**: 11,457 *(88.0%)*
+**Ace Trainer**: 1041 *(59.0%)*
+**Berry Master**: 10,922 *(71.0%)*
+**Gym Leader**: 22,571 *(76.0%)*
+**Battle Legend**: 283 *(77.0%)*
+**Champion**: 98 *(58.0%)*
+**Pokedex Caught**: 311 *(92.0%)*
+**Pokedex Seen**: 319 *(96.0%)*
+    
+**Days Played**: 536 days
+**XP**/day: 37,127
+**KM**/day: 4.9
+**Catches**/day: 60.14
+**Evolves**/day: 7.94
+**Hatches**/day: 4.63
+**Spins**/day: 68.59
+**Battles**/day: 21.38
+**Berries**/day: 57.48
+**Gym Hours**/day: 118.79
+**Gold Gyms**/day: 0.26
+**Raids**/day: 0.53
+**Legendary Raids**/day: 0.61
+    

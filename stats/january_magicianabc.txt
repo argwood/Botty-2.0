@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: magicianabc
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 99
+**Monthly Rank**: N/A
+    
+**Total XP**: 56,667,215 *(46.5%)*
+**Jogger**: 5,756.0 *(77.2%)*
+**Collector**: 91,156 *(65.8%)*
+**Scientist**: 8,105 *(74.6%)*
+**Breeder**: 1,788 *(33.3%)*
+**Backpacker**: 55,358 *(51.8%)*
+**Battle Girl**: 13,958 *(74.6%)*
+**Gold Gyms**: 33 *(38.6%)*
+    
+**Pokemon Ranger**: 4,635 *(82.5%)*
+**Berry Master**: 29,382 *(51.8%)*
+**Gym Leader**: 24,884 *(37.7%)*
+**Battle Legend**: 701 *(56.1%)*
+**Champion**: 185 *(29.8%)*
+    
+**Days Played**: 937 days
+**XP**/day: 60,477
+**KM**/day: 6.1
+**Catches**/day: 97.28
+**Evolves**/day: 8.65
+**Hatches**/day: 1.91
+**Spins**/day: 59.08
+**Battles**/day: 14.9
+**Research**/day: 15.1
+**Berries**/day: 49.97
+**Gym Hours**/day: 42.32
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.32
+**Legendary Raids**/day: 0.33
+    

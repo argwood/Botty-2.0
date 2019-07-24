@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: mabsolon
+**Level**: 40
+**Team**: Mystic
+**Region**: Loop
+**Overall Rank**: 151
+**Monthly Rank**: 54
+    
+**Total XP**: 58,362,641 *(41.1%)*
+**Jogger**: 6,283.2 *(69.6%)*
+**Collector**: 99,614 *(61.6%)*
+**Scientist**: 8,402 *(70.5%)*
+**Breeder**: 4,563 *(72.3%)*
+**Backpacker**: 84,834 *(64.3%)*
+**Battle Girl**: 2,089 *(24.1%)*
+**Gold Gyms**: 18 *(32.1%)*
+    
+**Pokemon Ranger**: 4,079 *(59.8%)*
+**Berry Master**: 15,620 *(33.9%)*
+**Gym Leader**: 8,955 *(22.3%)*
+**Battle Legend**: 580 *(38.4%)*
+**Champion**: 301 *(41.1%)*
+    
+**Days Played**: -11 days
+**XP**/day: -5,305,694
+**KM**/day: -571.2
+**Catches**/day: -9055.82
+**Evolves**/day: -763.82
+**Hatches**/day: -414.82
+**Spins**/day: -7712.18
+**Battles**/day: -189.91
+**Research**/day: 8.93
+**Berries**/day: 21.17
+**Gym Hours**/day: 12.13
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.41
+**Legendary Raids**/day: 0.43
+    

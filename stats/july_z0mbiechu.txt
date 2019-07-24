@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: Z0mbieChu
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 127,159,000 *(99.0%)*
+**Jogger**: 4,960.0 *(81.5%)*
+**Collector**: 147,825 *(96.4%)*
+**Scientist**: 20,300 *(98.5%)*
+**Breeder**: 2,825 *(70.3%)*
+**Backpacker**: 139,029 *(96.4%)*
+**Battle Girl**: 16,210 *(85.1%)*
+**Gym Badge**: 1000 *(97.4%)*
+**Gold Gyms**: 20 *(42.1%)*
+    
+**Pokemon Ranger**: 1,565 *(71.3%)*
+**Berry Master**: 42,227 *(89.2%)*
+**Gym Leader**: 27,988 *(60.0%)*
+**Battle Legend**: 1634 *(96.9%)*
+**Champion**: 301 *(85.1%)*
+**Pokedex Caught**: 370 *(72.8%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Days Played**: 751 days
+**XP**/day: 169,319
+**KM**/day: 6.6
+**Catches**/day: 196.84
+**Evolves**/day: 27.03
+**Hatches**/day: 3.76
+**Spins**/day: 185.13
+**Battles**/day: 21.58
+**Research**/day: 12.72
+**Berries**/day: 104.52
+**Gym Hours**/day: 69.28
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.75
+**Legendary Raids**/day: 0.8
+    

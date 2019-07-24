@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: Jambo1989
+**Level**: 37
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 11,321,021 *(9.9%)*
+**Gold Gyms**: 9 *(24.3%)*
+**Gym Badge**: 380 *(36.9%)*
+**Jogger**: 2,809.9 *(50.5%)*
+**Collector**: 20,070 *(16.2%)*
+**Scientist**: 2,196 *(20.7%)*
+**Breeder**: 1,053 *(29.7%)*
+**Backpacker**: 34,947 *(45.0%)*
+**Battle Girl**: 2,864 *(27.0%)*
+**Berry Master**: 11,498 *(48.6%)*
+**Gym Leader**: 14,752 *(37.8%)*
+**Battle Legend**: 65 *(5.4%)*
+**Champion**: 63 *(8.1%)*
+**Pokedex Caught**: 362 *(96.4%)*
+**Pokedex Seen**: 368 *(93.7%)*
+    
+**Days Played**: 633 days
+**XP**/day: 17,884
+**KM**/day: 4.4
+**Catches**/day: 31.71
+**Evolves**/day: 3.47
+**Hatches**/day: 1.66
+**Spins**/day: 55.21
+**Battles**/day: 4.52
+**Berries**/day: 40.77
+**Gym Hours**/day: 52.31
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.23
+**Legendary Raids**/day: 0.25
+    

@@ -1,0 +1,42 @@
+**__AUGUST__**
+    
+**Trainer**: Flippinflops
+**Level**: 30
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 367
+**Monthly Rank**: N/A
+    
+**Total XP**: 2,487,948 *(0.8%)*
+**Jogger**: 221.5 *(0.8%)*
+**Collector**: 4,054 *(0.8%)*
+**Scientist**: 306 *(1.7%)*
+**Breeder**: 140 *(1.7%)*
+**Backpacker**: 3,261 *(0.8%)*
+**Battle Girl**: 389 *(1.7%)*
+**Gym Badge**: 101 *(3.3%)*
+**Gold Gyms**: 0 *(1.7%)*
+    
+**Pokemon Ranger**: 215 *(4.2%)*
+**Berry Master**: 1,165 *(2.5%)*
+**Gym Leader**: 1,018 *(1.7%)*
+**Battle Legend**: 22 *(1.7%)*
+**Champion**: 32 *(2.5%)*
+**Pokedex Caught**: 285.0 *(1.7%)*
+**Pokedex Seen**: 333.0 *(0.8%)*
+    
+**Days Played**: 782 days
+**XP**/day: 3,181
+**KM**/day: 0.3
+**Catches**/day: 5.18
+**Evolves**/day: 0.39
+**Hatches**/day: 0.18
+**Spins**/day: 4.17
+**Battles**/day: 0.5
+**Research**/day: 1.42
+**Berries**/day: 2.7
+**Gym Hours**/day: 2.36
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.07
+**Legendary Raids**/day: 0.08
+    

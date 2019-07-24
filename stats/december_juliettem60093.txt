@@ -1,0 +1,54 @@
+**__DECEMBER__**
+    
+**Trainer**: Juliettem60093
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 104
+**Monthly Rank**: N/A
+    
+**Total XP**: 63,239,315 *(54.5%)*
+**Jogger**: 3,422.0 *(46.3%)*
+**Collector**: 83,530 *(58.7%)*
+**Scientist**: 11,991 *(83.5%)*
+**Breeder**: 6,800 *(90.1%)*
+**Backpacker**: 66,171 *(57.0%)*
+**Battle Girl**: 4,283 *(26.4%)*
+**Gold Gyms**: 18 *(24.0%)*
+    
+**Pokemon Ranger**: 2,192 *(44.6%)*
+**Berry Master**: 33,925 *(57.9%)*
+**Gym Leader**: 26,021 *(33.9%)*
+**Battle Legend**: 522 *(41.3%)*
+**Champion**: 428 *(72.7%)*
+    
+**Gym Badges**: 1060
+**Pokedex Caught**: 431
+**Pokedex Seen**: 438
+**Fisherman**: 237
+**Youngster**: 620
+**Pikachu Fan**: 876
+**Unown**: 25
+**Pilot**: 40,266,808
+**Gentleman**: 4688
+**Idol**: 14
+**Ace Trainer**: 1199
+**Great League Veteran**: 9
+**Ultra League Veteran**: 8
+**Master League Veteran**: 32
+    
+**Days Played**: 839 days
+**XP**/day: 75,374
+**KM**/day: 4.1
+**Catches**/day: 99.56
+**Evolves**/day: 14.29
+**Hatches**/day: 8.1
+**Spins**/day: 78.87
+**Battles**/day: 5.1
+**Research**/day: 7.97
+**Berries**/day: 61.02
+**Gym Hours**/day: 46.8
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.78
+**Legendary Raids**/day: 0.81
+    

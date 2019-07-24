@@ -1,0 +1,37 @@
+**Trainer**: Weirensoup
+**Level**: 40.0
+**Team**: Mystic
+**Region**: South
+    
+**Total XP** Percentile: 64.6 %
+**Gold Gyms** Percentile: 54.9 %
+**Gym Badge** Percentile: 12.4 %
+**Jogger** Percentile: 85.0 %
+**Collector** Percentile: 83.2 %
+**Scientist** Percentile: 68.1 %
+**Breeder** Percentile: 33.6 %
+**Backpacker** Percentile: 79.6 %
+**Battle Girl** Percentile: 19.5 %
+**Berry Master** Percentile: 72.6 %
+**Gym Leader** Percentile: 38.1 %
+**Battle Legend** Percentile: 47.8 %
+**Champion** Percentile: 16.8 %
+**Pokedex Caught** Percentile: 75.7 %
+**Pokedex Seen** Percentile: 93.8 %
+    
+**Days Played**: 472 days
+**XP**/day: 56842
+**KM**/day: 9.1
+**Catches**/day: 129.92
+**Evolves**/day: 12.51
+**Catches**/evolve: 10.39
+**Hatches**/day: 2.21
+**KM**/egg: 4.12
+**Spins**/day: 124.58
+**Battles**/day: 4.14
+**Berries**/day: 59.36
+**Gym Hours**/day: 55.89
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.27
+**Legendary Raids**/day: 0.3
+    

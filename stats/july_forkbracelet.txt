@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: forkbracelet
+**Level**: 37
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 10,867,231 *(16.4%)*
+**Jogger**: 2,931.0 *(50.3%)*
+**Collector**: 13,143 *(16.4%)*
+**Scientist**: 1,427 *(21.5%)*
+**Breeder**: 1,141 *(31.3%)*
+**Backpacker**: 18,139 *(21.0%)*
+**Battle Girl**: 2,668 *(28.2%)*
+**Gym Badge**: 880 *(84.6%)*
+**Gold Gyms**: 10 *(29.2%)*
+    
+**Pokemon Ranger**: 412 *(22.6%)*
+**Berry Master**: 1,994 *(13.8%)*
+**Gym Leader**: 11,458 *(32.3%)*
+**Battle Legend**: 126 *(16.4%)*
+**Champion**: 30 *(7.7%)*
+**Pokedex Caught**: 362 *(26.2%)*
+**Pokedex Seen**: 369 *(15.4%)*
+    
+**Fisherman**: 76
+**Youngster**: 88
+**Pikachu Fan**: 416
+**Unown**: 6
+**Pilot**: 200,524
+**Gentleman**: 21
+    
+**Days Played**: 755 days
+**XP**/day: 14,393
+**KM**/day: 3.9
+**Catches**/day: 17.41
+**Evolves**/day: 1.89
+**Hatches**/day: 1.51
+**Spins**/day: 24.03
+**Battles**/day: 3.53
+**Research**/day: 3.35
+**Berries**/day: 4.94
+**Gym Hours**/day: 28.36
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.07
+**Legendary Raids**/day: 0.08
+    

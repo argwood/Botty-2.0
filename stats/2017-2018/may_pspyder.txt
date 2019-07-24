@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: PSpyder
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 77,547,416 *(97.3%)*
+**Gold Gyms**: 93 *(89.3%)*
+**Gym Badge**: 1000 *(98.0%)*
+**Jogger**: 5,335.3 *(91.3%)*
+**Collector**: 151,894 *(98.7%)*
+**Scientist**: 16,530 *(97.3%)*
+**Breeder**: 1,788 *(55.0%)*
+**Backpacker**: 136,172 *(99.3%)*
+**Battle Girl**: 45,721 *(99.3%)*
+**Pokemon Ranger**: 1,676 *(93.3%)*
+**Berry Master**: 67,761 *(98.7%)*
+**Gym Leader**: 65,735 *(90.6%)*
+**Battle Legend**: 195 *(24.8%)*
+**Champion**: 131 *(42.3%)*
+**Pokedex Caught**: 361 *(40.3%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 693 days
+**XP**/day: 111,901
+**KM**/day: 7.7
+**Catches**/day: 219.18
+**Evolves**/day: 23.85
+**Hatches**/day: 2.58
+**Spins**/day: 196.5
+**Battles**/day: 65.98
+**Quests**/day: 27.03
+**Berries**/day: 197.55
+**Gym Hours**/day: 191.65
+**Gold Gyms**/day: 0.27
+**Raids**/day: 0.39
+**Legendary Raids**/day: 0.42
+    

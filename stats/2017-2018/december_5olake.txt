@@ -1,0 +1,38 @@
+**Trainer**: 5olake
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 28,641,940 *(69.0%)*
+**Gold Gyms**: 11 *(40.0%)*
+**Gym Badge**: 100 *(8.0%)*
+**Jogger**: 2,742.1 *(66.0%)*
+**Collector**: 40,870 *(65.0%)*
+**Scientist**: 5,813 *(77.0%)*
+**Breeder**: 4,618 *(97.0%)*
+**Backpacker**: 31,665 *(57.0%)*
+**Battle Girl**: 8,517 *(81.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 6,191 *(37.0%)*
+**Gym Leader**: 3,503 *(20.0%)*
+**Battle Legend**: 288 *(52.0%)*
+**Champion**: 201 *(83.0%)*
+**Pokedex Caught**: 361 *(58.5%)*
+**Pokedex Seen**: 371 *(85.5%)*
+    
+**Days Played**: 687 days
+**XP**/day: 41,691
+**KM**/day: 4.0
+**Catches**/day: 59.49
+**Evolves**/day: 8.46
+**Catches**/evolve: 7.03
+**Hatches**/day: 6.72
+**KM**/egg: 0.59
+**Spins**/day: 46.09
+**Battles**/day: 12.4
+**Berries**/day: 18.1
+**Gym Hours**/day: 10.24
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.59
+**Legendary Raids**/day: 0.64
+    

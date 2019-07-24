@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: MajorMalfunctn
+**Level**: 38
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 14,293,961 *(51.1%)*
+**Gold Gyms**: 23 *(90.2%)*
+**Gym Badge**: 643 *(98.5%)*
+**Jogger**: 2,181.0 *(52.6%)*
+**Collector**: 30,162 *(61.7%)*
+**Scientist**: 834 *(19.5%)*
+**Breeder**: 1,094 *(48.1%)*
+**Backpacker**: 34,358 *(69.2%)*
+**Battle Girl**: 7,145 *(89.5%)*
+**Ace Trainer**: 1179 *(68.4%)*
+**Berry Master**: 10,767 *(92.5%)*
+**Gym Leader**: 25,808 *(91.7%)*
+**Battle Legend**: 245 *(84.2%)*
+**Champion**: 64 *(50.4%)*
+**Pokedex Caught**: 247 *(76.7%)*
+**Pokedex Seen**: 251 *(99.2%)*
+    
+**Days Played**: 504 days
+**XP**/day: 28,361
+**KM**/day: 4.3
+**Catches**/day: 59.85
+**Evolves**/day: 1.65
+**Catches**/evolve: 36.17
+**Hatches**/day: 2.17
+**KM**/egg: 1.99
+**Spins**/day: 68.17
+**Battles**/day: 14.18
+**Berries**/day: 69.46
+**Gym Hours**/day: 166.5
+**Gold Gyms**/day: 0.15
+**Raids**/day: 0.42
+**Legendary Raids**/day: 0.51
+    

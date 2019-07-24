@@ -1,0 +1,38 @@
+**Trainer**: HandsomeCitizen
+**Level**: 38
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 13,857,263 *(29.0%)*
+**Gold Gyms**: 2 *(16.5%)*
+**Gym Badge**: 215 *(25.0%)*
+**Jogger**: 1,734.1 *(42.0%)*
+**Collector**: 18,356 *(20.0%)*
+**Scientist**: 2,448 *(34.0%)*
+**Breeder**: 1,058 *(39.0%)*
+**Backpacker**: 15,916 *(22.0%)*
+**Battle Girl**: 2,467 *(36.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 2,276 *(18.0%)*
+**Gym Leader**: 6,871 *(34.0%)*
+**Battle Legend**: 145 *(32.0%)*
+**Champion**: 98 *(43.0%)*
+**Pokedex Caught**: 324 *(15.0%)*
+**Pokedex Seen**: 351 *(13.5%)*
+    
+**Days Played**: 624 days
+**XP**/day: 22,207
+**KM**/day: 2.8
+**Catches**/day: 29.42
+**Evolves**/day: 3.92
+**Catches**/evolve: 7.5
+**Hatches**/day: 1.7
+**KM**/egg: 1.64
+**Spins**/day: 25.51
+**Battles**/day: 3.95
+**Berries**/day: 8.07
+**Gym Hours**/day: 24.37
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.35
+**Legendary Raids**/day: 0.39
+    

@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: BRK375
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 260
+**Monthly Rank**: N/A
+    
+**Total XP**: 31,943,212 *(16.4%)*
+**Jogger**: 4,858.0 *(55.0%)*
+**Collector**: 43,594 *(28.6%)*
+**Scientist**: 2,836 *(26.5%)*
+**Breeder**: 1,266 *(19.0%)*
+**Backpacker**: 34,252 *(23.3%)*
+**Battle Girl**: 5,409 *(33.9%)*
+**Gold Gyms**: 4 *(7.9%)*
+    
+**Pokemon Ranger**: 2,036 *(24.3%)*
+**Berry Master**: 17,413 *(32.8%)*
+**Gym Leader**: 6,097 *(11.1%)*
+**Battle Legend**: 321 *(18.0%)*
+**Champion**: 179 *(26.5%)*
+    
+**Days Played**: 1022 days
+**XP**/day: 31,255
+**KM**/day: 4.8
+**Catches**/day: 42.66
+**Evolves**/day: 2.77
+**Hatches**/day: 1.24
+**Spins**/day: 33.51
+**Battles**/day: 5.29
+**Research**/day: 5.21
+**Berries**/day: 25.91
+**Gym Hours**/day: 9.07
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.27
+**Legendary Raids**/day: 0.28
+    

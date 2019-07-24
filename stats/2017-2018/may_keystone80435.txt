@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Keystone80435
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 33,507,218 *(65.1%)*
+**Gold Gyms**: 14 *(30.2%)*
+**Gym Badge**: 825 *(85.9%)*
+**Jogger**: 3,120.0 *(59.7%)*
+**Collector**: 36,509 *(41.6%)*
+**Scientist**: 4,527 *(54.4%)*
+**Breeder**: 5,401 *(97.3%)*
+**Backpacker**: 40,094 *(52.3%)*
+**Battle Girl**: 2,619 *(24.8%)*
+**Pokemon Ranger**: 252 *(20.8%)*
+**Berry Master**: 13,319 *(46.3%)*
+**Gym Leader**: 27,241 *(62.4%)*
+**Battle Legend**: 213 *(28.2%)*
+**Champion**: 287 *(85.9%)*
+**Pokedex Caught**: 364 *(85.2%)*
+**Pokedex Seen**: 370 *(37.6%)*
+    
+**Days Played**: 690 days
+**XP**/day: 48,561
+**KM**/day: 4.5
+**Catches**/day: 52.91
+**Evolves**/day: 6.56
+**Hatches**/day: 7.83
+**Spins**/day: 58.11
+**Battles**/day: 3.8
+**Quests**/day: 4.13
+**Berries**/day: 38.94
+**Gym Hours**/day: 79.65
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.85
+**Legendary Raids**/day: 0.92
+    

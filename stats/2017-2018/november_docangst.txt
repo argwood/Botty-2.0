@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: docangst
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 23,005,280 *(78.2%)*
+**Gold Gyms**: 23 *(90.2%)*
+**Gym Badge**: 207 *(30.8%)*
+**Jogger**: 1,930.7 *(44.4%)*
+**Collector**: 50,293 *(91.0%)*
+**Scientist**: 7,631 *(94.0%)*
+**Breeder**: 2,618 *(88.0%)*
+**Backpacker**: 37,945 *(77.4%)*
+**Battle Girl**: 4,613 *(70.7%)*
+**Ace Trainer**: 1975 *(79.7%)*
+**Berry Master**: 7,977 *(80.5%)*
+**Gym Leader**: 16,769 *(79.7%)*
+**Battle Legend**: 55 *(14.3%)*
+**Champion**: 126 *(85.7%)*
+**Pokedex Caught**: 246 *(54.1%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 493 days
+**XP**/day: 46,663
+**KM**/day: 3.9
+**Catches**/day: 102.01
+**Evolves**/day: 15.48
+**Catches**/evolve: 6.59
+**Hatches**/day: 5.31
+**KM**/egg: 0.74
+**Spins**/day: 76.97
+**Battles**/day: 9.36
+**Berries**/day: 55.78
+**Gym Hours**/day: 117.27
+**Gold Gyms**/day: 0.16
+**Raids**/day: 0.91
+**Legendary Raids**/day: 1.12
+    

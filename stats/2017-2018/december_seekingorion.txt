@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: SeekingOrion
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 24,958,332 *(70.0%)*
+**Gold Gyms**: 4 *(27.0%)*
+**Gym Badge**: 964 *(99.0%)*
+**Jogger**: 1,415.1 *(23.0%)*
+**Collector**: 29,084 *(45.0%)*
+**Scientist**: 2,856 *(36.0%)*
+**Breeder**: 1,647 *(62.0%)*
+**Backpacker**: 25,844 *(37.0%)*
+**Battle Girl**: 1,589 *(18.0%)*
+**Ace Trainer**: 0 *(4.0%)*
+**Berry Master**: 10,106 *(68.0%)*
+**Gym Leader**: 5,543 *(24.0%)*
+**Battle Legend**: 383 *(90.0%)*
+**Champion**: 130 *(74.0%)*
+**Pokedex Caught**: 307 *(85.0%)*
+**Pokedex Seen**: 317 *(83.0%)*
+    
+**Days Played**: 192 days
+**XP**/day: 129,991
+**KM**/day: 7.4
+**Catches**/day: 151.48
+**Evolves**/day: 14.88
+**Hatches**/day: 8.58
+**Spins**/day: 134.6
+**Battles**/day: 8.28
+**Berries**/day: 53.47
+**Gym Hours**/day: 29.33
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.7
+**Legendary Raids**/day: 0.82
+    

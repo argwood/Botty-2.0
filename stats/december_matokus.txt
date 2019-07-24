@@ -1,0 +1,54 @@
+**__DECEMBER__**
+    
+**Trainer**: Matokus
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 80
+**Monthly Rank**: N/A
+    
+**Total XP**: 64,366,229 *(56.2%)*
+**Jogger**: 3,250.0 *(42.1%)*
+**Collector**: 86,247 *(61.2%)*
+**Scientist**: 4,623 *(47.9%)*
+**Breeder**: 1,654 *(31.4%)*
+**Backpacker**: 67,636 *(57.9%)*
+**Battle Girl**: 15,004 *(75.2%)*
+**Gold Gyms**: 63 *(62.0%)*
+    
+**Pokemon Ranger**: 3,684 *(76.0%)*
+**Berry Master**: 47,507 *(72.7%)*
+**Gym Leader**: 40,472 *(57.9%)*
+**Battle Legend**: 1165 *(86.0%)*
+**Champion**: 238 *(39.7%)*
+    
+**Gym Badges**: 527
+**Pokedex Caught**: 408
+**Pokedex Seen**: 427
+**Fisherman**: 343
+**Youngster**: 451
+**Pikachu Fan**: 1012
+**Unown**: 19
+**Pilot**: 1,272,026
+**Gentleman**: 896
+**Idol**: 15
+**Ace Trainer**: 170
+**Great League Veteran**: 8
+**Ultra League Veteran**: 15
+**Master League Veteran**: 15
+    
+**Days Played**: 908 days
+**XP**/day: 70,887
+**KM**/day: 3.6
+**Catches**/day: 94.99
+**Evolves**/day: 5.09
+**Hatches**/day: 1.82
+**Spins**/day: 74.49
+**Battles**/day: 16.52
+**Research**/day: 13.35
+**Berries**/day: 85.29
+**Gym Hours**/day: 72.66
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.43
+**Legendary Raids**/day: 0.45
+    

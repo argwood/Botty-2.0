@@ -1,0 +1,38 @@
+**Trainer**: T33gS
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 26,666,891 *(66.0%)*
+**Gold Gyms**: 30 *(71.5%)*
+**Gym Badge**: 289 *(37.0%)*
+**Jogger**: 4,185.8 *(86.0%)*
+**Collector**: 40,622 *(63.0%)*
+**Scientist**: 4,490 *(61.0%)*
+**Breeder**: 4,954 *(98.0%)*
+**Backpacker**: 42,208 *(72.0%)*
+**Battle Girl**: 6,204 *(73.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 15,001 *(74.0%)*
+**Gym Leader**: 26,352 *(75.0%)*
+**Battle Legend**: 544 *(82.0%)*
+**Champion**: 207 *(84.5%)*
+**Pokedex Caught**: 364 *(86.5%)*
+**Pokedex Seen**: 370 *(59.0%)*
+    
+**Days Played**: 688 days
+**XP**/day: 38,760
+**KM**/day: 6.1
+**Catches**/day: 59.04
+**Evolves**/day: 6.53
+**Catches**/evolve: 9.05
+**Hatches**/day: 7.2
+**KM**/egg: 0.84
+**Spins**/day: 61.35
+**Battles**/day: 9.02
+**Berries**/day: 43.61
+**Gym Hours**/day: 76.6
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.61
+**Legendary Raids**/day: 0.66
+    

@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: YoungTwombles
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 28,626,313 *(44.1%)*
+**Jogger**: 1,721.5 *(23.1%)*
+**Collector**: 23,054 *(23.6%)*
+**Scientist**: 2,502 *(33.8%)*
+**Breeder**: 1,125 *(30.3%)*
+**Backpacker**: 19,355 *(23.1%)*
+**Battle Girl**: 2,152 *(22.1%)*
+**Gym Badge**: 666 *(72.3%)*
+**Gold Gyms**: 6 *(22.6%)*
+    
+**Pokemon Ranger**: 335 *(16.4%)*
+**Berry Master**: 6,459 *(27.2%)*
+**Gym Leader**: 6,424 *(22.6%)*
+**Battle Legend**: 580 *(69.7%)*
+**Champion**: 420 *(91.8%)*
+**Pokedex Caught**: 368 *(48.7%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 155
+**Youngster**: 137
+**Pikachu Fan**: 300
+**Unown**: 11
+**Pilot**: 1,073,679
+**Gentleman**: 105
+    
+**Days Played**: 752 days
+**XP**/day: 38,066
+**KM**/day: 2.3
+**Catches**/day: 30.66
+**Evolves**/day: 3.33
+**Hatches**/day: 1.5
+**Spins**/day: 25.74
+**Battles**/day: 2.86
+**Research**/day: 2.79
+**Berries**/day: 16.11
+**Gym Hours**/day: 16.02
+**Gold Gyms**/day: 0.01
+**Raids**/day: 1.06
+**Legendary Raids**/day: 1.13
+    

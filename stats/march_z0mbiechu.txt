@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: Z0mbieChu
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 11
+**Monthly Rank**: 5
+    
+**Total XP**: 178,126,000 *(97.3%)*
+**Jogger**: 6,869.0 *(81.3%)*
+**Collector**: 218,489 *(97.3%)*
+**Scientist**: 24,000 *(95.6%)*
+**Breeder**: 4,551 *(65.9%)*
+**Backpacker**: 189,379 *(96.2%)*
+**Battle Girl**: 24,417 *(85.2%)*
+**Gold Gyms**: 61 *(54.4%)*
+    
+**Pokemon Ranger**: 7,808 *(89.0%)*
+**Berry Master**: 80,220 *(89.6%)*
+**Gym Leader**: 55,129 *(67.0%)*
+**Battle Legend**: 2285 *(96.2%)*
+**Champion**: 517 *(76.4%)*
+    
+**Days Played**: 994 days
+**XP**/day: 179,201
+**KM**/day: 6.9
+**Catches**/day: 219.81
+**Evolves**/day: 24.14
+**Hatches**/day: 4.58
+**Spins**/day: 190.52
+**Battles**/day: 24.56
+**Research**/day: 21.33
+**Berries**/day: 123.99
+**Gym Hours**/day: 85.21
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.8
+**Legendary Raids**/day: 0.84
+    

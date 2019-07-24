@@ -1,0 +1,54 @@
+**__JUNE__**
+    
+**Trainer**: RipleShenanigan 
+**Level**: 40
+**Team**: Instinct
+**Region**: South
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 23,191,708 *(17.9%)*
+**Jogger**: 2,310.9 *(17.9%)*
+**Collector**: 30,624 *(22.3%)*
+**Scientist**: 871 *(14.3%)*
+**Breeder**: 956 *(17.0%)*
+**Backpacker**: 17,583 *(17.9%)*
+**Battle Girl**: 1,825 *(21.4%)*
+**Gold Gyms**: 4 *(13.4%)*
+    
+**Pokemon Ranger**: 1,890 *(26.8%)*
+**Berry Master**: 5,141 *(21.4%)*
+**Gym Leader**: 3,652 *(12.5%)*
+**Battle Legend**: 272 *(22.3%)*
+**Champion**: 168 *(25.0%)*
+    
+**Gym Badges**: 274
+**Pokedex Caught**: 459
+**Pokedex Seen**: 477
+**Fisherman**: 85
+**Youngster**: 74
+**Pikachu Fan**: 673
+**Unown**: 7
+**Pilot**: 184,589
+**Gentleman**: 1025
+**Idol**: 23
+**Ace Trainer**: 43
+**Great League Veteran**: 8
+**Ultra League Veteran**: 2
+**Master League Veteran**: 0
+    
+**Days Played**: 1089 days
+**XP**/day: 21,296
+**KM**/day: 2.1
+**Catches**/day: 28.12
+**Evolves**/day: 0.8
+**Hatches**/day: 0.88
+**Spins**/day: 16.15
+**Battles**/day: 1.68
+**Research**/day: 4.14
+**Berries**/day: 6.97
+**Gym Hours**/day: 4.95
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.23
+**Legendary Raids**/day: 0.24
+    

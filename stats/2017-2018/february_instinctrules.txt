@@ -1,0 +1,37 @@
+**Trainer**: instinctrules
+**Level**: 33.0
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP** Percentile: 3.5 %
+**Gold Gyms** Percentile: 12.8 %
+**Gym Badge** Percentile: 1.8 %
+**Jogger** Percentile: 25.7 %
+**Collector** Percentile: 4.4 %
+**Scientist** Percentile: 5.3 %
+**Breeder** Percentile: 9.7 %
+**Backpacker** Percentile: 4.4 %
+**Battle Girl** Percentile: 14.2 %
+**Berry Master** Percentile: 2.7 %
+**Gym Leader** Percentile: 9.7 %
+**Battle Legend** Percentile: 6.2 %
+**Champion** Percentile: 14.2 %
+**Pokedex Caught** Percentile: 19.0 %
+**Pokedex Seen** Percentile: 29.2 %
+    
+**Days Played**: 576 days
+**XP**/day: 7069
+**KM**/day: 3.0
+**Catches**/day: 11.41
+**Evolves**/day: 1.04
+**Catches**/evolve: 10.95
+**Hatches**/day: 0.75
+**KM**/egg: 4.01
+**Spins**/day: 13.33
+**Battles**/day: 3.14
+**Berries**/day: 4.21
+**Gym Hours**/day: 19.53
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.26
+**Legendary Raids**/day: 0.29
+    

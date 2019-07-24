@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: Vled3d
+**Level**: 40
+**Team**: Instinct
+**Region**: South
+**Overall Rank**: 94
+**Monthly Rank**: N/A
+    
+**Total XP**: 79,097,649 *(71.9%)*
+**Jogger**: 4,257.0 *(51.8%)*
+**Collector**: 81,058 *(58.8%)*
+**Scientist**: 5,014 *(55.3%)*
+**Breeder**: 3,600 *(63.2%)*
+**Backpacker**: 48,038 *(43.0%)*
+**Battle Girl**: 6,478 *(46.5%)*
+**Gold Gyms**: 35 *(39.5%)*
+    
+**Pokemon Ranger**: 2,984 *(61.4%)*
+**Berry Master**: 17,200 *(40.4%)*
+**Gym Leader**: 28,297 *(43.0%)*
+**Battle Legend**: 1469 *(91.2%)*
+**Champion**: 594 *(80.7%)*
+    
+**Days Played**: 592 days
+**XP**/day: 133,610
+**KM**/day: 7.2
+**Catches**/day: 136.92
+**Evolves**/day: 8.47
+**Hatches**/day: 6.08
+**Spins**/day: 81.15
+**Battles**/day: 10.94
+**Research**/day: 9.72
+**Berries**/day: 29.25
+**Gym Hours**/day: 48.12
+**Gold Gyms**/day: 0.06
+**Raids**/day: 1.02
+**Legendary Raids**/day: 1.06
+    

@@ -1,0 +1,37 @@
+**Trainer**: SentouRyoku
+**Level**: 40.0
+**Team**: Valor
+**Region**: North
+    
+**Total XP** Percentile: 82.3 %
+**Gold Gyms** Percentile: 76.1 %
+**Gym Badge** Percentile: 54.9 %
+**Jogger** Percentile: 100.0 %
+**Collector** Percentile: 91.2 %
+**Scientist** Percentile: 69.0 %
+**Breeder** Percentile: 86.7 %
+**Backpacker** Percentile: 92.9 %
+**Battle Girl** Percentile: 84.1 %
+**Berry Master** Percentile: 89.4 %
+**Gym Leader** Percentile: 68.1 %
+**Battle Legend** Percentile: 85.8 %
+**Champion** Percentile: 95.6 %
+**Pokedex Caught** Percentile: 85.8 %
+**Pokedex Seen** Percentile: 93.8 %
+    
+**Days Played**: 589 days
+**XP**/day: 56066
+**KM**/day: 13.2
+**Catches**/day: 114.08
+**Evolves**/day: 10.06
+**Catches**/evolve: 11.34
+**Hatches**/day: 5.47
+**KM**/egg: 2.42
+**Spins**/day: 129.64
+**Battles**/day: 16.19
+**Berries**/day: 82.41
+**Gym Hours**/day: 101.64
+**Gold Gyms**/day: 0.14
+**Raids**/day: 1.13
+**Legendary Raids**/day: 1.26
+    

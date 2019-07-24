@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: Rarreolar
+**Level**: 34
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 5,924,414 *(4.5%)*
+**Gold Gyms**: 0 *(1.8%)*
+**Gym Badge**: 324 *(22.5%)*
+**Jogger**: 842.4 *(3.6%)*
+**Collector**: 10,482 *(6.3%)*
+**Scientist**: 1,542 *(13.5%)*
+**Breeder**: 483 *(9.9%)*
+**Backpacker**: 10,039 *(5.4%)*
+**Battle Girl**: 1,133 *(3.6%)*
+**Berry Master**: 1,680 *(3.6%)*
+**Gym Leader**: 2,677 *(3.6%)*
+**Battle Legend**: 35 *(2.7%)*
+**Champion**: 22 *(1.8%)*
+**Pokedex Caught**: 342 *(16.2%)*
+**Pokedex Seen**: 358 *(3.6%)*
+    
+**Days Played**: 633 days
+**XP**/day: 9,359
+**KM**/day: 1.3
+**Catches**/day: 16.56
+**Evolves**/day: 2.44
+**Hatches**/day: 0.76
+**Spins**/day: 15.86
+**Battles**/day: 1.79
+**Berries**/day: 5.96
+**Gym Hours**/day: 9.49
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.08
+**Legendary Raids**/day: 0.09
+    

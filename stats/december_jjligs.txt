@@ -1,0 +1,39 @@
+**__DECEMBER__**
+    
+**Trainer**: JJLigs
+**Level**: 39
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 338
+**Monthly Rank**: N/A
+    
+**Total XP**: 17,341,007 *(9.1%)*
+**Jogger**: 2,040.0 *(16.5%)*
+**Collector**: 16,480 *(9.1%)*
+**Scientist**: 680 *(5.8%)*
+**Breeder**: 1,103 *(17.4%)*
+**Backpacker**: 16,410 *(11.6%)*
+**Battle Girl**: 901 *(8.3%)*
+**Gold Gyms**: 8 *(10.7%)*
+    
+**Pokemon Ranger**: 403 *(5.0%)*
+**Berry Master**: 5,868 *(14.9%)*
+**Gym Leader**: 8,058 *(10.7%)*
+**Battle Legend**: 218 *(13.2%)*
+**Champion**: 106 *(9.9%)*
+    
+**Days Played**: 907 days
+**XP**/day: 19,119
+**KM**/day: 2.2
+**Catches**/day: 18.17
+**Evolves**/day: 0.75
+**Hatches**/day: 1.22
+**Spins**/day: 18.09
+**Battles**/day: 0.99
+**Research**/day: 1.46
+**Berries**/day: 10.54
+**Gym Hours**/day: 14.47
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.19
+**Legendary Raids**/day: 0.2
+    

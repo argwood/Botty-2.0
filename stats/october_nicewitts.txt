@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: Nicewitts
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 23
+**Monthly Rank**: 20
+    
+**Total XP**: 65,384,050 *(72.9%)*
+**Jogger**: 6,120.1 *(86.4%)*
+**Collector**: 114,899 *(88.6%)*
+**Scientist**: 7,343 *(66.4%)*
+**Breeder**: 4,316 *(77.1%)*
+**Backpacker**: 90,707 *(82.9%)*
+**Battle Girl**: 22,274 *(88.6%)*
+**Gym Badge**: 1000 *(97.9%)*
+**Gold Gyms**: 74 *(73.6%)*
+    
+**Pokemon Ranger**: 3,994 *(85.0%)*
+**Berry Master**: 42,082 *(77.9%)*
+**Gym Leader**: 88,696 *(91.4%)*
+**Battle Legend**: 742 *(69.3%)*
+**Champion**: 320 *(73.6%)*
+**Pokedex Caught**: 403.0 *(91.1%)*
+**Pokedex Seen**: 405.0 *(89.0%)*
+    
+**Days Played**: 846 days
+**XP**/day: 77,286
+**KM**/day: 7.2
+**Catches**/day: 135.81
+**Evolves**/day: 8.68
+**Hatches**/day: 5.1
+**Spins**/day: 107.22
+**Battles**/day: 26.33
+**Research**/day: 18.58
+**Berries**/day: 84.84
+**Gym Hours**/day: 178.82
+**Gold Gyms**/day: 0.15
+**Raids**/day: 0.65
+**Legendary Raids**/day: 0.69
+    

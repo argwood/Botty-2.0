@@ -1,0 +1,50 @@
+**__OCTOBER__**
+    
+**Trainer**: odreem
+**Level**: 40
+**Team**: Instinct
+**Region**: North
+**Overall Rank**: 280
+**Monthly Rank**: N/A
+    
+**Total XP**: 22,261,693 *(17.9%)*
+**Jogger**: 2,339.4 *(26.4%)*
+**Collector**: 36,719 *(27.1%)*
+**Scientist**: 3,469 *(34.3%)*
+**Breeder**: 1,376 *(30.0%)*
+**Backpacker**: 32,587 *(28.6%)*
+**Battle Girl**: 1,416 *(13.6%)*
+**Gym Badge**: 586 *(54.3%)*
+**Gold Gyms**: 2 *(10.0%)*
+    
+**Pokemon Ranger**: 1,435 *(32.9%)*
+**Berry Master**: 3,686 *(15.0%)*
+**Gym Leader**: 4,754 *(11.4%)*
+**Battle Legend**: 137 *(12.1%)*
+**Champion**: 111 *(19.3%)*
+**Pokedex Caught**: 400.0 *(72.6%)*
+**Pokedex Seen**: 402.0 *(51.5%)*
+    
+**Fisherman**: 164
+**Youngster**: 191
+**Pikachu Fan**: 482
+**Unown**: 19
+**Pilot**: 1,621,151
+**Gentleman**: 530
+**Idol**: 1
+    
+**Days Played**: 842 days
+**XP**/day: 26,439
+**KM**/day: 2.8
+**Catches**/day: 43.61
+**Evolves**/day: 4.12
+**Hatches**/day: 1.63
+**Spins**/day: 38.7
+**Battles**/day: 1.68
+**Research**/day: 6.67
+**Berries**/day: 7.43
+**Gym Hours**/day: 9.58
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.23
+**Legendary Raids**/day: 0.24
+    

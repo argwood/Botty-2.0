@@ -1,0 +1,37 @@
+**__FEBRUARY__**
+    
+**Trainer**: mayonnaise8888
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 25,205,870 *(61.1%)*
+**Gold Gyms**: 14 *(42.5%)*
+**Gym Badge**: 308 *(27.4%)*
+**Jogger**: 4,438.3 *(86.7%)*
+**Collector**: 52,116 *(71.7%)*
+**Scientist**: 7,831 *(89.4%)*
+**Breeder**: 1,102 *(37.2%)*
+**Backpacker**: 46,057 *(66.4%)*
+**Battle Girl**: 2,537 *(30.1%)*
+**Berry Master**: 14,305 *(71.7%)*
+**Gym Leader**: 15,661 *(43.4%)*
+**Battle Legend**: 246 *(41.6%)*
+**Champion**: 74 *(23.9%)*
+**Pokedex Caught**: 345 *(43.4%)*
+**Pokedex Seen**: 365 *(53.1%)*
+    
+**Days Played**: 508 days
+**XP**/day: 49,617
+**KM**/day: 8.7
+**Catches**/day: 102.59
+**Evolves**/day: 15.42
+**Hatches**/day: 2.17
+**Spins**/day: 90.66
+**Battles**/day: 4.99
+**Berries**/day: 56.99
+**Gym Hours**/day: 62.39
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.3
+**Legendary Raids**/day: 0.33
+    

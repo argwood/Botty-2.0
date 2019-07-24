@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: BooeyChua
+**Level**: 40
+**Team**: Valor
+**Region**: Loop
+    
+**Total XP**: 20,624,493 *(55.0%)*
+**Gold Gyms**: 19 *(67.0%)*
+**Gym Badge**: 520 *(70.0%)*
+**Jogger**: 5,024.9 *(95.0%)*
+**Collector**: 52,180 *(81.0%)*
+**Scientist**: 2,147 *(26.0%)*
+**Breeder**: 2,649 *(84.0%)*
+**Backpacker**: 55,094 *(79.0%)*
+**Battle Girl**: 5,122 *(68.0%)*
+**Ace Trainer**: 682 *(46.0%)*
+**Berry Master**: 4,934 *(36.0%)*
+**Gym Leader**: 21,426 *(75.0%)*
+**Battle Legend**: 120 *(25.0%)*
+**Champion**: 76 *(34.0%)*
+**Pokedex Caught**: 286 *(32.0%)*
+**Pokedex Seen**: 315 *(71.0%)*
+    
+**Days Played**: 523 days
+**XP**/day: 39,434
+**KM**/day: 9.6
+**Catches**/day: 99.77
+**Evolves**/day: 4.11
+**Hatches**/day: 5.07
+**Spins**/day: 105.34
+**Battles**/day: 9.79
+**Berries**/day: 26.11
+**Gym Hours**/day: 113.37
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.41
+**Legendary Raids**/day: 0.48
+    

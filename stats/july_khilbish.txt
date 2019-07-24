@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: khilbish
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+    
+**Total XP**: 56,988,125 *(83.1%)*
+**Jogger**: 2,130.8 *(34.4%)*
+**Collector**: 44,626 *(50.8%)*
+**Scientist**: 1,699 *(23.1%)*
+**Breeder**: 2,829 *(70.8%)*
+**Backpacker**: 32,517 *(38.5%)*
+**Battle Girl**: 9,133 *(64.6%)*
+**Gym Badge**: 336 *(34.4%)*
+**Gold Gyms**: 82 *(83.1%)*
+    
+**Pokemon Ranger**: 1,040 *(51.8%)*
+**Berry Master**: 23,326 *(64.1%)*
+**Gym Leader**: 32,065 *(65.1%)*
+**Battle Legend**: 1685 *(97.9%)*
+**Champion**: 644 *(98.5%)*
+**Pokedex Caught**: 372 *(89.7%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Days Played**: 752 days
+**XP**/day: 75,782
+**KM**/day: 2.8
+**Catches**/day: 59.34
+**Evolves**/day: 2.26
+**Hatches**/day: 3.76
+**Spins**/day: 43.24
+**Battles**/day: 12.14
+**Research**/day: 8.46
+**Berries**/day: 57.74
+**Gym Hours**/day: 79.37
+**Gold Gyms**/day: 0.2
+**Raids**/day: 1.61
+**Legendary Raids**/day: 1.72
+    

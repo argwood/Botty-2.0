@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: KawaiiYin
+**Level**: 36
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 7,515,897 *(24.8%)*
+**Gold Gyms**: 10 *(65.4%)*
+**Gym Badge**: 387 *(72.2%)*
+**Jogger**: 1,380.3 *(30.1%)*
+**Collector**: 12,646 *(24.1%)*
+**Scientist**: 841 *(21.1%)*
+**Breeder**: 399 *(18.8%)*
+**Backpacker**: 13,490 *(26.3%)*
+**Battle Girl**: 1,815 *(36.1%)*
+**Ace Trainer**: 244 *(29.3%)*
+**Berry Master**: 2,397 *(33.8%)*
+**Gym Leader**: 20,431 *(86.5%)*
+**Battle Legend**: 171 *(63.2%)*
+**Champion**: 69 *(60.2%)*
+**Pokedex Caught**: 245 *(33.1%)*
+**Pokedex Seen**: 251 *(99.2%)*
+    
+**Days Played**: 505 days
+**XP**/day: 14,882
+**KM**/day: 2.7
+**Catches**/day: 25.04
+**Evolves**/day: 1.67
+**Catches**/evolve: 15.04
+**Hatches**/day: 0.79
+**KM**/egg: 3.46
+**Spins**/day: 26.71
+**Battles**/day: 3.59
+**Berries**/day: 15.46
+**Gym Hours**/day: 131.81
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.46
+**Legendary Raids**/day: 0.55
+    

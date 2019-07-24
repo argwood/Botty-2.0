@@ -1,0 +1,21 @@
+**Trainer**: nan
+**Level**: nan
+**Team**: nan
+**Region**: nan
+    
+**Total XP** Percentile: nan %
+**Gold Gyms** Percentile: nan %
+**Gym Badge** Percentile: nan %
+**Jogger** Percentile: nan %
+**Collector** Percentile: nan %
+**Scientist** Percentile: nan %
+**Breeder** Percentile: nan %
+**Backpacker** Percentile: nan %
+**Battle Girl** Percentile: nan %
+**Berry Master** Percentile: nan %
+**Gym Leader** Percentile: nan %
+**Battle Legend** Percentile: nan %
+**Champion** Percentile: nan %
+**Pokedex Caught** Percentile: nan %
+**Pokedex Seen** Percentile: nan %
+    

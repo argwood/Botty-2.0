@@ -1,0 +1,37 @@
+**Trainer**: Cocobabar
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 29,786,118 *(74.3%)*
+**Gold Gyms**: 27 *(67.7%)*
+**Gym Badge**: 1000 *(98.7%)*
+**Jogger**: 3,849.9 *(80.5%)*
+**Collector**: 65,237 *(85.8%)*
+**Scientist**: 9,453 *(96.5%)*
+**Breeder**: 1,411 *(48.7%)*
+**Backpacker**: 50,535 *(75.2%)*
+**Battle Girl**: 10,793 *(85.8%)*
+**Berry Master**: 5,929 *(31.0%)*
+**Gym Leader**: 35,694 *(78.8%)*
+**Battle Legend**: 251 *(43.4%)*
+**Champion**: 101 *(42.0%)*
+**Pokedex Caught**: 353 *(75.7%)*
+**Pokedex Seen**: 64 *(0.9%)*
+    
+**Days Played**: 601 days
+**XP**/day: 49,560
+**KM**/day: 6.4
+**Catches**/day: 108.55
+**Evolves**/day: 15.73
+**Catches**/evolve: 6.9
+**Hatches**/day: 2.35
+**KM**/egg: 2.73
+**Spins**/day: 84.08
+**Battles**/day: 17.96
+**Berries**/day: 23.62
+**Gym Hours**/day: 142.21
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.41
+**Legendary Raids**/day: 0.46
+    

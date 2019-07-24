@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: RueRajaram
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+    
+**Total XP**: 23,980,729 *(32.5%)*
+**Gold Gyms**: 60 *(70.9%)*
+**Gym Badge**: 157 *(9.3%)*
+**Jogger**: 1,352.8 *(13.2%)*
+**Collector**: 33,615 *(30.5%)*
+**Scientist**: 4,569 *(48.3%)*
+**Breeder**: 2,229 *(52.3%)*
+**Backpacker**: 26,858 *(27.2%)*
+**Battle Girl**: 1,487 *(9.9%)*
+**Pokemon Ranger**: 570 *(31.8%)*
+**Berry Master**: 11,790 *(32.5%)*
+**Gym Leader**: 49,451 *(74.8%)*
+**Battle Legend**: 331 *(30.5%)*
+**Champion**: 102 *(23.2%)*
+**Pokedex Caught**: 365 *(55.6%)*
+**Pokedex Seen**: 369 *(15.2%)*
+    
+**Days Played**: 721 days
+**XP**/day: 33,260
+**KM**/day: 1.9
+**Catches**/day: 46.62
+**Evolves**/day: 6.34
+**Hatches**/day: 3.09
+**Spins**/day: 37.25
+**Battles**/day: 2.06
+**Quests**/day: 6.33
+**Berries**/day: 31.78
+**Gym Hours**/day: 133.29
+**Gold Gyms**/day: 0.16
+**Raids**/day: 0.28
+**Legendary Raids**/day: 0.3
+    

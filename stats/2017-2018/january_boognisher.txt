@@ -1,0 +1,37 @@
+**Trainer**: Boognisher
+**Level**: 36.0
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP** Percentile: 8.8 %
+**Gold Gyms** Percentile: 34.1 %
+**Gym Badge** Percentile: 17.7 %
+**Jogger** Percentile: 6.2 %
+**Collector** Percentile: 8.0 %
+**Scientist** Percentile: 14.2 %
+**Breeder** Percentile: 5.3 %
+**Backpacker** Percentile: 11.5 %
+**Battle Girl** Percentile: 12.4 %
+**Berry Master** Percentile: 8.0 %
+**Gym Leader** Percentile: 48.7 %
+**Battle Legend** Percentile: 15.9 %
+**Champion** Percentile: 5.3 %
+**Pokedex Caught** Percentile: 7.1 %
+**Pokedex Seen** Percentile: 6.2 %
+    
+**Days Played**: 601 days
+**XP**/day: 12534
+**KM**/day: 1.5
+**Catches**/day: 18.53
+**Evolves**/day: 2.22
+**Catches**/evolve: 8.35
+**Hatches**/day: 0.45
+**KM**/egg: 3.3
+**Spins**/day: 20.16
+**Battles**/day: 2.89
+**Berries**/day: 7.99
+**Gym Hours**/day: 67.08
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.18
+**Legendary Raids**/day: 0.2
+    

@@ -1,0 +1,54 @@
+**__DECEMBER__**
+    
+**Trainer**: Mazman23
+**Level**: 40
+**Team**: Valor
+**Region**: Loop
+**Overall Rank**: 169
+**Monthly Rank**: N/A
+    
+**Total XP**: 51,059,961 *(42.1%)*
+**Jogger**: 3,727.0 *(50.4%)*
+**Collector**: 26,230 *(18.2%)*
+**Scientist**: 3,184 *(31.4%)*
+**Breeder**: 2,083 *(42.1%)*
+**Backpacker**: 41,267 *(39.7%)*
+**Battle Girl**: 10,118 *(53.7%)*
+**Gold Gyms**: 55 *(57.9%)*
+    
+**Pokemon Ranger**: 1,528 *(27.3%)*
+**Berry Master**: 23,603 *(42.1%)*
+**Gym Leader**: 27,265 *(35.5%)*
+**Battle Legend**: 557 *(43.8%)*
+**Champion**: 132 *(15.7%)*
+    
+**Gym Badges**: 185
+**Pokedex Caught**: 433
+**Pokedex Seen**: 440
+**Fisherman**: 202
+**Youngster**: 313
+**Pikachu Fan**: 429
+**Unown**: 8
+**Pilot**: 1,055,747
+**Gentleman**: 175
+**Idol**: 62
+**Ace Trainer**: 292
+**Great League Veteran**: 16
+**Ultra League Veteran**: 29
+**Master League Veteran**: 15
+    
+**Days Played**: 876 days
+**XP**/day: 58,287
+**KM**/day: 4.3
+**Catches**/day: 29.94
+**Evolves**/day: 3.63
+**Hatches**/day: 2.38
+**Spins**/day: 47.11
+**Battles**/day: 11.55
+**Research**/day: 5.54
+**Berries**/day: 42.38
+**Gym Hours**/day: 48.95
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.24
+**Legendary Raids**/day: 0.25
+    

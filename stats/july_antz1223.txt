@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: ANTZ1223
+**Level**: 38
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 12,000,000 *(18.5%)*
+**Jogger**: 2,188.0 *(36.9%)*
+**Collector**: 9,975 *(12.8%)*
+**Scientist**: 1,188 *(18.5%)*
+**Breeder**: 754 *(19.5%)*
+**Backpacker**: 11,106 *(13.8%)*
+**Battle Girl**: 1,135 *(16.4%)*
+**Gym Badge**: 503 *(56.4%)*
+**Gold Gyms**: 1 *(11.8%)*
+    
+**Pokemon Ranger**: 418 *(24.1%)*
+**Berry Master**: 2,168 *(14.4%)*
+**Gym Leader**: 5,373 *(18.5%)*
+**Battle Legend**: 105 *(13.8%)*
+**Champion**: 82 *(21.0%)*
+**Pokedex Caught**: 371 *(83.1%)*
+**Pokedex Seen**: 372 *(27.7%)*
+    
+**Fisherman**: 45
+**Youngster**: 23
+**Pikachu Fan**: 190
+**Unown**: 10
+**Pilot**: 1,332,714
+**Gentleman**: 102
+    
+**Days Played**: 754 days
+**XP**/day: 15,915
+**KM**/day: 2.9
+**Catches**/day: 13.23
+**Evolves**/day: 1.58
+**Hatches**/day: 1.0
+**Spins**/day: 14.73
+**Battles**/day: 1.51
+**Research**/day: 3.4
+**Berries**/day: 5.37
+**Gym Hours**/day: 13.3
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.2
+**Legendary Raids**/day: 0.22
+    

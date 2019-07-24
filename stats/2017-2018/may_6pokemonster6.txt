@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: 6pokemonster6
+**Level**: 39
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 17,608,000 *(26.8%)*
+**Gold Gyms**: 9 *(23.5%)*
+**Gym Badge**: 200 *(13.4%)*
+**Jogger**: 2,847.9 *(49.0%)*
+**Collector**: 27,379 *(26.8%)*
+**Scientist**: 3,659 *(45.0%)*
+**Breeder**: 2,574 *(71.8%)*
+**Backpacker**: 32,713 *(43.6%)*
+**Battle Girl**: 4,563 *(42.3%)*
+**Pokemon Ranger**: 330 *(31.5%)*
+**Berry Master**: 6,517 *(24.2%)*
+**Gym Leader**: 7,989 *(24.2%)*
+**Battle Legend**: 138 *(18.8%)*
+**Champion**: 158 *(51.0%)*
+**Pokedex Caught**: 364 *(85.2%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: -41 days
+**XP**/day: -429,463
+**KM**/day: -69.5
+**Catches**/day: -667.78
+**Evolves**/day: -89.24
+**Hatches**/day: -62.78
+**Spins**/day: -797.88
+**Battles**/day: -111.29
+**Quests**/day: 5.32
+**Berries**/day: 19.0
+**Gym Hours**/day: 23.29
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.47
+**Legendary Raids**/day: 0.5
+    

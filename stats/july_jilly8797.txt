@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: Jilly8797
+**Level**: 34
+**Team**: Instinct
+**Region**: South
+    
+**Total XP**: 5,093,866 *(9.2%)*
+**Jogger**: 287.0 *(4.6%)*
+**Collector**: 4,275 *(5.1%)*
+**Scientist**: 123 *(1.5%)*
+**Breeder**: 120 *(3.6%)*
+**Backpacker**: 2,853 *(2.6%)*
+**Battle Girl**: 2,716 *(29.2%)*
+**Gym Badge**: 0 *(2.1%)*
+**Gold Gyms**: 3 *(13.8%)*
+    
+**Pokemon Ranger**: 271 *(13.3%)*
+**Berry Master**: 1,913 *(13.3%)*
+**Gym Leader**: 2,837 *(13.8%)*
+**Battle Legend**: 125 *(15.9%)*
+**Champion**: 37 *(10.3%)*
+**Pokedex Caught**: 272 *(6.7%)*
+**Pokedex Seen**: 338 *(8.2%)*
+    
+**Fisherman**: 28
+**Youngster**: 0
+**Pikachu Fan**: 178
+**Unown**: 0
+**Pilot**: 0
+**Gentleman**: 0
+    
+**Days Played**: 373 days
+**XP**/day: 13,656
+**KM**/day: 0.8
+**Catches**/day: 11.46
+**Evolves**/day: 0.33
+**Hatches**/day: 0.32
+**Spins**/day: 7.65
+**Battles**/day: 7.28
+**Research**/day: 2.24
+**Berries**/day: 4.76
+**Gym Hours**/day: 7.06
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.09
+**Legendary Raids**/day: 0.1
+    

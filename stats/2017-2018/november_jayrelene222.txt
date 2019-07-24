@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: Jayrelene222
+**Level**: 26
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 1,054,381 *(0.8%)*
+**Gold Gyms**: 0 *(7.5%)*
+**Gym Badge**: 57 *(2.3%)*
+**Jogger**: 174.9 *(3.0%)*
+**Collector**: 1,466 *(0.8%)*
+**Scientist**: 102 *(3.0%)*
+**Breeder**: 82 *(3.8%)*
+**Backpacker**: 1,437 *(0.8%)*
+**Battle Girl**: 105 *(2.3%)*
+**Ace Trainer**: 72 *(17.3%)*
+**Berry Master**: 90 *(1.5%)*
+**Gym Leader**: 316 *(1.5%)*
+**Battle Legend**: 17 *(2.3%)*
+**Champion**: 6 *(0.8%)*
+**Pokedex Caught**: 208 *(4.5%)*
+**Pokedex Seen**: 240 *(4.5%)*
+    
+**Days Played**: 466 days
+**XP**/day: 2,262
+**KM**/day: 0.4
+**Catches**/day: 3.15
+**Evolves**/day: 0.22
+**Catches**/evolve: 14.37
+**Hatches**/day: 0.18
+**KM**/egg: 2.13
+**Spins**/day: 3.08
+**Battles**/day: 0.23
+**Berries**/day: 0.58
+**Gym Hours**/day: 2.05
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.04
+**Legendary Raids**/day: 0.05
+    

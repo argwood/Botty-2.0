@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: Kyle321n 
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: 125
+**Monthly Rank**: N/A
+    
+**Total XP**: 43,303,711 *(45.0%)*
+**Jogger**: 2,550.0 *(33.6%)*
+**Collector**: 55,197 *(44.3%)*
+**Scientist**: 6,945 *(62.1%)*
+**Breeder**: 2,147 *(46.4%)*
+**Backpacker**: 35,886 *(32.1%)*
+**Battle Girl**: 8,013 *(55.0%)*
+**Gym Badge**: 253 *(19.3%)*
+**Gold Gyms**: 52 *(63.6%)*
+    
+**Pokemon Ranger**: 2,308 *(62.1%)*
+**Berry Master**: 20,373 *(45.0%)*
+**Gym Leader**: 20,632 *(37.1%)*
+**Battle Legend**: 630 *(61.4%)*
+**Champion**: 320 *(73.6%)*
+**Pokedex Caught**: 402.0 *(85.2%)*
+**Pokedex Seen**: 405.0 *(89.0%)*
+    
+**Days Played**: 847 days
+**XP**/day: 51,125
+**KM**/day: 3.0
+**Catches**/day: 65.17
+**Evolves**/day: 8.2
+**Hatches**/day: 2.53
+**Spins**/day: 42.37
+**Battles**/day: 9.46
+**Research**/day: 10.73
+**Berries**/day: 41.07
+**Gym Hours**/day: 41.6
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.65
+**Legendary Raids**/day: 0.69
+    

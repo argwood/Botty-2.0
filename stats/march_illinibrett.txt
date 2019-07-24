@@ -1,0 +1,54 @@
+**__MARCH__**
+    
+**Trainer**: IlliniBrett
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 40
+**Monthly Rank**: N/A
+    
+**Total XP**: 82,399,351 *(59.9%)*
+**Jogger**: 7,796.5 *(88.5%)*
+**Collector**: 124,831 *(79.7%)*
+**Scientist**: 11,961 *(76.9%)*
+**Breeder**: 7,982 *(91.8%)*
+**Backpacker**: 113,937 *(82.4%)*
+**Battle Girl**: 16,716 *(73.6%)*
+**Gold Gyms**: 36 *(30.8%)*
+    
+**Pokemon Ranger**: 4,486 *(73.1%)*
+**Berry Master**: 57,674 *(80.2%)*
+**Gym Leader**: 30,668 *(37.9%)*
+**Battle Legend**: 658 *(40.1%)*
+**Champion**: 418 *(64.3%)*
+    
+**Gym Badges**: 567
+**Pokedex Caught**: 457
+**Pokedex Seen**: 462
+**Fisherman**: 369
+**Youngster**: 647
+**Pikachu Fan**: 1363
+**Unown**: 13
+**Pilot**: 7,602,193
+**Gentleman**: 1359
+**Idol**: 21
+**Ace Trainer**: 2058
+**Great League Veteran**: 78
+**Ultra League Veteran**: 200
+**Master League Veteran**: 24
+    
+**Days Played**: 965 days
+**XP**/day: 85,387
+**KM**/day: 8.1
+**Catches**/day: 129.36
+**Evolves**/day: 12.39
+**Hatches**/day: 8.27
+**Spins**/day: 118.07
+**Battles**/day: 17.32
+**Research**/day: 13.35
+**Berries**/day: 93.47
+**Gym Hours**/day: 49.71
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.68
+**Legendary Raids**/day: 0.71
+    

@@ -1,0 +1,42 @@
+**__AUGUST__**
+    
+**Trainer**: TheDEM0GORGON
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 121
+**Monthly Rank**: 7
+    
+**Total XP**: 37,538,514 *(49.2%)*
+**Jogger**: 1,507.4 *(15.0%)*
+**Collector**: 51,053 *(43.3%)*
+**Scientist**: 2,914 *(25.8%)*
+**Breeder**: 1,215 *(28.3%)*
+**Backpacker**: 41,467 *(40.8%)*
+**Battle Girl**: 16,808 *(85.8%)*
+**Gym Badge**: 372 *(30.8%)*
+**Gold Gyms**: 58 *(65.8%)*
+    
+**Pokemon Ranger**: 2,998 *(86.7%)*
+**Berry Master**: 25,943 *(67.5%)*
+**Gym Leader**: 29,571 *(50.0%)*
+**Battle Legend**: 613 *(67.5%)*
+**Champion**: 264 *(71.7%)*
+**Pokedex Caught**: 370.0 *(39.0%)*
+**Pokedex Seen**: 375.0 *(26.3%)*
+    
+**Days Played**: 785 days
+**XP**/day: 47,819
+**KM**/day: 1.9
+**Catches**/day: 65.04
+**Evolves**/day: 3.71
+**Hatches**/day: 1.55
+**Spins**/day: 52.82
+**Battles**/day: 21.41
+**Research**/day: 19.47
+**Berries**/day: 59.64
+**Gym Hours**/day: 67.98
+**Gold Gyms**/day: 0.13
+**Raids**/day: 0.61
+**Legendary Raids**/day: 0.65
+    

@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Lagcity
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 63,032,551 *(92.7%)*
+**Gold Gyms**: 209 *(100.0%)*
+**Gym Badge**: 874 *(87.1%)*
+**Jogger**: 4,844.0 *(87.9%)*
+**Collector**: 87,677 *(94.4%)*
+**Scientist**: 15,664 *(98.4%)*
+**Breeder**: 4,443 *(95.2%)*
+**Backpacker**: 68,869 *(87.1%)*
+**Battle Girl**: 27,120 *(96.8%)*
+**Pokemon Ranger**: 532 *(85.5%)*
+**Berry Master**: 34,019 *(91.9%)*
+**Gym Leader**: 113,985 *(99.2%)*
+**Battle Legend**: 358 *(51.6%)*
+**Champion**: 413 *(98.4%)*
+**Pokedex Caught**: 358 *(44.4%)*
+**Pokedex Seen**: 370 *(99.2%)*
+    
+**Days Played**: 662 days
+**XP**/day: 95,215
+**KM**/day: 7.3
+**Catches**/day: 132.44
+**Evolves**/day: 23.66
+**Hatches**/day: 6.71
+**Spins**/day: 104.03
+**Battles**/day: 40.97
+**Quests**/day: 17.16
+**Berries**/day: 109.04
+**Gym Hours**/day: 365.34
+**Gold Gyms**/day: 0.67
+**Raids**/day: 1.34
+**Legendary Raids**/day: 1.46
+    

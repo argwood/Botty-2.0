@@ -1,0 +1,42 @@
+**__NOVEMBER__**
+    
+**Trainer**: wajiw
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 192
+**Monthly Rank**: N/A
+    
+**Total XP**: 40,907,218 *(33.9%)*
+**Jogger**: 4,655 *(67.9%)*
+**Collector**: 68,816 *(49.5%)*
+**Scientist**: 3,684 *(37.6%)*
+**Breeder**: 1,803 *(33.0%)*
+**Backpacker**: 65,593 *(55.0%)*
+**Battle Girl**: 2,902 *(21.1%)*
+**Gym Badge**: 417 *(44.0%)*
+**Gold Gyms**: 6 *(9.2%)*
+    
+**Pokemon Ranger**: 1,104 *(18.3%)*
+**Berry Master**: 17,207 *(38.5%)*
+**Gym Leader**: 8,058 *(13.8%)*
+**Battle Legend**: 589 *(49.5%)*
+**Champion**: 133 *(17.4%)*
+**Pokedex Caught**: 401.0 *(34.3%)*
+**Pokedex Seen**: 414.0 *(21.9%)*
+    
+**Days Played**: 865 days
+**XP**/day: 47,291
+**KM**/day: 5.4
+**Catches**/day: 79.56
+**Evolves**/day: 4.26
+**Hatches**/day: 2.08
+**Spins**/day: 75.83
+**Battles**/day: 3.35
+**Research**/day: 4.51
+**Berries**/day: 32.71
+**Gym Hours**/day: 15.32
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.25
+**Legendary Raids**/day: 0.27
+    

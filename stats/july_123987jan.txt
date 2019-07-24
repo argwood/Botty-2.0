@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: 123987jan
+**Level**: 39
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 15,943,856 *(24.1%)*
+**Jogger**: 1,333.6 *(19.0%)*
+**Collector**: 24,666 *(26.2%)*
+**Scientist**: 4,474 *(54.4%)*
+**Breeder**: 988 *(26.2%)*
+**Backpacker**: 17,531 *(20.5%)*
+**Battle Girl**: 3,029 *(33.3%)*
+**Gym Badge**: 169 *(14.4%)*
+**Gold Gyms**: 16 *(35.4%)*
+    
+**Pokemon Ranger**: 1,090 *(53.3%)*
+**Berry Master**: 2,716 *(16.9%)*
+**Gym Leader**: 20,850 *(48.2%)*
+**Battle Legend**: 151 *(19.0%)*
+**Champion**: 66 *(15.9%)*
+**Pokedex Caught**: 364 *(28.7%)*
+**Pokedex Seen**: 373 *(41.5%)*
+    
+**Fisherman**: 129
+**Youngster**: 165
+**Pikachu Fan**: 378
+**Unown**: 0
+**Pilot**: 6,144
+**Gentleman**: 1
+    
+**Days Played**: 751 days
+**XP**/day: 21,230
+**KM**/day: 1.8
+**Catches**/day: 32.84
+**Evolves**/day: 5.96
+**Hatches**/day: 1.32
+**Spins**/day: 23.34
+**Battles**/day: 4.03
+**Research**/day: 8.86
+**Berries**/day: 6.72
+**Gym Hours**/day: 51.61
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.17
+**Legendary Raids**/day: 0.18
+    

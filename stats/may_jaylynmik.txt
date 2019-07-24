@@ -1,0 +1,54 @@
+**__MAY__**
+    
+**Trainer**: JayLynMik
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 86
+**Monthly Rank**: 31
+    
+**Total XP**: 75,126,329 *(52.5%)*
+**Jogger**: 6,799.5 *(74.2%)*
+**Collector**: 87,877 *(56.7%)*
+**Scientist**: 12,509 *(84.2%)*
+**Breeder**: 6,848 *(84.2%)*
+**Backpacker**: 51,777 *(44.2%)*
+**Battle Girl**: 1,003 *(8.3%)*
+**Gold Gyms**: 73 *(62.5%)*
+    
+**Pokemon Ranger**: 3,672 *(56.7%)*
+**Berry Master**: 27,218 *(47.5%)*
+**Gym Leader**: 48,014 *(55.8%)*
+**Battle Legend**: 1155 *(76.7%)*
+**Champion**: 431 *(61.7%)*
+    
+**Gym Badges**: 486
+**Pokedex Caught**: 473
+**Pokedex Seen**: 479
+**Fisherman**: 318
+**Youngster**: 474
+**Pikachu Fan**: 880
+**Unown**: 7
+**Pilot**: 2,226,022
+**Gentleman**: 12016
+**Idol**: 31
+**Ace Trainer**: 630
+**Great League Veteran**: 50
+**Ultra League Veteran**: 61
+**Master League Veteran**: 55
+    
+**Days Played**: 1056 days
+**XP**/day: 71,142
+**KM**/day: 6.4
+**Catches**/day: 83.22
+**Evolves**/day: 11.85
+**Hatches**/day: 6.48
+**Spins**/day: 49.03
+**Battles**/day: 0.95
+**Research**/day: 8.6
+**Berries**/day: 38.44
+**Gym Hours**/day: 67.82
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.61
+**Legendary Raids**/day: 0.64
+    

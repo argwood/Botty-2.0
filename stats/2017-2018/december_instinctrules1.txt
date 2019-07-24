@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: instinctrules1
+**Level**: 33
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 3,520,402 *(4.0%)*
+**Gold Gyms**: 4 *(27.0%)*
+**Gym Badge**: 82 *(2.0%)*
+**Jogger**: 1,642.6 *(31.0%)*
+**Collector**: 5,644 *(6.0%)*
+**Scientist**: 530 *(6.0%)*
+**Breeder**: 407 *(10.0%)*
+**Backpacker**: 6,866 *(6.0%)*
+**Battle Girl**: 1,660 *(22.0%)*
+**Ace Trainer**: 307 *(34.0%)*
+**Berry Master**: 1,004 *(1.0%)*
+**Gym Leader**: 3,806 *(12.0%)*
+**Battle Legend**: 48 *(5.0%)*
+**Champion**: 57 *(18.0%)*
+**Pokedex Caught**: 278 *(17.0%)*
+**Pokedex Seen**: 306 *(30.0%)*
+    
+**Days Played**: 515 days
+**XP**/day: 6,835
+**KM**/day: 3.2
+**Catches**/day: 10.96
+**Evolves**/day: 1.03
+**Hatches**/day: 0.79
+**Spins**/day: 13.33
+**Battles**/day: 3.22
+**Berries**/day: 5.28
+**Gym Hours**/day: 20.03
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.31
+**Legendary Raids**/day: 0.36
+    

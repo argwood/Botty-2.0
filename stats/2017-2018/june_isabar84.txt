@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: IsaBar84
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 38,461,662 *(62.9%)*
+**Gold Gyms**: 51 *(64.2%)*
+**Gym Badge**: 1000 *(96.0%)*
+**Jogger**: 4,551.3 *(75.5%)*
+**Collector**: 78,676 *(75.5%)*
+**Scientist**: 11,128 *(88.7%)*
+**Breeder**: 1,810 *(44.4%)*
+**Backpacker**: 58,556 *(64.9%)*
+**Battle Girl**: 14,191 *(80.8%)*
+**Pokemon Ranger**: 891 *(55.0%)*
+**Berry Master**: 11,512 *(31.1%)*
+**Gym Leader**: 59,720 *(84.1%)*
+**Battle Legend**: 378 *(37.7%)*
+**Champion**: 138 *(35.8%)*
+**Pokedex Caught**: 368 *(91.4%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: -17 days
+**XP**/day: -2,262,450
+**KM**/day: -267.7
+**Catches**/day: -4628.0
+**Evolves**/day: -654.59
+**Hatches**/day: -106.47
+**Spins**/day: -3444.47
+**Battles**/day: -834.76
+**Quests**/day: 9.68
+**Berries**/day: 30.86
+**Gym Hours**/day: 160.11
+**Gold Gyms**/day: 0.14
+**Raids**/day: 0.37
+**Legendary Raids**/day: 0.4
+    

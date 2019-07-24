@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: ThatGrrll
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+    
+**Total XP**: 27,691,473 *(38.4%)*
+**Gold Gyms**: 63 *(74.8%)*
+**Gym Badge**: 622 *(62.9%)*
+**Jogger**: 2,228.9 *(31.8%)*
+**Collector**: 35,218 *(32.5%)*
+**Scientist**: 3,604 *(38.4%)*
+**Breeder**: 1,812 *(45.0%)*
+**Backpacker**: 29,791 *(30.5%)*
+**Battle Girl**: 4,444 *(36.4%)*
+**Pokemon Ranger**: 594 *(33.1%)*
+**Berry Master**: 18,222 *(49.7%)*
+**Gym Leader**: 50,634 *(76.8%)*
+**Battle Legend**: 607 *(70.9%)*
+**Champion**: 187 *(51.7%)*
+**Pokedex Caught**: 365 *(55.6%)*
+**Pokedex Seen**: 371 *(33.8%)*
+    
+**Days Played**: 722 days
+**XP**/day: 38,353
+**KM**/day: 3.1
+**Catches**/day: 48.78
+**Evolves**/day: 4.99
+**Hatches**/day: 2.51
+**Spins**/day: 41.26
+**Battles**/day: 6.16
+**Quests**/day: 6.46
+**Berries**/day: 48.85
+**Gym Hours**/day: 135.75
+**Gold Gyms**/day: 0.17
+**Raids**/day: 0.51
+**Legendary Raids**/day: 0.55
+    

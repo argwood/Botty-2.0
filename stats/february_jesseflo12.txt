@@ -1,0 +1,39 @@
+**__FEBRUARY__**
+    
+**Trainer**: JesseFlo12
+**Level**: 40
+**Team**: Valor
+**Region**: Loop
+**Overall Rank**: 309
+**Monthly Rank**: N/A
+    
+**Total XP**: 21,715,036 *(8.1%)*
+**Jogger**: 2,557.3 *(12.1%)*
+**Collector**: 28,912 *(12.1%)*
+**Scientist**: 2,966 *(21.2%)*
+**Breeder**: 2,006 *(26.3%)*
+**Backpacker**: 40,198 *(24.2%)*
+**Battle Girl**: 1,974 *(8.1%)*
+**Gold Gyms**: 2 *(4.0%)*
+    
+**Pokemon Ranger**: 1,158 *(9.1%)*
+**Berry Master**: 7,258 *(10.1%)*
+**Gym Leader**: 3,913 *(3.0%)*
+**Battle Legend**: 175 *(9.1%)*
+**Champion**: 61 *(3.0%)*
+    
+**Days Played**: 961 days
+**XP**/day: 22,596
+**KM**/day: 2.7
+**Catches**/day: 30.09
+**Evolves**/day: 3.09
+**Hatches**/day: 2.09
+**Spins**/day: 41.83
+**Battles**/day: 2.05
+**Research**/day: 3.47
+**Berries**/day: 11.8
+**Gym Hours**/day: 6.36
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.1
+**Legendary Raids**/day: 0.1
+    

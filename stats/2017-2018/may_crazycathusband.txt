@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: CrazyCatHusband
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 32,932,436 *(63.8%)*
+**Gold Gyms**: 37 *(63.8%)*
+**Gym Badge**: 648 *(73.8%)*
+**Jogger**: 2,969.2 *(55.0%)*
+**Collector**: 44,086 *(54.4%)*
+**Scientist**: 6,678 *(76.5%)*
+**Breeder**: 3,426 *(82.6%)*
+**Backpacker**: 33,136 *(45.0%)*
+**Battle Girl**: 7,664 *(65.8%)*
+**Pokemon Ranger**: 305 *(29.5%)*
+**Berry Master**: 15,957 *(58.4%)*
+**Gym Leader**: 30,298 *(67.1%)*
+**Battle Legend**: 396 *(55.0%)*
+**Champion**: 157 *(50.3%)*
+**Pokedex Caught**: 364 *(85.2%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 691 days
+**XP**/day: 47,659
+**KM**/day: 4.3
+**Catches**/day: 63.8
+**Evolves**/day: 9.66
+**Hatches**/day: 4.96
+**Spins**/day: 47.95
+**Battles**/day: 11.09
+**Quests**/day: 4.84
+**Berries**/day: 46.39
+**Gym Hours**/day: 88.08
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.46
+**Legendary Raids**/day: 0.5
+    

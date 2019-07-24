@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: partywithgaz
+**Level**: 34
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 4,801,839 *(5.4%)*
+**Gold Gyms**: 0 *(4.0%)*
+**Gym Badge**: 293 *(27.5%)*
+**Jogger**: 529.0 *(4.7%)*
+**Collector**: 7,414 *(7.4%)*
+**Scientist**: 726 *(10.1%)*
+**Breeder**: 454 *(10.1%)*
+**Backpacker**: 8,718 *(8.1%)*
+**Battle Girl**: 535 *(7.4%)*
+**Pokemon Ranger**: 154 *(10.1%)*
+**Berry Master**: 2,376 *(10.7%)*
+**Gym Leader**: 2,582 *(8.1%)*
+**Battle Legend**: 54 *(5.4%)*
+**Champion**: 43 *(6.7%)*
+**Pokedex Caught**: 355 *(24.2%)*
+**Pokedex Seen**: 365 *(10.7%)*
+    
+**Days Played**: 690 days
+**XP**/day: 6,959
+**KM**/day: 0.8
+**Catches**/day: 10.74
+**Evolves**/day: 1.05
+**Hatches**/day: 0.66
+**Spins**/day: 12.63
+**Battles**/day: 0.78
+**Quests**/day: 2.52
+**Berries**/day: 6.95
+**Gym Hours**/day: 7.55
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.13
+**Legendary Raids**/day: 0.14
+    

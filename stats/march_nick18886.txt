@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: Nick18886
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 115
+**Monthly Rank**: N/A
+    
+**Total XP**: 53,993,598 *(30.2%)*
+**Jogger**: 6,187.7 *(70.9%)*
+**Collector**: 115,724 *(72.5%)*
+**Scientist**: 8,907 *(62.6%)*
+**Breeder**: 1,733 *(24.7%)*
+**Backpacker**: 69,528 *(50.0%)*
+**Battle Girl**: 9,706 *(45.1%)*
+**Gold Gyms**: 27 *(24.7%)*
+    
+**Pokemon Ranger**: 4,630 *(75.8%)*
+**Berry Master**: 25,176 *(36.3%)*
+**Gym Leader**: 40,913 *(50.0%)*
+**Battle Legend**: 308 *(12.6%)*
+**Champion**: 301 *(44.5%)*
+    
+**Days Played**: 966 days
+**XP**/day: 55,893
+**KM**/day: 6.4
+**Catches**/day: 119.8
+**Evolves**/day: 9.22
+**Hatches**/day: 1.79
+**Spins**/day: 71.98
+**Battles**/day: 10.05
+**Research**/day: 13.82
+**Berries**/day: 40.87
+**Gym Hours**/day: 66.42
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.49
+**Legendary Raids**/day: 0.51
+    

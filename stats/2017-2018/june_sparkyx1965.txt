@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: SparkyX1965
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 26,805,086 *(37.1%)*
+**Gold Gyms**: 24 *(36.4%)*
+**Gym Badge**: 329 *(31.8%)*
+**Jogger**: 4,437.0 *(73.5%)*
+**Collector**: 38,817 *(35.1%)*
+**Scientist**: 7,073 *(70.2%)*
+**Breeder**: 1,389 *(33.8%)*
+**Backpacker**: 41,792 *(46.4%)*
+**Battle Girl**: 9,169 *(62.3%)*
+**Pokemon Ranger**: 618 *(35.8%)*
+**Berry Master**: 9,516 *(27.8%)*
+**Gym Leader**: 21,979 *(45.7%)*
+**Battle Legend**: 302 *(26.5%)*
+**Champion**: 136 *(35.1%)*
+**Pokedex Caught**: 358 *(17.2%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: 693 days
+**XP**/day: 38,679
+**KM**/day: 6.4
+**Catches**/day: 56.01
+**Evolves**/day: 10.21
+**Hatches**/day: 2.0
+**Spins**/day: 60.31
+**Battles**/day: 13.23
+**Quests**/day: 6.72
+**Berries**/day: 25.51
+**Gym Hours**/day: 58.92
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.37
+**Legendary Raids**/day: 0.4
+    

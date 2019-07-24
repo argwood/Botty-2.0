@@ -1,0 +1,37 @@
+**Trainer**: BadCheckRight
+**Level**: 34
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 5,102,148 *(18.2%)*
+**Gold Gyms**: 1 *(6.8%)*
+**Gym Badge**: 130 *(9.1%)*
+**Jogger**: 214.1 *(4.5%)*
+**Collector**: 5,960 *(18.2%)*
+**Scientist**: 902 *(22.7%)*
+**Breeder**: 269 *(9.1%)*
+**Backpacker**: 1,861 *(4.5%)*
+**Battle Girl**: 276 *(9.1%)*
+**Berry Master**: 1,221 *(18.2%)*
+**Gym Leader**: 1,653 *(9.1%)*
+**Battle Legend**: 71 *(18.2%)*
+**Champion**: 43 *(13.6%)*
+**Pokedex Caught**: 333 *(13.6%)*
+**Pokedex Seen**: 361 *(15.9%)*
+    
+**Days Played**: 276 days
+**XP**/day: 18,486
+**KM**/day: 0.8
+**Catches**/day: 21.59
+**Evolves**/day: 3.27
+**Catches**/evolve: 6.61
+**Hatches**/day: 0.97
+**KM**/egg: 0.8
+**Spins**/day: 6.74
+**Battles**/day: 1.0
+**Berries**/day: 3.56
+**Gym Hours**/day: 4.82
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.13
+**Legendary Raids**/day: 0.14
+    

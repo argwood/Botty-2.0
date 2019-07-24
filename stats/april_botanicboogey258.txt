@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: BotanicBoogey258
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 244
+**Monthly Rank**: N/A
+    
+**Total XP**: 48,452,574 *(30.7%)*
+**Jogger**: 2,180.8 *(12.2%)*
+**Collector**: 32,473 *(15.9%)*
+**Scientist**: 2,453 *(22.8%)*
+**Breeder**: 2,910 *(47.1%)*
+**Backpacker**: 21,268 *(12.7%)*
+**Battle Girl**: 2,952 *(18.5%)*
+**Gold Gyms**: 25 *(27.0%)*
+    
+**Pokemon Ranger**: 1,401 *(16.9%)*
+**Berry Master**: 7,610 *(16.4%)*
+**Gym Leader**: 9,324 *(16.4%)*
+**Battle Legend**: 1068 *(72.5%)*
+**Champion**: 375 *(56.6%)*
+    
+**Days Played**: 716 days
+**XP**/day: 67,671
+**KM**/day: 3.0
+**Catches**/day: 45.35
+**Evolves**/day: 3.43
+**Hatches**/day: 4.06
+**Spins**/day: 29.7
+**Battles**/day: 4.12
+**Research**/day: 3.83
+**Berries**/day: 11.76
+**Gym Hours**/day: 14.41
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.58
+**Legendary Raids**/day: 0.61
+    

@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: RobEW
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 74
+**Monthly Rank**: N/A
+    
+**Total XP**: 75,576,998 *(50.9%)*
+**Jogger**: 5,967.8 *(66.1%)*
+**Collector**: 119,389 *(69.6%)*
+**Scientist**: 4,508 *(47.3%)*
+**Breeder**: 3,523 *(59.8%)*
+**Backpacker**: 82,768 *(61.6%)*
+**Battle Girl**: 13,909 *(68.8%)*
+**Gold Gyms**: 46 *(49.1%)*
+    
+**Pokemon Ranger**: 2,938 *(45.5%)*
+**Berry Master**: 32,972 *(53.6%)*
+**Gym Leader**: 78,609 *(82.1%)*
+**Battle Legend**: 1207 *(72.3%)*
+**Champion**: 499 *(70.5%)*
+    
+**Days Played**: 723 days
+**XP**/day: 104,532
+**KM**/day: 8.3
+**Catches**/day: 165.13
+**Evolves**/day: 6.24
+**Hatches**/day: 4.87
+**Spins**/day: 114.48
+**Battles**/day: 19.24
+**Research**/day: 6.43
+**Berries**/day: 44.68
+**Gym Hours**/day: 106.52
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.68
+**Legendary Raids**/day: 0.7
+    

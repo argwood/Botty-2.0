@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: BARJAKE
+**Level**: 40
+**Team**: Valor
+**Region**: Other
+    
+**Total XP**: 63,703,311 *(86.2%)*
+**Jogger**: 3,197.2 *(55.9%)*
+**Collector**: 100,862 *(88.2%)*
+**Scientist**: 5,371 *(62.1%)*
+**Breeder**: 2,783 *(69.7%)*
+**Backpacker**: 67,908 *(75.4%)*
+**Battle Girl**: 8,273 *(61.0%)*
+**Gym Badge**: 330 *(31.8%)*
+**Gold Gyms**: 49 *(68.2%)*
+    
+**Pokemon Ranger**: 1,776 *(76.9%)*
+**Berry Master**: 27,895 *(72.8%)*
+**Gym Leader**: 34,247 *(68.7%)*
+**Battle Legend**: 1221 *(92.3%)*
+**Champion**: 194 *(60.5%)*
+**Pokedex Caught**: 369 *(59.5%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 364
+**Youngster**: 582
+**Pikachu Fan**: 1084
+**Unown**: 13
+**Pilot**: 360,889
+**Gentleman**: 182
+    
+**Days Played**: 750 days
+**XP**/day: 84,937
+**KM**/day: 4.3
+**Catches**/day: 134.48
+**Evolves**/day: 7.16
+**Hatches**/day: 3.71
+**Spins**/day: 90.54
+**Battles**/day: 11.03
+**Research**/day: 14.8
+**Berries**/day: 69.56
+**Gym Hours**/day: 85.4
+**Gold Gyms**/day: 0.12
+**Raids**/day: 0.49
+**Legendary Raids**/day: 0.52
+    

@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Fortysixed
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 231
+**Monthly Rank**: N/A
+    
+**Total XP**: 34,828,134 *(19.0%)*
+**Jogger**: 4,198.8 *(41.3%)*
+**Collector**: 43,689 *(29.1%)*
+**Scientist**: 1,617 *(15.3%)*
+**Breeder**: 1,445 *(24.9%)*
+**Backpacker**: 34,774 *(24.3%)*
+**Battle Girl**: 5,369 *(31.7%)*
+**Gold Gyms**: 30 *(33.3%)*
+    
+**Pokemon Ranger**: 1,977 *(22.8%)*
+**Berry Master**: 11,878 *(23.3%)*
+**Gym Leader**: 25,315 *(30.7%)*
+**Battle Legend**: 499 *(35.4%)*
+**Champion**: 172 *(24.3%)*
+    
+**Days Played**: 995 days
+**XP**/day: 35,003
+**KM**/day: 4.2
+**Catches**/day: 43.91
+**Evolves**/day: 1.63
+**Hatches**/day: 1.45
+**Spins**/day: 34.95
+**Battles**/day: 5.4
+**Research**/day: 5.4
+**Berries**/day: 18.36
+**Gym Hours**/day: 39.13
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.27
+**Legendary Raids**/day: 0.28
+    

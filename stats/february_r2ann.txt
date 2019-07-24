@@ -1,0 +1,39 @@
+**__FEBRUARY__**
+    
+**Trainer**: R2ann
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 51
+**Monthly Rank**: 32
+    
+**Total XP**: 98,181,386 *(74.7%)*
+**Jogger**: 6,172.4 *(72.7%)*
+**Collector**: 89,798 *(51.5%)*
+**Scientist**: 7,341 *(52.5%)*
+**Breeder**: 3,087 *(48.5%)*
+**Backpacker**: 95,758 *(73.7%)*
+**Battle Girl**: 12,285 *(54.5%)*
+**Gold Gyms**: 104 *(79.8%)*
+    
+**Pokemon Ranger**: 3,324 *(50.5%)*
+**Berry Master**: 42,494 *(64.6%)*
+**Gym Leader**: 72,826 *(80.8%)*
+**Battle Legend**: 611 *(34.3%)*
+**Champion**: 389 *(58.6%)*
+    
+**Days Played**: 964 days
+**XP**/day: 101,847
+**KM**/day: 6.4
+**Catches**/day: 93.15
+**Evolves**/day: 7.62
+**Hatches**/day: 3.2
+**Spins**/day: 99.33
+**Battles**/day: 12.74
+**Research**/day: 9.89
+**Berries**/day: 68.87
+**Gym Hours**/day: 118.03
+**Gold Gyms**/day: 0.17
+**Raids**/day: 0.63
+**Legendary Raids**/day: 0.66
+    

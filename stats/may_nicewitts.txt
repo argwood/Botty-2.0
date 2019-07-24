@@ -1,0 +1,54 @@
+**__MAY__**
+    
+**Trainer**: Nicewitts
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 16
+**Monthly Rank**: 29
+    
+**Total XP**: 99,067,067 *(74.2%)*
+**Jogger**: 7,397.0 *(81.7%)*
+**Collector**: 138,353 *(82.5%)*
+**Scientist**: 8,304 *(67.5%)*
+**Breeder**: 5,261 *(72.5%)*
+**Backpacker**: 111,911 *(81.7%)*
+**Battle Girl**: 28,359 *(90.0%)*
+**Gold Gyms**: 105 *(77.5%)*
+    
+**Pokemon Ranger**: 7,558 *(86.7%)*
+**Berry Master**: 57,490 *(74.2%)*
+**Gym Leader**: 117,385 *(91.7%)*
+**Battle Legend**: 1121 *(75.8%)*
+**Champion**: 455 *(66.7%)*
+    
+**Gym Badges**: 1000
+**Pokedex Caught**: 484
+**Pokedex Seen**: 485
+**Fisherman**: 395
+**Youngster**: 897
+**Pikachu Fan**: 1439
+**Unown**: 12
+**Pilot**: 4,877,482
+**Gentleman**: 4935
+**Idol**: 86
+**Ace Trainer**: 4438
+**Great League Veteran**: 81
+**Ultra League Veteran**: 98
+**Master League Veteran**: 209
+    
+**Days Played**: 1058 days
+**XP**/day: 93,636
+**KM**/day: 7.0
+**Catches**/day: 130.77
+**Evolves**/day: 7.85
+**Hatches**/day: 4.97
+**Spins**/day: 105.78
+**Battles**/day: 26.8
+**Research**/day: 17.7
+**Berries**/day: 81.2
+**Gym Hours**/day: 165.8
+**Gold Gyms**/day: 0.15
+**Raids**/day: 0.65
+**Legendary Raids**/day: 0.67
+    

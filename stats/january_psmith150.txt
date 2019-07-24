@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: psmith150
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 344
+**Monthly Rank**: N/A
+    
+**Total XP**: 21,193,405 *(16.7%)*
+**Jogger**: 1,457.0 *(13.2%)*
+**Collector**: 21,000 *(14.0%)*
+**Scientist**: 2,140 *(25.4%)*
+**Breeder**: 655 *(9.6%)*
+**Backpacker**: 16,107 *(14.9%)*
+**Battle Girl**: 1,978 *(15.8%)*
+**Gold Gyms**: 2 *(12.3%)*
+    
+**Pokemon Ranger**: 1,099 *(21.1%)*
+**Berry Master**: 2,414 *(14.0%)*
+**Gym Leader**: 4,435 *(12.3%)*
+**Battle Legend**: 89 *(11.4%)*
+**Champion**: 143 *(22.8%)*
+    
+**Days Played**: 934 days
+**XP**/day: 22,691
+**KM**/day: 1.6
+**Catches**/day: 22.48
+**Evolves**/day: 2.29
+**Hatches**/day: 0.7
+**Spins**/day: 17.25
+**Battles**/day: 2.12
+**Research**/day: 3.58
+**Berries**/day: 4.11
+**Gym Hours**/day: 7.54
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.24
+**Legendary Raids**/day: 0.26
+    

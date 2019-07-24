@@ -1,0 +1,37 @@
+**__JANUARY__**
+    
+**Trainer**: Minimalfunction
+**Level**: 39
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 15,064,471 *(29.1%)*
+**Gold Gyms**: 32 *(79.1%)*
+**Gym Badge**: 628 *(76.7%)*
+**Jogger**: 1,624.7 *(26.7%)*
+**Collector**: 26,654 *(36.0%)*
+**Scientist**: 1,362 *(14.0%)*
+**Breeder**: 845 *(23.3%)*
+**Backpacker**: 30,731 *(41.9%)*
+**Battle Girl**: 7,759 *(81.4%)*
+**Berry Master**: 9,850 *(60.5%)*
+**Gym Leader**: 38,141 *(87.2%)*
+**Battle Legend**: 291 *(73.3%)*
+**Champion**: 90 *(39.5%)*
+**Pokedex Caught**: 312 *(30.2%)*
+**Pokedex Seen**: 330 *(30.2%)*
+    
+**Days Played**: 566 days
+**XP**/day: 26,615
+**KM**/day: 2.9
+**Catches**/day: 47.09
+**Evolves**/day: 2.41
+**Hatches**/day: 1.49
+**Spins**/day: 54.3
+**Battles**/day: 13.71
+**Berries**/day: 45.18
+**Gym Hours**/day: 174.96
+**Gold Gyms**/day: 0.15
+**Raids**/day: 0.42
+**Legendary Raids**/day: 0.48
+    

@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: caseycurls
+**Level**: 30
+**Team**: Mystic
+**Region**: Loop
+    
+**Total XP**: 2,074,094 *(4.5%)*
+**Gold Gyms**: 2 *(24.1%)*
+**Gym Badge**: 115 *(7.5%)*
+**Jogger**: 328.0 *(6.0%)*
+**Collector**: 2,827 *(5.3%)*
+**Scientist**: 227 *(6.0%)*
+**Breeder**: 126 *(5.3%)*
+**Backpacker**: 3,191 *(6.0%)*
+**Battle Girl**: 50 *(0.8%)*
+**Ace Trainer**: 52 *(14.3%)*
+**Berry Master**: 502 *(4.5%)*
+**Gym Leader**: 3,276 *(21.1%)*
+**Battle Legend**: 51 *(12.0%)*
+**Champion**: 16 *(4.5%)*
+**Pokedex Caught**: 203 *(3.8%)*
+**Pokedex Seen**: 232 *(2.3%)*
+    
+**Days Played**: 503 days
+**XP**/day: 4,123
+**KM**/day: 0.7
+**Catches**/day: 5.62
+**Evolves**/day: 0.45
+**Catches**/evolve: 12.45
+**Hatches**/day: 0.25
+**KM**/egg: 2.6
+**Spins**/day: 6.34
+**Battles**/day: 0.1
+**Berries**/day: 3.26
+**Gym Hours**/day: 21.27
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.11
+**Legendary Raids**/day: 0.13
+    

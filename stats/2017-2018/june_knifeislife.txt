@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: KnifeIsLife
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 39,360,257 *(64.2%)*
+**Gold Gyms**: 16 *(27.2%)*
+**Gym Badge**: 1000 *(96.0%)*
+**Jogger**: 4,436.7 *(72.8%)*
+**Collector**: 72,974 *(70.9%)*
+**Scientist**: 6,982 *(68.2%)*
+**Breeder**: 2,932 *(64.2%)*
+**Backpacker**: 76,324 *(81.5%)*
+**Battle Girl**: 3,214 *(23.8%)*
+**Pokemon Ranger**: 863 *(50.3%)*
+**Berry Master**: 18,644 *(51.0%)*
+**Gym Leader**: 17,321 *(36.4%)*
+**Battle Legend**: 430 *(40.4%)*
+**Champion**: 220 *(65.6%)*
+**Pokedex Caught**: 367 *(86.1%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: 722 days
+**XP**/day: 54,515
+**KM**/day: 6.1
+**Catches**/day: 101.07
+**Evolves**/day: 9.67
+**Hatches**/day: 4.06
+**Spins**/day: 105.71
+**Battles**/day: 4.45
+**Quests**/day: 9.38
+**Berries**/day: 49.98
+**Gym Hours**/day: 46.44
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.6
+**Legendary Raids**/day: 0.64
+    

@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: bcellparty
+**Level**: 40
+**Team**: Valor
+**Region**: South
+    
+**Total XP**: 34,712,609 *(53.6%)*
+**Gold Gyms**: 26 *(39.7%)*
+**Gym Badge**: 669 *(67.5%)*
+**Jogger**: 4,633.9 *(77.5%)*
+**Collector**: 59,584 *(58.9%)*
+**Scientist**: 6,020 *(59.6%)*
+**Breeder**: 2,283 *(55.0%)*
+**Backpacker**: 49,845 *(55.6%)*
+**Battle Girl**: 11,287 *(72.8%)*
+**Pokemon Ranger**: 868 *(53.0%)*
+**Berry Master**: 18,805 *(52.3%)*
+**Gym Leader**: 13,838 *(28.5%)*
+**Battle Legend**: 521 *(59.6%)*
+**Champion**: 200 *(59.6%)*
+**Pokedex Caught**: 365 *(55.6%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: 721 days
+**XP**/day: 48,145
+**KM**/day: 6.4
+**Catches**/day: 82.64
+**Evolves**/day: 8.35
+**Hatches**/day: 3.17
+**Spins**/day: 69.13
+**Battles**/day: 15.65
+**Quests**/day: 9.43
+**Berries**/day: 50.42
+**Gym Hours**/day: 37.1
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.54
+**Legendary Raids**/day: 0.58
+    

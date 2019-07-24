@@ -1,0 +1,38 @@
+**Trainer**: omfgwolves
+**Level**: 36
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 7,277,816 *(17.0%)*
+**Gold Gyms**: 0 *(6.0%)*
+**Gym Badge**: 336 *(45.5%)*
+**Jogger**: 772.7 *(11.0%)*
+**Collector**: 9,560 *(15.0%)*
+**Scientist**: 868 *(15.0%)*
+**Breeder**: 354 *(12.0%)*
+**Backpacker**: 9,792 *(16.0%)*
+**Battle Girl**: 444 *(8.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 2,287 *(19.0%)*
+**Gym Leader**: 4,575 *(24.0%)*
+**Battle Legend**: 159 *(35.0%)*
+**Champion**: 37 *(11.0%)*
+**Pokedex Caught**: 360 *(52.0%)*
+**Pokedex Seen**: 369 *(44.5%)*
+    
+**Days Played**: 694 days
+**XP**/day: 10,486
+**KM**/day: 1.1
+**Catches**/day: 13.78
+**Evolves**/day: 1.25
+**Catches**/evolve: 11.01
+**Hatches**/day: 0.51
+**KM**/egg: 2.18
+**Spins**/day: 14.11
+**Battles**/day: 0.64
+**Berries**/day: 6.67
+**Gym Hours**/day: 13.34
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.11
+**Legendary Raids**/day: 0.12
+    

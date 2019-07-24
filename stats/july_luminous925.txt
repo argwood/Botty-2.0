@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: Luminous925
+**Level**: 34
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 5,208,733 *(9.7%)*
+**Jogger**: 609.6 *(8.2%)*
+**Collector**: 6,309 *(7.7%)*
+**Scientist**: 362 *(5.1%)*
+**Breeder**: 242 *(7.7%)*
+**Backpacker**: 6,447 *(7.7%)*
+**Battle Girl**: 269 *(6.2%)*
+**Gym Badge**: 117 *(11.8%)*
+**Gold Gyms**: 1 *(11.8%)*
+    
+**Pokemon Ranger**: 126 *(5.6%)*
+**Berry Master**: 816 *(9.7%)*
+**Gym Leader**: 1,347 *(9.7%)*
+**Battle Legend**: 54 *(9.2%)*
+**Champion**: 15 *(3.1%)*
+**Pokedex Caught**: 339 *(11.3%)*
+**Pokedex Seen**: 360 *(11.8%)*
+    
+**Days Played**: 751 days
+**XP**/day: 6,935
+**KM**/day: 0.8
+**Catches**/day: 8.4
+**Evolves**/day: 0.48
+**Hatches**/day: 0.32
+**Spins**/day: 8.58
+**Battles**/day: 0.36
+**Research**/day: 1.02
+**Berries**/day: 2.02
+**Gym Hours**/day: 3.33
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.04
+**Legendary Raids**/day: 0.04
+    

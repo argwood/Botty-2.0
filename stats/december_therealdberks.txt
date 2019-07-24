@@ -1,0 +1,54 @@
+**__DECEMBER__**
+    
+**Trainer**: Therealdberks
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 191
+**Monthly Rank**: N/A
+    
+**Total XP**: 37,960,691 *(29.8%)*
+**Jogger**: 3,553.83 *(49.6%)*
+**Collector**: 37,132 *(26.4%)*
+**Scientist**: 2,841 *(28.9%)*
+**Breeder**: 2,538 *(52.9%)*
+**Backpacker**: 33,654 *(33.1%)*
+**Battle Girl**: 4,354 *(28.1%)*
+**Gold Gyms**: 19 *(24.8%)*
+    
+**Pokemon Ranger**: 2,196 *(46.3%)*
+**Berry Master**: 10,518 *(24.0%)*
+**Gym Leader**: 18,809 *(27.3%)*
+**Battle Legend**: 470 *(34.7%)*
+**Champion**: 388 *(68.6%)*
+    
+**Gym Badges**: 446
+**Pokedex Caught**: 436
+**Pokedex Seen**: 436
+**Fisherman**: 199
+**Youngster**: 82
+**Pikachu Fan**: 542
+**Unown**: 10
+**Pilot**: 652,059
+**Gentleman**: 508
+**Idol**: 15
+**Ace Trainer**: 444
+**Great League Veteran**: 25
+**Ultra League Veteran**: 12
+**Master League Veteran**: 36
+    
+**Days Played**: 906 days
+**XP**/day: 41,899
+**KM**/day: 3.9
+**Catches**/day: 40.98
+**Evolves**/day: 3.14
+**Hatches**/day: 2.8
+**Spins**/day: 37.15
+**Battles**/day: 4.81
+**Research**/day: 7.96
+**Berries**/day: 18.88
+**Gym Hours**/day: 33.77
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.7
+**Legendary Raids**/day: 0.74
+    

@@ -1,0 +1,54 @@
+**__APRIL__**
+    
+**Trainer**: Facitsejam
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 34
+**Monthly Rank**: 13
+    
+**Total XP**: 124,504,555 *(83.1%)*
+**Jogger**: 9,474.7 *(94.7%)*
+**Collector**: 227,525 *(97.4%)*
+**Scientist**: 29,637 *(98.9%)*
+**Breeder**: 5,083 *(71.4%)*
+**Backpacker**: 271,405 *(98.9%)*
+**Battle Girl**: 17,147 *(72.0%)*
+**Gold Gyms**: 44 *(40.7%)*
+    
+**Pokemon Ranger**: 13,869 *(96.8%)*
+**Berry Master**: 138,879 *(97.9%)*
+**Gym Leader**: 31,024 *(38.1%)*
+**Battle Legend**: 418 *(27.5%)*
+**Champion**: 285 *(43.4%)*
+    
+**Gym Badges**: 592
+**Pokedex Caught**: 462
+**Pokedex Seen**: 466
+**Fisherman**: 598
+**Youngster**: 1467
+**Pikachu Fan**: 2086
+**Unown**: 16
+**Pilot**: 6,884,083
+**Gentleman**: 7393
+**Idol**: 68
+**Ace Trainer**: 2983
+**Great League Veteran**: 18
+**Ultra League Veteran**: 15
+**Master League Veteran**: 77
+    
+**Days Played**: 1023 days
+**XP**/day: 121,705
+**KM**/day: 9.3
+**Catches**/day: 222.41
+**Evolves**/day: 28.97
+**Hatches**/day: 4.97
+**Spins**/day: 265.3
+**Battles**/day: 16.76
+**Research**/day: 35.02
+**Berries**/day: 205.14
+**Gym Hours**/day: 45.83
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.42
+**Legendary Raids**/day: 0.44
+    

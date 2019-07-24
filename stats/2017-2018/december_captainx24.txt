@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: CaptainX24
+**Level**: 37
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 9,911,172 *(18.0%)*
+**Gold Gyms**: 4 *(27.0%)*
+**Gym Badge**: 182 *(12.0%)*
+**Jogger**: 1,415.7 *(24.0%)*
+**Collector**: 16,285 *(20.0%)*
+**Scientist**: 2,639 *(32.0%)*
+**Breeder**: 475 *(16.0%)*
+**Backpacker**: 15,458 *(19.0%)*
+**Battle Girl**: 2,669 *(46.0%)*
+**Ace Trainer**: 540 *(41.0%)*
+**Berry Master**: 1,593 *(8.0%)*
+**Gym Leader**: 5,516 *(23.0%)*
+**Battle Legend**: 54 *(8.0%)*
+**Champion**: 32 *(3.0%)*
+**Pokedex Caught**: 277 *(15.0%)*
+**Pokedex Seen**: 298 *(11.0%)*
+    
+**Days Played**: 529 days
+**XP**/day: 18,735
+**KM**/day: 2.7
+**Catches**/day: 30.78
+**Evolves**/day: 4.99
+**Hatches**/day: 0.9
+**Spins**/day: 29.22
+**Battles**/day: 5.05
+**Berries**/day: 8.95
+**Gym Hours**/day: 30.99
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.18
+**Legendary Raids**/day: 0.22
+    

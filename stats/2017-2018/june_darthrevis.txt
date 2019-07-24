@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Darthrevis
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 27,827,993 *(39.7%)*
+**Gold Gyms**: 78 *(81.5%)*
+**Gym Badge**: 329 *(31.8%)*
+**Jogger**: 1,569.6 *(15.9%)*
+**Collector**: 25,044 *(19.2%)*
+**Scientist**: 2,431 *(25.2%)*
+**Breeder**: 747 *(15.2%)*
+**Backpacker**: 18,078 *(17.2%)*
+**Battle Girl**: 5,963 *(49.0%)*
+**Pokemon Ranger**: 421 *(21.2%)*
+**Berry Master**: 7,248 *(20.5%)*
+**Gym Leader**: 30,366 *(58.9%)*
+**Battle Legend**: 717 *(76.8%)*
+**Champion**: 244 *(72.2%)*
+**Pokedex Caught**: 366 *(72.8%)*
+**Pokedex Seen**: 370 *(20.5%)*
+    
+**Days Played**: 722 days
+**XP**/day: 38,542
+**KM**/day: 2.2
+**Catches**/day: 34.69
+**Evolves**/day: 3.37
+**Hatches**/day: 1.03
+**Spins**/day: 25.04
+**Battles**/day: 8.26
+**Quests**/day: 4.63
+**Berries**/day: 19.48
+**Gym Hours**/day: 81.63
+**Gold Gyms**/day: 0.21
+**Raids**/day: 0.66
+**Legendary Raids**/day: 0.71
+    

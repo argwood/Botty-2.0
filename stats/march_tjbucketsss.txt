@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: tjbucketsss
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 139
+**Monthly Rank**: 40
+    
+**Total XP**: 68,017,629 *(44.5%)*
+**Jogger**: 3,980.1 *(37.4%)*
+**Collector**: 72,668 *(39.6%)*
+**Scientist**: 5,792 *(47.3%)*
+**Breeder**: 2,930 *(46.2%)*
+**Backpacker**: 36,942 *(23.1%)*
+**Battle Girl**: 8,689 *(43.4%)*
+**Gold Gyms**: 16 *(13.2%)*
+    
+**Pokemon Ranger**: 2,990 *(43.4%)*
+**Berry Master**: 18,001 *(31.9%)*
+**Gym Leader**: 15,441 *(18.1%)*
+**Battle Legend**: 935 *(64.8%)*
+**Champion**: 802 *(88.5%)*
+    
+**Days Played**: 995 days
+**XP**/day: 68,359
+**KM**/day: 4.0
+**Catches**/day: 73.03
+**Evolves**/day: 5.82
+**Hatches**/day: 2.94
+**Spins**/day: 37.13
+**Battles**/day: 8.73
+**Research**/day: 8.17
+**Berries**/day: 27.82
+**Gym Hours**/day: 23.87
+**Gold Gyms**/day: 0.02
+**Raids**/day: 1.25
+**Legendary Raids**/day: 1.3
+    

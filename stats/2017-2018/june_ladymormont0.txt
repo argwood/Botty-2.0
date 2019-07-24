@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: LadyMormont0
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 50,150,988 *(78.1%)*
+**Gold Gyms**: 41 *(58.3%)*
+**Gym Badge**: 230 *(17.2%)*
+**Jogger**: 5,935.0 *(90.1%)*
+**Collector**: 113,115 *(94.7%)*
+**Scientist**: 7,563 *(76.8%)*
+**Breeder**: 8,834 *(99.3%)*
+**Backpacker**: 76,670 *(82.1%)*
+**Battle Girl**: 17,566 *(86.8%)*
+**Pokemon Ranger**: 1,630 *(80.8%)*
+**Berry Master**: 27,882 *(74.2%)*
+**Gym Leader**: 16,614 *(32.5%)*
+**Battle Legend**: 267 *(20.5%)*
+**Champion**: 210 *(62.3%)*
+**Pokedex Caught**: 366 *(72.8%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: 720 days
+**XP**/day: 69,654
+**KM**/day: 8.2
+**Catches**/day: 157.1
+**Evolves**/day: 10.5
+**Hatches**/day: 12.27
+**Spins**/day: 106.49
+**Battles**/day: 24.4
+**Quests**/day: 17.72
+**Berries**/day: 74.75
+**Gym Hours**/day: 44.54
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.57
+**Legendary Raids**/day: 0.61
+    

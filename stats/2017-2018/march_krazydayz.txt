@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: KrazyDayz
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 48,733,467 *(88.3%)*
+**Gold Gyms**: 59 *(85.6%)*
+**Gym Badge**: 344 *(27.9%)*
+**Jogger**: 2,844.0 *(52.3%)*
+**Collector**: 66,319 *(83.8%)*
+**Scientist**: 10,359 *(92.8%)*
+**Breeder**: 3,857 *(91.9%)*
+**Backpacker**: 111,035 *(97.3%)*
+**Battle Girl**: 21,888 *(95.5%)*
+**Berry Master**: 30,544 *(91.9%)*
+**Gym Leader**: 46,116 *(82.9%)*
+**Battle Legend**: 470 *(80.2%)*
+**Champion**: 64 *(9.0%)*
+**Pokedex Caught**: 351 *(30.6%)*
+**Pokedex Seen**: 367 *(47.7%)*
+    
+**Days Played**: 629 days
+**XP**/day: 77,477
+**KM**/day: 4.5
+**Catches**/day: 105.44
+**Evolves**/day: 16.47
+**Hatches**/day: 6.13
+**Spins**/day: 176.53
+**Battles**/day: 34.8
+**Berries**/day: 108.31
+**Gym Hours**/day: 163.53
+**Gold Gyms**/day: 0.21
+**Raids**/day: 0.23
+**Legendary Raids**/day: 0.25
+    

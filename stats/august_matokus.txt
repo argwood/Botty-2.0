@@ -1,0 +1,42 @@
+**__AUGUST__**
+    
+**Trainer**: Matokus
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 86
+**Monthly Rank**: 48
+    
+**Total XP**: 53,794,980 *(75.8%)*
+**Jogger**: 2,700.1 *(35.0%)*
+**Collector**: 71,413 *(69.2%)*
+**Scientist**: 4,483 *(47.5%)*
+**Breeder**: 1,196 *(26.7%)*
+**Backpacker**: 58,102 *(64.2%)*
+**Battle Girl**: 14,247 *(80.8%)*
+**Gym Badge**: 486 *(48.3%)*
+**Gold Gyms**: 60 *(67.5%)*
+    
+**Pokemon Ranger**: 2,692 *(81.7%)*
+**Berry Master**: 39,622 *(83.3%)*
+**Gym Leader**: 35,218 *(57.5%)*
+**Battle Legend**: 1028 *(89.2%)*
+**Champion**: 135 *(30.8%)*
+**Pokedex Caught**: 373.0 *(66.1%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Days Played**: 786 days
+**XP**/day: 68,441
+**KM**/day: 3.4
+**Catches**/day: 90.86
+**Evolves**/day: 5.7
+**Hatches**/day: 1.52
+**Spins**/day: 73.92
+**Battles**/day: 18.13
+**Research**/day: 17.48
+**Berries**/day: 91.09
+**Gym Hours**/day: 80.96
+**Gold Gyms**/day: 0.14
+**Raids**/day: 0.31
+**Legendary Raids**/day: 0.33
+    

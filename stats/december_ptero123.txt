@@ -1,0 +1,39 @@
+**__DECEMBER__**
+    
+**Trainer**: Ptero123
+**Level**: 29
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 463
+**Monthly Rank**: N/A
+    
+**Total XP**: 1,685,195 *(0.8%)*
+**Jogger**: 152.0 *(0.8%)*
+**Collector**: 2,264 *(0.8%)*
+**Scientist**: 150 *(0.8%)*
+**Breeder**: 74 *(0.8%)*
+**Backpacker**: 1,169 *(0.8%)*
+**Battle Girl**: 130 *(0.8%)*
+**Gold Gyms**: 0 *(2.5%)*
+    
+**Pokemon Ranger**: 118 *(0.8%)*
+**Berry Master**: 159 *(0.8%)*
+**Gym Leader**: 494 *(1.7%)*
+**Battle Legend**: 20 *(3.3%)*
+**Champion**: 24 *(1.7%)*
+    
+**Days Played**: 273 days
+**XP**/day: 6,172
+**KM**/day: 0.6
+**Catches**/day: 8.29
+**Evolves**/day: 0.55
+**Hatches**/day: 0.27
+**Spins**/day: 4.28
+**Battles**/day: 0.48
+**Research**/day: 0.43
+**Berries**/day: 0.29
+**Gym Hours**/day: 0.89
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.04
+**Legendary Raids**/day: 0.05
+    

@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: HaileyAlisa
+**Level**: 40
+**Team**: Valor
+**Region**: Other
+    
+**Total XP**: 37,851,663 *(75.8%)*
+**Gold Gyms**: 30 *(54.4%)*
+**Gym Badge**: 246 *(21.5%)*
+**Jogger**: 2,227.9 *(38.9%)*
+**Collector**: 43,225 *(53.7%)*
+**Scientist**: 6,064 *(67.8%)*
+**Breeder**: 2,005 *(61.7%)*
+**Backpacker**: 36,360 *(47.0%)*
+**Battle Girl**: 5,025 *(49.7%)*
+**Pokemon Ranger**: 1,033 *(85.2%)*
+**Berry Master**: 15,885 *(57.7%)*
+**Gym Leader**: 11,182 *(32.2%)*
+**Battle Legend**: 574 *(78.5%)*
+**Champion**: 178 *(58.4%)*
+**Pokedex Caught**: 364 *(85.2%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 709 days
+**XP**/day: 53,387
+**KM**/day: 3.1
+**Catches**/day: 60.97
+**Evolves**/day: 8.55
+**Hatches**/day: 2.83
+**Spins**/day: 51.28
+**Battles**/day: 7.09
+**Quests**/day: 11.48
+**Berries**/day: 42.82
+**Gym Hours**/day: 30.14
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.49
+**Legendary Raids**/day: 0.52
+    

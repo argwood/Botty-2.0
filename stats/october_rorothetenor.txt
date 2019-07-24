@@ -1,0 +1,50 @@
+**__OCTOBER__**
+    
+**Trainer**: RoRoTheTenor
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 107
+**Monthly Rank**: 54
+    
+**Total XP**: 63,711,264 *(69.3%)*
+**Jogger**: 3,915.0 *(57.9%)*
+**Collector**: 66,350 *(55.0%)*
+**Scientist**: 5,933 *(57.1%)*
+**Breeder**: 2,864 *(60.7%)*
+**Backpacker**: 57,233 *(54.3%)*
+**Battle Girl**: 5,367 *(42.9%)*
+**Gym Badge**: 891 *(77.9%)*
+**Gold Gyms**: 24 *(36.4%)*
+    
+**Pokemon Ranger**: 2,692 *(68.6%)*
+**Berry Master**: 10,553 *(27.1%)*
+**Gym Leader**: 13,236 *(27.1%)*
+**Battle Legend**: 1423 *(91.4%)*
+**Champion**: 486 *(90.7%)*
+**Pokedex Caught**: 392.0 *(44.4%)*
+**Pokedex Seen**: 399.0 *(33.1%)*
+    
+**Fisherman**: 198
+**Youngster**: 406
+**Pikachu Fan**: 799
+**Unown**: 12
+**Pilot**: 3,406,174
+**Gentleman**: 1440
+**Idol**: 19
+    
+**Days Played**: 844 days
+**XP**/day: 75,487
+**KM**/day: 4.6
+**Catches**/day: 78.61
+**Evolves**/day: 7.03
+**Hatches**/day: 3.39
+**Spins**/day: 67.81
+**Battles**/day: 6.36
+**Research**/day: 12.52
+**Berries**/day: 21.28
+**Gym Hours**/day: 26.69
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.99
+**Legendary Raids**/day: 1.04
+    

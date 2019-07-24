@@ -1,0 +1,54 @@
+**__JUNE__**
+    
+**Trainer**: Mandofire 
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 96,795,251 *(67.0%)*
+**Jogger**: 4,714.3 *(48.2%)*
+**Collector**: 88,940 *(53.6%)*
+**Scientist**: 5,917 *(52.7%)*
+**Breeder**: 4,239 *(67.9%)*
+**Backpacker**: 75,489 *(58.9%)*
+**Battle Girl**: 11,084 *(62.5%)*
+**Gold Gyms**: 74 *(62.5%)*
+    
+**Pokemon Ranger**: 2,873 *(43.8%)*
+**Berry Master**: 23,174 *(43.8%)*
+**Gym Leader**: 65,471 *(73.2%)*
+**Battle Legend**: 1601 *(84.8%)*
+**Champion**: 635 *(79.5%)*
+    
+**Gym Badges**: 773
+**Pokedex Caught**: 774
+**Pokedex Seen**: 483
+**Fisherman**: 422
+**Youngster**: 604
+**Pikachu Fan**: 1140
+**Unown**: 17
+**Pilot**: 426,693
+**Gentleman**: 131
+**Idol**: 17
+**Ace Trainer**: 2289
+**Great League Veteran**: 21
+**Ultra League Veteran**: 18
+**Master League Veteran**: 35
+    
+**Days Played**: 987 days
+**XP**/day: 98,070
+**KM**/day: 4.8
+**Catches**/day: 90.11
+**Evolves**/day: 5.99
+**Hatches**/day: 4.29
+**Spins**/day: 76.48
+**Battles**/day: 11.23
+**Research**/day: 6.29
+**Berries**/day: 31.4
+**Gym Hours**/day: 88.71
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.87
+**Legendary Raids**/day: 0.9
+    

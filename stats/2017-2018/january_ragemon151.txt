@@ -1,0 +1,37 @@
+**__JANUARY__**
+    
+**Trainer**: RageMon151
+**Level**: 39
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 16,921,150 *(32.6%)*
+**Gold Gyms**: 8 *(33.7%)*
+**Gym Badge**: 340 *(33.7%)*
+**Jogger**: 1,929.0 *(34.9%)*
+**Collector**: 29,798 *(39.5%)*
+**Scientist**: 4,797 *(52.3%)*
+**Breeder**: 950 *(30.2%)*
+**Backpacker**: 25,642 *(36.0%)*
+**Battle Girl**: 2,478 *(31.4%)*
+**Berry Master**: 3,034 *(15.1%)*
+**Gym Leader**: 7,763 *(29.1%)*
+**Battle Legend**: 138 *(16.3%)*
+**Champion**: 90 *(39.5%)*
+**Pokedex Caught**: 319 *(50.0%)*
+**Pokedex Seen**: 331 *(37.2%)*
+    
+**Days Played**: 544 days
+**XP**/day: 31,105
+**KM**/day: 3.5
+**Catches**/day: 54.78
+**Evolves**/day: 8.82
+**Hatches**/day: 1.75
+**Spins**/day: 47.14
+**Battles**/day: 4.56
+**Berries**/day: 13.92
+**Gym Hours**/day: 35.61
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.42
+**Legendary Raids**/day: 0.48
+    

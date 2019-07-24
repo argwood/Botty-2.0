@@ -1,0 +1,39 @@
+**__FEBRUARY__**
+    
+**Trainer**: ArmanBKH
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 22
+**Monthly Rank**: 23
+    
+**Total XP**: 124,533,159 *(83.8%)*
+**Jogger**: 5,957.2 *(68.7%)*
+**Collector**: 106,812 *(67.7%)*
+**Scientist**: 13,420 *(81.8%)*
+**Breeder**: 6,134 *(83.8%)*
+**Backpacker**: 75,163 *(58.6%)*
+**Battle Girl**: 12,435 *(56.6%)*
+**Gold Gyms**: 103 *(78.8%)*
+    
+**Pokemon Ranger**: 3,640 *(57.6%)*
+**Berry Master**: 45,044 *(68.7%)*
+**Gym Leader**: 102,505 *(90.9%)*
+**Battle Legend**: 1093 *(75.8%)*
+**Champion**: 368 *(55.6%)*
+    
+**Days Played**: 966 days
+**XP**/day: 128,916
+**KM**/day: 6.2
+**Catches**/day: 110.57
+**Evolves**/day: 13.89
+**Hatches**/day: 6.35
+**Spins**/day: 77.81
+**Battles**/day: 12.87
+**Research**/day: 10.87
+**Berries**/day: 73.12
+**Gym Hours**/day: 166.4
+**Gold Gyms**/day: 0.17
+**Raids**/day: 0.6
+**Legendary Raids**/day: 0.63
+    

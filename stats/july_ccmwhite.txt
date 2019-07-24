@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: Ccmwhite
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+    
+**Total XP**: 38,232,943 *(62.1%)*
+**Jogger**: 4,825.3 *(80.0%)*
+**Collector**: 52,821 *(57.4%)*
+**Scientist**: 8,173 *(79.5%)*
+**Breeder**: 2,065 *(58.5%)*
+**Backpacker**: 51,587 *(61.0%)*
+**Battle Girl**: 2,855 *(30.3%)*
+**Gym Badge**: 284 *(27.7%)*
+**Gold Gyms**: 18 *(40.0%)*
+    
+**Pokemon Ranger**: 554 *(32.3%)*
+**Berry Master**: 18,253 *(55.9%)*
+**Gym Leader**: 16,670 *(41.0%)*
+**Battle Legend**: 400 *(45.6%)*
+**Champion**: 109 *(28.2%)*
+**Pokedex Caught**: 373 *(94.9%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 246
+**Youngster**: 206
+**Pikachu Fan**: 496
+**Unown**: 18
+**Pilot**: 2,232,432
+**Gentleman**: 232
+    
+**Days Played**: 15 days
+**XP**/day: 2,548,862
+**KM**/day: 321.7
+**Catches**/day: 3521.4
+**Evolves**/day: 544.87
+**Hatches**/day: 137.67
+**Spins**/day: 3439.13
+**Battles**/day: 190.33
+**Research**/day: 4.62
+**Berries**/day: 45.52
+**Gym Hours**/day: 41.57
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.27
+**Legendary Raids**/day: 0.29
+    

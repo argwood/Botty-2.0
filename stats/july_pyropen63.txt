@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: PyroPen63
+**Level**: 38
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 13,843,910 *(21.0%)*
+**Jogger**: 1,178.4 *(15.9%)*
+**Collector**: 17,008 *(20.5%)*
+**Scientist**: 1,794 *(24.6%)*
+**Breeder**: 620 *(17.4%)*
+**Backpacker**: 14,029 *(16.9%)*
+**Battle Girl**: 6,414 *(54.4%)*
+**Gym Badge**: 354 *(39.0%)*
+**Gold Gyms**: 23 *(45.6%)*
+    
+**Pokemon Ranger**: 507 *(30.3%)*
+**Berry Master**: 6,971 *(30.3%)*
+**Gym Leader**: 28,426 *(60.5%)*
+**Battle Legend**: 197 *(24.6%)*
+**Champion**: 39 *(10.8%)*
+**Pokedex Caught**: 353 *(15.4%)*
+**Pokedex Seen**: 371 *(22.1%)*
+    
+**Fisherman**: 0
+**Youngster**: 0
+**Pikachu Fan**: 0
+**Unown**: 0
+**Pilot**: 80,211
+**Gentleman**: 25
+    
+**Days Played**: 751 days
+**XP**/day: 18,433
+**KM**/day: 1.6
+**Catches**/day: 22.65
+**Evolves**/day: 2.39
+**Hatches**/day: 0.83
+**Spins**/day: 18.68
+**Battles**/day: 8.54
+**Research**/day: 4.12
+**Berries**/day: 17.25
+**Gym Hours**/day: 70.36
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.1
+**Legendary Raids**/day: 0.1
+    

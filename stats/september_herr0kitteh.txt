@@ -1,0 +1,50 @@
+**__SEPTEMBER__**
+    
+**Trainer**: HERR0kitteh
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 124
+**Monthly Rank**: N/A
+    
+**Total XP**: 42,287,633 *(47.9%)*
+**Jogger**: 3,569.8 *(55.7%)*
+**Collector**: 70,399 *(59.3%)*
+**Scientist**: 6,995 *(66.4%)*
+**Breeder**: 1,399 *(35.7%)*
+**Backpacker**: 70,006 *(69.3%)*
+**Battle Girl**: 4,224 *(31.4%)*
+**Gym Badge**: 726 *(68.6%)*
+**Gold Gyms**: 41 *(50.7%)*
+    
+**Pokemon Ranger**: 1,314 *(39.3%)*
+**Berry Master**: 34,397 *(70.0%)*
+**Gym Leader**: 31,303 *(54.3%)*
+**Battle Legend**: 619 *(58.6%)*
+**Champion**: 133 *(30.0%)*
+**Pokedex Caught**: 373.0 *(62.6%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 292
+**Youngster**: 503
+**Pikachu Fan**: 644
+**Unown**: 11
+**Pilot**: 1,523,581
+**Gentleman**: 667
+**Idol**: 1
+    
+**Days Played**: 815 days
+**XP**/day: 51,886
+**KM**/day: 4.4
+**Catches**/day: 86.38
+**Evolves**/day: 8.58
+**Hatches**/day: 1.72
+**Spins**/day: 85.9
+**Battles**/day: 5.18
+**Research**/day: 7.14
+**Berries**/day: 73.97
+**Gym Hours**/day: 67.32
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.29
+**Legendary Raids**/day: 0.31
+    

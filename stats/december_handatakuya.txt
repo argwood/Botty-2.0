@@ -1,0 +1,54 @@
+**__DECEMBER__**
+    
+**Trainer**: HandaTakuya
+**Level**: 40
+**Team**: Valor
+**Region**: Other
+**Overall Rank**: 180
+**Monthly Rank**: 67
+    
+**Total XP**: 48,117,994 *(40.5%)*
+**Jogger**: 3,745.0 *(51.2%)*
+**Collector**: 50,345 *(35.5%)*
+**Scientist**: 4,210 *(44.6%)*
+**Breeder**: 1,479 *(27.3%)*
+**Backpacker**: 45,234 *(43.8%)*
+**Battle Girl**: 9,924 *(52.9%)*
+**Gold Gyms**: 9 *(13.2%)*
+    
+**Pokemon Ranger**: 1,522 *(26.4%)*
+**Berry Master**: 11,822 *(27.3%)*
+**Gym Leader**: 14,236 *(22.3%)*
+**Battle Legend**: 797 *(69.4%)*
+**Champion**: 217 *(35.5%)*
+    
+**Gym Badges**: 375
+**Pokedex Caught**: 414
+**Pokedex Seen**: 427
+**Fisherman**: 273
+**Youngster**: 434
+**Pikachu Fan**: 762
+**Unown**: 9
+**Pilot**: 1,029,556
+**Gentleman**: 505
+**Idol**: 23
+**Ace Trainer**: 1007
+**Great League Veteran**: 6
+**Ultra League Veteran**: 3
+**Master League Veteran**: 28
+    
+**Days Played**: 908 days
+**XP**/day: 52,993
+**KM**/day: 4.1
+**Catches**/day: 55.45
+**Evolves**/day: 4.64
+**Hatches**/day: 1.63
+**Spins**/day: 49.82
+**Battles**/day: 10.93
+**Research**/day: 5.51
+**Berries**/day: 21.22
+**Gym Hours**/day: 25.56
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.39
+**Legendary Raids**/day: 0.41
+    

@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Kimlam1
+**Level**: 40
+**Team**: Valor
+**Region**: Other
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 303,407,885 *(100.0%)*
+**Jogger**: 7,256.0 *(83.6%)*
+**Collector**: 153,241 *(87.3%)*
+**Scientist**: 8,218 *(63.5%)*
+**Breeder**: 11,810 *(98.4%)*
+**Backpacker**: 89,161 *(68.8%)*
+**Battle Girl**: 18,591 *(75.7%)*
+**Gold Gyms**: 433 *(100.0%)*
+    
+**Pokemon Ranger**: 4,495 *(70.4%)*
+**Berry Master**: 99,907 *(91.0%)*
+**Gym Leader**: 118,250 *(91.5%)*
+**Battle Legend**: 7821 *(100.0%)*
+**Champion**: 2919 *(100.0%)*
+    
+**Days Played**: 1023 days
+**XP**/day: 296,586
+**KM**/day: 7.1
+**Catches**/day: 149.8
+**Evolves**/day: 8.03
+**Hatches**/day: 11.54
+**Spins**/day: 87.16
+**Battles**/day: 18.17
+**Research**/day: 11.35
+**Berries**/day: 147.57
+**Gym Hours**/day: 174.67
+**Gold Gyms**/day: 0.64
+**Raids**/day: 4.34
+**Legendary Raids**/day: 4.51
+    

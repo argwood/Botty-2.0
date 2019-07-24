@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: DaisukenojoBito
+**Level**: 37
+**Team**: Valor
+**Region**: South
+    
+**Total XP**: 11,763,050 *(15.4%)*
+**Gold Gyms**: 9 *(23.5%)*
+**Gym Badge**: 82 *(3.4%)*
+**Jogger**: 1,417.6 *(16.8%)*
+**Collector**: 22,775 *(20.8%)*
+**Scientist**: 2,175 *(26.2%)*
+**Breeder**: 694 *(18.1%)*
+**Backpacker**: 22,943 *(26.2%)*
+**Battle Girl**: 5,943 *(56.4%)*
+**Pokemon Ranger**: 535 *(53.0%)*
+**Berry Master**: 7,831 *(33.6%)*
+**Gym Leader**: 4,770 *(13.4%)*
+**Battle Legend**: 119 *(16.1%)*
+**Champion**: 49 *(9.4%)*
+**Pokedex Caught**: 362 *(49.7%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 694 days
+**XP**/day: 16,949
+**KM**/day: 2.0
+**Catches**/day: 32.82
+**Evolves**/day: 3.13
+**Hatches**/day: 1.0
+**Spins**/day: 33.06
+**Battles**/day: 8.56
+**Quests**/day: 8.63
+**Berries**/day: 22.83
+**Gym Hours**/day: 13.91
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.14
+**Legendary Raids**/day: 0.16
+    

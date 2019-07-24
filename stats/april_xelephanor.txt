@@ -1,0 +1,54 @@
+**__APRIL__**
+    
+**Trainer**: Xelephanor
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 26
+**Monthly Rank**: 18
+    
+**Total XP**: 110,721,186 *(79.9%)*
+**Jogger**: 4,622.4 *(49.7%)*
+**Collector**: 150,276 *(85.7%)*
+**Scientist**: 12,851 *(82.5%)*
+**Breeder**: 2,274 *(33.3%)*
+**Backpacker**: 101,206 *(75.7%)*
+**Battle Girl**: 30,862 *(89.4%)*
+**Gold Gyms**: 279 *(93.7%)*
+    
+**Pokemon Ranger**: 8,491 *(89.4%)*
+**Berry Master**: 64,333 *(82.0%)*
+**Gym Leader**: 179,921 *(98.4%)*
+**Battle Legend**: 735 *(50.8%)*
+**Champion**: 324 *(49.7%)*
+    
+**Gym Badges**: 1000
+**Pokedex Caught**: 446
+**Pokedex Seen**: 466
+**Fisherman**: 373
+**Youngster**: 989
+**Pikachu Fan**: 1396
+**Unown**: 23
+**Pilot**: 3,468,224
+**Gentleman**: 8552
+**Idol**: 141
+**Ace Trainer**: 2522
+**Great League Veteran**: 280
+**Ultra League Veteran**: 101
+**Master League Veteran**: 98
+    
+**Days Played**: 1027 days
+**XP**/day: 107,810
+**KM**/day: 4.5
+**Catches**/day: 146.33
+**Evolves**/day: 12.51
+**Hatches**/day: 2.21
+**Spins**/day: 98.55
+**Battles**/day: 30.05
+**Research**/day: 21.44
+**Berries**/day: 95.03
+**Gym Hours**/day: 265.76
+**Gold Gyms**/day: 0.41
+**Raids**/day: 0.48
+**Legendary Raids**/day: 0.5
+    

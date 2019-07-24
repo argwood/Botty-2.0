@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: PhDaddy37
+**Level**: 39
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 16,329,734 *(60.2%)*
+**Gold Gyms**: 4 *(36.8%)*
+**Gym Badge**: 357 *(67.7%)*
+**Jogger**: 3,036.8 *(80.5%)*
+**Collector**: 31,704 *(63.9%)*
+**Scientist**: 4,977 *(72.9%)*
+**Breeder**: 2,659 *(88.7%)*
+**Backpacker**: 30,205 *(53.4%)*
+**Battle Girl**: 302 *(6.8%)*
+**Ace Trainer**: 117 *(20.3%)*
+**Berry Master**: 2,679 *(38.3%)*
+**Gym Leader**: 5,321 *(31.6%)*
+**Battle Legend**: 130 *(42.1%)*
+**Champion**: 109 *(78.2%)*
+**Pokedex Caught**: 247 *(76.7%)*
+**Pokedex Seen**: 251 *(99.2%)*
+    
+**Days Played**: -231 days
+**XP**/day: -70,691
+**KM**/day: -13.1
+**Catches**/day: -137.25
+**Evolves**/day: -21.55
+**Catches**/evolve: 6.37
+**Hatches**/day: -11.51
+**KM**/egg: 1.14
+**Spins**/day: -130.76
+**Battles**/day: -1.31
+**Berries**/day: 17.4
+**Gym Hours**/day: 34.55
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.73
+**Legendary Raids**/day: 0.88
+    

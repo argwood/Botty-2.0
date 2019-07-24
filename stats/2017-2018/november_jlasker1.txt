@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: JLasker1
+**Level**: 39
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 19,254,454 *(70.7%)*
+**Gold Gyms**: 11 *(69.2%)*
+**Gym Badge**: 248 *(42.1%)*
+**Jogger**: 2,554.3 *(63.9%)*
+**Collector**: 36,595 *(71.4%)*
+**Scientist**: 6,370 *(88.0%)*
+**Breeder**: 1,439 *(60.2%)*
+**Backpacker**: 28,763 *(51.9%)*
+**Battle Girl**: 2,121 *(47.4%)*
+**Ace Trainer**: 629 *(41.4%)*
+**Berry Master**: 5,871 *(67.7%)*
+**Gym Leader**: 7,159 *(45.9%)*
+**Battle Legend**: 115 *(34.6%)*
+**Champion**: 50 *(31.6%)*
+**Pokedex Caught**: 249 *(97.0%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 501 days
+**XP**/day: 38,432
+**KM**/day: 5.1
+**Catches**/day: 73.04
+**Evolves**/day: 12.71
+**Catches**/evolve: 5.74
+**Hatches**/day: 2.87
+**KM**/egg: 1.78
+**Spins**/day: 57.41
+**Battles**/day: 4.23
+**Berries**/day: 38.62
+**Gym Hours**/day: 47.1
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.34
+**Legendary Raids**/day: 0.41
+    

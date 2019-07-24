@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: SCHAPOCALYPSE
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 117
+**Monthly Rank**: N/A
+    
+**Total XP**: 41,990,343 *(56.7%)*
+**Jogger**: 2,211.1 *(26.7%)*
+**Collector**: 57,112 *(52.5%)*
+**Scientist**: 5,184 *(55.0%)*
+**Breeder**: 1,643 *(41.7%)*
+**Backpacker**: 40,250 *(38.3%)*
+**Battle Girl**: 7,317 *(50.8%)*
+**Gym Badge**: 673 *(66.7%)*
+**Gold Gyms**: 64 *(71.7%)*
+    
+**Pokemon Ranger**: 856 *(24.2%)*
+**Berry Master**: 17,071 *(45.0%)*
+**Gym Leader**: 51,162 *(78.3%)*
+**Battle Legend**: 685 *(75.8%)*
+**Champion**: 232 *(65.0%)*
+**Pokedex Caught**: 366.0 *(21.2%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 179
+**Youngster**: 443
+**Pikachu Fan**: 455
+**Unown**: 6
+**Pilot**: 414,779
+**Gentleman**: 205
+    
+**Days Played**: 782 days
+**XP**/day: 53,696
+**KM**/day: 2.8
+**Catches**/day: 73.03
+**Evolves**/day: 6.63
+**Hatches**/day: 2.1
+**Spins**/day: 51.47
+**Battles**/day: 9.36
+**Research**/day: 5.67
+**Berries**/day: 39.52
+**Gym Hours**/day: 118.43
+**Gold Gyms**/day: 0.15
+**Raids**/day: 0.54
+**Legendary Raids**/day: 0.58
+    

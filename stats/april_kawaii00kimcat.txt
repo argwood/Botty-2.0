@@ -1,0 +1,54 @@
+**__APRIL__**
+    
+**Trainer**: kawaii00kimcat
+**Level**: 35
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 414
+**Monthly Rank**: N/A
+    
+**Total XP**: 7,204,905 *(4.2%)*
+**Jogger**: 1,081.0 *(4.2%)*
+**Collector**: 10,646 *(4.2%)*
+**Scientist**: 1,259 *(9.0%)*
+**Breeder**: 413 *(4.8%)*
+**Backpacker**: 9,011 *(4.8%)*
+**Battle Girl**: 1,734 *(11.6%)*
+**Gold Gyms**: 2 *(5.3%)*
+    
+**Pokemon Ranger**: 361 *(3.2%)*
+**Berry Master**: 1,483 *(4.2%)*
+**Gym Leader**: 7,057 *(12.7%)*
+**Battle Legend**: 45 *(3.2%)*
+**Champion**: 42 *(2.6%)*
+    
+**Gym Badges**: 270
+**Pokedex Caught**: 397
+**Pokedex Seen**: 450
+**Fisherman**: 20
+**Youngster**: 81
+**Pikachu Fan**: 93
+**Unown**: 0
+**Pilot**: 87
+**Gentleman**: 19
+**Idol**: 0
+**Ace Trainer**: 193
+**Great League Veteran**: 0
+**Ultra League Veteran**: 0
+**Master League Veteran**: 2
+    
+**Days Played**: 1023 days
+**XP**/day: 7,042
+**KM**/day: 1.1
+**Catches**/day: 10.41
+**Evolves**/day: 1.23
+**Hatches**/day: 0.4
+**Spins**/day: 8.81
+**Battles**/day: 1.7
+**Research**/day: 0.92
+**Berries**/day: 2.2
+**Gym Hours**/day: 10.45
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.06
+**Legendary Raids**/day: 0.07
+    

@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: R0N2020
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: 110
+**Monthly Rank**: 19
+    
+**Total XP**: 105,040,150 *(78.6%)*
+**Jogger**: 3,681.0 *(33.5%)*
+**Collector**: 102,259 *(59.9%)*
+**Scientist**: 7,372 *(52.2%)*
+**Breeder**: 1,337 *(17.6%)*
+**Backpacker**: 79,420 *(62.1%)*
+**Battle Girl**: 11,790 *(52.2%)*
+**Gold Gyms**: 37 *(31.9%)*
+    
+**Pokemon Ranger**: 5,216 *(79.1%)*
+**Berry Master**: 30,249 *(42.9%)*
+**Gym Leader**: 22,902 *(25.3%)*
+**Battle Legend**: 901 *(63.2%)*
+**Champion**: 202 *(24.2%)*
+    
+**Days Played**: 764 days
+**XP**/day: 137,487
+**KM**/day: 4.8
+**Catches**/day: 133.85
+**Evolves**/day: 9.65
+**Hatches**/day: 1.75
+**Spins**/day: 103.95
+**Battles**/day: 15.43
+**Research**/day: 14.25
+**Berries**/day: 46.75
+**Gym Hours**/day: 35.4
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.31
+**Legendary Raids**/day: 0.33
+    

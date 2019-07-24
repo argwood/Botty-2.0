@@ -1,0 +1,54 @@
+**__APRIL__**
+    
+**Trainer**: NursingHomeFyre
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 215
+**Monthly Rank**: N/A
+    
+**Total XP**: 33,113,422 *(18.0%)*
+**Jogger**: 3,789.6 *(34.4%)*
+**Collector**: 42,064 *(27.0%)*
+**Scientist**: 4,795 *(40.7%)*
+**Breeder**: 1,545 *(26.5%)*
+**Backpacker**: 42,235 *(32.8%)*
+**Battle Girl**: 17,181 *(72.5%)*
+**Gold Gyms**: 51 *(47.6%)*
+    
+**Pokemon Ranger**: 1,185 *(13.8%)*
+**Berry Master**: 14,331 *(27.0%)*
+**Gym Leader**: 28,621 *(33.3%)*
+**Battle Legend**: 235 *(12.7%)*
+**Champion**: 102 *(12.7%)*
+    
+**Gym Badges**: 282
+**Pokedex Caught**: 446
+**Pokedex Seen**: 454
+**Fisherman**: 116
+**Youngster**: 436
+**Pikachu Fan**: 302
+**Unown**: 3
+**Pilot**: 646,527
+**Gentleman**: 119
+**Idol**: 32
+**Ace Trainer**: 3215
+**Great League Veteran**: 17
+**Ultra League Veteran**: 15
+**Master League Veteran**: 11
+    
+**Days Played**: -98 days
+**XP**/day: -337,892
+**KM**/day: -38.7
+**Catches**/day: -429.22
+**Evolves**/day: -48.93
+**Hatches**/day: -15.77
+**Spins**/day: -430.97
+**Battles**/day: -175.32
+**Research**/day: 3.24
+**Berries**/day: 22.15
+**Gym Hours**/day: 44.24
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.16
+**Legendary Raids**/day: 0.17
+    

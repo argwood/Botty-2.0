@@ -1,0 +1,38 @@
+**Trainer**: xGohan24
+**Level**: 31
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 2,691,115 *(5.0%)*
+**Gold Gyms**: 1 *(13.5%)*
+**Gym Badge**: 68 *(4.0%)*
+**Jogger**: 308.2 *(2.0%)*
+**Collector**: 3,879 *(4.0%)*
+**Scientist**: 456 *(8.0%)*
+**Breeder**: 185 *(4.0%)*
+**Backpacker**: 4,222 *(4.0%)*
+**Battle Girl**: 285 *(6.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 176 *(1.0%)*
+**Gym Leader**: 882 *(6.0%)*
+**Battle Legend**: 21 *(5.0%)*
+**Champion**: 27 *(6.0%)*
+**Pokedex Caught**: 321 *(14.0%)*
+**Pokedex Seen**: 348 *(12.0%)*
+    
+**Days Played**: 692 days
+**XP**/day: 3,888
+**KM**/day: 0.4
+**Catches**/day: 5.61
+**Evolves**/day: 0.66
+**Catches**/evolve: 8.51
+**Hatches**/day: 0.27
+**KM**/egg: 1.67
+**Spins**/day: 6.1
+**Battles**/day: 0.41
+**Berries**/day: 0.52
+**Gym Hours**/day: 2.59
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.08
+**Legendary Raids**/day: 0.09
+    

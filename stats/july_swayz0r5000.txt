@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: Swayz0r5000
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+    
+**Total XP**: 24,494,741 *(35.9%)*
+**Jogger**: 2,435.2 *(40.0%)*
+**Collector**: 34,702 *(37.4%)*
+**Scientist**: 3,103 *(39.0%)*
+**Breeder**: 1,111 *(28.7%)*
+**Backpacker**: 28,825 *(35.9%)*
+**Battle Girl**: 2,513 *(26.2%)*
+**Gym Badge**: 253 *(24.6%)*
+**Gold Gyms**: 5 *(18.5%)*
+    
+**Pokemon Ranger**: 739 *(38.5%)*
+**Berry Master**: 8,224 *(33.8%)*
+**Gym Leader**: 9,267 *(29.7%)*
+**Battle Legend**: 364 *(42.1%)*
+**Champion**: 73 *(18.5%)*
+**Pokedex Caught**: 366 *(34.9%)*
+**Pokedex Seen**: 372 *(27.7%)*
+    
+**Days Played**: 755 days
+**XP**/day: 32,443
+**KM**/day: 3.2
+**Catches**/day: 45.96
+**Evolves**/day: 4.11
+**Hatches**/day: 1.47
+**Spins**/day: 38.18
+**Battles**/day: 3.33
+**Research**/day: 6.01
+**Berries**/day: 20.36
+**Gym Hours**/day: 22.94
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.18
+**Legendary Raids**/day: 0.2
+    

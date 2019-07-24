@@ -1,0 +1,54 @@
+**__APRIL__**
+    
+**Trainer**: ArnicaEyebright
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 6
+**Monthly Rank**: 22
+    
+**Total XP**: 145,246,321 *(90.5%)*
+**Jogger**: 7,761.0 *(87.8%)*
+**Collector**: 248,641 *(98.4%)*
+**Scientist**: 23,154 *(95.2%)*
+**Breeder**: 4,758 *(68.3%)*
+**Backpacker**: 188,390 *(94.7%)*
+**Battle Girl**: 53,020 *(100.0%)*
+**Gold Gyms**: 138 *(84.1%)*
+    
+**Pokemon Ranger**: 4,611 *(72.5%)*
+**Berry Master**: 117,551 *(95.2%)*
+**Gym Leader**: 104,983 *(85.7%)*
+**Battle Legend**: 1371 *(84.7%)*
+**Champion**: 749 *(86.8%)*
+    
+**Gym Badges**: 587
+**Pokedex Caught**: 462
+**Pokedex Seen**: 466
+**Fisherman**: 505
+**Youngster**: 2018
+**Pikachu Fan**: 1871
+**Unown**: 22
+**Pilot**: 3,884,609
+**Gentleman**: 7268
+**Idol**: 69
+**Ace Trainer**: 3493
+**Great League Veteran**: 163
+**Ultra League Veteran**: 201
+**Master League Veteran**: 203
+    
+**Days Played**: 1010 days
+**XP**/day: 143,808
+**KM**/day: 7.7
+**Catches**/day: 246.18
+**Evolves**/day: 22.92
+**Hatches**/day: 4.71
+**Spins**/day: 186.52
+**Battles**/day: 52.5
+**Research**/day: 11.64
+**Berries**/day: 173.64
+**Gym Hours**/day: 155.07
+**Gold Gyms**/day: 0.2
+**Raids**/day: 1.11
+**Legendary Raids**/day: 1.16
+    

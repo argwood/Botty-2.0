@@ -1,0 +1,38 @@
+**Trainer**: DoughPokeMan
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 30,032,625 *(62.4%)*
+**Gold Gyms**: 34 *(66.2%)*
+**Gym Badge**: 707 *(76.3%)*
+**Jogger**: 2,993.1 *(55.6%)*
+**Collector**: 57,171 *(69.9%)*
+**Scientist**: 7,437 *(78.2%)*
+**Breeder**: 2,124 *(66.9%)*
+**Backpacker**: 51,931 *(66.2%)*
+**Battle Girl**: 12,590 *(85.7%)*
+**Ace Trainer**: 0 *(50.4%)*
+**Berry Master**: 19,000 *(73.7%)*
+**Gym Leader**: 30,795 *(71.4%)*
+**Battle Legend**: 292 *(46.6%)*
+**Champion**: 265 *(88.0%)*
+**Pokedex Caught**: 349 *(45.5%)*
+**Pokedex Seen**: 367 *(44.0%)*
+    
+**Days Played**: 593 days
+**XP**/day: 50,645
+**KM**/day: 5.0
+**Catches**/day: 96.41
+**Evolves**/day: 12.54
+**Catches**/evolve: 7.69
+**Hatches**/day: 3.58
+**KM**/egg: 1.41
+**Spins**/day: 87.57
+**Battles**/day: 21.23
+**Berries**/day: 75.7
+**Gym Hours**/day: 122.69
+**Gold Gyms**/day: 0.14
+**Raids**/day: 1.07
+**Legendary Raids**/day: 1.2
+    

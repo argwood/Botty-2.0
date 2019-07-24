@@ -1,0 +1,54 @@
+**__APRIL__**
+    
+**Trainer**: ChaserXChaser
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 128
+**Monthly Rank**: 37
+    
+**Total XP**: 84,452,155 *(60.8%)*
+**Jogger**: 4,789.1 *(53.4%)*
+**Collector**: 82,640 *(51.9%)*
+**Scientist**: 4,478 *(38.1%)*
+**Breeder**: 1,098 *(13.2%)*
+**Backpacker**: 56,621 *(45.0%)*
+**Battle Girl**: 12,137 *(56.1%)*
+**Gold Gyms**: 88 *(67.2%)*
+    
+**Pokemon Ranger**: 3,201 *(49.2%)*
+**Berry Master**: 30,467 *(46.6%)*
+**Gym Leader**: 87,584 *(82.5%)*
+**Battle Legend**: 699 *(48.1%)*
+**Champion**: 99 *(11.6%)*
+    
+**Gym Badges**: 445
+**Pokedex Caught**: 462
+**Pokedex Seen**: 466
+**Fisherman**: 307
+**Youngster**: 493
+**Pikachu Fan**: 1024
+**Unown**: 8
+**Pilot**: 3,536,063
+**Gentleman**: 2079
+**Idol**: 125
+**Ace Trainer**: 552
+**Great League Veteran**: 52
+**Ultra League Veteran**: 32
+**Master League Veteran**: 23
+    
+**Days Played**: 1009 days
+**XP**/day: 83,698
+**KM**/day: 4.7
+**Catches**/day: 81.9
+**Evolves**/day: 4.44
+**Hatches**/day: 1.09
+**Spins**/day: 56.12
+**Battles**/day: 12.03
+**Research**/day: 8.08
+**Berries**/day: 45.0
+**Gym Hours**/day: 129.37
+**Gold Gyms**/day: 0.13
+**Raids**/day: 0.15
+**Legendary Raids**/day: 0.15
+    

@@ -1,0 +1,50 @@
+**__OCTOBER__**
+    
+**Trainer**: CrazyCatHusband
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 58
+**Monthly Rank**: 45
+    
+**Total XP**: 64,557,334 *(71.4%)*
+**Jogger**: 3,687.7 *(51.4%)*
+**Collector**: 68,489 *(57.1%)*
+**Scientist**: 9,067 *(75.7%)*
+**Breeder**: 4,536 *(79.3%)*
+**Backpacker**: 48,138 *(48.6%)*
+**Battle Girl**: 10,902 *(65.7%)*
+**Gym Badge**: 832 *(74.3%)*
+**Gold Gyms**: 67 *(70.7%)*
+    
+**Pokemon Ranger**: 1,695 *(42.1%)*
+**Berry Master**: 30,531 *(62.1%)*
+**Gym Leader**: 47,335 *(72.9%)*
+**Battle Legend**: 713 *(68.6%)*
+**Champion**: 284 *(66.4%)*
+**Pokedex Caught**: 403.0 *(91.1%)*
+**Pokedex Seen**: 404.0 *(77.9%)*
+    
+**Fisherman**: 177
+**Youngster**: 517
+**Pikachu Fan**: 511
+**Unown**: 10
+**Pilot**: 2,337,125
+**Gentleman**: 1281
+**Idol**: 27
+    
+**Days Played**: 843 days
+**XP**/day: 76,580
+**KM**/day: 4.4
+**Catches**/day: 81.24
+**Evolves**/day: 10.76
+**Hatches**/day: 5.38
+**Spins**/day: 57.1
+**Battles**/day: 12.93
+**Research**/day: 7.88
+**Berries**/day: 61.55
+**Gym Hours**/day: 95.43
+**Gold Gyms**/day: 0.14
+**Raids**/day: 0.58
+**Legendary Raids**/day: 0.61
+    

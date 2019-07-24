@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: CWegz
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 102
+**Monthly Rank**: N/A
+    
+**Total XP**: 78,102,224 *(90.8%)*
+**Jogger**: 2,028.4 *(21.7%)*
+**Collector**: 54,616 *(48.3%)*
+**Scientist**: 4,132 *(42.5%)*
+**Breeder**: 1,666 *(43.3%)*
+**Backpacker**: 38,793 *(35.8%)*
+**Battle Girl**: 5,717 *(39.2%)*
+**Gym Badge**: 804 *(77.5%)*
+**Gold Gyms**: 75 *(75.8%)*
+    
+**Pokemon Ranger**: 1,734 *(60.8%)*
+**Berry Master**: 24,040 *(60.8%)*
+**Gym Leader**: 48,920 *(75.8%)*
+**Battle Legend**: 1629 *(95.0%)*
+**Champion**: 181 *(48.3%)*
+**Pokedex Caught**: 371.0 *(48.3%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 143
+**Youngster**: 431
+**Pikachu Fan**: 723
+**Unown**: 12
+**Pilot**: 659,674
+**Gentleman**: 171
+    
+**Days Played**: 786 days
+**XP**/day: 99,366
+**KM**/day: 2.6
+**Catches**/day: 69.49
+**Evolves**/day: 5.26
+**Hatches**/day: 2.12
+**Spins**/day: 49.35
+**Battles**/day: 7.27
+**Research**/day: 11.26
+**Berries**/day: 55.26
+**Gym Hours**/day: 112.46
+**Gold Gyms**/day: 0.17
+**Raids**/day: 0.42
+**Legendary Raids**/day: 0.45
+    

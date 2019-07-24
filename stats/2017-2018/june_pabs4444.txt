@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: PABS4444
+**Level**: 35
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 6,840,187 *(7.3%)*
+**Gold Gyms**: 1 *(4.6%)*
+**Gym Badge**: 100 *(5.3%)*
+**Jogger**: 1,042.7 *(7.9%)*
+**Collector**: 14,669 *(9.9%)*
+**Scientist**: 1,177 *(11.3%)*
+**Breeder**: 387 *(6.6%)*
+**Backpacker**: 12,477 *(9.9%)*
+**Battle Girl**: 1,234 *(8.6%)*
+**Pokemon Ranger**: 66 *(2.0%)*
+**Berry Master**: 975 *(4.6%)*
+**Gym Leader**: 3,425 *(7.9%)*
+**Battle Legend**: 18 *(2.6%)*
+**Champion**: 45 *(7.3%)*
+**Pokedex Caught**: 326 *(6.0%)*
+**Pokedex Seen**: 363 *(6.0%)*
+    
+**Days Played**: -7 days
+**XP**/day: -977,169
+**KM**/day: -149.0
+**Catches**/day: -2095.57
+**Evolves**/day: -168.14
+**Hatches**/day: -55.29
+**Spins**/day: -1782.43
+**Battles**/day: -176.29
+**Quests**/day: 0.71
+**Berries**/day: 2.61
+**Gym Hours**/day: 9.16
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.12
+**Legendary Raids**/day: 0.13
+    

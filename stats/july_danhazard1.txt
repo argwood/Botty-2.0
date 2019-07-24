@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: DanHazard1
+**Level**: 31
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 2,532,485 *(5.1%)*
+**Jogger**: 266.4 *(3.6%)*
+**Collector**: 2,553 *(2.6%)*
+**Scientist**: 128 *(2.1%)*
+**Breeder**: 199 *(5.6%)*
+**Backpacker**: 2,656 *(2.1%)*
+**Battle Girl**: 201 *(4.1%)*
+**Gym Badge**: 97 *(8.7%)*
+**Gold Gyms**: 1 *(11.8%)*
+    
+**Pokemon Ranger**: 73 *(1.5%)*
+**Berry Master**: 582 *(6.7%)*
+**Gym Leader**: 553 *(4.6%)*
+**Battle Legend**: 42 *(8.2%)*
+**Champion**: 32 *(8.7%)*
+**Pokedex Caught**: 236 *(2.6%)*
+**Pokedex Seen**: 313 *(6.2%)*
+    
+**Fisherman**: 17
+**Youngster**: 21
+**Pikachu Fan**: 79
+**Unown**: 0
+**Pilot**: 28,311
+**Gentleman**: 12
+    
+**Days Played**: 753 days
+**XP**/day: 3,363
+**KM**/day: 0.4
+**Catches**/day: 3.39
+**Evolves**/day: 0.17
+**Hatches**/day: 0.26
+**Spins**/day: 3.53
+**Battles**/day: 0.27
+**Research**/day: 0.6
+**Berries**/day: 1.44
+**Gym Hours**/day: 1.37
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.08
+**Legendary Raids**/day: 0.09
+    

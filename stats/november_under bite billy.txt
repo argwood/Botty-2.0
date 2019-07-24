@@ -1,0 +1,42 @@
+**__NOVEMBER__**
+    
+**Trainer**: Under Bite Billy
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 47
+**Monthly Rank**: N/A
+    
+**Total XP**: 62,464,559 *(58.7%)*
+**Jogger**: 6,858 *(87.2%)*
+**Collector**: 114,225 *(85.3%)*
+**Scientist**: 11,780 *(86.2%)*
+**Breeder**: 2,779 *(56.9%)*
+**Backpacker**: 72,349 *(64.2%)*
+**Battle Girl**: 13,065 *(66.1%)*
+**Gym Badge**: 374 *(36.7%)*
+**Gold Gyms**: 59 *(60.6%)*
+    
+**Pokemon Ranger**: 3,190 *(74.3%)*
+**Berry Master**: 36,629 *(65.1%)*
+**Gym Leader**: 38,256 *(55.0%)*
+**Battle Legend**: 603 *(50.5%)*
+**Champion**: 249 *(43.1%)*
+**Pokedex Caught**: 394.0 *(21.0%)*
+**Pokedex Seen**: 421.0 *(67.6%)*
+    
+**Days Played**: 875 days
+**XP**/day: 71,388
+**KM**/day: 7.8
+**Catches**/day: 130.54
+**Evolves**/day: 13.46
+**Hatches**/day: 3.18
+**Spins**/day: 82.68
+**Battles**/day: 14.93
+**Research**/day: 13.07
+**Berries**/day: 69.77
+**Gym Hours**/day: 72.87
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.48
+**Legendary Raids**/day: 0.5
+    

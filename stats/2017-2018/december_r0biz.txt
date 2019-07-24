@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: R0biz
+**Level**: 37
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 10,290,667 *(19.0%)*
+**Gold Gyms**: 3 *(16.0%)*
+**Gym Badge**: 287 *(33.0%)*
+**Jogger**: 1,247.3 *(15.0%)*
+**Collector**: 15,097 *(18.0%)*
+**Scientist**: 2,713 *(33.0%)*
+**Breeder**: 871 *(26.0%)*
+**Backpacker**: 13,846 *(15.0%)*
+**Battle Girl**: 1,664 *(23.0%)*
+**Ace Trainer**: 996 *(57.0%)*
+**Berry Master**: 2,542 *(20.0%)*
+**Gym Leader**: 9,932 *(43.0%)*
+**Battle Legend**: 95 *(17.0%)*
+**Champion**: 69 *(29.0%)*
+**Pokedex Caught**: 293 *(47.0%)*
+**Pokedex Seen**: 304 *(24.0%)*
+    
+**Days Played**: 537 days
+**XP**/day: 19,163
+**KM**/day: 2.3
+**Catches**/day: 28.11
+**Evolves**/day: 5.05
+**Hatches**/day: 1.62
+**Spins**/day: 25.78
+**Battles**/day: 3.1
+**Berries**/day: 13.38
+**Gym Hours**/day: 52.27
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.37
+**Legendary Raids**/day: 0.43
+    

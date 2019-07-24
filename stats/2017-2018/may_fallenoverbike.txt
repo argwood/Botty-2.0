@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Fallenoverbike
+**Level**: 39
+**Team**: Valor
+**Region**: Loop
+    
+**Total XP**: 19,752,869 *(30.9%)*
+**Gold Gyms**: 18 *(43.0%)*
+**Gym Badge**: 189 *(10.7%)*
+**Jogger**: 3,762.6 *(75.8%)*
+**Collector**: 32,376 *(37.6%)*
+**Scientist**: 4,371 *(51.0%)*
+**Breeder**: 1,163 *(35.6%)*
+**Backpacker**: 30,944 *(38.9%)*
+**Battle Girl**: 8,246 *(69.8%)*
+**Pokemon Ranger**: 252 *(20.8%)*
+**Berry Master**: 5,580 *(19.5%)*
+**Gym Leader**: 7,503 *(22.8%)*
+**Battle Legend**: 206 *(26.8%)*
+**Champion**: 83 *(22.1%)*
+**Pokedex Caught**: 362 *(49.7%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 690 days
+**XP**/day: 28,627
+**KM**/day: 5.5
+**Catches**/day: 46.92
+**Evolves**/day: 6.33
+**Hatches**/day: 1.69
+**Spins**/day: 44.85
+**Battles**/day: 11.95
+**Quests**/day: 4.06
+**Berries**/day: 16.27
+**Gym Hours**/day: 21.87
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.24
+**Legendary Raids**/day: 0.27
+    

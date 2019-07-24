@@ -1,0 +1,38 @@
+**Trainer**: Nepente
+**Level**: 38
+**Team**: Instinct
+**Region**: Loop
+    
+**Total XP**: 14,539,439 *(31.0%)*
+**Gold Gyms**: 16 *(52.0%)*
+**Gym Badge**: 198 *(21.0%)*
+**Jogger**: 2,154.5 *(55.0%)*
+**Collector**: 23,621 *(32.0%)*
+**Scientist**: 3,083 *(47.0%)*
+**Breeder**: 655 *(22.0%)*
+**Backpacker**: 19,384 *(31.0%)*
+**Battle Girl**: 4,961 *(61.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 7,692 *(46.0%)*
+**Gym Leader**: 7,763 *(38.0%)*
+**Battle Legend**: 234 *(43.0%)*
+**Champion**: 54 *(20.5%)*
+**Pokedex Caught**: 256 *(1.0%)*
+**Pokedex Seen**: 369 *(44.5%)*
+    
+**Days Played**: 663 days
+**XP**/day: 21,929
+**KM**/day: 3.2
+**Catches**/day: 35.63
+**Evolves**/day: 4.65
+**Catches**/evolve: 7.66
+**Hatches**/day: 0.99
+**KM**/egg: 3.29
+**Spins**/day: 29.24
+**Battles**/day: 7.48
+**Berries**/day: 24.65
+**Gym Hours**/day: 24.88
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.18
+**Legendary Raids**/day: 0.19
+    

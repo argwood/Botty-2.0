@@ -1,0 +1,42 @@
+**__AUGUST__**
+    
+**Trainer**: DoubleDecomp
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 112
+**Monthly Rank**: N/A
+    
+**Total XP**: 47,349,301 *(63.3%)*
+**Jogger**: 4,116.0 *(65.8%)*
+**Collector**: 77,182 *(74.2%)*
+**Scientist**: 6,974 *(66.7%)*
+**Breeder**: 1,276 *(30.8%)*
+**Backpacker**: 91,545 *(90.8%)*
+**Battle Girl**: 7,221 *(50.0%)*
+**Gym Badge**: 624 *(61.7%)*
+**Gold Gyms**: 18 *(27.5%)*
+    
+**Pokemon Ranger**: 1,554 *(53.3%)*
+**Berry Master**: 36,525 *(79.2%)*
+**Gym Leader**: 27,702 *(46.7%)*
+**Battle Legend**: 505 *(49.2%)*
+**Champion**: 55 *(6.7%)*
+**Pokedex Caught**: 373.0 *(66.1%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Days Played**: 774 days
+**XP**/day: 61,174
+**KM**/day: 5.3
+**Catches**/day: 99.72
+**Evolves**/day: 9.01
+**Hatches**/day: 1.65
+**Spins**/day: 118.28
+**Battles**/day: 9.33
+**Research**/day: 10.29
+**Berries**/day: 84.55
+**Gym Hours**/day: 64.12
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.13
+**Legendary Raids**/day: 0.14
+    

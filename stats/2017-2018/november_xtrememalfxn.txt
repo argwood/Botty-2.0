@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: XtremeMalfxn
+**Level**: 39
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 19,946,890 *(72.9%)*
+**Gold Gyms**: 23 *(90.2%)*
+**Gym Badge**: 580 *(94.0%)*
+**Jogger**: 2,197.8 *(53.4%)*
+**Collector**: 44,609 *(83.5%)*
+**Scientist**: 6,845 *(91.0%)*
+**Breeder**: 1,362 *(57.9%)*
+**Backpacker**: 43,279 *(82.0%)*
+**Battle Girl**: 7,001 *(87.2%)*
+**Ace Trainer**: 1207 *(69.9%)*
+**Berry Master**: 11,452 *(93.2%)*
+**Gym Leader**: 26,726 *(94.0%)*
+**Battle Legend**: 227 *(80.5%)*
+**Champion**: 66 *(54.1%)*
+**Pokedex Caught**: 246 *(54.1%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 503 days
+**XP**/day: 39,655
+**KM**/day: 4.4
+**Catches**/day: 88.69
+**Evolves**/day: 13.61
+**Catches**/evolve: 6.52
+**Hatches**/day: 2.71
+**KM**/egg: 1.61
+**Spins**/day: 86.04
+**Battles**/day: 13.92
+**Berries**/day: 73.88
+**Gym Hours**/day: 172.43
+**Gold Gyms**/day: 0.15
+**Raids**/day: 0.44
+**Legendary Raids**/day: 0.53
+    

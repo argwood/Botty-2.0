@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: Kdog0073
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 159
+**Monthly Rank**: 66
+    
+**Total XP**: 34,709,852 *(40.8%)*
+**Jogger**: 1,967.8 *(20.8%)*
+**Collector**: 32,804 *(23.3%)*
+**Scientist**: 3,841 *(39.2%)*
+**Breeder**: 1,233 *(30.0%)*
+**Backpacker**: 27,229 *(23.3%)*
+**Battle Girl**: 13,240 *(77.5%)*
+**Gym Badge**: 255 *(19.2%)*
+**Gold Gyms**: 130 *(90.0%)*
+    
+**Pokemon Ranger**: 802 *(23.3%)*
+**Berry Master**: 17,032 *(44.2%)*
+**Gym Leader**: 75,998 *(87.5%)*
+**Battle Legend**: 656 *(72.5%)*
+**Champion**: 75 *(10.0%)*
+**Pokedex Caught**: 374.0 *(78.8%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 103
+**Youngster**: 273
+**Pikachu Fan**: 344
+**Unown**: 7
+**Pilot**: 107,472
+**Gentleman**: 245
+    
+**Days Played**: 785 days
+**XP**/day: 44,216
+**KM**/day: 2.5
+**Catches**/day: 41.79
+**Evolves**/day: 4.89
+**Hatches**/day: 1.57
+**Spins**/day: 34.69
+**Battles**/day: 16.87
+**Research**/day: 5.21
+**Berries**/day: 39.15
+**Gym Hours**/day: 174.71
+**Gold Gyms**/day: 0.3
+**Raids**/day: 0.17
+**Legendary Raids**/day: 0.19
+    

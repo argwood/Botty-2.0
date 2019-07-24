@@ -1,0 +1,38 @@
+**Trainer**: NlessHandles
+**Level**: 40
+**Team**: Instinct
+**Region**: South
+    
+**Total XP**: 37,100,879 *(88.0%)*
+**Gold Gyms**: 16 *(52.0%)*
+**Gym Badge**: 657 *(87.0%)*
+**Jogger**: 4,362.5 *(89.0%)*
+**Collector**: 57,280 *(86.0%)*
+**Scientist**: 4,145 *(60.0%)*
+**Breeder**: 3,248 *(85.0%)*
+**Backpacker**: 70,222 *(92.0%)*
+**Battle Girl**: 8,086 *(79.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 28,681 *(93.0%)*
+**Gym Leader**: 9,714 *(41.0%)*
+**Battle Legend**: 632 *(90.0%)*
+**Champion**: 94 *(38.0%)*
+**Pokedex Caught**: 364 *(86.5%)*
+**Pokedex Seen**: 371 *(85.5%)*
+    
+**Days Played**: 693 days
+**XP**/day: 53,536
+**KM**/day: 6.3
+**Catches**/day: 82.66
+**Evolves**/day: 5.98
+**Catches**/evolve: 13.82
+**Hatches**/day: 4.69
+**KM**/egg: 1.34
+**Spins**/day: 101.33
+**Battles**/day: 11.67
+**Berries**/day: 83.62
+**Gym Hours**/day: 28.32
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.28
+**Legendary Raids**/day: 0.3
+    

@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: EmperorMing8
+**Level**: 39
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 17,218,635 *(24.3%)*
+**Gold Gyms**: 24 *(54.1%)*
+**Gym Badge**: 348 *(28.8%)*
+**Jogger**: 2,223.8 *(36.0%)*
+**Collector**: 25,224 *(25.2%)*
+**Scientist**: 2,872 *(28.8%)*
+**Breeder**: 1,344 *(39.6%)*
+**Backpacker**: 22,763 *(23.4%)*
+**Battle Girl**: 2,643 *(20.7%)*
+**Berry Master**: 3,614 *(11.7%)*
+**Gym Leader**: 22,037 *(57.7%)*
+**Battle Legend**: 333 *(46.8%)*
+**Champion**: 137 *(59.5%)*
+**Pokedex Caught**: 355 *(44.1%)*
+**Pokedex Seen**: 367 *(47.7%)*
+    
+**Days Played**: 632 days
+**XP**/day: 27,244
+**KM**/day: 3.5
+**Catches**/day: 39.91
+**Evolves**/day: 4.54
+**Hatches**/day: 2.13
+**Spins**/day: 36.02
+**Battles**/day: 4.18
+**Berries**/day: 12.82
+**Gym Hours**/day: 78.15
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.49
+**Legendary Raids**/day: 0.54
+    

@@ -1,0 +1,37 @@
+**Trainer Name**:  Test
+Team:  Mystic
+Region:  South
+Level:  1
+    
+Total XP Percentile:  1.1 %
+Gold Gyms Percentile:  4.6 %
+Gym Badge Percentile:  1.1 %
+Jogger Percentile:  1.1 %
+Collector Percentile:  1.1 %
+Scientist Percentile:  1.1 %
+Breeder Percentile:  1.1 %
+Backpacker Percentile:  1.1 %
+Battle Girl Percentile:  1.1 %
+Berry Master Percentile:  1.1 %
+Gym Leader Percentile:  1.1 %
+Battle Legend Percentile:  1.1 %
+Champion Percentile:  1.1 %
+Pokedex Caught Percentile:  1.1 %
+Pokedex Seen Percentile:  1.1 %
+    
+Days Played:  569 days
+XP/day:  0
+km/day:  0.0
+catches/day:  0.0
+evolves/day:  0.0
+catches/evolve:  1.0
+hatches/day:  0.0
+km/egg:  1.0
+spins/day:  0.0
+battles/day:  0.0
+berries/day:  0.0
+gym hours/day:  0.0
+gold gyms/day:  0.0
+normal raids/day:  0.0
+legendary raids/day:  0.01
+    

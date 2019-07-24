@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: zalamah
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 35
+**Monthly Rank**: N/A
+    
+**Total XP**: 120,542,163 *(84.2%)*
+**Jogger**: 7,363.3 *(80.0%)*
+**Collector**: 132,093 *(80.0%)*
+**Scientist**: 6,732 *(59.2%)*
+**Breeder**: 5,487 *(74.2%)*
+**Backpacker**: 105,694 *(76.7%)*
+**Battle Girl**: 7,758 *(50.0%)*
+**Gold Gyms**: 60 *(50.8%)*
+    
+**Pokemon Ranger**: 6,550 *(84.2%)*
+**Berry Master**: 57,094 *(73.3%)*
+**Gym Leader**: 66,748 *(72.5%)*
+**Battle Legend**: 1802 *(90.8%)*
+**Champion**: 402 *(55.8%)*
+    
+**Days Played**: 1056 days
+**XP**/day: 114,149
+**KM**/day: 7.0
+**Catches**/day: 125.09
+**Evolves**/day: 6.38
+**Hatches**/day: 5.2
+**Spins**/day: 100.09
+**Battles**/day: 7.35
+**Research**/day: 15.41
+**Berries**/day: 80.87
+**Gym Hours**/day: 94.54
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.57
+**Legendary Raids**/day: 0.59
+    

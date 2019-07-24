@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Instinctrule1
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 328
+**Monthly Rank**: N/A
+    
+**Total XP**: 22,451,242 *(10.1%)*
+**Jogger**: 2,750.5 *(18.5%)*
+**Collector**: 14,978 *(7.4%)*
+**Scientist**: 1,127 *(7.9%)*
+**Breeder**: 724 *(7.4%)*
+**Backpacker**: 12,225 *(7.4%)*
+**Battle Girl**: 5,318 *(30.2%)*
+**Gold Gyms**: 9 *(15.3%)*
+    
+**Pokemon Ranger**: 736 *(7.4%)*
+**Berry Master**: 2,068 *(7.4%)*
+**Gym Leader**: 11,438 *(20.6%)*
+**Battle Legend**: 369 *(22.8%)*
+**Champion**: 154 *(20.1%)*
+    
+**Days Played**: 1002 days
+**XP**/day: 22,406
+**KM**/day: 2.7
+**Catches**/day: 14.95
+**Evolves**/day: 1.12
+**Hatches**/day: 0.72
+**Spins**/day: 12.2
+**Battles**/day: 5.31
+**Research**/day: 1.86
+**Berries**/day: 3.05
+**Gym Hours**/day: 16.9
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.23
+**Legendary Raids**/day: 0.24
+    

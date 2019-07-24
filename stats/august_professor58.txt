@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: Professor58
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 127
+**Monthly Rank**: 36
+    
+**Total XP**: 59,490,977 *(80.8%)*
+**Jogger**: 2,762.7 *(38.3%)*
+**Collector**: 52,790 *(46.7%)*
+**Scientist**: 7,716 *(74.2%)*
+**Breeder**: 2,529 *(65.8%)*
+**Backpacker**: 35,590 *(30.0%)*
+**Battle Girl**: 2,454 *(16.7%)*
+**Gym Badge**: 248 *(15.8%)*
+**Gold Gyms**: 26 *(35.0%)*
+    
+**Pokemon Ranger**: 1,378 *(46.7%)*
+**Berry Master**: 15,438 *(37.5%)*
+**Gym Leader**: 7,811 *(15.8%)*
+**Battle Legend**: 1337 *(93.3%)*
+**Champion**: 209 *(58.3%)*
+**Pokedex Caught**: 375.0 *(89.8%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 358
+**Youngster**: 341
+**Pikachu Fan**: 521
+**Unown**: 8
+**Pilot**: 1,291,869
+**Gentleman**: 561
+    
+**Days Played**: 783 days
+**XP**/day: 75,978
+**KM**/day: 3.5
+**Catches**/day: 67.42
+**Evolves**/day: 9.85
+**Hatches**/day: 3.23
+**Spins**/day: 45.45
+**Battles**/day: 3.13
+**Research**/day: 8.95
+**Berries**/day: 35.49
+**Gym Hours**/day: 17.96
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.48
+**Legendary Raids**/day: 0.52
+    

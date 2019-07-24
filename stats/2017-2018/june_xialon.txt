@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Xialon
+**Level**: 38
+**Team**: Valor
+**Region**: Other
+    
+**Total XP**: 13,439,319 *(15.2%)*
+**Gold Gyms**: 6 *(12.6%)*
+**Gym Badge**: 71 *(3.3%)*
+**Jogger**: 1,150.0 *(9.9%)*
+**Collector**: 17,948 *(12.6%)*
+**Scientist**: 2,592 *(25.8%)*
+**Breeder**: 105 *(2.6%)*
+**Backpacker**: 11,360 *(8.6%)*
+**Battle Girl**: 2,122 *(11.9%)*
+**Pokemon Ranger**: 211 *(9.9%)*
+**Berry Master**: 1,794 *(6.6%)*
+**Gym Leader**: 4,368 *(9.3%)*
+**Battle Legend**: 270 *(21.9%)*
+**Champion**: 49 *(7.9%)*
+**Pokedex Caught**: 362 *(27.8%)*
+**Pokedex Seen**: 369 *(15.2%)*
+    
+**Days Played**: 719 days
+**XP**/day: 18,691
+**KM**/day: 1.6
+**Catches**/day: 24.96
+**Evolves**/day: 3.61
+**Hatches**/day: 0.15
+**Spins**/day: 15.8
+**Battles**/day: 2.95
+**Quests**/day: 2.29
+**Berries**/day: 4.81
+**Gym Hours**/day: 11.71
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.13
+**Legendary Raids**/day: 0.14
+    

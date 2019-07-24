@@ -1,0 +1,42 @@
+**__NOVEMBER__**
+    
+**Trainer**: ValorWilbert
+**Level**: 40
+**Team**: Valor
+**Region**: Other
+**Overall Rank**: 256
+**Monthly Rank**: 54
+    
+**Total XP**: 20,387,295 *(14.7%)*
+**Jogger**: 2,360 *(19.3%)*
+**Collector**: 27,735 *(18.3%)*
+**Scientist**: 1,528 *(15.6%)*
+**Breeder**: 957 *(15.6%)*
+**Backpacker**: 16,031 *(11.9%)*
+**Battle Girl**: 4,570 *(33.9%)*
+**Gym Badge**: 179 *(11.9%)*
+**Gold Gyms**: 27 *(34.9%)*
+    
+**Pokemon Ranger**: 2,321 *(52.3%)*
+**Berry Master**: 8,481 *(21.1%)*
+**Gym Leader**: 11,063 *(23.9%)*
+**Battle Legend**: 332 *(32.1%)*
+**Champion**: 175 *(24.8%)*
+**Pokedex Caught**: 409.0 *(63.8%)*
+**Pokedex Seen**: 418.0 *(41.9%)*
+    
+**Days Played**: 387 days
+**XP**/day: 52,680
+**KM**/day: 6.1
+**Catches**/day: 71.67
+**Evolves**/day: 3.95
+**Hatches**/day: 2.47
+**Spins**/day: 41.42
+**Battles**/day: 11.81
+**Research**/day: 9.51
+**Berries**/day: 16.15
+**Gym Hours**/day: 21.07
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.34
+**Legendary Raids**/day: 0.35
+    

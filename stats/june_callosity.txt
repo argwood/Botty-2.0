@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Callosity
+**Level**: 40
+**Team**: Mystic
+**Region**: West
+**Overall Rank**: 56
+**Monthly Rank**: 4
+    
+**Total XP**: 89,453,087 *(61.6%)*
+**Jogger**: 4,802.4 *(50.0%)*
+**Collector**: 152,640 *(85.7%)*
+**Scientist**: 8,298 *(69.6%)*
+**Breeder**: 2,647 *(43.8%)*
+**Backpacker**: 103,624 *(75.9%)*
+**Battle Girl**: 21,379 *(83.0%)*
+**Gold Gyms**: 89 *(69.6%)*
+    
+**Pokemon Ranger**: 10,025 *(94.6%)*
+**Berry Master**: 75,720 *(88.4%)*
+**Gym Leader**: 51,443 *(63.4%)*
+**Battle Legend**: 635 *(42.0%)*
+**Champion**: 460 *(63.4%)*
+    
+**Days Played**: 1089 days
+**XP**/day: 82,142
+**KM**/day: 4.4
+**Catches**/day: 140.17
+**Evolves**/day: 7.62
+**Hatches**/day: 2.43
+**Spins**/day: 95.16
+**Battles**/day: 19.63
+**Research**/day: 21.94
+**Berries**/day: 102.6
+**Gym Hours**/day: 69.71
+**Gold Gyms**/day: 0.12
+**Raids**/day: 0.63
+**Legendary Raids**/day: 0.65
+    

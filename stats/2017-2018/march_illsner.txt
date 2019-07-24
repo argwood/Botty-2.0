@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: illsner
+**Level**: 38
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 12,466,454 *(11.7%)*
+**Gold Gyms**: 30 *(66.7%)*
+**Gym Badge**: 422 *(45.9%)*
+**Jogger**: 1,484.1 *(18.0%)*
+**Collector**: 7,250 *(5.4%)*
+**Scientist**: 278 *(2.7%)*
+**Breeder**: 430 *(6.3%)*
+**Backpacker**: 11,781 *(9.0%)*
+**Battle Girl**: 3,620 *(34.2%)*
+**Berry Master**: 4,911 *(14.4%)*
+**Gym Leader**: 33,862 *(73.0%)*
+**Battle Legend**: 368 *(63.1%)*
+**Champion**: 165 *(73.0%)*
+**Pokedex Caught**: 352 *(34.2%)*
+**Pokedex Seen**: 368 *(93.7%)*
+    
+**Days Played**: 633 days
+**XP**/day: 19,694
+**KM**/day: 2.3
+**Catches**/day: 11.45
+**Evolves**/day: 0.44
+**Hatches**/day: 0.68
+**Spins**/day: 18.61
+**Battles**/day: 5.72
+**Berries**/day: 17.41
+**Gym Hours**/day: 120.08
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.59
+**Legendary Raids**/day: 0.65
+    

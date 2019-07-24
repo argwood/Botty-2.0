@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: Skriptkid
+**Level**: 36
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 8,437,133 *(29.3%)*
+**Gold Gyms**: 1 *(15.8%)*
+**Gym Badge**: 120 *(9.8%)*
+**Jogger**: 3,550.2 *(89.5%)*
+**Collector**: 23,042 *(46.6%)*
+**Scientist**: 1,936 *(38.3%)*
+**Breeder**: 817 *(36.1%)*
+**Backpacker**: 26,017 *(45.1%)*
+**Battle Girl**: 2,315 *(49.6%)*
+**Ace Trainer**: 1073 *(62.4%)*
+**Berry Master**: 1,875 *(29.3%)*
+**Gym Leader**: 2,059 *(9.8%)*
+**Battle Legend**: 50 *(9.0%)*
+**Champion**: 35 *(14.3%)*
+**Pokedex Caught**: 246 *(54.1%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 504 days
+**XP**/day: 16,740
+**KM**/day: 7.0
+**Catches**/day: 45.72
+**Evolves**/day: 3.84
+**Catches**/evolve: 11.9
+**Hatches**/day: 1.62
+**KM**/egg: 4.35
+**Spins**/day: 51.62
+**Battles**/day: 4.59
+**Berries**/day: 12.02
+**Gym Hours**/day: 13.2
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.23
+**Legendary Raids**/day: 0.28
+    

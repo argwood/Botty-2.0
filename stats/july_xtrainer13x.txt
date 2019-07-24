@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: xTrainer13x
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 55,880,000 *(81.0%)*
+**Jogger**: 2,029.0 *(32.3%)*
+**Collector**: 53,725 *(57.9%)*
+**Scientist**: 3,345 *(42.1%)*
+**Breeder**: 1,876 *(52.8%)*
+**Backpacker**: 43,022 *(53.8%)*
+**Battle Girl**: 4,155 *(43.6%)*
+**Gym Badge**: 344 *(36.4%)*
+**Gold Gyms**: 40 *(62.1%)*
+    
+**Pokemon Ranger**: 575 *(33.3%)*
+**Berry Master**: 25,695 *(69.2%)*
+**Gym Leader**: 15,052 *(39.0%)*
+**Battle Legend**: 1140 *(90.8%)*
+**Champion**: 250 *(75.4%)*
+**Pokedex Caught**: 369 *(59.5%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Days Played**: 749 days
+**XP**/day: 74,606
+**KM**/day: 2.7
+**Catches**/day: 71.73
+**Evolves**/day: 4.47
+**Hatches**/day: 2.5
+**Spins**/day: 57.44
+**Battles**/day: 5.55
+**Research**/day: 4.67
+**Berries**/day: 63.6
+**Gym Hours**/day: 37.26
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.62
+**Legendary Raids**/day: 0.67
+    

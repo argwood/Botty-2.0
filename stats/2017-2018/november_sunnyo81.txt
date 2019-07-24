@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: Sunnyo81
+**Level**: 38
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 14,604,104 *(53.4%)*
+**Gold Gyms**: 2 *(24.1%)*
+**Gym Badge**: 444 *(79.7%)*
+**Jogger**: 2,325.7 *(57.1%)*
+**Collector**: 28,431 *(57.1%)*
+**Scientist**: 5,442 *(82.0%)*
+**Breeder**: 3,608 *(98.5%)*
+**Backpacker**: 31,769 *(57.9%)*
+**Battle Girl**: 3,408 *(58.6%)*
+**Ace Trainer**: 429 *(36.8%)*
+**Berry Master**: 3,298 *(45.1%)*
+**Gym Leader**: 3,917 *(27.1%)*
+**Battle Legend**: 51 *(12.0%)*
+**Champion**: 71 *(60.9%)*
+**Pokedex Caught**: 246 *(54.1%)*
+**Pokedex Seen**: 251 *(99.2%)*
+    
+**Days Played**: 476 days
+**XP**/day: 30,680
+**KM**/day: 4.9
+**Catches**/day: 59.73
+**Evolves**/day: 11.43
+**Catches**/evolve: 5.22
+**Hatches**/day: 7.58
+**KM**/egg: 0.64
+**Spins**/day: 66.74
+**Battles**/day: 7.16
+**Berries**/day: 24.25
+**Gym Hours**/day: 28.8
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.54
+**Legendary Raids**/day: 0.67
+    

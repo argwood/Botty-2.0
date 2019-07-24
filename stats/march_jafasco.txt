@@ -1,0 +1,54 @@
+**__MARCH__**
+    
+**Trainer**: Jafasco
+**Level**: 40
+**Team**: Mystic
+**Region**: West
+**Overall Rank**: 66
+**Monthly Rank**: 17
+    
+**Total XP**: 77,745,032 *(54.4%)*
+**Jogger**: 4,470.8 *(47.3%)*
+**Collector**: 94,428 *(56.0%)*
+**Scientist**: 9,223 *(63.7%)*
+**Breeder**: 5,379 *(76.4%)*
+**Backpacker**: 72,239 *(53.8%)*
+**Battle Girl**: 19,750 *(79.1%)*
+**Gold Gyms**: 39 *(35.2%)*
+    
+**Pokemon Ranger**: 3,101 *(46.2%)*
+**Berry Master**: 40,350 *(58.8%)*
+**Gym Leader**: 43,319 *(56.0%)*
+**Battle Legend**: 633 *(36.3%)*
+**Champion**: 344 *(52.2%)*
+    
+**Gym Badges**: 824
+**Pokedex Caught**: 0
+**Pokedex Seen**: 449
+**Fisherman**: 465
+**Youngster**: 626
+**Pikachu Fan**: 1070
+**Unown**: 13
+**Pilot**: 3,596,601
+**Gentleman**: 1418
+**Idol**: 57
+**Ace Trainer**: 2519
+**Great League Veteran**: 30
+**Ultra League Veteran**: 18
+**Master League Veteran**: 28
+    
+**Days Played**: 993 days
+**XP**/day: 78,293
+**KM**/day: 4.5
+**Catches**/day: 95.09
+**Evolves**/day: 9.29
+**Hatches**/day: 5.42
+**Spins**/day: 72.75
+**Battles**/day: 19.89
+**Research**/day: 8.47
+**Berries**/day: 62.36
+**Gym Hours**/day: 66.95
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.53
+**Legendary Raids**/day: 0.56
+    

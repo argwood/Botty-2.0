@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: Yagehmoscow
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 38,926,130 *(64.1%)*
+**Jogger**: 2,623.1 *(44.6%)*
+**Collector**: 59,504 *(63.6%)*
+**Scientist**: 4,960 *(57.4%)*
+**Breeder**: 2,264 *(62.1%)*
+**Backpacker**: 37,762 *(47.2%)*
+**Battle Girl**: 12,260 *(77.9%)*
+**Gym Badge**: 619 *(69.7%)*
+**Gold Gyms**: 41 *(62.6%)*
+    
+**Pokemon Ranger**: 3,079 *(92.3%)*
+**Berry Master**: 22,541 *(62.1%)*
+**Gym Leader**: 33,308 *(67.2%)*
+**Battle Legend**: 358 *(40.5%)*
+**Champion**: 301 *(85.1%)*
+**Pokedex Caught**: 369 *(59.5%)*
+**Pokedex Seen**: 372 *(27.7%)*
+    
+**Fisherman**: 180
+**Youngster**: 349
+**Pikachu Fan**: 660
+**Unown**: 12
+**Pilot**: 1,301,121
+**Gentleman**: 361
+    
+**Days Played**: 307 days
+**XP**/day: 126,795
+**KM**/day: 8.5
+**Catches**/day: 193.82
+**Evolves**/day: 16.16
+**Hatches**/day: 7.37
+**Spins**/day: 123.0
+**Battles**/day: 39.93
+**Research**/day: 25.66
+**Berries**/day: 56.21
+**Gym Hours**/day: 83.06
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.76
+**Legendary Raids**/day: 0.81
+    

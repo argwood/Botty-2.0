@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: onorinbejasus
+**Level**: 40
+**Team**: Mystic
+**Region**: West
+    
+**Total XP**: 30,160,255 *(46.4%)*
+**Gold Gyms**: 15 *(23.8%)*
+**Gym Badge**: 192 *(13.2%)*
+**Jogger**: 3,894.6 *(66.2%)*
+**Collector**: 45,260 *(41.7%)*
+**Scientist**: 7,199 *(72.8%)*
+**Breeder**: 3,124 *(66.9%)*
+**Backpacker**: 35,631 *(37.1%)*
+**Battle Girl**: 1,219 *(7.9%)*
+**Pokemon Ranger**: 2,298 *(89.4%)*
+**Berry Master**: 9,171 *(27.2%)*
+**Gym Leader**: 7,497 *(15.2%)*
+**Battle Legend**: 317 *(28.5%)*
+**Champion**: 182 *(49.7%)*
+**Pokedex Caught**: 366 *(72.8%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: 723 days
+**XP**/day: 41,715
+**KM**/day: 5.4
+**Catches**/day: 62.6
+**Evolves**/day: 9.96
+**Hatches**/day: 4.32
+**Spins**/day: 49.28
+**Battles**/day: 1.69
+**Quests**/day: 24.98
+**Berries**/day: 24.59
+**Gym Hours**/day: 20.1
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.49
+**Legendary Raids**/day: 0.53
+    

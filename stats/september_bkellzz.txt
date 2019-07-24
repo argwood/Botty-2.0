@@ -1,0 +1,50 @@
+**__SEPTEMBER__**
+    
+**Trainer**: Bkellzz
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: 1
+**Monthly Rank**: N/A
+    
+**Total XP**: 166,339,197 *(100.0%)*
+**Jogger**: 7,139.9 *(95.0%)*
+**Collector**: 220,147 *(100.0%)*
+**Scientist**: 24,271 *(100.0%)*
+**Breeder**: 6,983 *(95.7%)*
+**Backpacker**: 160,661 *(96.4%)*
+**Battle Girl**: 25,278 *(92.1%)*
+**Gym Badge**: 624 *(58.6%)*
+**Gold Gyms**: 201 *(94.3%)*
+    
+**Pokemon Ranger**: 8,095 *(98.6%)*
+**Berry Master**: 108,600 *(99.3%)*
+**Gym Leader**: 88,629 *(92.1%)*
+**Battle Legend**: 1709 *(94.3%)*
+**Champion**: 869 *(98.6%)*
+**Pokedex Caught**: 372.0 *(43.9%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 796
+**Youngster**: 2000
+**Pikachu Fan**: 1825
+**Unown**: 26
+**Pilot**: 456,453
+**Gentleman**: 888
+**Idol**: 12
+    
+**Days Played**: 816 days
+**XP**/day: 203,847
+**KM**/day: 8.7
+**Catches**/day: 269.79
+**Evolves**/day: 29.74
+**Hatches**/day: 8.56
+**Spins**/day: 196.89
+**Battles**/day: 30.98
+**Research**/day: 43.99
+**Berries**/day: 233.55
+**Gym Hours**/day: 190.6
+**Gold Gyms**/day: 0.43
+**Raids**/day: 1.89
+**Legendary Raids**/day: 2.0
+    

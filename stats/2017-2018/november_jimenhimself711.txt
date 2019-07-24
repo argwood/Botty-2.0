@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: Jimenhimself711
+**Level**: 40
+**Team**: Valor
+**Region**: Loop
+    
+**Total XP**: 30,631,825 *(94.0%)*
+**Gold Gyms**: 1 *(15.8%)*
+**Gym Badge**: 576 *(93.2%)*
+**Jogger**: 2,169.6 *(51.9%)*
+**Collector**: 54,246 *(94.7%)*
+**Scientist**: 9,024 *(96.2%)*
+**Breeder**: 2,147 *(76.7%)*
+**Backpacker**: 46,366 *(85.0%)*
+**Battle Girl**: 1,763 *(33.1%)*
+**Ace Trainer**: 323 *(33.8%)*
+**Berry Master**: 7,411 *(76.7%)*
+**Gym Leader**: 5,716 *(35.3%)*
+**Battle Legend**: 102 *(26.3%)*
+**Champion**: 97 *(73.7%)*
+**Pokedex Caught**: 248 *(88.0%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 477 days
+**XP**/day: 64,217
+**KM**/day: 4.5
+**Catches**/day: 113.72
+**Evolves**/day: 18.92
+**Catches**/evolve: 6.01
+**Hatches**/day: 4.5
+**KM**/egg: 1.01
+**Spins**/day: 97.2
+**Battles**/day: 3.7
+**Berries**/day: 54.09
+**Gym Hours**/day: 41.72
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.73
+**Legendary Raids**/day: 0.91
+    

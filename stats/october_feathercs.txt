@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: FeatherCS
+**Level**: 34
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 385
+**Monthly Rank**: N/A
+    
+**Total XP**: 5,052,319 *(4.3%)*
+**Jogger**: 468.4 *(4.3%)*
+**Collector**: 7,851 *(5.7%)*
+**Scientist**: 550 *(6.4%)*
+**Breeder**: 503 *(6.4%)*
+**Backpacker**: 4,081 *(4.3%)*
+**Battle Girl**: 948 *(10.0%)*
+**Gym Badge**: 87 *(4.3%)*
+**Gold Gyms**: 1 *(7.9%)*
+    
+**Pokemon Ranger**: 363 *(5.0%)*
+**Berry Master**: 932 *(6.4%)*
+**Gym Leader**: 2,574 *(9.3%)*
+**Battle Legend**: 34 *(5.0%)*
+**Champion**: 29 *(4.3%)*
+**Pokedex Caught**: 356.0 *(5.9%)*
+**Pokedex Seen**: 376.0 *(4.4%)*
+    
+**Days Played**: 837 days
+**XP**/day: 6,036
+**KM**/day: 0.6
+**Catches**/day: 9.38
+**Evolves**/day: 0.66
+**Hatches**/day: 0.6
+**Spins**/day: 4.88
+**Battles**/day: 1.13
+**Research**/day: 1.75
+**Berries**/day: 1.91
+**Gym Hours**/day: 5.27
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.06
+**Legendary Raids**/day: 0.06
+    

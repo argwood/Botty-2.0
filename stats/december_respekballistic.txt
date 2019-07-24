@@ -1,0 +1,54 @@
+**__DECEMBER__**
+    
+**Trainer**: RespekBallistic
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 9
+**Monthly Rank**: 16
+    
+**Total XP**: 161,000,000 *(99.2%)*
+**Jogger**: 5,243.0 *(76.9%)*
+**Collector**: 191,017 *(97.5%)*
+**Scientist**: 21,520 *(95.0%)*
+**Breeder**: 9,225 *(95.9%)*
+**Backpacker**: 124,220 *(92.6%)*
+**Battle Girl**: 13,555 *(71.1%)*
+**Gold Gyms**: 110 *(86.8%)*
+    
+**Pokemon Ranger**: 5,530 *(88.4%)*
+**Berry Master**: 84,641 *(95.9%)*
+**Gym Leader**: 39,245 *(54.5%)*
+**Battle Legend**: 3200 *(100.0%)*
+**Champion**: 670 *(92.6%)*
+    
+**Gym Badges**: 1000
+**Pokedex Caught**: 436
+**Pokedex Seen**: 436
+**Fisherman**: 772
+**Youngster**: 1186
+**Pikachu Fan**: 4117
+**Unown**: 27
+**Pilot**: 7,318,960
+**Gentleman**: 13894
+**Idol**: 25
+**Ace Trainer**: 1073
+**Great League Veteran**: 50
+**Ultra League Veteran**: 30
+**Master League Veteran**: 21
+    
+**Days Played**: 903 days
+**XP**/day: 178,294
+**KM**/day: 5.8
+**Catches**/day: 211.54
+**Evolves**/day: 23.83
+**Hatches**/day: 10.22
+**Spins**/day: 137.56
+**Battles**/day: 15.01
+**Research**/day: 20.04
+**Berries**/day: 151.96
+**Gym Hours**/day: 70.46
+**Gold Gyms**/day: 0.2
+**Raids**/day: 1.21
+**Legendary Raids**/day: 1.27
+    

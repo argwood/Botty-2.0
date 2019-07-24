@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: YoliYo65
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 209
+**Monthly Rank**: N/A
+    
+**Total XP**: 29,861,980 *(26.4%)*
+**Jogger**: 2,786.0 *(37.1%)*
+**Collector**: 36,105 *(25.7%)*
+**Scientist**: 4,465 *(44.3%)*
+**Breeder**: 4,010 *(73.6%)*
+**Backpacker**: 34,745 *(30.7%)*
+**Battle Girl**: 2,354 *(21.4%)*
+**Gym Badge**: 398 *(37.1%)*
+**Gold Gyms**: 24 *(36.4%)*
+    
+**Pokemon Ranger**: 396 *(6.4%)*
+**Berry Master**: 3,846 *(15.7%)*
+**Gym Leader**: 25,291 *(46.4%)*
+**Battle Legend**: 446 *(40.7%)*
+**Champion**: 143 *(29.3%)*
+**Pokedex Caught**: 378.0 *(14.8%)*
+**Pokedex Seen**: 395.0 *(16.9%)*
+    
+**Days Played**: 823 days
+**XP**/day: 36,284
+**KM**/day: 3.4
+**Catches**/day: 43.87
+**Evolves**/day: 5.43
+**Hatches**/day: 4.87
+**Spins**/day: 42.22
+**Battles**/day: 2.86
+**Research**/day: 1.84
+**Berries**/day: 7.75
+**Gym Hours**/day: 50.99
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.29
+**Legendary Raids**/day: 0.31
+    

@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: undeadrul
+**Level**: 35
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 400
+**Monthly Rank**: N/A
+    
+**Total XP**: 6,121,714 *(5.0%)*
+**Jogger**: 486.3 *(5.0%)*
+**Collector**: 6,118 *(4.3%)*
+**Scientist**: 464 *(5.7%)*
+**Breeder**: 328 *(5.0%)*
+**Backpacker**: 5,685 *(5.7%)*
+**Battle Girl**: 342 *(2.1%)*
+**Gym Badge**: 295 *(25.7%)*
+**Gold Gyms**: 0 *(5.7%)*
+    
+**Pokemon Ranger**: 112 *(1.4%)*
+**Berry Master**: 604 *(3.6%)*
+**Gym Leader**: 1,021 *(4.3%)*
+**Battle Legend**: 61 *(8.6%)*
+**Champion**: 32 *(5.0%)*
+**Pokedex Caught**: 373.0 *(11.9%)*
+**Pokedex Seen**: 379.0 *(5.1%)*
+    
+**Days Played**: 846 days
+**XP**/day: 7,236
+**KM**/day: 0.6
+**Catches**/day: 7.23
+**Evolves**/day: 0.55
+**Hatches**/day: 0.39
+**Spins**/day: 6.72
+**Battles**/day: 0.4
+**Research**/day: 0.52
+**Berries**/day: 1.22
+**Gym Hours**/day: 2.06
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.07
+**Legendary Raids**/day: 0.07
+    

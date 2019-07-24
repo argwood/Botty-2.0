@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: Mystix1984
+**Level**: 40
+**Team**: Mystic
+**Region**: Loop
+**Overall Rank**: 170
+**Monthly Rank**: N/A
+    
+**Total XP**: 23,952,271 *(20.0%)*
+**Jogger**: 4,319.6 *(75.0%)*
+**Collector**: 51,676 *(45.0%)*
+**Scientist**: 3,645 *(36.7%)*
+**Breeder**: 1,068 *(20.8%)*
+**Backpacker**: 53,316 *(55.8%)*
+**Battle Girl**: 12,780 *(74.2%)*
+**Gym Badge**: 323 *(25.8%)*
+**Gold Gyms**: 16 *(24.2%)*
+    
+**Pokemon Ranger**: 1,000 *(30.8%)*
+**Berry Master**: 12,587 *(32.5%)*
+**Gym Leader**: 21,840 *(35.8%)*
+**Battle Legend**: 339 *(28.3%)*
+**Champion**: 149 *(36.7%)*
+**Pokedex Caught**: 368.0 *(26.3%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 203
+**Youngster**: 334
+**Pikachu Fan**: 597
+**Unown**: 6
+**Pilot**: 41,731
+**Gentleman**: 11
+    
+**Days Played**: 783 days
+**XP**/day: 30,590
+**KM**/day: 5.5
+**Catches**/day: 66.0
+**Evolves**/day: 4.66
+**Hatches**/day: 1.36
+**Spins**/day: 68.09
+**Battles**/day: 16.32
+**Research**/day: 6.58
+**Berries**/day: 29.07
+**Gym Hours**/day: 50.44
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.35
+**Legendary Raids**/day: 0.37
+    

@@ -1,0 +1,37 @@
+**Trainer**: RespekBallistic
+**Level**: 40.0
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP** Percentile: 98.2 %
+**Gold Gyms** Percentile: 3.5 %
+**Gym Badge** Percentile: 46.9 %
+**Jogger** Percentile: 32.7 %
+**Collector** Percentile: 64.6 %
+**Scientist** Percentile: 79.6 %
+**Breeder** Percentile: 84.1 %
+**Backpacker** Percentile: 35.4 %
+**Battle Girl** Percentile: 52.2 %
+**Berry Master** Percentile: 38.1 %
+**Gym Leader** Percentile: 7.1 %
+**Battle Legend** Percentile: 100.0 %
+**Champion** Percentile: 38.5 %
+**Pokedex Caught** Percentile: 96.9 %
+**Pokedex Seen** Percentile: 79.2 %
+    
+**Days Played**: 592 days
+**XP**/day: 82774
+**KM**/day: 3.2
+**Catches**/day: 77.79
+**Evolves**/day: 11.46
+**Catches**/evolve: 6.79
+**Hatches**/day: 4.91
+**KM**/egg: 0.66
+**Spins**/day: 50.0
+**Battles**/day: 7.36
+**Berries**/day: 27.3
+**Gym Hours**/day: 17.77
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.4
+**Legendary Raids**/day: 0.45
+    

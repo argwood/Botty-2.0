@@ -1,0 +1,42 @@
+**__AUGUST__**
+    
+**Trainer**: Zetta111
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 104
+**Monthly Rank**: N/A
+    
+**Total XP**: 50,760,200 *(68.3%)*
+**Jogger**: 4,222.8 *(73.3%)*
+**Collector**: 62,927 *(57.5%)*
+**Scientist**: 12,765 *(92.5%)*
+**Breeder**: 1,325 *(32.5%)*
+**Backpacker**: 53,859 *(56.7%)*
+**Battle Girl**: 6,664 *(45.0%)*
+**Gym Badge**: 1051 *(100.0%)*
+**Gold Gyms**: 54 *(64.2%)*
+    
+**Pokemon Ranger**: 666 *(20.8%)*
+**Berry Master**: 16,035 *(39.2%)*
+**Gym Leader**: 36,160 *(59.2%)*
+**Battle Legend**: 745 *(78.3%)*
+**Champion**: 124 *(20.8%)*
+**Pokedex Caught**: 373.0 *(66.1%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Days Played**: 754 days
+**XP**/day: 67,321
+**KM**/day: 5.6
+**Catches**/day: 83.46
+**Evolves**/day: 16.93
+**Hatches**/day: 1.76
+**Spins**/day: 71.43
+**Battles**/day: 8.84
+**Research**/day: 4.3
+**Berries**/day: 36.78
+**Gym Hours**/day: 82.94
+**Gold Gyms**/day: 0.12
+**Raids**/day: 0.29
+**Legendary Raids**/day: 0.31
+    

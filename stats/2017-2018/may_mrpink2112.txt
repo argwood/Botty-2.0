@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: MrPink2112
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 28,540,617 *(53.0%)*
+**Gold Gyms**: 56 *(78.5%)*
+**Gym Badge**: 407 *(41.6%)*
+**Jogger**: 3,666.4 *(71.1%)*
+**Collector**: 54,942 *(68.5%)*
+**Scientist**: 7,725 *(80.5%)*
+**Breeder**: 1,933 *(59.7%)*
+**Backpacker**: 41,107 *(53.0%)*
+**Battle Girl**: 15,074 *(88.6%)*
+**Pokemon Ranger**: 656 *(65.1%)*
+**Berry Master**: 11,298 *(42.3%)*
+**Gym Leader**: 29,513 *(66.4%)*
+**Battle Legend**: 252 *(31.5%)*
+**Champion**: 152 *(49.0%)*
+**Pokedex Caught**: 364 *(85.2%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 694 days
+**XP**/day: 41,124
+**KM**/day: 5.3
+**Catches**/day: 79.17
+**Evolves**/day: 11.13
+**Hatches**/day: 2.79
+**Spins**/day: 59.23
+**Battles**/day: 21.72
+**Quests**/day: 10.58
+**Berries**/day: 32.94
+**Gym Hours**/day: 86.04
+**Gold Gyms**/day: 0.16
+**Raids**/day: 0.45
+**Legendary Raids**/day: 0.49
+    

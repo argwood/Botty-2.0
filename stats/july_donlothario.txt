@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: DonLothario
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 43,971,544 *(68.2%)*
+**Jogger**: 7,002.9 *(96.9%)*
+**Collector**: 92,273 *(85.6%)*
+**Scientist**: 2,550 *(34.4%)*
+**Breeder**: 7,458 *(99.0%)*
+**Backpacker**: 77,094 *(83.1%)*
+**Battle Girl**: 3,074 *(33.8%)*
+**Gym Badge**: 279 *(26.7%)*
+**Gold Gyms**: 23 *(45.6%)*
+    
+**Pokemon Ranger**: 4,504 *(96.4%)*
+**Berry Master**: 27,839 *(72.3%)*
+**Gym Leader**: 13,178 *(34.4%)*
+**Battle Legend**: 331 *(35.9%)*
+**Champion**: 289 *(82.1%)*
+**Pokedex Caught**: 345 *(12.8%)*
+**Pokedex Seen**: 373 *(41.5%)*
+    
+**Fisherman**: 265
+**Youngster**: 949
+**Pikachu Fan**: 978
+**Unown**: 10
+**Pilot**: 1,775,245
+**Gentleman**: 302
+    
+**Days Played**: 753 days
+**XP**/day: 58,395
+**KM**/day: 9.3
+**Catches**/day: 122.54
+**Evolves**/day: 3.39
+**Hatches**/day: 9.9
+**Spins**/day: 102.38
+**Battles**/day: 4.08
+**Research**/day: 36.62
+**Berries**/day: 68.91
+**Gym Hours**/day: 32.62
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.72
+**Legendary Raids**/day: 0.77
+    

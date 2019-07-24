@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: MD70SS
+**Level**: 34
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 4,923,485 *(13.5%)*
+**Gold Gyms**: 4 *(36.8%)*
+**Gym Badge**: 123 *(11.3%)*
+**Jogger**: 621.7 *(11.3%)*
+**Collector**: 8,401 *(14.3%)*
+**Scientist**: 730 *(15.0%)*
+**Breeder**: 291 *(12.8%)*
+**Backpacker**: 7,686 *(13.5%)*
+**Battle Girl**: 1,071 *(17.3%)*
+**Ace Trainer**: 194 *(24.1%)*
+**Berry Master**: 1,521 *(23.3%)*
+**Gym Leader**: 5,339 *(32.3%)*
+**Battle Legend**: 135 *(45.9%)*
+**Champion**: 44 *(23.3%)*
+**Pokedex Caught**: 244 *(26.3%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 488 days
+**XP**/day: 10,089
+**KM**/day: 1.3
+**Catches**/day: 17.22
+**Evolves**/day: 1.5
+**Catches**/evolve: 11.51
+**Hatches**/day: 0.6
+**KM**/egg: 2.14
+**Spins**/day: 15.75
+**Battles**/day: 2.19
+**Berries**/day: 11.1
+**Gym Hours**/day: 38.97
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.33
+**Legendary Raids**/day: 0.41
+    

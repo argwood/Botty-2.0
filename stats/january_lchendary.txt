@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: lchendary
+**Level**: 36
+**Team**: Valor
+**Region**: Loop
+**Overall Rank**: 393
+**Monthly Rank**: N/A
+    
+**Total XP**: 9,093,383 *(9.6%)*
+**Jogger**: 1,322.0 *(10.5%)*
+**Collector**: 14,305 *(11.4%)*
+**Scientist**: 1,514 *(19.3%)*
+**Breeder**: 333 *(7.9%)*
+**Backpacker**: 12,367 *(10.5%)*
+**Battle Girl**: 2,266 *(18.4%)*
+**Gold Gyms**: 0 *(6.1%)*
+    
+**Pokemon Ranger**: 379 *(7.0%)*
+**Berry Master**: 1,092 *(7.9%)*
+**Gym Leader**: 1,909 *(10.5%)*
+**Battle Legend**: 109 *(12.3%)*
+**Champion**: 29 *(4.4%)*
+    
+**Days Played**: 936 days
+**XP**/day: 9,715
+**KM**/day: 1.4
+**Catches**/day: 15.28
+**Evolves**/day: 1.62
+**Hatches**/day: 0.36
+**Spins**/day: 13.21
+**Battles**/day: 2.42
+**Research**/day: 1.24
+**Berries**/day: 1.86
+**Gym Hours**/day: 3.25
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.05
+**Legendary Raids**/day: 0.05
+    

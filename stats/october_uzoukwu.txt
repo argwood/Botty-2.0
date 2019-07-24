@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: Uzoukwu
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 7
+**Monthly Rank**: 27
+    
+**Total XP**: 141,624,096 *(98.6%)*
+**Jogger**: 4,482.8 *(70.7%)*
+**Collector**: 125,434 *(92.1%)*
+**Scientist**: 11,962 *(86.4%)*
+**Breeder**: 3,476 *(64.3%)*
+**Backpacker**: 98,868 *(89.3%)*
+**Battle Girl**: 34,847 *(98.6%)*
+**Gym Badge**: 734 *(66.4%)*
+**Gold Gyms**: 332 *(100.0%)*
+    
+**Pokemon Ranger**: 3,312 *(77.9%)*
+**Berry Master**: 63,826 *(93.6%)*
+**Gym Leader**: 129,682 *(98.6%)*
+**Battle Legend**: 2327 *(98.6%)*
+**Champion**: 393 *(83.6%)*
+**Pokedex Caught**: 391.0 *(41.5%)*
+**Pokedex Seen**: 403.0 *(62.5%)*
+    
+**Days Played**: 846 days
+**XP**/day: 167,404
+**KM**/day: 5.3
+**Catches**/day: 148.27
+**Evolves**/day: 14.14
+**Hatches**/day: 4.11
+**Spins**/day: 116.87
+**Battles**/day: 41.19
+**Research**/day: 15.4
+**Berries**/day: 128.68
+**Gym Hours**/day: 261.46
+**Gold Gyms**/day: 0.67
+**Raids**/day: 0.8
+**Legendary Raids**/day: 0.84
+    

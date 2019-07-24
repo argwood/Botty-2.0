@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: PajamaPants715
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 308
+**Monthly Rank**: N/A
+    
+**Total XP**: 28,614,153 *(17.5%)*
+**Jogger**: 1,301.7 *(6.7%)*
+**Collector**: 25,363 *(14.2%)*
+**Scientist**: 1,455 *(19.2%)*
+**Breeder**: 1,912 *(30.8%)*
+**Backpacker**: 18,559 *(12.5%)*
+**Battle Girl**: 1,188 *(10.8%)*
+**Gold Gyms**: 9 *(23.3%)*
+    
+**Pokemon Ranger**: 1,972 *(27.5%)*
+**Berry Master**: 4,342 *(13.3%)*
+**Gym Leader**: 4,849 *(14.2%)*
+**Battle Legend**: 481 *(35.8%)*
+**Champion**: 395 *(55.0%)*
+    
+**Days Played**: 1053 days
+**XP**/day: 27,173
+**KM**/day: 1.2
+**Catches**/day: 24.09
+**Evolves**/day: 1.38
+**Hatches**/day: 1.82
+**Spins**/day: 17.62
+**Battles**/day: 1.13
+**Research**/day: 4.64
+**Berries**/day: 6.15
+**Gym Hours**/day: 6.87
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.56
+**Legendary Raids**/day: 0.58
+    

@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Pikastorm15
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 177
+**Monthly Rank**: N/A
+    
+**Total XP**: 51,509,359 *(36.6%)*
+**Jogger**: 6,276.0 *(68.8%)*
+**Collector**: 85,441 *(50.9%)*
+**Scientist**: 5,982 *(53.6%)*
+**Breeder**: 1,866 *(31.2%)*
+**Backpacker**: 53,639 *(44.6%)*
+**Battle Girl**: 1,626 *(17.9%)*
+**Gold Gyms**: 24 *(39.3%)*
+    
+**Pokemon Ranger**: 2,815 *(42.9%)*
+**Berry Master**: 29,337 *(47.3%)*
+**Gym Leader**: 27,171 *(42.9%)*
+**Battle Legend**: 382 *(26.8%)*
+**Champion**: 157 *(20.5%)*
+    
+**Days Played**: 987 days
+**XP**/day: 52,187
+**KM**/day: 6.4
+**Catches**/day: 86.57
+**Evolves**/day: 6.06
+**Hatches**/day: 1.89
+**Spins**/day: 54.35
+**Battles**/day: 1.65
+**Research**/day: 6.16
+**Berries**/day: 39.75
+**Gym Hours**/day: 36.82
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.21
+**Legendary Raids**/day: 0.22
+    

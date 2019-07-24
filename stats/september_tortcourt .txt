@@ -1,0 +1,50 @@
+**__SEPTEMBER__**
+    
+**Trainer**: TortCourt 
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: 175
+**Monthly Rank**: N/A
+    
+**Total XP**: 34,016,039 *(35.0%)*
+**Jogger**: 3,202.0 *(46.4%)*
+**Collector**: 35,526 *(30.0%)*
+**Scientist**: 3,989 *(46.4%)*
+**Breeder**: 2,075 *(52.1%)*
+**Backpacker**: 35,931 *(35.0%)*
+**Battle Girl**: 4,812 *(37.9%)*
+**Gym Badge**: 468 *(45.7%)*
+**Gold Gyms**: 15 *(28.6%)*
+    
+**Pokemon Ranger**: 2,918 *(77.9%)*
+**Berry Master**: 14,631 *(37.1%)*
+**Gym Leader**: 10,121 *(26.4%)*
+**Battle Legend**: 348 *(31.4%)*
+**Champion**: 243 *(60.7%)*
+**Pokedex Caught**: 371.0 *(38.8%)*
+**Pokedex Seen**: 374.0 *(22.3%)*
+    
+**Fisherman**: 153
+**Youngster**: 217
+**Pikachu Fan**: 307
+**Unown**: 7
+**Pilot**: 328,321
+**Gentleman**: 148
+**Idol**: 3
+    
+**Days Played**: 789 days
+**XP**/day: 43,112
+**KM**/day: 4.1
+**Catches**/day: 45.03
+**Evolves**/day: 5.06
+**Hatches**/day: 2.63
+**Spins**/day: 45.54
+**Battles**/day: 6.1
+**Research**/day: 15.86
+**Berries**/day: 31.46
+**Gym Hours**/day: 21.77
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.53
+**Legendary Raids**/day: 0.56
+    

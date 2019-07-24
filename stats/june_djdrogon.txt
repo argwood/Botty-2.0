@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: DJDrogon
+**Level**: 40
+**Team**: Instinct
+**Region**: North
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 114,122,387 *(83.0%)*
+**Jogger**: 7,926.6 *(86.6%)*
+**Collector**: 134,587 *(77.7%)*
+**Scientist**: 7,623 *(63.4%)*
+**Breeder**: 5,051 *(75.0%)*
+**Backpacker**: 123,795 *(87.5%)*
+**Battle Girl**: 13,598 *(67.0%)*
+**Gold Gyms**: 50 *(50.9%)*
+    
+**Pokemon Ranger**: 3,530 *(50.9%)*
+**Berry Master**: 34,686 *(56.2%)*
+**Gym Leader**: 59,433 *(68.8%)*
+**Battle Legend**: 1790 *(89.3%)*
+**Champion**: 549 *(74.1%)*
+    
+**Days Played**: 1088 days
+**XP**/day: 104,891
+**KM**/day: 7.3
+**Catches**/day: 123.7
+**Evolves**/day: 7.01
+**Hatches**/day: 4.64
+**Spins**/day: 113.78
+**Battles**/day: 12.5
+**Research**/day: 7.72
+**Berries**/day: 47.0
+**Gym Hours**/day: 80.53
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.75
+**Legendary Raids**/day: 0.78
+    

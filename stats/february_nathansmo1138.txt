@@ -1,0 +1,39 @@
+**__FEBRUARY__**
+    
+**Trainer**: nathansmo1138
+**Level**: 40
+**Team**: Valor
+**Region**: North
+**Overall Rank**: 42
+**Monthly Rank**: 12
+    
+**Total XP**: 68,920,033 *(45.5%)*
+**Jogger**: 5,722.0 *(67.7%)*
+**Collector**: 102,309 *(60.6%)*
+**Scientist**: 7,420 *(54.5%)*
+**Breeder**: 2,482 *(34.3%)*
+**Backpacker**: 122,428 *(89.9%)*
+**Battle Girl**: 18,354 *(77.8%)*
+**Gold Gyms**: 89 *(73.7%)*
+    
+**Pokemon Ranger**: 5,856 *(82.8%)*
+**Berry Master**: 69,591 *(86.9%)*
+**Gym Leader**: 73,544 *(81.8%)*
+**Battle Legend**: 579 *(33.3%)*
+**Champion**: 408 *(61.6%)*
+    
+**Days Played**: 966 days
+**XP**/day: 71,345
+**KM**/day: 5.9
+**Catches**/day: 105.91
+**Evolves**/day: 7.68
+**Hatches**/day: 2.57
+**Spins**/day: 126.74
+**Battles**/day: 19.0
+**Research**/day: 17.48
+**Berries**/day: 112.97
+**Gym Hours**/day: 119.39
+**Gold Gyms**/day: 0.14
+**Raids**/day: 0.67
+**Legendary Raids**/day: 0.7
+    

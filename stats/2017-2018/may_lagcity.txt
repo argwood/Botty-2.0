@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Lagcity
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 70,021,707 *(92.6%)*
+**Gold Gyms**: 261 *(100.0%)*
+**Gym Badge**: 942 *(92.6%)*
+**Jogger**: 5,119.5 *(88.6%)*
+**Collector**: 97,272 *(95.3%)*
+**Scientist**: 16,982 *(99.3%)*
+**Breeder**: 4,571 *(93.3%)*
+**Backpacker**: 75,328 *(90.6%)*
+**Battle Girl**: 29,787 *(97.3%)*
+**Pokemon Ranger**: 1,528 *(91.3%)*
+**Berry Master**: 41,902 *(93.3%)*
+**Gym Leader**: 125,890 *(100.0%)*
+**Battle Legend**: 421 *(57.7%)*
+**Champion**: 498 *(96.6%)*
+**Pokedex Caught**: 359 *(30.2%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 693 days
+**XP**/day: 101,041
+**KM**/day: 7.4
+**Catches**/day: 140.36
+**Evolves**/day: 24.51
+**Hatches**/day: 6.6
+**Spins**/day: 108.7
+**Battles**/day: 42.98
+**Quests**/day: 24.65
+**Berries**/day: 122.16
+**Gym Hours**/day: 367.03
+**Gold Gyms**/day: 0.76
+**Raids**/day: 1.47
+**Legendary Raids**/day: 1.59
+    

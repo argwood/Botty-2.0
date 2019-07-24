@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: JohnReddy
+**Level**: 32
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 474
+**Monthly Rank**: N/A
+    
+**Total XP**: 3,161,940 *(2.1%)*
+**Jogger**: 499.5 *(2.1%)*
+**Collector**: 4,675 *(1.6%)*
+**Scientist**: 202 *(1.6%)*
+**Breeder**: 148 *(1.6%)*
+**Backpacker**: 3,016 *(2.1%)*
+**Battle Girl**: 486 *(3.2%)*
+**Gold Gyms**: 1 *(2.6%)*
+    
+**Pokemon Ranger**: 263 *(2.6%)*
+**Berry Master**: 2,015 *(6.9%)*
+**Gym Leader**: 2,598 *(5.3%)*
+**Battle Legend**: 17 *(2.1%)*
+**Champion**: 24 *(2.1%)*
+    
+**Days Played**: 996 days
+**XP**/day: 3,174
+**KM**/day: 0.5
+**Catches**/day: 4.69
+**Evolves**/day: 0.2
+**Hatches**/day: 0.15
+**Spins**/day: 3.03
+**Battles**/day: 0.49
+**Research**/day: 0.72
+**Berries**/day: 3.11
+**Gym Hours**/day: 4.02
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.04
+**Legendary Raids**/day: 0.04
+    

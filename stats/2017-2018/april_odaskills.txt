@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: odaskills
+**Level**: 38
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 13,933,152 *(19.4%)*
+**Gold Gyms**: 10 *(25.0%)*
+**Gym Badge**: 319 *(29.0%)*
+**Jogger**: 1,581.8 *(24.2%)*
+**Collector**: 18,754 *(16.1%)*
+**Scientist**: 1,258 *(15.3%)*
+**Breeder**: 674 *(16.1%)*
+**Backpacker**: 21,055 *(25.8%)*
+**Battle Girl**: 3,798 *(36.3%)*
+**Pokemon Ranger**: 160 *(29.0%)*
+**Berry Master**: 3,552 *(15.3%)*
+**Gym Leader**: 15,237 *(39.5%)*
+**Battle Legend**: 322 *(43.5%)*
+**Champion**: 38 *(2.4%)*
+**Pokedex Caught**: 355 *(37.9%)*
+**Pokedex Seen**: 369 *(49.2%)*
+    
+**Days Played**: 661 days
+**XP**/day: 21,078
+**KM**/day: 2.4
+**Catches**/day: 28.37
+**Evolves**/day: 1.9
+**Hatches**/day: 1.02
+**Spins**/day: 31.85
+**Battles**/day: 5.75
+**Quests**/day: 5.16
+**Berries**/day: 11.38
+**Gym Hours**/day: 48.84
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.12
+**Legendary Raids**/day: 0.13
+    

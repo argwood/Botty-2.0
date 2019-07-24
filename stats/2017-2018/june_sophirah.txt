@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Sophirah
+**Level**: 38
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 12,534,601 *(13.2%)*
+**Gold Gyms**: 16 *(27.2%)*
+**Gym Badge**: 205 *(14.6%)*
+**Jogger**: 1,349.6 *(11.3%)*
+**Collector**: 23,080 *(15.9%)*
+**Scientist**: 2,818 *(27.8%)*
+**Breeder**: 1,524 *(37.7%)*
+**Backpacker**: 12,358 *(9.3%)*
+**Battle Girl**: 3,648 *(30.5%)*
+**Pokemon Ranger**: 363 *(17.9%)*
+**Berry Master**: 5,135 *(13.2%)*
+**Gym Leader**: 20,102 *(41.1%)*
+**Battle Legend**: 79 *(7.3%)*
+**Champion**: 102 *(23.2%)*
+**Pokedex Caught**: 365 *(55.6%)*
+**Pokedex Seen**: 370 *(20.5%)*
+    
+**Days Played**: 724 days
+**XP**/day: 17,312
+**KM**/day: 1.9
+**Catches**/day: 31.88
+**Evolves**/day: 3.89
+**Hatches**/day: 2.1
+**Spins**/day: 17.07
+**Battles**/day: 5.04
+**Quests**/day: 3.95
+**Berries**/day: 13.77
+**Gym Hours**/day: 53.89
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.28
+**Legendary Raids**/day: 0.3
+    

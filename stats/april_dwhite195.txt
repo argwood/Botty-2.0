@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Dwhite195
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 191
+**Monthly Rank**: N/A
+    
+**Total XP**: 35,729,364 *(20.1%)*
+**Jogger**: 4,205.1 *(41.8%)*
+**Collector**: 50,608 *(32.8%)*
+**Scientist**: 7,020 *(53.4%)*
+**Breeder**: 2,585 *(41.8%)*
+**Backpacker**: 38,233 *(29.1%)*
+**Battle Girl**: 4,506 *(26.5%)*
+**Gold Gyms**: 18 *(23.3%)*
+    
+**Pokemon Ranger**: 2,976 *(43.9%)*
+**Berry Master**: 17,459 *(33.3%)*
+**Gym Leader**: 12,589 *(21.2%)*
+**Battle Legend**: 279 *(14.8%)*
+**Champion**: 353 *(52.9%)*
+    
+**Days Played**: 1026 days
+**XP**/day: 34,823
+**KM**/day: 4.1
+**Catches**/day: 49.33
+**Evolves**/day: 6.84
+**Hatches**/day: 2.52
+**Spins**/day: 37.26
+**Battles**/day: 4.39
+**Research**/day: 7.52
+**Berries**/day: 25.79
+**Gym Hours**/day: 18.6
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.52
+**Legendary Raids**/day: 0.55
+    

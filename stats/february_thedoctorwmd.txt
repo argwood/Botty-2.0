@@ -1,0 +1,54 @@
+**__FEBRUARY__**
+    
+**Trainer**: TheDoctorWMD
+**Level**: 38
+**Team**: Valor
+**Region**: Loop
+**Overall Rank**: 386
+**Monthly Rank**: N/A
+    
+**Total XP**: 14,661,412 *(4.0%)*
+**Jogger**: 1,103.0 *(3.0%)*
+**Collector**: 16,050 *(5.1%)*
+**Scientist**: 890 *(3.0%)*
+**Breeder**: 440 *(1.0%)*
+**Backpacker**: 11,674 *(4.0%)*
+**Battle Girl**: 1,918 *(7.1%)*
+**Gold Gyms**: 2 *(4.0%)*
+    
+**Pokemon Ranger**: 1,250 *(10.1%)*
+**Berry Master**: 1,932 *(4.0%)*
+**Gym Leader**: 1,395 *(1.0%)*
+**Battle Legend**: 123 *(6.1%)*
+**Champion**: 72 *(5.1%)*
+    
+**Gym Badges**: 126
+**Pokedex Caught**: 382
+**Pokedex Seen**: 449
+**Fisherman**: 48
+**Youngster**: 52
+**Pikachu Fan**: 224
+**Unown**: 0
+**Pilot**: 283,403
+**Gentleman**: 356
+**Idol**: 8
+**Ace Trainer**: 41
+**Great League Veteran**: 11
+**Ultra League Veteran**: 3
+**Master League Veteran**: 2
+    
+**Days Played**: 927 days
+**XP**/day: 15,815
+**KM**/day: 1.2
+**Catches**/day: 17.31
+**Evolves**/day: 0.96
+**Hatches**/day: 0.47
+**Spins**/day: 12.59
+**Battles**/day: 2.07
+**Research**/day: 3.77
+**Berries**/day: 3.15
+**Gym Hours**/day: 2.28
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.12
+**Legendary Raids**/day: 0.12
+    

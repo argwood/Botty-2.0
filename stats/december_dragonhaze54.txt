@@ -1,0 +1,39 @@
+**__DECEMBER__**
+    
+**Trainer**: DragonHaze54
+**Level**: 37
+**Team**: Instinct
+**Region**: South
+**Overall Rank**: 382
+**Monthly Rank**: N/A
+    
+**Total XP**: 10,248,436 *(5.0%)*
+**Jogger**: 996.0 *(4.1%)*
+**Collector**: 13,154 *(7.4%)*
+**Scientist**: 816 *(7.4%)*
+**Breeder**: 522 *(4.1%)*
+**Backpacker**: 10,994 *(5.0%)*
+**Battle Girl**: 1,455 *(10.7%)*
+**Gold Gyms**: 0 *(2.5%)*
+    
+**Pokemon Ranger**: 577 *(9.9%)*
+**Berry Master**: 1,224 *(5.0%)*
+**Gym Leader**: 4,417 *(5.0%)*
+**Battle Legend**: 64 *(5.8%)*
+**Champion**: 59 *(4.1%)*
+    
+**Days Played**: 905 days
+**XP**/day: 11,324
+**KM**/day: 1.1
+**Catches**/day: 14.53
+**Evolves**/day: 0.9
+**Hatches**/day: 0.58
+**Spins**/day: 12.15
+**Battles**/day: 1.61
+**Research**/day: 2.11
+**Berries**/day: 2.21
+**Gym Hours**/day: 7.96
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.11
+**Legendary Raids**/day: 0.11
+    

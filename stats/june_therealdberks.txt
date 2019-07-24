@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Therealdberks
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 170
+**Monthly Rank**: N/A
+    
+**Total XP**: 52,828,897 *(37.5%)*
+**Jogger**: 5,720.0 *(60.7%)*
+**Collector**: 46,672 *(31.2%)*
+**Scientist**: 3,252 *(38.4%)*
+**Breeder**: 3,678 *(63.4%)*
+**Backpacker**: 38,696 *(30.4%)*
+**Battle Girl**: 5,121 *(37.5%)*
+**Gold Gyms**: 23 *(38.4%)*
+    
+**Pokemon Ranger**: 3,246 *(47.3%)*
+**Berry Master**: 11,079 *(29.5%)*
+**Gym Leader**: 21,981 *(36.6%)*
+**Battle Legend**: 745 *(49.1%)*
+**Champion**: 527 *(72.3%)*
+    
+**Days Played**: -8 days
+**XP**/day: -6,603,612
+**KM**/day: -715.0
+**Catches**/day: -5834.0
+**Evolves**/day: -406.5
+**Hatches**/day: -459.75
+**Spins**/day: -4837.0
+**Battles**/day: -640.12
+**Research**/day: 7.1
+**Berries**/day: 15.01
+**Gym Hours**/day: 29.78
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.72
+**Legendary Raids**/day: 0.74
+    

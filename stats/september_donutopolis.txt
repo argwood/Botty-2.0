@@ -1,0 +1,50 @@
+**__SEPTEMBER__**
+    
+**Trainer**: donutopolis
+**Level**: 31
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 386
+**Monthly Rank**: N/A
+    
+**Total XP**: 2,988,580 *(3.6%)*
+**Jogger**: 257.7 *(2.1%)*
+**Collector**: 4,084 *(2.1%)*
+**Scientist**: 300 *(2.1%)*
+**Breeder**: 102 *(1.4%)*
+**Backpacker**: 3,243 *(2.9%)*
+**Battle Girl**: 400 *(2.9%)*
+**Gym Badge**: 117 *(7.1%)*
+**Gold Gyms**: 1 *(10.0%)*
+    
+**Pokemon Ranger**: 251 *(5.7%)*
+**Berry Master**: 812 *(7.1%)*
+**Gym Leader**: 2,568 *(11.4%)*
+**Battle Legend**: 26 *(6.4%)*
+**Champion**: 24 *(6.4%)*
+**Pokedex Caught**: 308.0 *(5.8%)*
+**Pokedex Seen**: 353.0 *(6.5%)*
+    
+**Fisherman**: 21
+**Youngster**: 20
+**Pikachu Fan**: 27
+**Unown**: 0
+**Pilot**: 817,440
+**Gentleman**: 103
+**Idol**: 0
+    
+**Days Played**: 742 days
+**XP**/day: 4,027
+**KM**/day: 0.3
+**Catches**/day: 5.5
+**Evolves**/day: 0.4
+**Hatches**/day: 0.14
+**Spins**/day: 4.37
+**Battles**/day: 0.54
+**Research**/day: 1.39
+**Berries**/day: 1.76
+**Gym Hours**/day: 5.56
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.05
+**Legendary Raids**/day: 0.06
+    

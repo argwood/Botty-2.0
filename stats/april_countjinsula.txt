@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: CountJinsula
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 74
+**Monthly Rank**: 43
+    
+**Total XP**: 74,039,340 *(52.4%)*
+**Jogger**: 4,797.3 *(54.0%)*
+**Collector**: 83,954 *(54.0%)*
+**Scientist**: 8,701 *(68.3%)*
+**Breeder**: 6,495 *(86.2%)*
+**Backpacker**: 62,390 *(49.2%)*
+**Battle Girl**: 6,549 *(38.1%)*
+**Gold Gyms**: 46 *(43.4%)*
+    
+**Pokemon Ranger**: 2,004 *(23.3%)*
+**Berry Master**: 31,478 *(48.1%)*
+**Gym Leader**: 32,827 *(43.9%)*
+**Battle Legend**: 1143 *(76.7%)*
+**Champion**: 883 *(91.5%)*
+    
+**Days Played**: 1028 days
+**XP**/day: 72,022
+**KM**/day: 4.7
+**Catches**/day: 81.67
+**Evolves**/day: 8.46
+**Hatches**/day: 6.32
+**Spins**/day: 60.69
+**Battles**/day: 6.37
+**Research**/day: 5.06
+**Berries**/day: 46.5
+**Gym Hours**/day: 48.49
+**Gold Gyms**/day: 0.07
+**Raids**/day: 1.31
+**Legendary Raids**/day: 1.36
+    

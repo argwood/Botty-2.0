@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: Knife
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 22,979,380 *(65.0%)*
+**Gold Gyms**: 8 *(40.0%)*
+**Gym Badge**: 626 *(84.0%)*
+**Jogger**: 3,034.4 *(70.0%)*
+**Collector**: 43,802 *(65.0%)*
+**Scientist**: 5,498 *(70.0%)*
+**Breeder**: 1,959 *(72.0%)*
+**Backpacker**: 49,934 *(74.0%)*
+**Battle Girl**: 1,367 *(15.0%)*
+**Ace Trainer**: 154 *(18.0%)*
+**Berry Master**: 7,714 *(60.0%)*
+**Gym Leader**: 8,273 *(36.0%)*
+**Battle Legend**: 170 *(38.0%)*
+**Champion**: 93 *(52.0%)*
+**Pokedex Caught**: 297 *(57.0%)*
+**Pokedex Seen**: 309 *(42.0%)*
+    
+**Days Played**: 539 days
+**XP**/day: 42,633
+**KM**/day: 5.6
+**Catches**/day: 81.27
+**Evolves**/day: 10.2
+**Hatches**/day: 3.63
+**Spins**/day: 92.64
+**Battles**/day: 2.54
+**Berries**/day: 40.6
+**Gym Hours**/day: 43.54
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.5
+**Legendary Raids**/day: 0.58
+    

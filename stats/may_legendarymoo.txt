@@ -1,0 +1,54 @@
+**__MAY__**
+    
+**Trainer**: LegendaryMoo
+**Level**: 40
+**Team**: Instinct
+**Region**: Other
+**Overall Rank**: 9
+**Monthly Rank**: 4
+    
+**Total XP**: 154,363,478 *(92.5%)*
+**Jogger**: 4,653.0 *(52.5%)*
+**Collector**: 192,099 *(94.2%)*
+**Scientist**: 14,223 *(88.3%)*
+**Breeder**: 8,201 *(92.5%)*
+**Backpacker**: 152,394 *(90.8%)*
+**Battle Girl**: 36,450 *(94.2%)*
+**Gold Gyms**: 169 *(89.2%)*
+    
+**Pokemon Ranger**: 5,844 *(81.7%)*
+**Berry Master**: 94,409 *(92.5%)*
+**Gym Leader**: 71,244 *(79.2%)*
+**Battle Legend**: 2065 *(93.3%)*
+**Champion**: 1251 *(98.3%)*
+    
+**Gym Badges**: 484
+**Pokedex Caught**: 474
+**Pokedex Seen**: 480
+**Fisherman**: 532
+**Youngster**: 839
+**Pikachu Fan**: 1847
+**Unown**: 20
+**Pilot**: 1,098,992
+**Gentleman**: 1964
+**Idol**: 107
+**Ace Trainer**: 2283
+**Great League Veteran**: 353
+**Ultra League Veteran**: 15
+**Master League Veteran**: 16
+    
+**Days Played**: 1057 days
+**XP**/day: 146,039
+**KM**/day: 4.4
+**Catches**/day: 181.74
+**Evolves**/day: 13.46
+**Hatches**/day: 7.76
+**Spins**/day: 144.18
+**Battles**/day: 34.48
+**Research**/day: 13.69
+**Berries**/day: 133.35
+**Gym Hours**/day: 100.63
+**Gold Gyms**/day: 0.24
+**Raids**/day: 1.78
+**Legendary Raids**/day: 1.85
+    

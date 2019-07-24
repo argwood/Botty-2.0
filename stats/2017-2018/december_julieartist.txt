@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: Julieartist
+**Level**: 32
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 3,510,900 *(3.0%)*
+**Gold Gyms**: 4 *(27.0%)*
+**Gym Badge**: 85 *(3.0%)*
+**Jogger**: 631.9 *(6.0%)*
+**Collector**: 5,279 *(4.0%)*
+**Scientist**: 608 *(7.0%)*
+**Breeder**: 322 *(7.0%)*
+**Backpacker**: 5,831 *(5.0%)*
+**Battle Girl**: 479 *(3.0%)*
+**Ace Trainer**: 18 *(7.0%)*
+**Berry Master**: 1,873 *(14.0%)*
+**Gym Leader**: 3,104 *(7.0%)*
+**Battle Legend**: 69 *(10.0%)*
+**Champion**: 25 *(1.0%)*
+**Pokedex Caught**: 273 *(8.0%)*
+**Pokedex Seen**: 300 *(15.0%)*
+    
+**Days Played**: 536 days
+**XP**/day: 6,550
+**KM**/day: 1.2
+**Catches**/day: 9.85
+**Evolves**/day: 1.13
+**Hatches**/day: 0.6
+**Spins**/day: 10.88
+**Battles**/day: 0.89
+**Berries**/day: 9.86
+**Gym Hours**/day: 16.34
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.13
+**Legendary Raids**/day: 0.16
+    

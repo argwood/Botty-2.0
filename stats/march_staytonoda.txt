@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: Staytonoda 
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 66,801,612 *(40.1%)*
+**Jogger**: 6,940.0 *(81.9%)*
+**Collector**: 124,397 *(79.1%)*
+**Scientist**: 11,586 *(74.7%)*
+**Breeder**: 2,313 *(33.0%)*
+**Backpacker**: 95,665 *(71.4%)*
+**Battle Girl**: 25,865 *(85.7%)*
+**Gold Gyms**: 68 *(60.4%)*
+    
+**Pokemon Ranger**: 3,020 *(44.0%)*
+**Berry Master**: 51,779 *(73.6%)*
+**Gym Leader**: 61,253 *(72.5%)*
+**Battle Legend**: 327 *(14.3%)*
+**Champion**: 361 *(54.4%)*
+    
+**Days Played**: 993 days
+**XP**/day: 67,272
+**KM**/day: 7.0
+**Catches**/day: 125.27
+**Evolves**/day: 11.67
+**Hatches**/day: 2.33
+**Spins**/day: 96.34
+**Battles**/day: 26.05
+**Research**/day: 8.25
+**Berries**/day: 80.03
+**Gym Hours**/day: 94.67
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.56
+**Legendary Raids**/day: 0.59
+    

@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: CobaltBlue05
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 28,256,547 *(41.7%)*
+**Gold Gyms**: 34 *(48.3%)*
+**Gym Badge**: 318 *(29.8%)*
+**Jogger**: 4,283.0 *(72.2%)*
+**Collector**: 38,647 *(34.4%)*
+**Scientist**: 4,111 *(43.7%)*
+**Breeder**: 1,781 *(43.7%)*
+**Backpacker**: 37,768 *(39.7%)*
+**Battle Girl**: 2,295 *(13.2%)*
+**Pokemon Ranger**: 688 *(39.7%)*
+**Berry Master**: 14,784 *(40.4%)*
+**Gym Leader**: 31,809 *(60.3%)*
+**Battle Legend**: 487 *(53.6%)*
+**Champion**: 107 *(25.8%)*
+**Pokedex Caught**: 366 *(72.8%)*
+**Pokedex Seen**: 370 *(20.5%)*
+    
+**Days Played**: 723 days
+**XP**/day: 39,082
+**KM**/day: 5.9
+**Catches**/day: 53.45
+**Evolves**/day: 5.69
+**Hatches**/day: 2.46
+**Spins**/day: 52.24
+**Battles**/day: 3.17
+**Quests**/day: 7.48
+**Berries**/day: 39.64
+**Gym Hours**/day: 85.28
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.29
+**Legendary Raids**/day: 0.31
+    

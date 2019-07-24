@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Decarlos28
+**Level**: 33
+**Team**: Instinct
+**Region**: North
+    
+**Total XP**: 4,646,307 *(2.4%)*
+**Gold Gyms**: 0 *(1.6%)*
+**Gym Badge**: 118 *(2.4%)*
+**Jogger**: 950.4 *(8.1%)*
+**Collector**: 5,771 *(0.8%)*
+**Scientist**: 524 *(4.8%)*
+**Breeder**: 569 *(12.9%)*
+**Backpacker**: 8,288 *(4.8%)*
+**Battle Girl**: 108 *(0.8%)*
+**Pokemon Ranger**: 79 *(8.9%)*
+**Berry Master**: 1,287 *(2.4%)*
+**Gym Leader**: 1,159 *(0.8%)*
+**Battle Legend**: 42 *(3.2%)*
+**Champion**: 65 *(12.9%)*
+**Pokedex Caught**: 347 *(28.2%)*
+**Pokedex Seen**: 362 *(10.5%)*
+    
+**Days Played**: 663 days
+**XP**/day: 7,008
+**KM**/day: 1.4
+**Catches**/day: 8.7
+**Evolves**/day: 0.79
+**Hatches**/day: 0.86
+**Spins**/day: 12.5
+**Battles**/day: 0.16
+**Quests**/day: 2.55
+**Berries**/day: 4.12
+**Gym Hours**/day: 3.71
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.21
+**Legendary Raids**/day: 0.23
+    

@@ -1,0 +1,54 @@
+**__DECEMBER__**
+    
+**Trainer**: ColgateMichelle
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 349
+**Monthly Rank**: 59
+    
+**Total XP**: 20,280,997 *(11.6%)*
+**Jogger**: 1,712.0 *(11.6%)*
+**Collector**: 16,858 *(9.9%)*
+**Scientist**: 1,240 *(12.4%)*
+**Breeder**: 1,444 *(26.4%)*
+**Backpacker**: 14,891 *(9.9%)*
+**Battle Girl**: 424 *(2.5%)*
+**Gold Gyms**: 2 *(4.1%)*
+    
+**Pokemon Ranger**: 554 *(9.1%)*
+**Berry Master**: 2,825 *(10.7%)*
+**Gym Leader**: 4,422 *(5.8%)*
+**Battle Legend**: 130 *(7.4%)*
+**Champion**: 120 *(13.2%)*
+    
+**Gym Badges**: 275
+**Pokedex Caught**: 432
+**Pokedex Seen**: 436
+**Fisherman**: 106
+**Youngster**: 60
+**Pikachu Fan**: 559
+**Unown**: 16
+**Pilot**: 1,953,828
+**Gentleman**: 1152
+**Idol**: 14
+**Ace Trainer**: 76
+**Great League Veteran**: 10
+**Ultra League Veteran**: 12
+**Master League Veteran**: 5
+    
+**Days Played**: 906 days
+**XP**/day: 22,385
+**KM**/day: 1.9
+**Catches**/day: 18.61
+**Evolves**/day: 1.37
+**Hatches**/day: 1.59
+**Spins**/day: 16.44
+**Battles**/day: 0.47
+**Research**/day: 2.02
+**Berries**/day: 5.09
+**Gym Hours**/day: 7.97
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.22
+**Legendary Raids**/day: 0.23
+    

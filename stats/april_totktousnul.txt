@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: totktousnul
+**Level**: 39
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 290
+**Monthly Rank**: 58
+    
+**Total XP**: 16,430,351 *(7.4%)*
+**Jogger**: 3,345.0 *(26.5%)*
+**Collector**: 25,880 *(10.6%)*
+**Scientist**: 1,691 *(17.5%)*
+**Breeder**: 1,220 *(16.9%)*
+**Backpacker**: 20,953 *(12.2%)*
+**Battle Girl**: 3,238 *(21.7%)*
+**Gold Gyms**: 32 *(33.9%)*
+    
+**Pokemon Ranger**: 1,914 *(21.7%)*
+**Berry Master**: 10,020 *(20.6%)*
+**Gym Leader**: 38,692 *(48.7%)*
+**Battle Legend**: 67 *(4.2%)*
+**Champion**: 139 *(15.9%)*
+    
+**Days Played**: 697 days
+**XP**/day: 23,572
+**KM**/day: 4.8
+**Catches**/day: 37.13
+**Evolves**/day: 2.43
+**Hatches**/day: 1.75
+**Spins**/day: 30.06
+**Battles**/day: 4.65
+**Research**/day: 4.83
+**Berries**/day: 14.8
+**Gym Hours**/day: 57.15
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.21
+**Legendary Raids**/day: 0.21
+    

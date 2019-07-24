@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: 1Nomi
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 35,019,007 *(24.1%)*
+**Jogger**: 3,167.6 *(26.8%)*
+**Collector**: 30,643 *(23.2%)*
+**Scientist**: 1,085 *(15.2%)*
+**Breeder**: 2,309 *(33.0%)*
+**Backpacker**: 19,918 *(18.8%)*
+**Battle Girl**: 1,075 *(10.7%)*
+**Gold Gyms**: 20 *(34.8%)*
+    
+**Pokemon Ranger**: 895 *(16.1%)*
+**Berry Master**: 1,878 *(13.4%)*
+**Gym Leader**: 8,068 *(18.8%)*
+**Battle Legend**: 583 *(39.3%)*
+**Champion**: 316 *(42.9%)*
+    
+**Days Played**: 1078 days
+**XP**/day: 32,485
+**KM**/day: 2.9
+**Catches**/day: 28.43
+**Evolves**/day: 1.01
+**Hatches**/day: 2.14
+**Spins**/day: 18.48
+**Battles**/day: 1.0
+**Research**/day: 1.96
+**Berries**/day: 2.55
+**Gym Hours**/day: 10.95
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.43
+**Legendary Raids**/day: 0.45
+    

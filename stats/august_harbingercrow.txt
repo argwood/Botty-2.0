@@ -1,0 +1,42 @@
+**__AUGUST__**
+    
+**Trainer**: HarbingerCrow
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 173
+**Monthly Rank**: N/A
+    
+**Total XP**: 25,922,344 *(22.5%)*
+**Jogger**: 3,441.7 *(53.3%)*
+**Collector**: 38,282 *(29.2%)*
+**Scientist**: 2,081 *(21.7%)*
+**Breeder**: 1,360 *(33.3%)*
+**Backpacker**: 32,287 *(27.5%)*
+**Battle Girl**: 5,462 *(38.3%)*
+**Gym Badge**: 889 *(85.0%)*
+**Gold Gyms**: 35 *(44.2%)*
+    
+**Pokemon Ranger**: 935 *(29.2%)*
+**Berry Master**: 16,970 *(43.3%)*
+**Gym Leader**: 29,946 *(50.8%)*
+**Battle Legend**: 421 *(41.7%)*
+**Champion**: 228 *(61.7%)*
+**Pokedex Caught**: 371.0 *(48.3%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Days Played**: 786 days
+**XP**/day: 32,980
+**KM**/day: 4.4
+**Catches**/day: 48.7
+**Evolves**/day: 2.65
+**Hatches**/day: 1.73
+**Spins**/day: 41.08
+**Battles**/day: 6.95
+**Research**/day: 6.07
+**Berries**/day: 39.01
+**Gym Hours**/day: 68.84
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.53
+**Legendary Raids**/day: 0.56
+    

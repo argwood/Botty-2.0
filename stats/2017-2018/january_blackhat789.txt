@@ -1,0 +1,37 @@
+**__JANUARY__**
+    
+**Trainer**: BlackHat789
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 36,531,323 *(86.0%)*
+**Gold Gyms**: 15 *(52.3%)*
+**Gym Badge**: 320 *(30.2%)*
+**Jogger**: 3,827.8 *(83.7%)*
+**Collector**: 61,463 *(88.4%)*
+**Scientist**: 11,682 *(97.7%)*
+**Breeder**: 2,742 *(82.6%)*
+**Backpacker**: 41,544 *(61.6%)*
+**Battle Girl**: 5,226 *(61.6%)*
+**Berry Master**: 5,215 *(31.4%)*
+**Gym Leader**: 16,762 *(60.5%)*
+**Battle Legend**: 200 *(33.7%)*
+**Champion**: 147 *(73.3%)*
+**Pokedex Caught**: 322 *(62.8%)*
+**Pokedex Seen**: 329 *(25.6%)*
+    
+**Days Played**: 563 days
+**XP**/day: 64,886
+**KM**/day: 6.8
+**Catches**/day: 109.17
+**Evolves**/day: 20.75
+**Hatches**/day: 4.87
+**Spins**/day: 73.79
+**Battles**/day: 9.28
+**Berries**/day: 23.92
+**Gym Hours**/day: 76.89
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.69
+**Legendary Raids**/day: 0.78
+    

@@ -1,0 +1,42 @@
+**__AUGUST__**
+    
+**Trainer**: VengefulHermes
+**Level**: 33
+**Team**: Valor
+**Region**: North
+**Overall Rank**: 371
+**Monthly Rank**: N/A
+    
+**Total XP**: 4,261,485 *(1.7%)*
+**Jogger**: 312.8 *(2.5%)*
+**Collector**: 5,397 *(2.5%)*
+**Scientist**: 336 *(3.3%)*
+**Breeder**: 166 *(2.5%)*
+**Backpacker**: 6,179 *(2.5%)*
+**Battle Girl**: 89 *(0.8%)*
+**Gym Badge**: 230 *(14.2%)*
+**Gold Gyms**: 0 *(1.7%)*
+    
+**Pokemon Ranger**: 129 *(0.8%)*
+**Berry Master**: 109 *(0.8%)*
+**Gym Leader**: 509 *(0.8%)*
+**Battle Legend**: 40 *(2.5%)*
+**Champion**: 25 *(1.7%)*
+**Pokedex Caught**: 290.0 *(2.5%)*
+**Pokedex Seen**: 336.0 *(1.7%)*
+    
+**Days Played**: 786 days
+**XP**/day: 5,421
+**KM**/day: 0.4
+**Catches**/day: 6.87
+**Evolves**/day: 0.43
+**Hatches**/day: 0.21
+**Spins**/day: 7.86
+**Battles**/day: 0.11
+**Research**/day: 0.84
+**Berries**/day: 0.25
+**Gym Hours**/day: 1.17
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.06
+**Legendary Raids**/day: 0.06
+    

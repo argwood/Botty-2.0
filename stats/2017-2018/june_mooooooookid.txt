@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: MooooooooKid
+**Level**: 40
+**Team**: Mystic
+**Region**: Loop
+    
+**Total XP**: 21,104,543 *(21.9%)*
+**Gold Gyms**: 4 *(9.3%)*
+**Gym Badge**: 196 *(13.9%)*
+**Jogger**: 2,080.6 *(30.5%)*
+**Collector**: 25,831 *(19.9%)*
+**Scientist**: 4,725 *(51.0%)*
+**Breeder**: 2,707 *(62.9%)*
+**Backpacker**: 37,421 *(39.1%)*
+**Battle Girl**: 1,120 *(6.6%)*
+**Pokemon Ranger**: 224 *(11.3%)*
+**Berry Master**: 4,177 *(11.3%)*
+**Gym Leader**: 2,522 *(4.6%)*
+**Battle Legend**: 123 *(10.6%)*
+**Champion**: 242 *(70.9%)*
+**Pokedex Caught**: 366 *(72.8%)*
+**Pokedex Seen**: 371 *(33.8%)*
+    
+**Days Played**: 718 days
+**XP**/day: 29,393
+**KM**/day: 2.9
+**Catches**/day: 35.98
+**Evolves**/day: 6.58
+**Hatches**/day: 3.77
+**Spins**/day: 52.12
+**Battles**/day: 1.56
+**Quests**/day: 2.43
+**Berries**/day: 11.2
+**Gym Hours**/day: 6.76
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.66
+**Legendary Raids**/day: 0.71
+    

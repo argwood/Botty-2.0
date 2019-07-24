@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: VSquared56
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 34,408,666 *(70.2%)*
+**Gold Gyms**: 51 *(78.2%)*
+**Gym Badge**: 474 *(52.4%)*
+**Jogger**: 3,819.6 *(74.2%)*
+**Collector**: 60,358 *(70.2%)*
+**Scientist**: 6,433 *(71.0%)*
+**Breeder**: 1,940 *(61.3%)*
+**Backpacker**: 53,560 *(71.8%)*
+**Battle Girl**: 10,518 *(81.5%)*
+**Pokemon Ranger**: 514 *(84.7%)*
+**Berry Master**: 19,552 *(72.6%)*
+**Gym Leader**: 40,878 *(73.4%)*
+**Battle Legend**: 196 *(23.4%)*
+**Champion**: 104 *(30.6%)*
+**Pokedex Caught**: 344 *(22.6%)*
+**Pokedex Seen**: 368 *(31.5%)*
+    
+**Days Played**: 586 days
+**XP**/day: 58,717
+**KM**/day: 6.5
+**Catches**/day: 103.0
+**Evolves**/day: 10.98
+**Hatches**/day: 3.31
+**Spins**/day: 91.4
+**Battles**/day: 17.95
+**Quests**/day: 16.58
+**Berries**/day: 62.67
+**Gym Hours**/day: 131.02
+**Gold Gyms**/day: 0.16
+**Raids**/day: 0.34
+**Legendary Raids**/day: 0.37
+    

@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: Scarrbon
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 32,719,847 *(82.0%)*
+**Gold Gyms**: 36 *(86.0%)*
+**Gym Badge**: 561 *(77.0%)*
+**Jogger**: 4,764.9 *(91.0%)*
+**Collector**: 72,243 *(97.0%)*
+**Scientist**: 5,064 *(62.0%)*
+**Breeder**: 1,488 *(52.0%)*
+**Backpacker**: 65,799 *(90.0%)*
+**Battle Girl**: 12,888 *(92.0%)*
+**Ace Trainer**: 4782 *(92.0%)*
+**Berry Master**: 16,775 *(90.0%)*
+**Gym Leader**: 30,040 *(84.0%)*
+**Battle Legend**: 185 *(46.0%)*
+**Champion**: 110 *(64.0%)*
+**Pokedex Caught**: 289 *(40.0%)*
+**Pokedex Seen**: 313 *(62.0%)*
+    
+**Days Played**: 543 days
+**XP**/day: 60,257
+**KM**/day: 8.8
+**Catches**/day: 133.04
+**Evolves**/day: 9.33
+**Hatches**/day: 2.74
+**Spins**/day: 121.18
+**Battles**/day: 23.73
+**Berries**/day: 86.92
+**Gym Hours**/day: 155.65
+**Gold Gyms**/day: 0.19
+**Raids**/day: 0.58
+**Legendary Raids**/day: 0.67
+    

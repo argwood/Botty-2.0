@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: Wyldhog 
+**Level**: 40
+**Team**: Instinct
+**Region**: West
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 34,291,320 *(40.0%)*
+**Jogger**: 4,937.0 *(81.7%)*
+**Collector**: 69,656 *(65.8%)*
+**Scientist**: 5,225 *(56.7%)*
+**Breeder**: 1,795 *(50.0%)*
+**Backpacker**: 62,236 *(70.0%)*
+**Battle Girl**: 9,108 *(55.0%)*
+**Gym Badge**: 441 *(41.7%)*
+**Gold Gyms**: 22 *(30.8%)*
+    
+**Pokemon Ranger**: 2,392 *(77.5%)*
+**Berry Master**: 17,166 *(46.7%)*
+**Gym Leader**: 28,805 *(48.3%)*
+**Battle Legend**: 170 *(11.7%)*
+**Champion**: 130 *(25.0%)*
+**Pokedex Caught**: 375.0 *(89.8%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 333
+**Youngster**: 557
+**Pikachu Fan**: 819
+**Unown**: 9
+**Pilot**: 405,305
+**Gentleman**: 797
+    
+**Days Played**: 807 days
+**XP**/day: 42,492
+**KM**/day: 6.1
+**Catches**/day: 86.31
+**Evolves**/day: 6.47
+**Hatches**/day: 2.22
+**Spins**/day: 77.12
+**Battles**/day: 11.29
+**Research**/day: 13.22
+**Berries**/day: 37.16
+**Gym Hours**/day: 62.35
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.28
+**Legendary Raids**/day: 0.3
+    

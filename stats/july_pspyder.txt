@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: PSpyder
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 94,879,335 *(95.9%)*
+**Jogger**: 5,978.2 *(90.8%)*
+**Collector**: 187,510 *(100.0%)*
+**Scientist**: 17,409 *(94.4%)*
+**Breeder**: 1,957 *(54.9%)*
+**Backpacker**: 164,126 *(97.9%)*
+**Battle Girl**: 52,448 *(99.0%)*
+**Gym Badge**: 1003 *(97.9%)*
+**Gold Gyms**: 144 *(92.8%)*
+    
+**Pokemon Ranger**: 3,409 *(93.3%)*
+**Berry Master**: 92,393 *(99.0%)*
+**Gym Leader**: 89,949 *(95.9%)*
+**Battle Legend**: 278 *(31.3%)*
+**Champion**: 135 *(40.0%)*
+**Pokedex Caught**: 367 *(41.0%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 332
+**Youngster**: 1814
+**Pikachu Fan**: 1196
+**Unown**: 8
+**Pilot**: 222,029
+**Gentleman**: 902
+    
+**Days Played**: 754 days
+**XP**/day: 125,834
+**KM**/day: 7.9
+**Catches**/day: 248.69
+**Evolves**/day: 23.09
+**Hatches**/day: 2.6
+**Spins**/day: 217.67
+**Battles**/day: 69.56
+**Research**/day: 27.72
+**Berries**/day: 228.7
+**Gym Hours**/day: 222.65
+**Gold Gyms**/day: 0.36
+**Raids**/day: 0.34
+**Legendary Raids**/day: 0.36
+    

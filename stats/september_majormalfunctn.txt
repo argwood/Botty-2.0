@@ -1,0 +1,50 @@
+**__SEPTEMBER__**
+    
+**Trainer**: MajorMalfunctn
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 120
+**Monthly Rank**: N/A
+    
+**Total XP**: 43,742,313 *(50.0%)*
+**Jogger**: 3,538.9 *(53.6%)*
+**Collector**: 60,454 *(50.0%)*
+**Scientist**: 1,111 *(16.4%)*
+**Breeder**: 1,833 *(46.4%)*
+**Backpacker**: 62,298 *(62.1%)*
+**Battle Girl**: 10,433 *(60.7%)*
+**Gym Badge**: 1000 *(97.9%)*
+**Gold Gyms**: 65 *(70.7%)*
+    
+**Pokemon Ranger**: 1,387 *(41.4%)*
+**Berry Master**: 30,029 *(63.6%)*
+**Gym Leader**: 63,713 *(84.3%)*
+**Battle Legend**: 666 *(64.3%)*
+**Champion**: 133 *(30.0%)*
+**Pokedex Caught**: 364.0 *(20.1%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 235
+**Youngster**: 526
+**Pikachu Fan**: 720
+**Unown**: 23
+**Pilot**: 1,050,500
+**Gentleman**: 317
+**Idol**: 11
+    
+**Days Played**: 814 days
+**XP**/day: 53,737
+**KM**/day: 4.3
+**Catches**/day: 74.27
+**Evolves**/day: 1.36
+**Hatches**/day: 2.25
+**Spins**/day: 76.53
+**Battles**/day: 12.82
+**Research**/day: 7.54
+**Berries**/day: 64.58
+**Gym Hours**/day: 137.02
+**Gold Gyms**/day: 0.14
+**Raids**/day: 0.29
+**Legendary Raids**/day: 0.31
+    

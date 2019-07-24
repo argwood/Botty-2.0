@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: CrazyCatWife
+**Level**: 36
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 8,244,066 *(12.0%)*
+**Gold Gyms**: 2 *(11.0%)*
+**Gym Badge**: 330 *(41.0%)*
+**Jogger**: 808.0 *(7.0%)*
+**Collector**: 14,680 *(14.0%)*
+**Scientist**: 1,859 *(22.0%)*
+**Breeder**: 1,080 *(38.0%)*
+**Backpacker**: 15,632 *(20.0%)*
+**Battle Girl**: 834 *(6.0%)*
+**Ace Trainer**: 287 *(31.0%)*
+**Berry Master**: 4,184 *(31.0%)*
+**Gym Leader**: 10,235 *(45.0%)*
+**Battle Legend**: 49 *(6.0%)*
+**Champion**: 36 *(4.0%)*
+**Pokedex Caught**: 281 *(22.0%)*
+**Pokedex Seen**: 300 *(15.0%)*
+    
+**Days Played**: 537 days
+**XP**/day: 15,352
+**KM**/day: 1.5
+**Catches**/day: 27.34
+**Evolves**/day: 3.46
+**Hatches**/day: 2.01
+**Spins**/day: 29.11
+**Battles**/day: 1.55
+**Berries**/day: 22.02
+**Gym Hours**/day: 53.87
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.19
+**Legendary Raids**/day: 0.23
+    

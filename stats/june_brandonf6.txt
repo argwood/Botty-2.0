@@ -1,0 +1,54 @@
+**__JUNE__**
+    
+**Trainer**: Brandonf6
+**Level**: 40
+**Team**: Instinct
+**Region**: Other
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 97,310,953 *(68.8%)*
+**Jogger**: 5,851.0 *(63.4%)*
+**Collector**: 140,996 *(82.1%)*
+**Scientist**: 8,414 *(72.3%)*
+**Breeder**: 3,741 *(64.3%)*
+**Backpacker**: 103,941 *(76.8%)*
+**Battle Girl**: 30,101 *(91.1%)*
+**Gold Gyms**: 228 *(92.9%)*
+    
+**Pokemon Ranger**: 7,549 *(85.7%)*
+**Berry Master**: 70,998 *(86.6%)*
+**Gym Leader**: 126,139 *(93.8%)*
+**Battle Legend**: 1068 *(67.0%)*
+**Champion**: 824 *(88.4%)*
+    
+**Gym Badges**: 464
+**Pokedex Caught**: 484
+**Pokedex Seen**: 484
+**Fisherman**: 446
+**Youngster**: 722
+**Pikachu Fan**: 1609
+**Unown**: 28
+**Pilot**: 5,099,855
+**Gentleman**: 11108
+**Idol**: 86
+**Ace Trainer**: 819
+**Great League Veteran**: 237
+**Ultra League Veteran**: 211
+**Master League Veteran**: 200
+    
+**Days Played**: 1089 days
+**XP**/day: 89,358
+**KM**/day: 5.4
+**Catches**/day: 129.47
+**Evolves**/day: 7.73
+**Hatches**/day: 3.44
+**Spins**/day: 95.45
+**Battles**/day: 27.64
+**Research**/day: 16.52
+**Berries**/day: 96.2
+**Gym Hours**/day: 170.92
+**Gold Gyms**/day: 0.31
+**Raids**/day: 1.12
+**Legendary Raids**/day: 1.16
+    

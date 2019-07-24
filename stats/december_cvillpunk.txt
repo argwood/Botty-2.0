@@ -1,0 +1,39 @@
+**__DECEMBER__**
+    
+**Trainer**: Cvillpunk
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 35
+**Monthly Rank**: 19
+    
+**Total XP**: 77,383,492 *(75.2%)*
+**Jogger**: 3,000.0 *(38.0%)*
+**Collector**: 115,862 *(81.8%)*
+**Scientist**: 5,488 *(52.9%)*
+**Breeder**: 2,812 *(58.7%)*
+**Backpacker**: 91,503 *(77.7%)*
+**Battle Girl**: 27,783 *(94.2%)*
+**Gold Gyms**: 121 *(87.6%)*
+    
+**Pokemon Ranger**: 6,630 *(90.9%)*
+**Berry Master**: 69,674 *(92.6%)*
+**Gym Leader**: 55,909 *(75.2%)*
+**Battle Legend**: 931 *(79.3%)*
+**Champion**: 563 *(83.5%)*
+    
+**Days Played**: 907 days
+**XP**/day: 85,318
+**KM**/day: 3.3
+**Catches**/day: 127.74
+**Evolves**/day: 6.05
+**Hatches**/day: 3.1
+**Spins**/day: 100.89
+**Battles**/day: 30.63
+**Research**/day: 24.02
+**Berries**/day: 125.09
+**Gym Hours**/day: 100.38
+**Gold Gyms**/day: 0.22
+**Raids**/day: 1.02
+**Legendary Raids**/day: 1.07
+    

@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: UhhKat
+**Level**: 33
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 3,906,410 *(12.0%)*
+**Gold Gyms**: 1 *(15.8%)*
+**Gym Badge**: 135 *(12.8%)*
+**Jogger**: 732.8 *(12.8%)*
+**Collector**: 5,392 *(9.0%)*
+**Scientist**: 729 *(14.3%)*
+**Breeder**: 651 *(27.1%)*
+**Backpacker**: 4,636 *(6.8%)*
+**Battle Girl**: 767 *(12.8%)*
+**Ace Trainer**: 261 *(30.1%)*
+**Berry Master**: 849 *(10.5%)*
+**Gym Leader**: 2,869 *(15.8%)*
+**Battle Legend**: 30 *(4.5%)*
+**Champion**: 46 *(24.8%)*
+**Pokedex Caught**: 245 *(33.1%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 504 days
+**XP**/day: 7,750
+**KM**/day: 1.5
+**Catches**/day: 10.7
+**Evolves**/day: 1.45
+**Catches**/evolve: 7.4
+**Hatches**/day: 1.29
+**KM**/egg: 1.13
+**Spins**/day: 9.2
+**Battles**/day: 1.52
+**Berries**/day: 5.48
+**Gym Hours**/day: 18.51
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.3
+**Legendary Raids**/day: 0.37
+    

@@ -1,0 +1,37 @@
+**Trainer**: 19Luigi84
+**Level**: 40.0
+**Team**: Mystic
+**Region**: North
+    
+**Total XP** Percentile: 57.5 %
+**Gold Gyms** Percentile: 34.1 %
+**Gym Badge** Percentile: 20.4 %
+**Jogger** Percentile: 82.3 %
+**Collector** Percentile: 76.1 %
+**Scientist** Percentile: 92.9 %
+**Breeder** Percentile: 46.9 %
+**Backpacker** Percentile: 71.7 %
+**Battle Girl** Percentile: 58.4 %
+**Berry Master** Percentile: 65.5 %
+**Gym Leader** Percentile: 42.5 %
+**Battle Legend** Percentile: 53.1 %
+**Champion** Percentile: 4.0 %
+**Pokedex Caught** Percentile: 83.6 %
+**Pokedex Seen** Percentile: 93.8 %
+    
+**Days Played**: 591 days
+**XP**/day: 40036
+**KM**/day: 6.8
+**Catches**/day: 96.34
+**Evolves**/day: 14.22
+**Catches**/evolve: 6.77
+**Hatches**/day: 2.34
+**KM**/egg: 2.89
+**Spins**/day: 80.57
+**Battles**/day: 8.34
+**Berries**/day: 48.73
+**Gym Hours**/day: 59.49
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.18
+**Legendary Raids**/day: 0.2
+    

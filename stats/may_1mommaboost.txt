@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: 1MommaBoost
+**Level**: 40
+**Team**: Valor
+**Region**: Other
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 44,133,692 *(30.0%)*
+**Jogger**: 4,372.1 *(46.7%)*
+**Collector**: 24,528 *(13.3%)*
+**Scientist**: 1,022 *(12.5%)*
+**Breeder**: 3,418 *(57.5%)*
+**Backpacker**: 29,674 *(25.0%)*
+**Battle Girl**: 9,044 *(53.3%)*
+**Gold Gyms**: 86 *(68.3%)*
+    
+**Pokemon Ranger**: 1,211 *(16.7%)*
+**Berry Master**: 12,592 *(26.7%)*
+**Gym Leader**: 68,864 *(74.2%)*
+**Battle Legend**: 1038 *(68.3%)*
+**Champion**: 563 *(75.0%)*
+    
+**Days Played**: 1053 days
+**XP**/day: 41,912
+**KM**/day: 4.2
+**Catches**/day: 23.29
+**Evolves**/day: 0.97
+**Hatches**/day: 3.25
+**Spins**/day: 28.18
+**Battles**/day: 8.59
+**Research**/day: 2.84
+**Berries**/day: 17.81
+**Gym Hours**/day: 97.4
+**Gold Gyms**/day: 0.12
+**Raids**/day: 0.8
+**Legendary Raids**/day: 0.83
+    

@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: Rachiesx3
+**Level**: 38
+**Team**: Mystic
+**Region**: Other
+    
+**Total XP**: 13,846,868 *(21.5%)*
+**Jogger**: 1,462.1 *(20.5%)*
+**Collector**: 30,970 *(33.3%)*
+**Scientist**: 3,624 *(45.1%)*
+**Breeder**: 964 *(25.1%)*
+**Backpacker**: 25,686 *(32.8%)*
+**Battle Girl**: 2,714 *(28.7%)*
+**Gym Badge**: 224 *(21.5%)*
+**Gold Gyms**: 8 *(27.2%)*
+    
+**Pokemon Ranger**: 330 *(15.9%)*
+**Berry Master**: 7,643 *(31.8%)*
+**Gym Leader**: 6,221 *(22.1%)*
+**Battle Legend**: 57 *(10.3%)*
+**Champion**: 113 *(30.8%)*
+**Pokedex Caught**: 360 *(23.6%)*
+**Pokedex Seen**: 367 *(13.8%)*
+    
+**Fisherman**: 87
+**Youngster**: 363
+**Pikachu Fan**: 337
+**Unown**: 6
+**Pilot**: 0
+**Gentleman**: 0
+    
+**Days Played**: 754 days
+**XP**/day: 18,364
+**KM**/day: 1.9
+**Catches**/day: 41.07
+**Evolves**/day: 4.81
+**Hatches**/day: 1.28
+**Spins**/day: 34.07
+**Battles**/day: 3.6
+**Research**/day: 2.68
+**Berries**/day: 18.92
+**Gym Hours**/day: 15.4
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.28
+**Legendary Raids**/day: 0.3
+    

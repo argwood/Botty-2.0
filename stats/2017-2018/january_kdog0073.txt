@@ -1,0 +1,37 @@
+**Trainer**: Kdog0073
+**Level**: 38.0
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP** Percentile: 22.1 %
+**Gold Gyms** Percentile: 87.2 %
+**Gym Badge** Percentile: 5.3 %
+**Jogger** Percentile: 8.0 %
+**Collector** Percentile: 16.8 %
+**Scientist** Percentile: 28.3 %
+**Breeder** Percentile: 18.6 %
+**Backpacker** Percentile: 16.8 %
+**Battle Girl** Percentile: 66.4 %
+**Berry Master** Percentile: 33.6 %
+**Gym Leader** Percentile: 80.5 %
+**Battle Legend** Percentile: 49.6 %
+**Champion** Percentile: 2.7 %
+**Pokedex Caught** Percentile: 27.9 %
+**Pokedex Seen** Percentile: 62.4 %
+    
+**Days Played**: 600 days
+**XP**/day: 22143
+**KM**/day: 1.9
+**Catches**/day: 28.3
+**Evolves**/day: 4.12
+**Catches**/evolve: 6.87
+**Hatches**/day: 1.31
+**KM**/egg: 1.43
+**Spins**/day: 26.46
+**Battles**/day: 10.17
+**Berries**/day: 25.06
+**Gym Hours**/day: 146.96
+**Gold Gyms**/day: 0.23
+**Raids**/day: 0.13
+**Legendary Raids**/day: 0.15
+    

@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: Agentbrownie1
+**Level**: 34
+**Team**: Instinct
+**Region**: North
+**Overall Rank**: 430
+**Monthly Rank**: N/A
+    
+**Total XP**: 5,726,749 *(7.9%)*
+**Jogger**: 579.0 *(6.1%)*
+**Collector**: 7,249 *(7.0%)*
+**Scientist**: 281 *(4.4%)*
+**Breeder**: 307 *(7.0%)*
+**Backpacker**: 5,392 *(6.1%)*
+**Battle Girl**: 697 *(7.0%)*
+**Gold Gyms**: 1 *(10.5%)*
+    
+**Pokemon Ranger**: 390 *(7.9%)*
+**Berry Master**: 452 *(3.5%)*
+**Gym Leader**: 660 *(3.5%)*
+**Battle Legend**: 71 *(9.6%)*
+**Champion**: 65 *(10.5%)*
+    
+**Days Played**: -159 days
+**XP**/day: -36,017
+**KM**/day: -3.6
+**Catches**/day: -45.59
+**Evolves**/day: -1.77
+**Hatches**/day: -1.93
+**Spins**/day: -33.91
+**Battles**/day: -4.38
+**Research**/day: 1.27
+**Berries**/day: 0.77
+**Gym Hours**/day: 1.12
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.11
+**Legendary Raids**/day: 0.12
+    

@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: SleepyBoi721
+**Level**: 40
+**Team**: Mystic
+**Region**: Loop
+**Overall Rank**: 306
+**Monthly Rank**: N/A
+    
+**Total XP**: 21,160,460 *(6.6%)*
+**Jogger**: 3,066.0 *(19.8%)*
+**Collector**: 28,381 *(9.9%)*
+**Scientist**: 3,069 *(25.3%)*
+**Breeder**: 1,437 *(19.2%)*
+**Backpacker**: 29,022 *(15.9%)*
+**Battle Girl**: 2,174 *(9.9%)*
+**Gold Gyms**: 6 *(7.1%)*
+    
+**Pokemon Ranger**: 1,154 *(8.8%)*
+**Berry Master**: 7,808 *(13.2%)*
+**Gym Leader**: 5,594 *(6.6%)*
+**Battle Legend**: 108 *(3.8%)*
+**Champion**: 158 *(18.1%)*
+    
+**Days Played**: 964 days
+**XP**/day: 21,950
+**KM**/day: 3.2
+**Catches**/day: 29.44
+**Evolves**/day: 3.18
+**Hatches**/day: 1.49
+**Spins**/day: 30.11
+**Battles**/day: 2.26
+**Research**/day: 3.47
+**Berries**/day: 12.72
+**Gym Hours**/day: 9.11
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.26
+**Legendary Raids**/day: 0.27
+    

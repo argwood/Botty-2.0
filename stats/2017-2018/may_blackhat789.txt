@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: BlackHat789
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 52,816,186 *(86.6%)*
+**Gold Gyms**: 31 *(55.7%)*
+**Gym Badge**: 478 *(54.4%)*
+**Jogger**: 4,826.7 *(84.6%)*
+**Collector**: 85,376 *(89.3%)*
+**Scientist**: 15,863 *(96.6%)*
+**Breeder**: 3,358 *(80.5%)*
+**Backpacker**: 53,708 *(70.5%)*
+**Battle Girl**: 9,058 *(74.5%)*
+**Pokemon Ranger**: 769 *(73.2%)*
+**Berry Master**: 12,583 *(45.0%)*
+**Gym Leader**: 23,058 *(55.7%)*
+**Battle Legend**: 323 *(40.3%)*
+**Champion**: 225 *(78.5%)*
+**Pokedex Caught**: 363 *(65.1%)*
+**Pokedex Seen**: 370 *(37.6%)*
+    
+**Days Played**: 688 days
+**XP**/day: 76,767
+**KM**/day: 7.0
+**Catches**/day: 124.09
+**Evolves**/day: 23.06
+**Hatches**/day: 4.88
+**Spins**/day: 78.06
+**Battles**/day: 13.17
+**Quests**/day: 12.4
+**Berries**/day: 36.69
+**Gym Hours**/day: 67.22
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.66
+**Legendary Raids**/day: 0.72
+    

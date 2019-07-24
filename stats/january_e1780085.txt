@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: E1780085
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 157
+**Monthly Rank**: 58
+    
+**Total XP**: 41,184,789 *(30.7%)*
+**Jogger**: 3,203.0 *(36.8%)*
+**Collector**: 34,184 *(24.6%)*
+**Scientist**: 4,081 *(43.0%)*
+**Breeder**: 1,277 *(22.8%)*
+**Backpacker**: 33,916 *(30.7%)*
+**Battle Girl**: 18,913 *(84.2%)*
+**Gold Gyms**: 170 *(91.2%)*
+    
+**Pokemon Ranger**: 931 *(16.7%)*
+**Berry Master**: 21,229 *(42.1%)*
+**Gym Leader**: 110,676 *(93.9%)*
+**Battle Legend**: 441 *(33.3%)*
+**Champion**: 297 *(50.9%)*
+    
+**Days Played**: 924 days
+**XP**/day: 44,572
+**KM**/day: 3.5
+**Catches**/day: 37.0
+**Evolves**/day: 4.42
+**Hatches**/day: 1.38
+**Spins**/day: 36.71
+**Battles**/day: 20.47
+**Research**/day: 3.03
+**Berries**/day: 36.1
+**Gym Hours**/day: 188.22
+**Gold Gyms**/day: 0.29
+**Raids**/day: 0.51
+**Legendary Raids**/day: 0.53
+    

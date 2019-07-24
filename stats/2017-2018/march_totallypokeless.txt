@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: TotallyPokeless
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 27,459,986 *(58.6%)*
+**Gold Gyms**: 21 *(47.7%)*
+**Gym Badge**: 225 *(10.8%)*
+**Jogger**: 3,281.8 *(60.4%)*
+**Collector**: 48,432 *(64.9%)*
+**Scientist**: 8,040 *(81.1%)*
+**Breeder**: 2,733 *(73.9%)*
+**Backpacker**: 39,984 *(50.5%)*
+**Battle Girl**: 6,251 *(57.7%)*
+**Berry Master**: 5,924 *(22.5%)*
+**Gym Leader**: 18,882 *(51.4%)*
+**Battle Legend**: 316 *(39.6%)*
+**Champion**: 100 *(35.1%)*
+**Pokedex Caught**: 348 *(24.3%)*
+**Pokedex Seen**: 367 *(47.7%)*
+    
+**Days Played**: 633 days
+**XP**/day: 43,380
+**KM**/day: 5.2
+**Catches**/day: 76.51
+**Evolves**/day: 12.7
+**Hatches**/day: 4.32
+**Spins**/day: 63.17
+**Battles**/day: 9.88
+**Berries**/day: 21.01
+**Gym Hours**/day: 66.96
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.36
+**Legendary Raids**/day: 0.4
+    

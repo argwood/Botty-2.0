@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Franco4785
+**Level**: 40
+**Team**: Instinct
+**Region**: South
+    
+**Total XP**: 29,245,477 *(44.4%)*
+**Gold Gyms**: 9 *(15.2%)*
+**Gym Badge**: 715 *(71.5%)*
+**Jogger**: 2,324.9 *(33.1%)*
+**Collector**: 49,494 *(46.4%)*
+**Scientist**: 3,871 *(41.7%)*
+**Breeder**: 805 *(16.6%)*
+**Backpacker**: 40,527 *(44.4%)*
+**Battle Girl**: 5,359 *(45.0%)*
+**Pokemon Ranger**: 945 *(56.3%)*
+**Berry Master**: 12,136 *(33.8%)*
+**Gym Leader**: 13,009 *(26.5%)*
+**Battle Legend**: 560 *(67.5%)*
+**Champion**: 62 *(10.6%)*
+**Pokedex Caught**: 349 *(12.6%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: 723 days
+**XP**/day: 40,450
+**KM**/day: 3.2
+**Catches**/day: 68.46
+**Evolves**/day: 5.35
+**Hatches**/day: 1.11
+**Spins**/day: 56.05
+**Battles**/day: 7.41
+**Quests**/day: 10.38
+**Berries**/day: 32.62
+**Gym Hours**/day: 34.97
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.17
+**Legendary Raids**/day: 0.18
+    

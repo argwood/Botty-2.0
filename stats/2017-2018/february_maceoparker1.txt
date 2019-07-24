@@ -1,0 +1,37 @@
+**__FEBRUARY__**
+    
+**Trainer**: MaceoParker1
+**Level**: 38
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 14,193,358 *(25.7%)*
+**Gold Gyms**: 23 *(61.1%)*
+**Gym Badge**: 260 *(16.8%)*
+**Jogger**: 1,770.0 *(30.1%)*
+**Collector**: 23,490 *(26.5%)*
+**Scientist**: 3,594 *(41.6%)*
+**Breeder**: 766 *(17.7%)*
+**Backpacker**: 17,868 *(20.4%)*
+**Battle Girl**: 3,731 *(46.0%)*
+**Berry Master**: 10,417 *(54.0%)*
+**Gym Leader**: 17,404 *(51.3%)*
+**Battle Legend**: 169 *(23.0%)*
+**Champion**: 133 *(62.8%)*
+**Pokedex Caught**: 352 *(73.5%)*
+**Pokedex Seen**: 367 *(86.7%)*
+    
+**Days Played**: 309 days
+**XP**/day: 45,933
+**KM**/day: 5.7
+**Catches**/day: 76.02
+**Evolves**/day: 11.63
+**Hatches**/day: 2.48
+**Spins**/day: 57.83
+**Battles**/day: 12.07
+**Berries**/day: 41.5
+**Gym Hours**/day: 69.34
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.54
+**Legendary Raids**/day: 0.6
+    

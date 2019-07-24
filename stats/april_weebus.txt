@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Weebus
+**Level**: 34
+**Team**: Instinct
+**Region**: South
+**Overall Rank**: 468
+**Monthly Rank**: N/A
+    
+**Total XP**: 5,414,870 *(3.7%)*
+**Jogger**: 1,010.1 *(3.7%)*
+**Collector**: 4,692 *(2.1%)*
+**Scientist**: 224 *(2.1%)*
+**Breeder**: 266 *(3.7%)*
+**Backpacker**: 2,892 *(1.6%)*
+**Battle Girl**: 439 *(2.1%)*
+**Gold Gyms**: 0 *(1.6%)*
+    
+**Pokemon Ranger**: 480 *(4.8%)*
+**Berry Master**: 177 *(1.6%)*
+**Gym Leader**: 445 *(1.6%)*
+**Battle Legend**: 101 *(6.3%)*
+**Champion**: 48 *(3.7%)*
+    
+**Days Played**: 1028 days
+**XP**/day: 5,267
+**KM**/day: 1.0
+**Catches**/day: 4.56
+**Evolves**/day: 0.22
+**Hatches**/day: 0.26
+**Spins**/day: 2.81
+**Battles**/day: 0.43
+**Research**/day: 1.21
+**Berries**/day: 0.26
+**Gym Hours**/day: 0.66
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.07
+**Legendary Raids**/day: 0.07
+    

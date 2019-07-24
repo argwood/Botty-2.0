@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: RedWarpPrism
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 61,972,451 *(97.3%)*
+**Gold Gyms**: 48 *(82.0%)*
+**Gym Badge**: 338 *(25.2%)*
+**Jogger**: 6,781.9 *(99.1%)*
+**Collector**: 125,599 *(100.0%)*
+**Scientist**: 21,238 *(100.0%)*
+**Breeder**: 3,354 *(83.8%)*
+**Backpacker**: 95,442 *(94.6%)*
+**Battle Girl**: 41,529 *(100.0%)*
+**Berry Master**: 38,967 *(97.3%)*
+**Gym Leader**: 26,958 *(66.7%)*
+**Battle Legend**: 461 *(77.5%)*
+**Champion**: 122 *(49.5%)*
+**Pokedex Caught**: 358 *(60.4%)*
+**Pokedex Seen**: 368 *(93.7%)*
+    
+**Days Played**: 630 days
+**XP**/day: 98,368
+**KM**/day: 10.8
+**Catches**/day: 199.36
+**Evolves**/day: 33.71
+**Hatches**/day: 5.32
+**Spins**/day: 151.5
+**Battles**/day: 65.92
+**Berries**/day: 138.18
+**Gym Hours**/day: 95.6
+**Gold Gyms**/day: 0.17
+**Raids**/day: 0.44
+**Legendary Raids**/day: 0.48
+    

@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Chrissy91
+**Level**: 40
+**Team**: Instinct
+**Region**: North
+    
+**Total XP**: 42,321,614 *(83.1%)*
+**Gold Gyms**: 35 *(63.7%)*
+**Gym Badge**: 920 *(89.5%)*
+**Jogger**: 2,231.9 *(38.7%)*
+**Collector**: 47,668 *(61.3%)*
+**Scientist**: 1,594 *(21.0%)*
+**Breeder**: 1,299 *(43.5%)*
+**Backpacker**: 46,596 *(62.1%)*
+**Battle Girl**: 3,554 *(34.7%)*
+**Pokemon Ranger**: 367 *(72.6%)*
+**Berry Master**: 24,063 *(80.6%)*
+**Gym Leader**: 15,971 *(40.3%)*
+**Battle Legend**: 1143 *(96.8%)*
+**Champion**: 646 *(100.0%)*
+**Pokedex Caught**: 358 *(44.4%)*
+**Pokedex Seen**: 370 *(99.2%)*
+    
+**Days Played**: 654 days
+**XP**/day: 64,711
+**KM**/day: 3.4
+**Catches**/day: 72.89
+**Evolves**/day: 2.44
+**Hatches**/day: 1.99
+**Spins**/day: 71.25
+**Battles**/day: 5.43
+**Quests**/day: 12.66
+**Berries**/day: 77.62
+**Gym Hours**/day: 51.52
+**Gold Gyms**/day: 0.11
+**Raids**/day: 2.11
+**Legendary Raids**/day: 2.31
+    

@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Ikitoro
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 33,390,151 *(52.3%)*
+**Gold Gyms**: 67 *(76.8%)*
+**Gym Badge**: 342 *(33.1%)*
+**Jogger**: 3,510.8 *(57.6%)*
+**Collector**: 47,046 *(44.4%)*
+**Scientist**: 3,747 *(39.7%)*
+**Breeder**: 1,131 *(24.5%)*
+**Backpacker**: 63,241 *(69.5%)*
+**Battle Girl**: 14,897 *(81.5%)*
+**Pokemon Ranger**: 1,272 *(72.2%)*
+**Berry Master**: 59,414 *(94.7%)*
+**Gym Leader**: 28,061 *(55.6%)*
+**Battle Legend**: 445 *(43.7%)*
+**Champion**: 93 *(17.2%)*
+**Pokedex Caught**: 359 *(19.2%)*
+**Pokedex Seen**: 372 *(94.7%)*
+    
+**Days Played**: 723 days
+**XP**/day: 46,182
+**KM**/day: 4.9
+**Catches**/day: 65.07
+**Evolves**/day: 5.18
+**Hatches**/day: 1.56
+**Spins**/day: 87.47
+**Battles**/day: 20.6
+**Quests**/day: 13.98
+**Berries**/day: 159.72
+**Gym Hours**/day: 75.43
+**Gold Gyms**/day: 0.18
+**Raids**/day: 0.25
+**Legendary Raids**/day: 0.27
+    

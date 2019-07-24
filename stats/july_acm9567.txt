@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: ACM9567
+**Level**: 40
+**Team**: Valor
+**Region**: South
+    
+**Total XP**: 22,575,280 *(31.8%)*
+**Jogger**: 1,893.0 *(26.2%)*
+**Collector**: 26,649 *(28.2%)*
+**Scientist**: 3,459 *(44.1%)*
+**Breeder**: 1,808 *(50.8%)*
+**Backpacker**: 21,419 *(27.2%)*
+**Battle Girl**: 3,390 *(36.9%)*
+**Gym Badge**: 180 *(14.9%)*
+**Gold Gyms**: 18 *(40.0%)*
+    
+**Pokemon Ranger**: 913 *(45.1%)*
+**Berry Master**: 9,554 *(36.9%)*
+**Gym Leader**: 7,329 *(25.1%)*
+**Battle Legend**: 339 *(36.9%)*
+**Champion**: 174 *(55.4%)*
+**Pokedex Caught**: 368 *(48.7%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Days Played**: 754 days
+**XP**/day: 29,940
+**KM**/day: 2.5
+**Catches**/day: 35.34
+**Evolves**/day: 4.59
+**Hatches**/day: 2.4
+**Spins**/day: 28.41
+**Battles**/day: 4.5
+**Research**/day: 7.42
+**Berries**/day: 23.65
+**Gym Hours**/day: 18.14
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.43
+**Legendary Raids**/day: 0.47
+    

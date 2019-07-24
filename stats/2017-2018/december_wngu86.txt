@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: Wngu86
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 29,348,182 *(77.0%)*
+**Gold Gyms**: 53 *(95.0%)*
+**Gym Badge**: 592 *(82.0%)*
+**Jogger**: 3,017.5 *(67.0%)*
+**Collector**: 44,198 *(66.0%)*
+**Scientist**: 5,031 *(61.0%)*
+**Breeder**: 1,740 *(66.0%)*
+**Backpacker**: 40,742 *(66.0%)*
+**Battle Girl**: 10,658 *(86.0%)*
+**Ace Trainer**: 357 *(35.0%)*
+**Berry Master**: 14,406 *(86.0%)*
+**Gym Leader**: 29,929 *(83.0%)*
+**Battle Legend**: 647 *(97.0%)*
+**Champion**: 237 *(97.0%)*
+**Pokedex Caught**: 309 *(90.0%)*
+**Pokedex Seen**: 319 *(96.0%)*
+    
+**Days Played**: 541 days
+**XP**/day: 54,248
+**KM**/day: 5.6
+**Catches**/day: 81.7
+**Evolves**/day: 9.3
+**Hatches**/day: 3.22
+**Spins**/day: 75.31
+**Battles**/day: 19.7
+**Berries**/day: 75.82
+**Gym Hours**/day: 157.52
+**Gold Gyms**/day: 0.28
+**Raids**/day: 1.27
+**Legendary Raids**/day: 1.48
+    

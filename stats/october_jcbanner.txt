@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: JCBanner
+**Level**: 37
+**Team**: Instinct
+**Region**: North
+**Overall Rank**: 351
+**Monthly Rank**: N/A
+    
+**Total XP**: 11,077,616 *(8.6%)*
+**Jogger**: 656.8 *(6.4%)*
+**Collector**: 6,959 *(5.0%)*
+**Scientist**: 430 *(5.0%)*
+**Breeder**: 791 *(13.6%)*
+**Backpacker**: 5,174 *(5.0%)*
+**Battle Girl**: 1,754 *(15.0%)*
+**Gym Badge**: 110 *(6.4%)*
+**Gold Gyms**: 5 *(12.1%)*
+    
+**Pokemon Ranger**: 671 *(17.1%)*
+**Berry Master**: 1,963 *(9.3%)*
+**Gym Leader**: 4,861 *(12.1%)*
+**Battle Legend**: 191 *(15.7%)*
+**Champion**: 60 *(8.6%)*
+**Pokedex Caught**: 377.0 *(13.3%)*
+**Pokedex Seen**: 397.0 *(22.8%)*
+    
+**Days Played**: 846 days
+**XP**/day: 13,094
+**KM**/day: 0.8
+**Catches**/day: 8.23
+**Evolves**/day: 0.51
+**Hatches**/day: 0.93
+**Spins**/day: 6.12
+**Battles**/day: 2.07
+**Research**/day: 3.12
+**Berries**/day: 3.96
+**Gym Hours**/day: 9.8
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.12
+**Legendary Raids**/day: 0.13
+    

@@ -1,0 +1,37 @@
+**__FEBRUARY__**
+    
+**Trainer**: SyedRoseGold
+**Level**: 39
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 19,184,771 *(37.2%)*
+**Gold Gyms**: 19 *(50.4%)*
+**Gym Badge**: 371 *(41.6%)*
+**Jogger**: 1,883.5 *(31.9%)*
+**Collector**: 32,674 *(40.7%)*
+**Scientist**: 4,653 *(53.1%)*
+**Breeder**: 1,808 *(61.9%)*
+**Backpacker**: 30,059 *(38.9%)*
+**Battle Girl**: 5,605 *(61.1%)*
+**Berry Master**: 7,983 *(42.5%)*
+**Gym Leader**: 21,505 *(61.1%)*
+**Battle Legend**: 255 *(45.1%)*
+**Champion**: 114 *(49.6%)*
+**Pokedex Caught**: 346 *(45.1%)*
+**Pokedex Seen**: 366 *(70.8%)*
+    
+**Days Played**: 600 days
+**XP**/day: 31,974
+**KM**/day: 3.1
+**Catches**/day: 54.46
+**Evolves**/day: 7.75
+**Hatches**/day: 3.01
+**Spins**/day: 50.1
+**Battles**/day: 9.34
+**Berries**/day: 31.8
+**Gym Hours**/day: 85.68
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.46
+**Legendary Raids**/day: 0.52
+    

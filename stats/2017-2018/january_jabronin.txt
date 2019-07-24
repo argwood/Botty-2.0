@@ -1,0 +1,37 @@
+**Trainer**: Jabronin
+**Level**: 39.0
+**Team**: Mystic
+**Region**: Loop
+    
+**Total XP** Percentile: 34.5 %
+**Gold Gyms** Percentile: 8.8 %
+**Gym Badge** Percentile: 69.0 %
+**Jogger** Percentile: 66.4 %
+**Collector** Percentile: 65.5 %
+**Scientist** Percentile: 38.9 %
+**Breeder** Percentile: 15.9 %
+**Backpacker** Percentile: 57.5 %
+**Battle Girl** Percentile: 3.5 %
+**Berry Master** Percentile: 56.6 %
+**Gym Leader** Percentile: 15.0 %
+**Battle Legend** Percentile: 42.5 %
+**Champion** Percentile: 7.1 %
+**Pokedex Caught** Percentile: 58.8 %
+**Pokedex Seen** Percentile: 62.4 %
+    
+**Days Played**: 601 days
+**XP**/day: 30508
+**KM**/day: 5.3
+**Catches**/day: 77.31
+**Evolves**/day: 5.57
+**Catches**/evolve: 13.87
+**Hatches**/day: 1.23
+**KM**/egg: 4.33
+**Spins**/day: 67.88
+**Battles**/day: 1.09
+**Berries**/day: 43.59
+**Gym Hours**/day: 22.29
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.2
+**Legendary Raids**/day: 0.22
+    

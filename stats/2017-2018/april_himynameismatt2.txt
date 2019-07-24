@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: himynameismatt2
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 26,849,620 *(52.4%)*
+**Gold Gyms**: 35 *(63.7%)*
+**Gym Badge**: 469 *(50.8%)*
+**Jogger**: 987.0 *(9.7%)*
+**Collector**: 29,533 *(36.3%)*
+**Scientist**: 2,423 *(29.8%)*
+**Breeder**: 940 *(24.2%)*
+**Backpacker**: 21,882 *(27.4%)*
+**Battle Girl**: 4,261 *(38.7%)*
+**Pokemon Ranger**: 353 *(71.0%)*
+**Berry Master**: 13,830 *(55.6%)*
+**Gym Leader**: 22,999 *(56.5%)*
+**Battle Legend**: 511 *(79.0%)*
+**Champion**: 131 *(49.2%)*
+**Pokedex Caught**: 361 *(63.7%)*
+**Pokedex Seen**: 366 *(18.5%)*
+    
+**Days Played**: 662 days
+**XP**/day: 40,558
+**KM**/day: 1.5
+**Catches**/day: 44.61
+**Evolves**/day: 3.66
+**Hatches**/day: 1.42
+**Spins**/day: 33.05
+**Battles**/day: 6.44
+**Quests**/day: 11.39
+**Berries**/day: 44.33
+**Gym Hours**/day: 73.71
+**Gold Gyms**/day: 0.11
+**Raids**/day: 0.43
+**Legendary Raids**/day: 0.46
+    

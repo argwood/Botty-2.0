@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: RedMedicine1974
+**Level**: 40
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 142
+**Monthly Rank**: N/A
+    
+**Total XP**: 45,078,180 *(34.2%)*
+**Jogger**: 4,948.0 *(65.8%)*
+**Collector**: 79,125 *(57.0%)*
+**Scientist**: 4,237 *(45.6%)*
+**Breeder**: 7,300 *(91.2%)*
+**Backpacker**: 49,898 *(45.6%)*
+**Battle Girl**: 2,260 *(17.5%)*
+**Gold Gyms**: 16 *(24.6%)*
+    
+**Pokemon Ranger**: 2,193 *(43.0%)*
+**Berry Master**: 12,415 *(29.8%)*
+**Gym Leader**: 10,439 *(20.2%)*
+**Battle Legend**: 785 *(64.0%)*
+**Champion**: 695 *(86.8%)*
+    
+**Days Played**: 933 days
+**XP**/day: 48,315
+**KM**/day: 5.3
+**Catches**/day: 84.81
+**Evolves**/day: 4.54
+**Hatches**/day: 7.82
+**Spins**/day: 53.48
+**Battles**/day: 2.42
+**Research**/day: 7.21
+**Berries**/day: 21.22
+**Gym Hours**/day: 17.84
+**Gold Gyms**/day: 0.03
+**Raids**/day: 1.2
+**Legendary Raids**/day: 1.25
+    

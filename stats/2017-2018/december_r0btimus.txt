@@ -1,0 +1,38 @@
+**Trainer**: r0btimus
+**Level**: 33
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 4,300,591 *(9.0%)*
+**Gold Gyms**: 0 *(6.0%)*
+**Gym Badge**: 93 *(7.0%)*
+**Jogger**: 691.0 *(9.0%)*
+**Collector**: 6,553 *(10.0%)*
+**Scientist**: 848 *(14.0%)*
+**Breeder**: 663 *(23.0%)*
+**Backpacker**: 7,095 *(9.0%)*
+**Battle Girl**: 642 *(12.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 471 *(5.0%)*
+**Gym Leader**: 310 *(2.0%)*
+**Battle Legend**: 21 *(5.0%)*
+**Champion**: 32 *(8.0%)*
+**Pokedex Caught**: 306 *(10.0%)*
+**Pokedex Seen**: 328 *(5.0%)*
+    
+**Days Played**: 691 days
+**XP**/day: 6,223
+**KM**/day: 1.0
+**Catches**/day: 9.48
+**Evolves**/day: 1.23
+**Catches**/evolve: 7.73
+**Hatches**/day: 0.96
+**KM**/egg: 1.04
+**Spins**/day: 10.27
+**Battles**/day: 0.93
+**Berries**/day: 1.38
+**Gym Hours**/day: 0.91
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.09
+**Legendary Raids**/day: 0.1
+    

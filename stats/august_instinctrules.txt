@@ -1,0 +1,42 @@
+**__AUGUST__**
+    
+**Trainer**: Instinctrules
+**Level**: 37
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 293
+**Monthly Rank**: N/A
+    
+**Total XP**: 10,278,186 *(7.5%)*
+**Jogger**: 2,297.6 *(29.2%)*
+**Collector**: 10,650 *(5.0%)*
+**Scientist**: 916 *(7.5%)*
+**Breeder**: 563 *(10.8%)*
+**Backpacker**: 10,519 *(5.0%)*
+**Battle Girl**: 4,109 *(29.2%)*
+**Gym Badge**: 224 *(11.7%)*
+**Gold Gyms**: 6 *(10.8%)*
+    
+**Pokemon Ranger**: 390 *(8.3%)*
+**Berry Master**: 1,698 *(5.0%)*
+**Gym Leader**: 8,592 *(18.3%)*
+**Battle Legend**: 206 *(17.5%)*
+**Champion**: 122 *(20.0%)*
+**Pokedex Caught**: 367.0 *(22.0%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Days Played**: 760 days
+**XP**/day: 13,523
+**KM**/day: 3.0
+**Catches**/day: 14.01
+**Evolves**/day: 1.21
+**Hatches**/day: 0.74
+**Spins**/day: 13.84
+**Battles**/day: 5.41
+**Research**/day: 2.53
+**Berries**/day: 3.9
+**Gym Hours**/day: 19.75
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.28
+**Legendary Raids**/day: 0.3
+    

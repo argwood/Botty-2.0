@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: Neenaabee
+**Level**: 38
+**Team**: Valor
+**Region**: Loop
+    
+**Total XP**: 12,042,556 *(19.0%)*
+**Jogger**: 1,194.2 *(16.4%)*
+**Collector**: 18,739 *(21.5%)*
+**Scientist**: 2,023 *(29.2%)*
+**Breeder**: 1,378 *(36.9%)*
+**Backpacker**: 18,703 *(22.1%)*
+**Battle Girl**: 1,052 *(15.4%)*
+**Gym Badge**: 208 *(18.5%)*
+**Gold Gyms**: 5 *(18.5%)*
+    
+**Pokemon Ranger**: 371 *(19.5%)*
+**Berry Master**: 3,888 *(21.5%)*
+**Gym Leader**: 3,392 *(15.9%)*
+**Battle Legend**: 113 *(14.4%)*
+**Champion**: 160 *(51.3%)*
+**Pokedex Caught**: 367 *(41.0%)*
+**Pokedex Seen**: 373 *(41.5%)*
+    
+**Days Played**: 752 days
+**XP**/day: 16,014
+**KM**/day: 1.6
+**Catches**/day: 24.92
+**Evolves**/day: 2.69
+**Hatches**/day: 1.83
+**Spins**/day: 24.87
+**Battles**/day: 1.4
+**Research**/day: 3.07
+**Berries**/day: 9.67
+**Gym Hours**/day: 8.44
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.4
+**Legendary Raids**/day: 0.43
+    

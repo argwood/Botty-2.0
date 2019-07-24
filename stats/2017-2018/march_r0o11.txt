@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: r0o11
+**Level**: 39
+**Team**: Instinct
+**Region**: South
+    
+**Total XP**: 19,135,206 *(28.8%)*
+**Gold Gyms**: 2 *(7.2%)*
+**Gym Badge**: 415 *(45.0%)*
+**Jogger**: 1,607.3 *(20.7%)*
+**Collector**: 21,873 *(20.7%)*
+**Scientist**: 2,517 *(24.3%)*
+**Breeder**: 1,130 *(35.1%)*
+**Backpacker**: 23,591 *(25.2%)*
+**Battle Girl**: 1,876 *(9.9%)*
+**Berry Master**: 7,045 *(29.7%)*
+**Gym Leader**: 3,287 *(4.5%)*
+**Battle Legend**: 444 *(76.6%)*
+**Champion**: 75 *(15.3%)*
+**Pokedex Caught**: 361 *(93.7%)*
+**Pokedex Seen**: 368 *(93.7%)*
+    
+**Days Played**: 627 days
+**XP**/day: 30,518
+**KM**/day: 2.6
+**Catches**/day: 34.89
+**Evolves**/day: 4.01
+**Hatches**/day: 1.8
+**Spins**/day: 37.63
+**Battles**/day: 2.99
+**Berries**/day: 24.98
+**Gym Hours**/day: 11.66
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.27
+**Legendary Raids**/day: 0.3
+    

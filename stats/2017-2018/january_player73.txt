@@ -1,0 +1,37 @@
+**Trainer Name**:  Player73
+Team:  Valor
+Region:  North
+Level:  39
+    
+Total XP Percentile:  44.8 %
+Gold Gyms Percentile:  19.0 %
+Gym Badge Percentile:  89.7 %
+Jogger Percentile:  34.5 %
+Collector Percentile:  39.1 %
+Scientist Percentile:  29.9 %
+Breeder Percentile:  12.6 %
+Backpacker Percentile:  31.0 %
+Battle Girl Percentile:  10.3 %
+Berry Master Percentile:  50.6 %
+Gym Leader Percentile:  32.2 %
+Battle Legend Percentile:  85.1 %
+Champion Percentile:  35.1 %
+Pokedex Caught Percentile:  70.1 %
+Pokedex Seen Percentile:  75.3 %
+    
+Days Played:  567 days
+XP/day:  33795
+km/day:  3.1
+catches/day:  48.96
+evolves/day:  4.57
+catches/evolve:  10.72
+hatches/day:  0.87
+km/egg:  3.58
+spins/day:  39.93
+battles/day:  2.44
+berries/day:  39.53
+gym hours/day:  39.45
+gold gyms/day:  0.02
+normal raids/day:  0.41
+legendary raids/day:  0.47
+    

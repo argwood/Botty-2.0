@@ -1,0 +1,54 @@
+**__JUNE__**
+    
+**Trainer**: Gusmom71
+**Level**: 36
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 404
+**Monthly Rank**: N/A
+    
+**Total XP**: 7,714,448 *(7.1%)*
+**Jogger**: 2,275.8 *(17.0%)*
+**Collector**: 14,797 *(14.3%)*
+**Scientist**: 318 *(4.5%)*
+**Breeder**: 721 *(12.5%)*
+**Backpacker**: 10,394 *(11.6%)*
+**Battle Girl**: 1,443 *(15.2%)*
+**Gold Gyms**: 8 *(21.4%)*
+    
+**Pokemon Ranger**: 744 *(13.4%)*
+**Berry Master**: 4,090 *(18.8%)*
+**Gym Leader**: 12,165 *(27.7%)*
+**Battle Legend**: 19 *(2.7%)*
+**Champion**: 89 *(14.3%)*
+    
+**Gym Badges**: 82
+**Pokedex Caught**: 444
+**Pokedex Seen**: 475
+**Fisherman**: 51
+**Youngster**: 52
+**Pikachu Fan**: 234
+**Unown**: 7
+**Pilot**: 18,682
+**Gentleman**: 216
+**Idol**: 5
+**Ace Trainer**: 24
+**Great League Veteran**: 9
+**Ultra League Veteran**: 1
+**Master League Veteran**: 1
+    
+**Days Played**: 1081 days
+**XP**/day: 7,136
+**KM**/day: 2.1
+**Catches**/day: 13.69
+**Evolves**/day: 0.29
+**Hatches**/day: 0.67
+**Spins**/day: 9.62
+**Battles**/day: 1.33
+**Research**/day: 1.63
+**Berries**/day: 5.55
+**Gym Hours**/day: 16.51
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.12
+**Legendary Raids**/day: 0.13
+    

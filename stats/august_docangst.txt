@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: DocAngst
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 26
+**Monthly Rank**: 16
+    
+**Total XP**: 54,711,310 *(76.7%)*
+**Jogger**: 3,470.5 *(54.2%)*
+**Collector**: 107,783 *(91.7%)*
+**Scientist**: 9,672 *(85.0%)*
+**Breeder**: 5,092 *(91.7%)*
+**Backpacker**: 77,113 *(79.2%)*
+**Battle Girl**: 23,594 *(93.3%)*
+**Gym Badge**: 847 *(81.7%)*
+**Gold Gyms**: 178 *(92.5%)*
+    
+**Pokemon Ranger**: 2,125 *(69.2%)*
+**Berry Master**: 46,580 *(88.3%)*
+**Gym Leader**: 102,373 *(96.7%)*
+**Battle Legend**: 245 *(22.5%)*
+**Champion**: 484 *(95.8%)*
+**Pokedex Caught**: 340.0 *(4.2%)*
+**Pokedex Seen**: 346.0 *(2.5%)*
+    
+**Fisherman**: 333
+**Youngster**: 912
+**Pikachu Fan**: 688
+**Unown**: 27
+**Pilot**: 794,279
+**Gentleman**: 1306
+    
+**Days Played**: 785 days
+**XP**/day: 69,695
+**KM**/day: 4.4
+**Catches**/day: 137.3
+**Evolves**/day: 12.32
+**Hatches**/day: 6.49
+**Spins**/day: 98.23
+**Battles**/day: 30.06
+**Research**/day: 13.8
+**Berries**/day: 107.08
+**Gym Hours**/day: 235.34
+**Gold Gyms**/day: 0.41
+**Raids**/day: 1.12
+**Legendary Raids**/day: 1.2
+    

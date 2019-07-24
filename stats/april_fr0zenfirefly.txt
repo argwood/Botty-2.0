@@ -1,0 +1,54 @@
+**__APRIL__**
+    
+**Trainer**: Fr0zenfirefly 
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 56,362,989 *(37.6%)*
+**Jogger**: 4,170.0 *(40.2%)*
+**Collector**: 66,920 *(34.9%)*
+**Scientist**: 4,741 *(40.2%)*
+**Breeder**: 1,323 *(22.2%)*
+**Backpacker**: 40,319 *(31.2%)*
+**Battle Girl**: 15,786 *(69.8%)*
+**Gold Gyms**: 68 *(59.8%)*
+    
+**Pokemon Ranger**: 1,380 *(16.4%)*
+**Berry Master**: 15,932 *(31.2%)*
+**Gym Leader**: 94,618 *(83.6%)*
+**Battle Legend**: 493 *(34.4%)*
+**Champion**: 150 *(19.0%)*
+    
+**Gym Badges**: 963
+**Pokedex Caught**: 461
+**Pokedex Seen**: 466
+**Fisherman**: 284
+**Youngster**: 305
+**Pikachu Fan**: 1137
+**Unown**: 8
+**Pilot**: 3,288,201
+**Gentleman**: 1590
+**Idol**: 47
+**Ace Trainer**: 1063
+**Great League Veteran**: 142
+**Ultra League Veteran**: 75
+**Master League Veteran**: 88
+    
+**Days Played**: 1018 days
+**XP**/day: 55,366
+**KM**/day: 4.1
+**Catches**/day: 65.74
+**Evolves**/day: 4.66
+**Hatches**/day: 1.3
+**Spins**/day: 39.61
+**Battles**/day: 15.51
+**Research**/day: 3.48
+**Berries**/day: 23.53
+**Gym Hours**/day: 139.76
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.22
+**Legendary Raids**/day: 0.23
+    

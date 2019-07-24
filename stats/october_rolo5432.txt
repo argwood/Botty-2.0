@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: Rolo5432
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 194
+**Monthly Rank**: N/A
+    
+**Total XP**: 28,227,838 *(23.6%)*
+**Jogger**: 3,283.0 *(44.3%)*
+**Collector**: 28,926 *(19.3%)*
+**Scientist**: 2,986 *(27.9%)*
+**Breeder**: 4,570 *(80.0%)*
+**Backpacker**: 36,539 *(33.6%)*
+**Battle Girl**: 9,373 *(57.1%)*
+**Gym Badge**: 393 *(35.7%)*
+**Gold Gyms**: 25 *(39.3%)*
+    
+**Pokemon Ranger**: 337 *(4.3%)*
+**Berry Master**: 8,487 *(23.6%)*
+**Gym Leader**: 20,587 *(36.4%)*
+**Battle Legend**: 481 *(43.6%)*
+**Champion**: 148 *(34.3%)*
+**Pokedex Caught**: 390.0 *(36.3%)*
+**Pokedex Seen**: 396.0 *(18.4%)*
+    
+**Days Played**: 841 days
+**XP**/day: 33,564
+**KM**/day: 3.9
+**Catches**/day: 34.39
+**Evolves**/day: 3.55
+**Hatches**/day: 5.43
+**Spins**/day: 43.45
+**Battles**/day: 11.15
+**Research**/day: 1.57
+**Berries**/day: 17.11
+**Gym Hours**/day: 41.51
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.3
+**Legendary Raids**/day: 0.32
+    

@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: Elite4Darrell
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 54,540,240 *(91.0%)*
+**Gold Gyms**: 70 *(89.2%)*
+**Gym Badge**: 671 *(74.8%)*
+**Jogger**: 3,864.3 *(80.2%)*
+**Collector**: 59,448 *(76.6%)*
+**Scientist**: 8,736 *(84.7%)*
+**Breeder**: 4,904 *(98.2%)*
+**Backpacker**: 50,746 *(73.0%)*
+**Battle Girl**: 10,000 *(82.9%)*
+**Berry Master**: 24,838 *(86.5%)*
+**Gym Leader**: 38,761 *(78.4%)*
+**Battle Legend**: 737 *(93.7%)*
+**Champion**: 252 *(91.0%)*
+**Pokedex Caught**: 360 *(76.6%)*
+**Pokedex Seen**: 369 *(100.0%)*
+    
+**Days Played**: 633 days
+**XP**/day: 86,161
+**KM**/day: 6.1
+**Catches**/day: 93.91
+**Evolves**/day: 13.8
+**Hatches**/day: 7.75
+**Spins**/day: 80.17
+**Battles**/day: 15.8
+**Berries**/day: 88.08
+**Gym Hours**/day: 137.45
+**Gold Gyms**/day: 0.25
+**Raids**/day: 0.91
+**Legendary Raids**/day: 1.0
+    

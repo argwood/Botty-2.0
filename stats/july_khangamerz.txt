@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: Khangamerz
+**Level**: 38
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 12,325,139 *(19.5%)*
+**Jogger**: 2,913.0 *(49.7%)*
+**Collector**: 23,368 *(24.6%)*
+**Scientist**: 6,050 *(66.7%)*
+**Breeder**: 810 *(21.0%)*
+**Backpacker**: 20,528 *(25.6%)*
+**Battle Girl**: 359 *(7.7%)*
+**Gym Badge**: 571 *(61.5%)*
+**Gold Gyms**: 6 *(22.6%)*
+    
+**Pokemon Ranger**: 479 *(28.7%)*
+**Berry Master**: 244 *(4.1%)*
+**Gym Leader**: 18,617 *(44.6%)*
+**Battle Legend**: 22 *(5.1%)*
+**Champion**: 64 *(14.9%)*
+**Pokedex Caught**: 354 *(15.9%)*
+**Pokedex Seen**: 364 *(12.8%)*
+    
+**Days Played**: 696 days
+**XP**/day: 17,708
+**KM**/day: 4.2
+**Catches**/day: 33.57
+**Evolves**/day: 8.69
+**Hatches**/day: 1.16
+**Spins**/day: 29.49
+**Battles**/day: 0.52
+**Research**/day: 3.89
+**Berries**/day: 0.6
+**Gym Hours**/day: 46.08
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.16
+**Legendary Raids**/day: 0.17
+    

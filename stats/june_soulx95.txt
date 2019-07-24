@@ -1,0 +1,54 @@
+**__JUNE__**
+    
+**Trainer**: Soulx95
+**Level**: 34
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 472
+**Monthly Rank**: N/A
+    
+**Total XP**: 5,912,231 *(5.4%)*
+**Jogger**: 407.7 *(3.6%)*
+**Collector**: 6,053 *(4.5%)*
+**Scientist**: 291 *(3.6%)*
+**Breeder**: 438 *(6.2%)*
+**Backpacker**: 4,929 *(3.6%)*
+**Battle Girl**: 621 *(7.1%)*
+**Gold Gyms**: 3 *(11.6%)*
+    
+**Pokemon Ranger**: 367 *(7.1%)*
+**Berry Master**: 1,844 *(12.5%)*
+**Gym Leader**: 5,583 *(15.2%)*
+**Battle Legend**: 33 *(7.1%)*
+**Champion**: 38 *(5.4%)*
+    
+**Gym Badges**: 115
+**Pokedex Caught**: 464
+**Pokedex Seen**: 481
+**Fisherman**: 29
+**Youngster**: 27
+**Pikachu Fan**: 71
+**Unown**: 7
+**Pilot**: 80,967
+**Gentleman**: 240
+**Idol**: 7
+**Ace Trainer**: 30
+**Great League Veteran**: 9
+**Ultra League Veteran**: 6
+**Master League Veteran**: 5
+    
+**Days Played**: 1087 days
+**XP**/day: 5,439
+**KM**/day: 0.4
+**Catches**/day: 5.57
+**Evolves**/day: 0.27
+**Hatches**/day: 0.4
+**Spins**/day: 4.53
+**Battles**/day: 0.57
+**Research**/day: 0.8
+**Berries**/day: 2.5
+**Gym Hours**/day: 7.58
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.05
+**Legendary Raids**/day: 0.05
+    

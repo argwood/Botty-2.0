@@ -1,0 +1,37 @@
+**Trainer**: MistaOneT
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 35,141,386 *(77.3%)*
+**Gold Gyms**: 48 *(81.8%)*
+**Gym Badge**: 292 *(50.0%)*
+**Jogger**: 2,040.6 *(36.4%)*
+**Collector**: 50,262 *(68.2%)*
+**Scientist**: 3,257 *(31.8%)*
+**Breeder**: 783 *(31.8%)*
+**Backpacker**: 41,274 *(63.6%)*
+**Battle Girl**: 7,081 *(72.7%)*
+**Berry Master**: 24,617 *(90.9%)*
+**Gym Leader**: 26,510 *(77.3%)*
+**Battle Legend**: 753 *(90.9%)*
+**Champion**: 92 *(36.4%)*
+**Pokedex Caught**: 361 *(34.1%)*
+**Pokedex Seen**: 371 *(72.7%)*
+    
+**Days Played**: -36 days
+**XP**/day: -976,149
+**KM**/day: -56.7
+**Catches**/day: -1396.17
+**Evolves**/day: -90.47
+**Catches**/evolve: 15.43
+**Hatches**/day: -21.75
+**KM**/egg: 2.61
+**Spins**/day: -1146.5
+**Battles**/day: -196.69
+**Berries**/day: 71.77
+**Gym Hours**/day: 77.29
+**Gold Gyms**/day: 0.14
+**Raids**/day: 0.27
+**Legendary Raids**/day: 0.29
+    

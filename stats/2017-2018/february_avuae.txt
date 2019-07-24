@@ -1,0 +1,37 @@
+**__FEBRUARY__**
+    
+**Trainer**: AvuaE
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 43,181,352 *(93.8%)*
+**Gold Gyms**: 72 *(92.0%)*
+**Gym Badge**: 624 *(72.6%)*
+**Jogger**: 3,218.1 *(68.1%)*
+**Collector**: 65,281 *(86.7%)*
+**Scientist**: 9,305 *(95.6%)*
+**Breeder**: 2,512 *(77.0%)*
+**Backpacker**: 70,491 *(91.2%)*
+**Battle Girl**: 8,690 *(81.4%)*
+**Berry Master**: 24,454 *(93.8%)*
+**Gym Leader**: 62,592 *(96.5%)*
+**Battle Legend**: 289 *(59.3%)*
+**Champion**: 135 *(63.7%)*
+**Pokedex Caught**: 332 *(17.7%)*
+**Pokedex Seen**: 337 *(3.5%)*
+    
+**Days Played**: 598 days
+**XP**/day: 72,209
+**KM**/day: 5.4
+**Catches**/day: 109.17
+**Evolves**/day: 15.56
+**Hatches**/day: 4.2
+**Spins**/day: 117.88
+**Battles**/day: 14.53
+**Berries**/day: 97.43
+**Gym Hours**/day: 249.37
+**Gold Gyms**/day: 0.29
+**Raids**/day: 0.55
+**Legendary Raids**/day: 0.61
+    

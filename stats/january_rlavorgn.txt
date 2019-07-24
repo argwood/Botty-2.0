@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: Rlavorgn
+**Level**: 40
+**Team**: Instinct
+**Region**: North
+**Overall Rank**: 67
+**Monthly Rank**: N/A
+    
+**Total XP**: 79,540,000 *(72.8%)*
+**Jogger**: 5,482.0 *(74.6%)*
+**Collector**: 90,311 *(64.9%)*
+**Scientist**: 7,266 *(64.0%)*
+**Breeder**: 6,478 *(89.5%)*
+**Backpacker**: 78,601 *(71.1%)*
+**Battle Girl**: 6,105 *(42.1%)*
+**Gold Gyms**: 26 *(34.2%)*
+    
+**Pokemon Ranger**: 2,877 *(58.8%)*
+**Berry Master**: 38,689 *(67.5%)*
+**Gym Leader**: 13,074 *(23.7%)*
+**Battle Legend**: 1304 *(87.7%)*
+**Champion**: 642 *(83.3%)*
+    
+**Days Played**: 922 days
+**XP**/day: 86,268
+**KM**/day: 5.9
+**Catches**/day: 97.95
+**Evolves**/day: 7.88
+**Hatches**/day: 7.03
+**Spins**/day: 85.25
+**Battles**/day: 6.62
+**Research**/day: 9.46
+**Berries**/day: 66.14
+**Gym Hours**/day: 22.35
+**Gold Gyms**/day: 0.04
+**Raids**/day: 1.1
+**Legendary Raids**/day: 1.16
+    

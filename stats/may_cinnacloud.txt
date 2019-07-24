@@ -1,0 +1,54 @@
+**__MAY__**
+    
+**Trainer**: CinnaCloud
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 53
+**Monthly Rank**: 27
+    
+**Total XP**: 123,671,759 *(85.0%)*
+**Jogger**: 2,977.4 *(23.3%)*
+**Collector**: 83,097 *(53.3%)*
+**Scientist**: 9,235 *(74.2%)*
+**Breeder**: 3,962 *(63.3%)*
+**Backpacker**: 49,171 *(43.3%)*
+**Battle Girl**: 16,057 *(72.5%)*
+**Gold Gyms**: 196 *(90.0%)*
+    
+**Pokemon Ranger**: 3,185 *(47.5%)*
+**Berry Master**: 48,157 *(66.7%)*
+**Gym Leader**: 67,341 *(73.3%)*
+**Battle Legend**: 2596 *(99.2%)*
+**Champion**: 1057 *(97.5%)*
+    
+**Gym Badges**: 886
+**Pokedex Caught**: 478
+**Pokedex Seen**: 480
+**Fisherman**: 188
+**Youngster**: 481
+**Pikachu Fan**: 1097
+**Unown**: 23
+**Pilot**: 13,028,530
+**Gentleman**: 5810
+**Idol**: 72
+**Ace Trainer**: 706
+**Great League Veteran**: 85
+**Ultra League Veteran**: 200
+**Master League Veteran**: 200
+    
+**Days Played**: 1057 days
+**XP**/day: 117,002
+**KM**/day: 2.8
+**Catches**/day: 78.62
+**Evolves**/day: 8.74
+**Hatches**/day: 3.75
+**Spins**/day: 46.52
+**Battles**/day: 15.19
+**Research**/day: 7.46
+**Berries**/day: 68.02
+**Gym Hours**/day: 95.11
+**Gold Gyms**/day: 0.28
+**Raids**/day: 1.5
+**Legendary Raids**/day: 1.56
+    

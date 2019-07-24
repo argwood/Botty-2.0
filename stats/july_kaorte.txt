@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: Kaorte
+**Level**: 30
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 2,112,462 *(3.6%)*
+**Jogger**: 278.1 *(4.1%)*
+**Collector**: 3,335 *(3.6%)*
+**Scientist**: 444 *(6.2%)*
+**Breeder**: 140 *(4.6%)*
+**Backpacker**: 3,300 *(3.1%)*
+**Battle Girl**: 162 *(3.1%)*
+**Gym Badge**: 91 *(8.2%)*
+**Gold Gyms**: 0 *(7.7%)*
+    
+**Pokemon Ranger**: 147 *(6.2%)*
+**Berry Master**: 554 *(6.2%)*
+**Gym Leader**: 354 *(3.1%)*
+**Battle Legend**: 21 *(4.6%)*
+**Champion**: 14 *(2.6%)*
+**Pokedex Caught**: 252 *(5.1%)*
+**Pokedex Seen**: 310 *(5.6%)*
+    
+**Days Played**: 755 days
+**XP**/day: 2,797
+**KM**/day: 0.4
+**Catches**/day: 4.42
+**Evolves**/day: 0.59
+**Hatches**/day: 0.19
+**Spins**/day: 4.37
+**Battles**/day: 0.21
+**Research**/day: 1.2
+**Berries**/day: 1.37
+**Gym Hours**/day: 0.88
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.04
+**Legendary Raids**/day: 0.04
+    

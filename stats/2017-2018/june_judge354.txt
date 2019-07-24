@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Judge354
+**Level**: 40
+**Team**: Valor
+**Region**: South
+    
+**Total XP**: 21,720,664 *(23.8%)*
+**Gold Gyms**: 52 *(65.6%)*
+**Gym Badge**: 396 *(39.1%)*
+**Jogger**: 2,353.2 *(35.1%)*
+**Collector**: 44,275 *(40.4%)*
+**Scientist**: 4,553 *(47.7%)*
+**Breeder**: 711 *(14.6%)*
+**Backpacker**: 30,594 *(31.1%)*
+**Battle Girl**: 12,442 *(75.5%)*
+**Pokemon Ranger**: 1,297 *(74.2%)*
+**Berry Master**: 23,066 *(61.6%)*
+**Gym Leader**: 27,808 *(55.0%)*
+**Battle Legend**: 135 *(11.9%)*
+**Champion**: 97 *(19.9%)*
+**Pokedex Caught**: 358 *(17.2%)*
+**Pokedex Seen**: 369 *(15.2%)*
+    
+**Days Played**: 194 days
+**XP**/day: 111,962
+**KM**/day: 12.1
+**Catches**/day: 228.22
+**Evolves**/day: 23.47
+**Hatches**/day: 3.66
+**Spins**/day: 157.7
+**Battles**/day: 64.13
+**Quests**/day: 14.41
+**Berries**/day: 62.17
+**Gym Hours**/day: 74.95
+**Gold Gyms**/day: 0.14
+**Raids**/day: 0.26
+**Legendary Raids**/day: 0.28
+    

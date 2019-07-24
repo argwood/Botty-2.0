@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: Patronics
+**Level**: 38
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 12,350,999 *(20.0%)*
+**Jogger**: 904.1 *(11.3%)*
+**Collector**: 15,701 *(19.5%)*
+**Scientist**: 1,825 *(25.6%)*
+**Breeder**: 1,006 *(26.7%)*
+**Backpacker**: 11,628 *(14.4%)*
+**Battle Girl**: 509 *(9.2%)*
+**Gym Badge**: 320 *(30.8%)*
+**Gold Gyms**: 0 *(7.7%)*
+    
+**Pokemon Ranger**: 486 *(29.2%)*
+**Berry Master**: 3,687 *(19.5%)*
+**Gym Leader**: 1,700 *(10.8%)*
+**Battle Legend**: 123 *(15.4%)*
+**Champion**: 74 *(19.0%)*
+**Pokedex Caught**: 359 *(21.0%)*
+**Pokedex Seen**: 371 *(22.1%)*
+    
+**Fisherman**: 47
+**Youngster**: 113
+**Pikachu Fan**: 250
+**Unown**: 0
+**Pilot**: 1,013
+**Gentleman**: 2
+    
+**Days Played**: 755 days
+**XP**/day: 16,358
+**KM**/day: 1.2
+**Catches**/day: 20.8
+**Evolves**/day: 2.42
+**Hatches**/day: 1.33
+**Spins**/day: 15.4
+**Battles**/day: 0.67
+**Research**/day: 3.95
+**Berries**/day: 9.13
+**Gym Hours**/day: 4.21
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.18
+**Legendary Raids**/day: 0.2
+    

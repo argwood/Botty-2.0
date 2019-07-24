@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: colonelkcs2
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 23,498,249 *(42.3%)*
+**Gold Gyms**: 5 *(13.5%)*
+**Gym Badge**: 466 *(50.5%)*
+**Jogger**: 3,124.5 *(57.7%)*
+**Collector**: 49,263 *(65.8%)*
+**Scientist**: 5,010 *(51.4%)*
+**Breeder**: 1,240 *(38.7%)*
+**Backpacker**: 40,310 *(52.3%)*
+**Battle Girl**: 5,518 *(55.9%)*
+**Berry Master**: 6,059 *(25.2%)*
+**Gym Leader**: 8,743 *(20.7%)*
+**Battle Legend**: 207 *(22.5%)*
+**Champion**: 69 *(13.5%)*
+**Pokedex Caught**: 353 *(38.7%)*
+**Pokedex Seen**: 366 *(27.0%)*
+    
+**Days Played**: 632 days
+**XP**/day: 37,180
+**KM**/day: 4.9
+**Catches**/day: 77.95
+**Evolves**/day: 7.93
+**Hatches**/day: 1.96
+**Spins**/day: 63.78
+**Battles**/day: 8.73
+**Berries**/day: 21.49
+**Gym Hours**/day: 31.0
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.25
+**Legendary Raids**/day: 0.27
+    

@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: MinorText
+**Level**: 30
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 429
+**Monthly Rank**: N/A
+    
+**Total XP**: 2,229,925 *(2.9%)*
+**Jogger**: 149.0 *(1.4%)*
+**Collector**: 1,998 *(1.4%)*
+**Scientist**: 50 *(0.7%)*
+**Breeder**: 82 *(1.4%)*
+**Backpacker**: 1,922 *(1.4%)*
+**Battle Girl**: 180 *(1.4%)*
+**Gym Badge**: 111 *(7.1%)*
+**Gold Gyms**: 0 *(5.7%)*
+    
+**Pokemon Ranger**: 150 *(2.9%)*
+**Berry Master**: 220 *(1.4%)*
+**Gym Leader**: 1,114 *(5.0%)*
+**Battle Legend**: 37 *(5.7%)*
+**Champion**: 8 *(1.4%)*
+**Pokedex Caught**: 252.0 *(1.5%)*
+**Pokedex Seen**: 357.0 *(2.2%)*
+    
+**Days Played**: 820 days
+**XP**/day: 2,719
+**KM**/day: 0.2
+**Catches**/day: 2.44
+**Evolves**/day: 0.06
+**Hatches**/day: 0.1
+**Spins**/day: 2.34
+**Battles**/day: 0.22
+**Research**/day: 0.7
+**Berries**/day: 0.44
+**Gym Hours**/day: 2.25
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.02
+**Legendary Raids**/day: 0.02
+    

@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: WarnerG
+**Level**: 40
+**Team**: Valor
+**Region**: Loop
+**Overall Rank**: 134
+**Monthly Rank**: N/A
+    
+**Total XP**: 69,274,381 *(58.8%)*
+**Jogger**: 4,543.0 *(57.0%)*
+**Collector**: 68,018 *(52.6%)*
+**Scientist**: 3,258 *(36.8%)*
+**Breeder**: 4,732 *(76.3%)*
+**Backpacker**: 53,134 *(50.0%)*
+**Battle Girl**: 2,714 *(21.9%)*
+**Gold Gyms**: 18 *(28.1%)*
+    
+**Pokemon Ranger**: 4,793 *(84.2%)*
+**Berry Master**: 11,160 *(27.2%)*
+**Gym Leader**: 8,193 *(16.7%)*
+**Battle Legend**: 989 *(76.3%)*
+**Champion**: 903 *(98.2%)*
+    
+**Days Played**: 939 days
+**XP**/day: 73,774
+**KM**/day: 4.8
+**Catches**/day: 72.44
+**Evolves**/day: 3.47
+**Hatches**/day: 5.04
+**Spins**/day: 56.59
+**Battles**/day: 2.89
+**Research**/day: 15.56
+**Berries**/day: 18.95
+**Gym Hours**/day: 13.91
+**Gold Gyms**/day: 0.03
+**Raids**/day: 1.54
+**Legendary Raids**/day: 1.62
+    

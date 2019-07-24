@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Leathermantool
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 30,204,225 *(57.0%)*
+**Gold Gyms**: 12 *(28.9%)*
+**Gym Badge**: 467 *(50.3%)*
+**Jogger**: 6,609.2 *(96.6%)*
+**Collector**: 42,511 *(52.3%)*
+**Scientist**: 6,538 *(75.2%)*
+**Breeder**: 2,464 *(69.1%)*
+**Backpacker**: 34,021 *(45.6%)*
+**Battle Girl**: 5,530 *(53.0%)*
+**Pokemon Ranger**: 371 *(38.9%)*
+**Berry Master**: 9,100 *(35.6%)*
+**Gym Leader**: 15,780 *(40.3%)*
+**Battle Legend**: 555 *(75.8%)*
+**Champion**: 178 *(58.4%)*
+**Pokedex Caught**: 363 *(65.1%)*
+**Pokedex Seen**: 370 *(37.6%)*
+    
+**Days Played**: 683 days
+**XP**/day: 44,222
+**KM**/day: 9.7
+**Catches**/day: 62.24
+**Evolves**/day: 9.57
+**Hatches**/day: 3.61
+**Spins**/day: 49.81
+**Battles**/day: 8.1
+**Quests**/day: 5.89
+**Berries**/day: 26.45
+**Gym Hours**/day: 45.87
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.52
+**Legendary Raids**/day: 0.57
+    

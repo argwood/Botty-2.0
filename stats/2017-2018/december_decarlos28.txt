@@ -1,0 +1,38 @@
+**Trainer**: Decarlos28
+**Level**: 34
+**Team**: Instinct
+**Region**: North
+    
+**Total XP**: 5,167,254 *(13.0%)*
+**Gold Gyms**: 0 *(6.0%)*
+**Gym Badge**: 122 *(10.0%)*
+**Jogger**: 1,049.6 *(18.0%)*
+**Collector**: 6,252 *(8.0%)*
+**Scientist**: 530 *(10.0%)*
+**Breeder**: 605 *(20.0%)*
+**Backpacker**: 8,943 *(14.0%)*
+**Battle Girl**: 161 *(2.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 1,561 *(11.0%)*
+**Gym Leader**: 1,395 *(8.0%)*
+**Battle Legend**: 55 *(15.0%)*
+**Champion**: 78 *(31.0%)*
+**Pokedex Caught**: 351 *(36.0%)*
+**Pokedex Seen**: 363 *(20.5%)*
+    
+**Days Played**: 692 days
+**XP**/day: 7,467
+**KM**/day: 1.5
+**Catches**/day: 9.03
+**Evolves**/day: 0.77
+**Catches**/evolve: 11.8
+**Hatches**/day: 0.87
+**KM**/egg: 1.73
+**Spins**/day: 12.92
+**Battles**/day: 0.23
+**Berries**/day: 4.58
+**Gym Hours**/day: 4.09
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.23
+**Legendary Raids**/day: 0.25
+    

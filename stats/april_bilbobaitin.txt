@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: bilbobaitin
+**Level**: 40
+**Team**: Mystic
+**Region**: Loop
+**Overall Rank**: 123
+**Monthly Rank**: N/A
+    
+**Total XP**: 62,016,458 *(41.3%)*
+**Jogger**: 5,374.9 *(61.9%)*
+**Collector**: 97,109 *(58.2%)*
+**Scientist**: 3,567 *(32.8%)*
+**Breeder**: 2,194 *(30.7%)*
+**Backpacker**: 137,751 *(88.9%)*
+**Battle Girl**: 5,389 *(32.8%)*
+**Gold Gyms**: 49 *(45.0%)*
+    
+**Pokemon Ranger**: 2,353 *(31.2%)*
+**Berry Master**: 88,602 *(89.4%)*
+**Gym Leader**: 28,401 *(32.8%)*
+**Battle Legend**: 538 *(37.0%)*
+**Champion**: 198 *(30.7%)*
+    
+**Days Played**: 1026 days
+**XP**/day: 60,444
+**KM**/day: 5.2
+**Catches**/day: 94.65
+**Evolves**/day: 3.48
+**Hatches**/day: 2.14
+**Spins**/day: 134.26
+**Battles**/day: 5.25
+**Research**/day: 5.94
+**Berries**/day: 130.87
+**Gym Hours**/day: 41.95
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.29
+**Legendary Raids**/day: 0.31
+    

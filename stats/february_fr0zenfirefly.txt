@@ -1,0 +1,39 @@
+**__FEBRUARY__**
+    
+**Trainer**: Fr0zenfirefly
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 175
+**Monthly Rank**: 54
+    
+**Total XP**: 50,828,624 *(25.3%)*
+**Jogger**: 3,731.0 *(36.4%)*
+**Collector**: 61,123 *(26.3%)*
+**Scientist**: 4,557 *(33.3%)*
+**Breeder**: 1,239 *(11.1%)*
+**Backpacker**: 37,357 *(20.2%)*
+**Battle Girl**: 14,621 *(68.7%)*
+**Gold Gyms**: 57 *(52.5%)*
+    
+**Pokemon Ranger**: 1,137 *(7.1%)*
+**Berry Master**: 14,069 *(20.2%)*
+**Gym Leader**: 77,133 *(82.8%)*
+**Battle Legend**: 433 *(23.2%)*
+**Champion**: 144 *(11.1%)*
+    
+**Days Played**: 957 days
+**XP**/day: 53,112
+**KM**/day: 3.9
+**Catches**/day: 63.87
+**Evolves**/day: 4.76
+**Hatches**/day: 1.29
+**Spins**/day: 39.04
+**Battles**/day: 15.28
+**Research**/day: 3.39
+**Berries**/day: 22.84
+**Gym Hours**/day: 125.22
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.24
+**Legendary Raids**/day: 0.25
+    

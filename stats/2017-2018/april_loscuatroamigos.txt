@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: LosCuatroAmigos
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 22,127,576 *(40.3%)*
+**Gold Gyms**: 18 *(40.3%)*
+**Gym Badge**: 734 *(76.6%)*
+**Jogger**: 2,912.2 *(54.8%)*
+**Collector**: 25,123 *(31.5%)*
+**Scientist**: 4,895 *(56.5%)*
+**Breeder**: 3,525 *(85.5%)*
+**Backpacker**: 34,614 *(47.6%)*
+**Battle Girl**: 1,641 *(13.7%)*
+**Pokemon Ranger**: 313 *(67.7%)*
+**Berry Master**: 12,071 *(49.2%)*
+**Gym Leader**: 14,564 *(36.3%)*
+**Battle Legend**: 404 *(63.7%)*
+**Champion**: 104 *(30.6%)*
+**Pokedex Caught**: 365 *(96.0%)*
+**Pokedex Seen**: 370 *(99.2%)*
+    
+**Days Played**: 656 days
+**XP**/day: 33,731
+**KM**/day: 4.4
+**Catches**/day: 38.3
+**Evolves**/day: 7.46
+**Hatches**/day: 5.37
+**Spins**/day: 52.77
+**Battles**/day: 2.5
+**Quests**/day: 10.1
+**Berries**/day: 38.69
+**Gym Hours**/day: 46.68
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.34
+**Legendary Raids**/day: 0.37
+    

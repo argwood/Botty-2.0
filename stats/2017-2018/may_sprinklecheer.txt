@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: SprinkleCheer
+**Level**: 40
+**Team**: Instinct
+**Region**: North
+    
+**Total XP**: 73,712,814 *(95.3%)*
+**Gold Gyms**: 32 *(56.4%)*
+**Gym Badge**: 735 *(81.9%)*
+**Jogger**: 2,650.3 *(46.3%)*
+**Collector**: 67,651 *(77.9%)*
+**Scientist**: 9,397 *(87.2%)*
+**Breeder**: 4,991 *(96.6%)*
+**Backpacker**: 54,264 *(71.8%)*
+**Battle Girl**: 6,717 *(61.1%)*
+**Pokemon Ranger**: 1,001 *(83.9%)*
+**Berry Master**: 27,825 *(81.9%)*
+**Gym Leader**: 19,316 *(48.3%)*
+**Battle Legend**: 817 *(89.9%)*
+**Champion**: 533 *(98.0%)*
+**Pokedex Caught**: 364 *(85.2%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 689 days
+**XP**/day: 106,985
+**KM**/day: 3.8
+**Catches**/day: 98.19
+**Evolves**/day: 13.64
+**Hatches**/day: 7.24
+**Spins**/day: 78.76
+**Battles**/day: 9.75
+**Quests**/day: 15.89
+**Berries**/day: 80.89
+**Gym Hours**/day: 56.15
+**Gold Gyms**/day: 0.09
+**Raids**/day: 1.57
+**Legendary Raids**/day: 1.7
+    

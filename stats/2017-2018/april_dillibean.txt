@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Dillibean
+**Level**: 32
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 3,477,741 *(0.8%)*
+**Gold Gyms**: 1 *(4.0%)*
+**Gym Badge**: 211 *(14.5%)*
+**Jogger**: 575.8 *(3.2%)*
+**Collector**: 7,982 *(6.5%)*
+**Scientist**: 333 *(4.0%)*
+**Breeder**: 227 *(2.4%)*
+**Backpacker**: 9,034 *(7.3%)*
+**Battle Girl**: 987 *(6.5%)*
+**Pokemon Ranger**: 172 *(34.7%)*
+**Berry Master**: 4,079 *(16.9%)*
+**Gym Leader**: 3,934 *(7.3%)*
+**Battle Legend**: 23 *(1.6%)*
+**Champion**: 36 *(1.6%)*
+**Pokedex Caught**: 327 *(10.5%)*
+**Pokedex Seen**: 360 *(8.9%)*
+    
+**Days Played**: 659 days
+**XP**/day: 5,277
+**KM**/day: 0.9
+**Catches**/day: 12.11
+**Evolves**/day: 0.51
+**Hatches**/day: 0.34
+**Spins**/day: 13.71
+**Battles**/day: 1.5
+**Quests**/day: 5.55
+**Berries**/day: 13.07
+**Gym Hours**/day: 12.61
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.12
+**Legendary Raids**/day: 0.13
+    

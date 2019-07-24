@@ -1,0 +1,54 @@
+**__DECEMBER__**
+    
+**Trainer**: JLasker1
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 71
+**Monthly Rank**: 61
+    
+**Total XP**: 71,340,196 *(66.1%)*
+**Jogger**: 4,805.0 *(69.4%)*
+**Collector**: 97,239 *(70.2%)*
+**Scientist**: 11,469 *(81.0%)*
+**Breeder**: 2,973 *(61.2%)*
+**Backpacker**: 65,369 *(56.2%)*
+**Battle Girl**: 6,811 *(44.6%)*
+**Gold Gyms**: 50 *(51.2%)*
+    
+**Pokemon Ranger**: 3,487 *(71.9%)*
+**Berry Master**: 31,946 *(53.7%)*
+**Gym Leader**: 29,191 *(40.5%)*
+**Battle Legend**: 633 *(51.2%)*
+**Champion**: 279 *(48.8%)*
+    
+**Gym Badges**: 742
+**Pokedex Caught**: 424
+**Pokedex Seen**: 430
+**Fisherman**: 199
+**Youngster**: 824
+**Pikachu Fan**: 830
+**Unown**: 7
+**Pilot**: 515,087
+**Gentleman**: 104
+**Idol**: 35
+**Ace Trainer**: 635
+**Great League Veteran**: 6
+**Ultra League Veteran**: 9
+**Master League Veteran**: 5
+    
+**Days Played**: 176 days
+**XP**/day: 405,342
+**KM**/day: 27.3
+**Catches**/day: 552.49
+**Evolves**/day: 65.16
+**Hatches**/day: 16.89
+**Spins**/day: 371.41
+**Battles**/day: 38.7
+**Research**/day: 12.63
+**Berries**/day: 57.35
+**Gym Hours**/day: 52.41
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.5
+**Legendary Raids**/day: 0.53
+    

@@ -1,0 +1,42 @@
+**__SEPTEMBER__**
+    
+**Trainer**: Ishy147
+**Level**: 34
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 355
+**Monthly Rank**: N/A
+    
+**Total XP**: 5,651,528 *(9.3%)*
+**Jogger**: 346.5 *(4.3%)*
+**Collector**: 5,898 *(5.0%)*
+**Scientist**: 570 *(8.6%)*
+**Breeder**: 452 *(10.0%)*
+**Backpacker**: 4,075 *(4.3%)*
+**Battle Girl**: 1,147 *(13.6%)*
+**Gym Badge**: 184 *(16.4%)*
+**Gold Gyms**: 2 *(12.9%)*
+    
+**Pokemon Ranger**: 394 *(10.7%)*
+**Berry Master**: 1,044 *(8.6%)*
+**Gym Leader**: 2,421 *(10.7%)*
+**Battle Legend**: 76 *(12.1%)*
+**Champion**: 42 *(10.0%)*
+**Pokedex Caught**: 360.0 *(17.3%)*
+**Pokedex Seen**: 368.0 *(14.4%)*
+    
+**Days Played**: 814 days
+**XP**/day: 6,942
+**KM**/day: 0.4
+**Catches**/day: 7.25
+**Evolves**/day: 0.7
+**Hatches**/day: 0.56
+**Spins**/day: 5.01
+**Battles**/day: 1.41
+**Research**/day: 2.14
+**Berries**/day: 2.25
+**Gym Hours**/day: 5.21
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.09
+**Legendary Raids**/day: 0.1
+    

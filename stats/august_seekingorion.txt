@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: SeekingOrion
+**Level**: 40
+**Team**: Valor
+**Region**: North
+**Overall Rank**: 91
+**Monthly Rank**: 35
+    
+**Total XP**: 59,257,503 *(80.0%)*
+**Jogger**: 3,140.3 *(44.2%)*
+**Collector**: 69,914 *(66.7%)*
+**Scientist**: 5,034 *(52.5%)*
+**Breeder**: 3,452 *(75.8%)*
+**Backpacker**: 68,637 *(74.2%)*
+**Battle Girl**: 3,721 *(25.8%)*
+**Gym Badge**: 1011 *(98.3%)*
+**Gold Gyms**: 16 *(24.2%)*
+    
+**Pokemon Ranger**: 1,913 *(66.7%)*
+**Berry Master**: 39,032 *(82.5%)*
+**Gym Leader**: 15,506 *(25.0%)*
+**Battle Legend**: 754 *(80.0%)*
+**Champion**: 284 *(75.8%)*
+**Pokedex Caught**: 371.0 *(48.3%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 223
+**Youngster**: 397
+**Pikachu Fan**: 1255
+**Unown**: 27
+**Pilot**: 1,004,524
+**Gentleman**: 674
+    
+**Days Played**: 438 days
+**XP**/day: 135,291
+**KM**/day: 7.2
+**Catches**/day: 159.62
+**Evolves**/day: 11.49
+**Hatches**/day: 7.88
+**Spins**/day: 156.71
+**Battles**/day: 8.5
+**Research**/day: 12.42
+**Berries**/day: 89.73
+**Gym Hours**/day: 35.65
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.66
+**Legendary Raids**/day: 0.7
+    

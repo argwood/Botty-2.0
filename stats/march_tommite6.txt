@@ -1,0 +1,39 @@
+**__MARCH__**
+    
+**Trainer**: Tommite6
+**Level**: 40
+**Team**: Instinct
+**Region**: North
+**Overall Rank**: 191
+**Monthly Rank**: 14
+    
+**Total XP**: 46,699,443 *(20.9%)*
+**Jogger**: 3,041.7 *(18.7%)*
+**Collector**: 41,821 *(21.4%)*
+**Scientist**: 6,368 *(48.9%)*
+**Breeder**: 5,499 *(78.0%)*
+**Backpacker**: 26,390 *(13.7%)*
+**Battle Girl**: 3,507 *(19.2%)*
+**Gold Gyms**: 18 *(18.1%)*
+    
+**Pokemon Ranger**: 2,396 *(31.3%)*
+**Berry Master**: 12,047 *(19.8%)*
+**Gym Leader**: 8,267 *(9.9%)*
+**Battle Legend**: 492 *(29.1%)*
+**Champion**: 518 *(76.9%)*
+    
+**Days Played**: 994 days
+**XP**/day: 46,981
+**KM**/day: 3.1
+**Catches**/day: 42.07
+**Evolves**/day: 6.41
+**Hatches**/day: 5.53
+**Spins**/day: 26.55
+**Battles**/day: 3.53
+**Research**/day: 6.55
+**Berries**/day: 18.62
+**Gym Hours**/day: 12.78
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.81
+**Legendary Raids**/day: 0.84
+    

@@ -1,0 +1,54 @@
+**__MAY__**
+    
+**Trainer**: PandaOfTheNight
+**Level**: 40
+**Team**: Valor
+**Region**: Other
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 21,458,498 *(10.8%)*
+**Jogger**: 967.0 *(4.2%)*
+**Collector**: 20,799 *(11.7%)*
+**Scientist**: 1,003 *(10.8%)*
+**Breeder**: 1,637 *(25.8%)*
+**Backpacker**: 7,847 *(5.0%)*
+**Battle Girl**: 1,281 *(13.3%)*
+**Gold Gyms**: 2 *(6.7%)*
+    
+**Pokemon Ranger**: 1,127 *(15.0%)*
+**Berry Master**: 3,541 *(12.5%)*
+**Gym Leader**: 3,779 *(10.0%)*
+**Battle Legend**: 122 *(6.7%)*
+**Champion**: 116 *(15.0%)*
+    
+**Gym Badges**: 151
+**Pokedex Caught**: 449
+**Pokedex Seen**: 467
+**Fisherman**: 53
+**Youngster**: 76
+**Pikachu Fan**: 331
+**Unown**: 1
+**Pilot**: 67,353
+**Gentleman**: 97
+**Idol**: 15
+**Ace Trainer**: 24
+**Great League Veteran**: 3
+**Ultra League Veteran**: 4
+**Master League Veteran**: 4
+    
+**Days Played**: 1046 days
+**XP**/day: 20,514
+**KM**/day: 0.9
+**Catches**/day: 19.88
+**Evolves**/day: 0.96
+**Hatches**/day: 1.57
+**Spins**/day: 7.5
+**Battles**/day: 1.22
+**Research**/day: 2.66
+**Berries**/day: 5.02
+**Gym Hours**/day: 5.36
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.17
+**Legendary Raids**/day: 0.17
+    

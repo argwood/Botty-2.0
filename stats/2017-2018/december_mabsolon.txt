@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: mabsolon
+**Level**: 39
+**Team**: Mystic
+**Region**: Loop
+    
+**Total XP**: 17,144,325 *(44.0%)*
+**Gold Gyms**: 1 *(7.0%)*
+**Gym Badge**: 152 *(9.0%)*
+**Jogger**: 2,426.4 *(50.0%)*
+**Collector**: 33,910 *(52.0%)*
+**Scientist**: 5,639 *(73.0%)*
+**Breeder**: 1,584 *(59.0%)*
+**Backpacker**: 39,995 *(62.0%)*
+**Battle Girl**: 1,357 *(14.0%)*
+**Ace Trainer**: 684 *(47.0%)*
+**Berry Master**: 3,704 *(28.0%)*
+**Gym Leader**: 2,394 *(4.0%)*
+**Battle Legend**: 143 *(31.0%)*
+**Champion**: 69 *(29.0%)*
+**Pokedex Caught**: 288 *(38.0%)*
+**Pokedex Seen**: 302 *(18.0%)*
+    
+**Days Played**: 536 days
+**XP**/day: 31,985
+**KM**/day: 4.5
+**Catches**/day: 63.26
+**Evolves**/day: 10.52
+**Hatches**/day: 2.96
+**Spins**/day: 74.62
+**Battles**/day: 2.53
+**Berries**/day: 19.49
+**Gym Hours**/day: 12.6
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.37
+**Legendary Raids**/day: 0.43
+    

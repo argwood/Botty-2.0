@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: Rossbug
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 26,736,464 *(86.5%)*
+**Gold Gyms**: 15 *(77.4%)*
+**Gym Badge**: 457 *(82.7%)*
+**Jogger**: 2,519.7 *(63.2%)*
+**Collector**: 43,729 *(80.5%)*
+**Scientist**: 5,333 *(78.2%)*
+**Breeder**: 1,059 *(43.6%)*
+**Backpacker**: 36,291 *(72.9%)*
+**Battle Girl**: 8,793 *(93.2%)*
+**Ace Trainer**: 2035 *(82.0%)*
+**Berry Master**: 5,614 *(66.2%)*
+**Gym Leader**: 25,848 *(92.5%)*
+**Battle Legend**: 133 *(45.1%)*
+**Champion**: 66 *(54.1%)*
+**Pokedex Caught**: 248 *(88.0%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 336 days
+**XP**/day: 79,572
+**KM**/day: 7.5
+**Catches**/day: 130.15
+**Evolves**/day: 15.87
+**Catches**/evolve: 8.2
+**Hatches**/day: 3.15
+**KM**/egg: 2.38
+**Spins**/day: 108.01
+**Battles**/day: 26.17
+**Berries**/day: 36.22
+**Gym Hours**/day: 166.76
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.44
+**Legendary Raids**/day: 0.53
+    

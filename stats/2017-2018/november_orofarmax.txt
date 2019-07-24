@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: orofarmax
+**Level**: 39
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 16,441,267 *(61.7%)*
+**Gold Gyms**: 7 *(49.6%)*
+**Gym Badge**: 472 *(85.7%)*
+**Jogger**: 1,797.5 *(42.1%)*
+**Collector**: 30,411 *(62.4%)*
+**Scientist**: 1,459 *(31.6%)*
+**Breeder**: 2,695 *(89.5%)*
+**Backpacker**: 22,674 *(39.8%)*
+**Battle Girl**: 1,818 *(36.8%)*
+**Ace Trainer**: 0 *(7.5%)*
+**Berry Master**: 6,076 *(68.4%)*
+**Gym Leader**: 17,160 *(80.5%)*
+**Battle Legend**: 258 *(87.2%)*
+**Champion**: 176 *(95.5%)*
+**Pokedex Caught**: 247 *(76.7%)*
+**Pokedex Seen**: 251 *(99.2%)*
+    
+**Days Played**: 503 days
+**XP**/day: 32,686
+**KM**/day: 3.6
+**Catches**/day: 60.46
+**Evolves**/day: 2.9
+**Catches**/evolve: 20.84
+**Hatches**/day: 5.36
+**KM**/egg: 0.67
+**Spins**/day: 45.08
+**Battles**/day: 3.61
+**Berries**/day: 39.2
+**Gym Hours**/day: 110.71
+**Gold Gyms**/day: 0.05
+**Raids**/day: 1.17
+**Legendary Raids**/day: 1.41
+    

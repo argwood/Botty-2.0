@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: TheRealRebel101
+**Level**: 36
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 8,374,638 *(28.6%)*
+**Gold Gyms**: 8 *(54.1%)*
+**Gym Badge**: 194 *(27.8%)*
+**Jogger**: 1,470.7 *(32.3%)*
+**Collector**: 12,783 *(25.6%)*
+**Scientist**: 1,617 *(35.3%)*
+**Breeder**: 1,702 *(65.4%)*
+**Backpacker**: 16,411 *(35.3%)*
+**Battle Girl**: 1,554 *(27.1%)*
+**Ace Trainer**: 1243 *(70.7%)*
+**Berry Master**: 1,318 *(20.3%)*
+**Gym Leader**: 7,718 *(50.4%)*
+**Battle Legend**: 156 *(56.4%)*
+**Champion**: 67 *(57.1%)*
+**Pokedex Caught**: 244 *(26.3%)*
+**Pokedex Seen**: 251 *(99.2%)*
+    
+**Days Played**: 480 days
+**XP**/day: 17,447
+**KM**/day: 3.1
+**Catches**/day: 26.63
+**Evolves**/day: 3.37
+**Catches**/evolve: 7.91
+**Hatches**/day: 3.55
+**KM**/egg: 0.86
+**Spins**/day: 34.19
+**Battles**/day: 3.24
+**Berries**/day: 9.76
+**Gym Hours**/day: 57.17
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.51
+**Legendary Raids**/day: 0.64
+    

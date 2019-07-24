@@ -1,0 +1,37 @@
+**__JANUARY__**
+    
+**Trainer**: Knifeislife
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 25,507,424 *(65.1%)*
+**Gold Gyms**: 9 *(37.2%)*
+**Gym Badge**: 783 *(90.7%)*
+**Jogger**: 3,256.9 *(76.7%)*
+**Collector**: 47,081 *(70.9%)*
+**Scientist**: 5,651 *(67.4%)*
+**Breeder**: 2,057 *(68.6%)*
+**Backpacker**: 53,453 *(80.2%)*
+**Battle Girl**: 1,717 *(12.8%)*
+**Berry Master**: 9,835 *(59.3%)*
+**Gym Leader**: 10,916 *(39.5%)*
+**Battle Legend**: 248 *(55.8%)*
+**Champion**: 117 *(57.0%)*
+**Pokedex Caught**: 327 *(74.4%)*
+**Pokedex Seen**: 334 *(45.3%)*
+    
+**Days Played**: 564 days
+**XP**/day: 45,225
+**KM**/day: 5.8
+**Catches**/day: 83.48
+**Evolves**/day: 10.02
+**Hatches**/day: 3.65
+**Spins**/day: 94.77
+**Battles**/day: 3.04
+**Berries**/day: 45.74
+**Gym Hours**/day: 50.77
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.55
+**Legendary Raids**/day: 0.63
+    

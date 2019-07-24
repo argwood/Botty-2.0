@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: Dracoyz
+**Level**: 40
+**Team**: Valor
+**Region**: Loop
+    
+**Total XP**: 53,799,761 *(100.0%)*
+**Gold Gyms**: 6 *(47.4%)*
+**Gym Badge**: 346 *(64.7%)*
+**Jogger**: 5,575.3 *(99.2%)*
+**Collector**: 94,276 *(100.0%)*
+**Scientist**: 13,222 *(100.0%)*
+**Breeder**: 3,258 *(95.5%)*
+**Backpacker**: 124,067 *(100.0%)*
+**Battle Girl**: 11,501 *(97.0%)*
+**Ace Trainer**: 2093 *(83.5%)*
+**Berry Master**: 24,811 *(100.0%)*
+**Gym Leader**: 2,739 *(14.3%)*
+**Battle Legend**: 368 *(95.5%)*
+**Champion**: 110 *(78.9%)*
+**Pokedex Caught**: 246 *(54.1%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 500 days
+**XP**/day: 107,599
+**KM**/day: 11.2
+**Catches**/day: 188.55
+**Evolves**/day: 26.44
+**Catches**/evolve: 7.13
+**Hatches**/day: 6.52
+**KM**/egg: 1.71
+**Spins**/day: 248.13
+**Battles**/day: 23.0
+**Berries**/day: 164.31
+**Gym Hours**/day: 18.14
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.75
+**Legendary Raids**/day: 0.91
+    

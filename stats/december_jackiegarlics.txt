@@ -1,0 +1,39 @@
+**__DECEMBER__**
+    
+**Trainer**: jackiegarlics
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 282
+**Monthly Rank**: 69
+    
+**Total XP**: 26,141,750 *(17.4%)*
+**Jogger**: 2,144.0 *(18.2%)*
+**Collector**: 30,845 *(21.5%)*
+**Scientist**: 1,923 *(23.1%)*
+**Breeder**: 1,978 *(36.4%)*
+**Backpacker**: 27,927 *(25.6%)*
+**Battle Girl**: 1,183 *(9.1%)*
+**Gold Gyms**: 7 *(8.3%)*
+    
+**Pokemon Ranger**: 1,542 *(28.1%)*
+**Berry Master**: 2,221 *(6.6%)*
+**Gym Leader**: 7,074 *(7.4%)*
+**Battle Legend**: 241 *(14.9%)*
+**Champion**: 298 *(55.4%)*
+    
+**Days Played**: 903 days
+**XP**/day: 28,949
+**KM**/day: 2.4
+**Catches**/day: 34.16
+**Evolves**/day: 2.13
+**Hatches**/day: 2.19
+**Spins**/day: 30.93
+**Battles**/day: 1.31
+**Research**/day: 5.59
+**Berries**/day: 3.99
+**Gym Hours**/day: 12.7
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.54
+**Legendary Raids**/day: 0.57
+    

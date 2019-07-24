@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: OrBerger
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 43,248,018 *(66.7%)*
+**Jogger**: 10,443.0 *(99.5%)*
+**Collector**: 91,020 *(85.1%)*
+**Scientist**: 5,587 *(63.6%)*
+**Breeder**: 5,119 *(91.8%)*
+**Backpacker**: 79,057 *(84.6%)*
+**Battle Girl**: 5,271 *(47.7%)*
+**Gym Badge**: 333 *(33.3%)*
+**Gold Gyms**: 37 *(59.0%)*
+    
+**Pokemon Ranger**: 2,243 *(86.7%)*
+**Berry Master**: 29,260 *(75.9%)*
+**Gym Leader**: 18,247 *(43.6%)*
+**Battle Legend**: 605 *(73.8%)*
+**Champion**: 221 *(67.7%)*
+**Pokedex Caught**: 374 *(100.0%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 409
+**Youngster**: 604
+**Pikachu Fan**: 1071
+**Unown**: 8
+**Pilot**: 678,506
+**Gentleman**: 101
+    
+**Days Played**: 752 days
+**XP**/day: 57,510
+**KM**/day: 13.9
+**Catches**/day: 121.04
+**Evolves**/day: 7.43
+**Hatches**/day: 6.81
+**Spins**/day: 105.13
+**Battles**/day: 7.01
+**Research**/day: 18.24
+**Berries**/day: 72.43
+**Gym Hours**/day: 45.17
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.55
+**Legendary Raids**/day: 0.59
+    

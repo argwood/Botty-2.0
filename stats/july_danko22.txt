@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: Danko22
+**Level**: 40
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 55,351,565 *(80.5%)*
+**Jogger**: 4,214.6 *(75.9%)*
+**Collector**: 81,541 *(79.0%)*
+**Scientist**: 5,032 *(58.5%)*
+**Breeder**: 3,701 *(78.5%)*
+**Backpacker**: 69,202 *(76.4%)*
+**Battle Girl**: 3,980 *(42.1%)*
+**Gym Badge**: 778 *(78.5%)*
+**Gold Gyms**: 18 *(40.0%)*
+    
+**Pokemon Ranger**: 1,481 *(69.7%)*
+**Berry Master**: 31,895 *(80.5%)*
+**Gym Leader**: 9,155 *(29.2%)*
+**Battle Legend**: 1264 *(93.3%)*
+**Champion**: 393 *(90.3%)*
+**Pokedex Caught**: 370 *(72.8%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Days Played**: 754 days
+**XP**/day: 73,410
+**KM**/day: 5.6
+**Catches**/day: 108.14
+**Evolves**/day: 6.67
+**Hatches**/day: 4.91
+**Spins**/day: 91.78
+**Battles**/day: 5.28
+**Research**/day: 12.14
+**Berries**/day: 79.14
+**Gym Hours**/day: 22.72
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.98
+**Legendary Raids**/day: 1.05
+    

@@ -1,0 +1,50 @@
+**__SEPTEMBER__**
+    
+**Trainer**: tjbucketsss
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 173
+**Monthly Rank**: 45
+    
+**Total XP**: 38,442,727 *(39.3%)*
+**Jogger**: 2,562.0 *(37.9%)*
+**Collector**: 45,079 *(37.1%)*
+**Scientist**: 3,001 *(34.3%)*
+**Breeder**: 1,801 *(45.0%)*
+**Backpacker**: 25,609 *(27.1%)*
+**Battle Girl**: 7,256 *(46.4%)*
+**Gym Badge**: 474 *(46.4%)*
+**Gold Gyms**: 15 *(28.6%)*
+    
+**Pokemon Ranger**: 1,576 *(49.3%)*
+**Berry Master**: 9,747 *(24.3%)*
+**Gym Leader**: 11,098 *(28.6%)*
+**Battle Legend**: 651 *(62.9%)*
+**Champion**: 565 *(95.0%)*
+**Pokedex Caught**: 376.0 *(100.0%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 156
+**Youngster**: 328
+**Pikachu Fan**: 413
+**Unown**: 16
+**Pilot**: 1,071,303
+**Gentleman**: 508
+**Idol**: 2
+    
+**Days Played**: 813 days
+**XP**/day: 47,285
+**KM**/day: 3.2
+**Catches**/day: 55.45
+**Evolves**/day: 3.69
+**Hatches**/day: 2.22
+**Spins**/day: 31.5
+**Battles**/day: 8.92
+**Research**/day: 8.57
+**Berries**/day: 20.96
+**Gym Hours**/day: 23.87
+**Gold Gyms**/day: 0.03
+**Raids**/day: 1.23
+**Legendary Raids**/day: 1.3
+    

@@ -1,0 +1,54 @@
+**__JUNE__**
+    
+**Trainer**: RexButz
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 156
+**Monthly Rank**: 39
+    
+**Total XP**: 78,476,228 *(52.7%)*
+**Jogger**: 2,385.0 *(19.6%)*
+**Collector**: 45,171 *(30.4%)*
+**Scientist**: 2,576 *(30.4%)*
+**Breeder**: 3,152 *(51.8%)*
+**Backpacker**: 23,121 *(20.5%)*
+**Battle Girl**: 8,478 *(52.7%)*
+**Gold Gyms**: 118 *(81.2%)*
+    
+**Pokemon Ranger**: 1,175 *(18.8%)*
+**Berry Master**: 22,866 *(42.9%)*
+**Gym Leader**: 42,441 *(53.6%)*
+**Battle Legend**: 2311 *(93.8%)*
+**Champion**: 813 *(86.6%)*
+    
+**Gym Badges**: 708
+**Pokedex Caught**: 475
+**Pokedex Seen**: 483
+**Fisherman**: 138
+**Youngster**: 230
+**Pikachu Fan**: 686
+**Unown**: 24
+**Pilot**: 3,292,652
+**Gentleman**: 5920
+**Idol**: 27
+**Ace Trainer**: 125
+**Great League Veteran**: 41
+**Ultra League Veteran**: 7
+**Master League Veteran**: 16
+    
+**Days Played**: 1084 days
+**XP**/day: 72,395
+**KM**/day: 2.2
+**Catches**/day: 41.67
+**Evolves**/day: 2.38
+**Hatches**/day: 2.91
+**Spins**/day: 21.33
+**Battles**/day: 7.82
+**Research**/day: 2.57
+**Berries**/day: 30.98
+**Gym Hours**/day: 57.51
+**Gold Gyms**/day: 0.16
+**Raids**/day: 1.11
+**Legendary Raids**/day: 1.15
+    

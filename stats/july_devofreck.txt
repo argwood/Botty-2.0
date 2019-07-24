@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: devofreck
+**Level**: 33
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 4,450,990 *(6.7%)*
+**Jogger**: 423.7 *(6.7%)*
+**Collector**: 5,930 *(7.2%)*
+**Scientist**: 575 *(10.8%)*
+**Breeder**: 322 *(9.2%)*
+**Backpacker**: 7,362 *(8.7%)*
+**Battle Girl**: 285 *(7.2%)*
+**Gym Badge**: 113 *(11.3%)*
+**Gold Gyms**: 1 *(11.8%)*
+    
+**Pokemon Ranger**: 111 *(4.1%)*
+**Berry Master**: 497 *(5.1%)*
+**Gym Leader**: 1,882 *(11.8%)*
+**Battle Legend**: 33 *(6.7%)*
+**Champion**: 34 *(9.7%)*
+**Pokedex Caught**: 342 *(11.8%)*
+**Pokedex Seen**: 360 *(11.8%)*
+    
+**Days Played**: 755 days
+**XP**/day: 5,895
+**KM**/day: 0.6
+**Catches**/day: 7.85
+**Evolves**/day: 0.76
+**Hatches**/day: 0.43
+**Spins**/day: 9.75
+**Battles**/day: 0.38
+**Research**/day: 0.9
+**Berries**/day: 1.23
+**Gym Hours**/day: 4.66
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.09
+**Legendary Raids**/day: 0.09
+    

@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: AvuaE
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 54,020,850 *(87.2%)*
+**Gold Gyms**: 97 *(89.9%)*
+**Gym Badge**: 727 *(80.5%)*
+**Jogger**: 3,622.3 *(70.5%)*
+**Collector**: 78,157 *(84.6%)*
+**Scientist**: 11,252 *(91.9%)*
+**Breeder**: 2,869 *(75.8%)*
+**Backpacker**: 81,140 *(92.6%)*
+**Battle Girl**: 10,377 *(78.5%)*
+**Pokemon Ranger**: 868 *(79.9%)*
+**Berry Master**: 32,914 *(87.9%)*
+**Gym Leader**: 77,197 *(96.6%)*
+**Battle Legend**: 406 *(56.4%)*
+**Champion**: 148 *(47.0%)*
+**Pokedex Caught**: 364 *(85.2%)*
+**Pokedex Seen**: 368 *(18.1%)*
+    
+**Days Played**: 690 days
+**XP**/day: 78,291
+**KM**/day: 5.2
+**Catches**/day: 113.27
+**Evolves**/day: 16.31
+**Hatches**/day: 4.16
+**Spins**/day: 117.59
+**Battles**/day: 15.04
+**Quests**/day: 14.0
+**Berries**/day: 95.96
+**Gym Hours**/day: 225.06
+**Gold Gyms**/day: 0.28
+**Raids**/day: 0.44
+**Legendary Raids**/day: 0.47
+    

@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: grothendieck2
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 22,424,518 *(38.7%)*
+**Gold Gyms**: 11 *(30.6%)*
+**Gym Badge**: 144 *(1.8%)*
+**Jogger**: 1,072.0 *(7.2%)*
+**Collector**: 25,909 *(26.1%)*
+**Scientist**: 4,731 *(49.5%)*
+**Breeder**: 1,078 *(32.4%)*
+**Backpacker**: 17,869 *(18.0%)*
+**Battle Girl**: 1,983 *(10.8%)*
+**Berry Master**: 5,776 *(19.8%)*
+**Gym Leader**: 7,760 *(18.9%)*
+**Battle Legend**: 247 *(27.9%)*
+**Champion**: 328 *(97.3%)*
+**Pokedex Caught**: 354 *(40.5%)*
+**Pokedex Seen**: 364 *(15.3%)*
+    
+**Days Played**: 227 days
+**XP**/day: 98,786
+**KM**/day: 4.7
+**Catches**/day: 114.14
+**Evolves**/day: 20.84
+**Hatches**/day: 4.75
+**Spins**/day: 78.72
+**Battles**/day: 8.74
+**Berries**/day: 20.48
+**Gym Hours**/day: 27.52
+**Gold Gyms**/day: 0.04
+**Raids**/day: 1.18
+**Legendary Raids**/day: 1.3
+    

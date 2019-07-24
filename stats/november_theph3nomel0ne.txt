@@ -1,0 +1,50 @@
+**__NOVEMBER__**
+    
+**Trainer**: ThePh3nomel0ne
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 56
+**Monthly Rank**: N/A
+    
+**Total XP**: 63,152,050 *(59.6%)*
+**Jogger**: 2,715 *(32.1%)*
+**Collector**: 109,046 *(82.6%)*
+**Scientist**: 5,812 *(55.0%)*
+**Breeder**: 3,043 *(61.5%)*
+**Backpacker**: 66,607 *(57.8%)*
+**Battle Girl**: 17,026 *(77.1%)*
+**Gym Badge**: 275 *(26.6%)*
+**Gold Gyms**: 70 *(67.9%)*
+    
+**Pokemon Ranger**: 4,705 *(86.2%)*
+**Berry Master**: 43,247 *(70.6%)*
+**Gym Leader**: 40,805 *(59.6%)*
+**Battle Legend**: 678 *(59.6%)*
+**Champion**: 476 *(78.9%)*
+**Pokedex Caught**: 397.0 *(25.7%)*
+**Pokedex Seen**: 423.0 *(82.9%)*
+    
+**Fisherman**: 301
+**Youngster**: 892
+**Pikachu Fan**: 1236
+**Unown**: 9
+**Pilot**: 526,249
+**Gentleman**: 718
+**Idol**: 16
+    
+**Days Played**: 876 days
+**XP**/day: 72,091
+**KM**/day: 3.1
+**Catches**/day: 124.48
+**Evolves**/day: 6.63
+**Hatches**/day: 3.47
+**Spins**/day: 76.04
+**Battles**/day: 19.44
+**Research**/day: 19.2
+**Berries**/day: 82.22
+**Gym Hours**/day: 77.58
+**Gold Gyms**/day: 0.13
+**Raids**/day: 0.91
+**Legendary Raids**/day: 0.96
+    

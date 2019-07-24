@@ -1,0 +1,54 @@
+**__APRIL__**
+    
+**Trainer**: Nickkasem
+**Level**: 40
+**Team**: Instinct
+**Region**: North
+**Overall Rank**: 109
+**Monthly Rank**: N/A
+    
+**Total XP**: 81,576,237 *(57.7%)*
+**Jogger**: 6,986.0 *(80.4%)*
+**Collector**: 113,954 *(71.4%)*
+**Scientist**: 10,328 *(75.1%)*
+**Breeder**: 3,071 *(49.7%)*
+**Backpacker**: 108,095 *(79.9%)*
+**Battle Girl**: 2,690 *(16.4%)*
+**Gold Gyms**: 18 *(23.3%)*
+    
+**Pokemon Ranger**: 5,373 *(78.3%)*
+**Berry Master**: 39,156 *(57.1%)*
+**Gym Leader**: 13,195 *(21.7%)*
+**Battle Legend**: 409 *(25.9%)*
+**Champion**: 411 *(64.6%)*
+    
+**Gym Badges**: 397
+**Pokedex Caught**: 461
+**Pokedex Seen**: 464
+**Fisherman**: 309
+**Youngster**: 659
+**Pikachu Fan**: 1731
+**Unown**: 12
+**Pilot**: 4,195,786
+**Gentleman**: 7954
+**Idol**: 95
+**Ace Trainer**: 795
+**Great League Veteran**: 107
+**Ultra League Veteran**: 106
+**Master League Veteran**: 122
+    
+**Days Played**: 991 days
+**XP**/day: 82,317
+**KM**/day: 7.0
+**Catches**/day: 114.99
+**Evolves**/day: 10.42
+**Hatches**/day: 3.1
+**Spins**/day: 109.08
+**Battles**/day: 2.71
+**Research**/day: 14.68
+**Berries**/day: 60.52
+**Gym Hours**/day: 20.39
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.64
+**Legendary Raids**/day: 0.67
+    

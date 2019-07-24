@@ -1,0 +1,37 @@
+**__FEBRUARY__**
+    
+**Trainer**: MichiMise
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 30,196,440 *(76.1%)*
+**Gold Gyms**: 102 *(97.3%)*
+**Gym Badge**: 863 *(93.8%)*
+**Jogger**: 3,133.6 *(63.7%)*
+**Collector**: 53,635 *(74.3%)*
+**Scientist**: 3,745 *(45.1%)*
+**Breeder**: 2,479 *(76.1%)*
+**Backpacker**: 83,972 *(93.8%)*
+**Battle Girl**: 16,067 *(92.9%)*
+**Berry Master**: 29,456 *(96.5%)*
+**Gym Leader**: 92,206 *(99.1%)*
+**Battle Legend**: 282 *(56.6%)*
+**Champion**: 265 *(93.8%)*
+**Pokedex Caught**: 360 *(98.2%)*
+**Pokedex Seen**: 368 *(100.0%)*
+    
+**Days Played**: 593 days
+**XP**/day: 50,921
+**KM**/day: 5.3
+**Catches**/day: 90.45
+**Evolves**/day: 6.32
+**Hatches**/day: 4.18
+**Spins**/day: 141.61
+**Battles**/day: 27.09
+**Berries**/day: 117.35
+**Gym Hours**/day: 367.35
+**Gold Gyms**/day: 0.41
+**Raids**/day: 1.07
+**Legendary Raids**/day: 1.2
+    

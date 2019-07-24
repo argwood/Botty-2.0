@@ -1,0 +1,37 @@
+**Trainer Name**:  teamFRESHROCKET
+Team:  Valor
+Region:  Loop
+Level:  40.0
+    
+Total XP Percentile:  39.3 %
+Gold Gyms Percentile:  17.4 %
+Gym Badge Percentile:  10.7 %
+Jogger Percentile:  91.1 %
+Collector Percentile:  30.4 %
+Scientist Percentile:  57.1 %
+Breeder Percentile:  95.5 %
+Backpacker Percentile:  84.8 %
+Battle Girl Percentile:  25.0 %
+Berry Master Percentile:  41.1 %
+Gym Leader Percentile:  3.6 %
+Battle Legend Percentile:  23.2 %
+Champion Percentile:  45.1 %
+Pokedex Caught Percentile:  53.1 %
+Pokedex Seen Percentile:  46.4 %
+    
+Days Played:  598 days
+XP/day:  33457
+km/day:  8.6
+catches/day:  44.55
+evolves/day:  8.76
+catches/evolve:  5.09
+hatches/day:  6.57
+km/egg:  1.31
+spins/day:  103.91
+battles/day:  3.88
+berries/day:  30.69
+gym hours/day:  8.92
+gold gyms/day:  0.02
+normal raids/day:  0.43
+legendary raids/day:  0.48
+    

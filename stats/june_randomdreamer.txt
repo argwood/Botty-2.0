@@ -1,0 +1,54 @@
+**__JUNE__**
+    
+**Trainer**: RandomDreamer
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 305
+**Monthly Rank**: 60
+    
+**Total XP**: 30,005,017 *(22.3%)*
+**Jogger**: 2,371.8 *(18.8%)*
+**Collector**: 28,018 *(19.6%)*
+**Scientist**: 2,176 *(25.0%)*
+**Breeder**: 1,108 *(20.5%)*
+**Backpacker**: 32,507 *(26.8%)*
+**Battle Girl**: 5,493 *(40.2%)*
+**Gold Gyms**: 15 *(27.7%)*
+    
+**Pokemon Ranger**: 2,036 *(28.6%)*
+**Berry Master**: 11,009 *(28.6%)*
+**Gym Leader**: 14,538 *(31.2%)*
+**Battle Legend**: 194 *(17.9%)*
+**Champion**: 138 *(19.6%)*
+    
+**Gym Badges**: 520
+**Pokedex Caught**: 459
+**Pokedex Seen**: 482
+**Fisherman**: 110
+**Youngster**: 181
+**Pikachu Fan**: 353
+**Unown**: 0
+**Pilot**: 13,549
+**Gentleman**: 2
+**Idol**: 26
+**Ace Trainer**: 2437
+**Great League Veteran**: 6
+**Ultra League Veteran**: 18
+**Master League Veteran**: 18
+    
+**Days Played**: 1062 days
+**XP**/day: 28,253
+**KM**/day: 2.2
+**Catches**/day: 26.38
+**Evolves**/day: 2.05
+**Hatches**/day: 1.04
+**Spins**/day: 30.61
+**Battles**/day: 5.17
+**Research**/day: 4.46
+**Berries**/day: 14.92
+**Gym Hours**/day: 19.7
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.19
+**Legendary Raids**/day: 0.19
+    

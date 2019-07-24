@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: CrackleberryJr
+**Level**: 40
+**Team**: Instinct
+**Region**: West
+    
+**Total XP**: 44,893,802 *(69.7%)*
+**Jogger**: 7,893.2 *(97.9%)*
+**Collector**: 69,226 *(73.3%)*
+**Scientist**: 7,385 *(74.9%)*
+**Breeder**: 5,202 *(92.8%)*
+**Backpacker**: 75,694 *(82.1%)*
+**Battle Girl**: 6,506 *(55.4%)*
+**Gym Badge**: 529 *(57.9%)*
+**Gold Gyms**: 22 *(44.6%)*
+    
+**Pokemon Ranger**: 1,423 *(68.2%)*
+**Berry Master**: 24,700 *(67.7%)*
+**Gym Leader**: 12,417 *(33.8%)*
+**Battle Legend**: 671 *(79.5%)*
+**Champion**: 280 *(80.5%)*
+**Pokedex Caught**: 374 *(100.0%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 315
+**Youngster**: 592
+**Pikachu Fan**: 770
+**Unown**: 22
+**Pilot**: 882,384
+**Gentleman**: 166
+    
+**Days Played**: 685 days
+**XP**/day: 65,538
+**KM**/day: 11.5
+**Catches**/day: 101.06
+**Evolves**/day: 10.78
+**Hatches**/day: 7.59
+**Spins**/day: 110.5
+**Battles**/day: 9.5
+**Research**/day: 11.57
+**Berries**/day: 61.14
+**Gym Hours**/day: 30.74
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.7
+**Legendary Raids**/day: 0.75
+    

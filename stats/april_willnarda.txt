@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: WillnardA
+**Level**: 40
+**Team**: Mystic
+**Region**: Other
+**Overall Rank**: None
+**Monthly Rank**: N/A
+    
+**Total XP**: 173,500,000 *(94.7%)*
+**Jogger**: 6,275.0 *(70.4%)*
+**Collector**: 252,000 *(98.9%)*
+**Scientist**: 13,500 *(84.1%)*
+**Breeder**: 5,750 *(77.2%)*
+**Backpacker**: 169,000 *(92.6%)*
+**Battle Girl**: 33,250 *(90.5%)*
+**Gold Gyms**: 160 *(84.7%)*
+    
+**Pokemon Ranger**: 16,250 *(98.4%)*
+**Berry Master**: 101,000 *(92.1%)*
+**Gym Leader**: 100,500 *(84.7%)*
+**Battle Legend**: 1545 *(87.3%)*
+**Champion**: 388 *(59.3%)*
+    
+**Days Played**: 1017 days
+**XP**/day: 170,599
+**KM**/day: 6.2
+**Catches**/day: 247.79
+**Evolves**/day: 13.27
+**Hatches**/day: 5.65
+**Spins**/day: 166.18
+**Battles**/day: 32.69
+**Research**/day: 41.45
+**Berries**/day: 150.07
+**Gym Hours**/day: 149.33
+**Gold Gyms**/day: 0.24
+**Raids**/day: 0.58
+**Legendary Raids**/day: 0.6
+    

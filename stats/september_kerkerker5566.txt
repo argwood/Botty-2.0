@@ -1,0 +1,42 @@
+**__SEPTEMBER__**
+    
+**Trainer**: kerkerker5566
+**Level**: 40
+**Team**: Instinct
+**Region**: South
+**Overall Rank**: 225
+**Monthly Rank**: N/A
+    
+**Total XP**: 21,209,720 *(22.1%)*
+**Jogger**: 2,553.5 *(37.1%)*
+**Collector**: 33,985 *(28.6%)*
+**Scientist**: 1,796 *(25.0%)*
+**Breeder**: 774 *(20.0%)*
+**Backpacker**: 35,678 *(34.3%)*
+**Battle Girl**: 11,469 *(65.0%)*
+**Gym Badge**: 380 *(37.9%)*
+**Gold Gyms**: 24 *(38.6%)*
+    
+**Pokemon Ranger**: 1,390 *(42.1%)*
+**Berry Master**: 18,256 *(42.1%)*
+**Gym Leader**: 10,969 *(27.9%)*
+**Battle Legend**: 165 *(19.3%)*
+**Champion**: 97 *(21.4%)*
+**Pokedex Caught**: nan *(nan%)*
+**Pokedex Seen**: nan *(nan%)*
+    
+**Days Played**: 786 days
+**XP**/day: 26,984
+**KM**/day: 3.2
+**Catches**/day: 43.24
+**Evolves**/day: 2.28
+**Hatches**/day: 0.98
+**Spins**/day: 45.39
+**Battles**/day: 14.59
+**Research**/day: 7.55
+**Berries**/day: 39.26
+**Gym Hours**/day: 23.59
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.21
+**Legendary Raids**/day: 0.22
+    

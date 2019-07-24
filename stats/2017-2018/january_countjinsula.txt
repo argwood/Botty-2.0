@@ -1,0 +1,37 @@
+**Trainer**: CountJinsula
+**Level**: 40.0
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP** Percentile: 51.3 %
+**Gold Gyms** Percentile: 22.6 %
+**Gym Badge** Percentile: 61.1 %
+**Jogger** Percentile: 50.4 %
+**Collector** Percentile: 53.1 %
+**Scientist** Percentile: 43.4 %
+**Breeder** Percentile: 85.0 %
+**Backpacker** Percentile: 49.6 %
+**Battle Girl** Percentile: 46.9 %
+**Berry Master** Percentile: 45.1 %
+**Gym Leader** Percentile: 24.8 %
+**Battle Legend** Percentile: 82.3 %
+**Champion** Percentile: 91.2 %
+**Pokedex Caught** Percentile: 89.4 %
+**Pokedex Seen** Percentile: 79.2 %
+    
+**Days Played**: 601 days
+**XP**/day: 37393
+**KM**/day: 4.3
+**Catches**/day: 65.89
+**Evolves**/day: 6.11
+**Catches**/evolve: 10.78
+**Hatches**/day: 5.04
+**KM**/egg: 0.85
+**Spins**/day: 61.78
+**Battles**/day: 6.25
+**Berries**/day: 32.59
+**Gym Hours**/day: 37.32
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.99
+**Legendary Raids**/day: 1.11
+    

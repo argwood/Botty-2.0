@@ -1,0 +1,54 @@
+**__JANUARY__**
+    
+**Trainer**: AlolanKnife
+**Level**: 40
+**Team**: Valor
+**Region**: North
+**Overall Rank**: 79
+**Monthly Rank**: 56
+    
+**Total XP**: 75,812,985 *(67.5%)*
+**Jogger**: 6,322.0 *(84.2%)*
+**Collector**: 101,206 *(74.6%)*
+**Scientist**: 7,992 *(72.8%)*
+**Breeder**: 4,297 *(72.8%)*
+**Backpacker**: 100,999 *(82.5%)*
+**Battle Girl**: 4,602 *(33.3%)*
+**Gold Gyms**: 25 *(33.3%)*
+    
+**Pokemon Ranger**: 2,596 *(50.9%)*
+**Berry Master**: 31,730 *(57.0%)*
+**Gym Leader**: 22,690 *(35.1%)*
+**Battle Legend**: 604 *(44.7%)*
+**Champion**: 357 *(58.8%)*
+    
+**Gym Badges**: 1000
+**Pokedex Caught**: 441
+**Pokedex Seen**: 443
+**Fisherman**: 338
+**Youngster**: 846
+**Pikachu Fan**: 1183
+**Unown**: 22
+**Pilot**: 2,891,071
+**Gentleman**: 2122
+**Idol**: 38
+**Ace Trainer**: 189
+**Great League Veteran**: 28
+**Ultra League Veteran**: 200
+**Master League Veteran**: 11
+    
+**Days Played**: 937 days
+**XP**/day: 80,910
+**KM**/day: 6.7
+**Catches**/day: 108.01
+**Evolves**/day: 8.53
+**Hatches**/day: 4.59
+**Spins**/day: 107.79
+**Battles**/day: 4.91
+**Research**/day: 8.46
+**Berries**/day: 53.96
+**Gym Hours**/day: 38.59
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.61
+**Legendary Raids**/day: 0.64
+    

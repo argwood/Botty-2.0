@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Termessos
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+    
+**Total XP**: 44,829,248 *(81.9%)*
+**Gold Gyms**: 70 *(83.2%)*
+**Gym Badge**: 883 *(89.3%)*
+**Jogger**: 3,249.0 *(63.1%)*
+**Collector**: 72,543 *(80.5%)*
+**Scientist**: 11,342 *(93.3%)*
+**Breeder**: 2,002 *(61.1%)*
+**Backpacker**: 62,069 *(79.2%)*
+**Battle Girl**: 8,207 *(69.1%)*
+**Pokemon Ranger**: 1,473 *(90.6%)*
+**Berry Master**: 24,344 *(78.5%)*
+**Gym Leader**: 36,125 *(73.8%)*
+**Battle Legend**: 435 *(61.1%)*
+**Champion**: 113 *(35.6%)*
+**Pokedex Caught**: 364 *(85.2%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 686 days
+**XP**/day: 65,348
+**KM**/day: 4.7
+**Catches**/day: 105.75
+**Evolves**/day: 16.53
+**Hatches**/day: 2.92
+**Spins**/day: 90.48
+**Battles**/day: 11.96
+**Quests**/day: 23.76
+**Berries**/day: 70.97
+**Gym Hours**/day: 105.32
+**Gold Gyms**/day: 0.2
+**Raids**/day: 0.33
+**Legendary Raids**/day: 0.36
+    

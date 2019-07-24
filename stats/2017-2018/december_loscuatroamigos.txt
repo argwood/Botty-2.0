@@ -1,0 +1,38 @@
+**Trainer**: LosCuatroAmigos
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 23,573,206 *(56.0%)*
+**Gold Gyms**: 24 *(68.5%)*
+**Gym Badge**: 784 *(93.0%)*
+**Jogger**: 3,092.3 *(73.0%)*
+**Collector**: 27,169 *(43.0%)*
+**Scientist**: 5,065 *(69.0%)*
+**Breeder**: 3,717 *(90.0%)*
+**Backpacker**: 36,829 *(67.0%)*
+**Battle Girl**: 2,034 *(29.0%)*
+**Ace Trainer**: 0 *(50.5%)*
+**Berry Master**: 13,820 *(67.0%)*
+**Gym Leader**: 16,344 *(60.0%)*
+**Battle Legend**: 435 *(73.0%)*
+**Champion**: 109 *(50.0%)*
+**Pokedex Caught**: 366 *(96.0%)*
+**Pokedex Seen**: 371 *(85.5%)*
+    
+**Days Played**: 687 days
+**XP**/day: 34,313
+**KM**/day: 4.5
+**Catches**/day: 39.55
+**Evolves**/day: 7.37
+**Catches**/evolve: 5.36
+**Hatches**/day: 5.41
+**KM**/egg: 0.83
+**Spins**/day: 53.61
+**Battles**/day: 2.96
+**Berries**/day: 40.29
+**Gym Hours**/day: 47.65
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.32
+**Legendary Raids**/day: 0.35
+    

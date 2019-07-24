@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: Lydahcaine
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 27,271,962 *(53.2%)*
+**Gold Gyms**: 9 *(22.6%)*
+**Gym Badge**: 488 *(53.2%)*
+**Jogger**: 5,184.7 *(91.1%)*
+**Collector**: 30,907 *(39.5%)*
+**Scientist**: 6,230 *(68.5%)*
+**Breeder**: 1,769 *(57.3%)*
+**Backpacker**: 32,106 *(41.1%)*
+**Battle Girl**: 5,153 *(48.4%)*
+**Pokemon Ranger**: 112 *(17.7%)*
+**Berry Master**: 6,487 *(26.6%)*
+**Gym Leader**: 13,064 *(32.3%)*
+**Battle Legend**: 519 *(80.6%)*
+**Champion**: 151 *(58.1%)*
+**Pokedex Caught**: 348 *(29.8%)*
+**Pokedex Seen**: 366 *(18.5%)*
+    
+**Days Played**: 653 days
+**XP**/day: 41,764
+**KM**/day: 7.9
+**Catches**/day: 47.33
+**Evolves**/day: 9.54
+**Hatches**/day: 2.71
+**Spins**/day: 49.17
+**Battles**/day: 7.89
+**Quests**/day: 3.61
+**Berries**/day: 20.79
+**Gym Hours**/day: 41.87
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.49
+**Legendary Raids**/day: 0.54
+    

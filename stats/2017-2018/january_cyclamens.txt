@@ -1,0 +1,37 @@
+**Trainer**: Cyclamens
+**Level**: 34.0
+**Team**: Valor
+**Region**: North
+    
+**Total XP** Percentile: 5.3 %
+**Gold Gyms** Percentile: 3.5 %
+**Gym Badge** Percentile: 23.5 %
+**Jogger** Percentile: 4.4 %
+**Collector** Percentile: 8.8 %
+**Scientist** Percentile: 7.1 %
+**Breeder** Percentile: 2.7 %
+**Backpacker** Percentile: 6.2 %
+**Battle Girl** Percentile: 4.4 %
+**Berry Master** Percentile: 4.4 %
+**Gym Leader** Percentile: 8.8 %
+**Battle Legend** Percentile: 1.8 %
+**Champion** Percentile: 10.2 %
+**Pokedex Caught** Percentile: 4.4 %
+**Pokedex Seen** Percentile: 7.1 %
+    
+**Days Played**: 600 days
+**XP**/day: 8163
+**KM**/day: 1.3
+**Catches**/day: 18.85
+**Evolves**/day: 1.09
+**Catches**/evolve: 17.29
+**Hatches**/day: 0.35
+**KM**/egg: 3.82
+**Spins**/day: 16.13
+**Battles**/day: 1.12
+**Berries**/day: 6.45
+**Gym Hours**/day: 18.89
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.23
+**Legendary Raids**/day: 0.26
+    

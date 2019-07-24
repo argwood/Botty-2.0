@@ -1,0 +1,54 @@
+**__DECEMBER__**
+    
+**Trainer**: Xelephanor
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 32
+**Monthly Rank**: 36
+    
+**Total XP**: 85,289,317 *(79.3%)*
+**Jogger**: 4,033.0 *(55.4%)*
+**Collector**: 123,757 *(87.6%)*
+**Scientist**: 11,835 *(82.6%)*
+**Breeder**: 2,105 *(43.0%)*
+**Backpacker**: 86,532 *(74.4%)*
+**Battle Girl**: 27,773 *(93.4%)*
+**Gold Gyms**: 229 *(95.9%)*
+    
+**Pokemon Ranger**: 6,322 *(90.1%)*
+**Berry Master**: 53,372 *(86.0%)*
+**Gym Leader**: 152,235 *(100.0%)*
+**Battle Legend**: 599 *(49.6%)*
+**Champion**: 293 *(53.7%)*
+    
+**Gym Badges**: 1000
+**Pokedex Caught**: 406
+**Pokedex Seen**: 436
+**Fisherman**: 349
+**Youngster**: 912
+**Pikachu Fan**: 1318
+**Unown**: 21
+**Pilot**: 1,976,001
+**Gentleman**: 5174
+**Idol**: 65
+**Ace Trainer**: 2414
+**Great League Veteran**: 11
+**Ultra League Veteran**: 20
+**Master League Veteran**: 24
+    
+**Days Played**: 907 days
+**XP**/day: 94,034
+**KM**/day: 4.4
+**Catches**/day: 136.45
+**Evolves**/day: 13.05
+**Hatches**/day: 2.32
+**Spins**/day: 95.4
+**Battles**/day: 30.62
+**Research**/day: 22.91
+**Berries**/day: 95.82
+**Gym Hours**/day: 273.31
+**Gold Gyms**/day: 0.41
+**Raids**/day: 0.53
+**Legendary Raids**/day: 0.56
+    

@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Gengnoire
+**Level**: 36
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 7,946,329 *(12.1%)*
+**Gold Gyms**: 3 *(10.7%)*
+**Gym Badge**: 255 *(22.8%)*
+**Jogger**: 831.3 *(8.1%)*
+**Collector**: 10,567 *(12.8%)*
+**Scientist**: 621 *(8.1%)*
+**Breeder**: 907 *(23.5%)*
+**Backpacker**: 10,501 *(12.1%)*
+**Battle Girl**: 1,439 *(13.4%)*
+**Pokemon Ranger**: 672 *(66.4%)*
+**Berry Master**: 1,796 *(8.1%)*
+**Gym Leader**: 1,463 *(4.7%)*
+**Battle Legend**: 60 *(8.1%)*
+**Champion**: 121 *(40.3%)*
+**Pokedex Caught**: 332 *(7.4%)*
+**Pokedex Seen**: 353 *(4.7%)*
+    
+**Days Played**: 691 days
+**XP**/day: 11,499
+**KM**/day: 1.2
+**Catches**/day: 15.29
+**Evolves**/day: 0.9
+**Hatches**/day: 1.31
+**Spins**/day: 15.2
+**Battles**/day: 2.08
+**Quests**/day: 11.2
+**Berries**/day: 5.27
+**Gym Hours**/day: 4.29
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.36
+**Legendary Raids**/day: 0.39
+    

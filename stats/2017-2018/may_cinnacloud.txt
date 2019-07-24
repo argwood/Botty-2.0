@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: CinnaCloud
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 51,196,167 *(85.9%)*
+**Gold Gyms**: 85 *(88.6%)*
+**Gym Badge**: 500 *(59.7%)*
+**Jogger**: 1,688.5 *(22.8%)*
+**Collector**: 34,948 *(40.3%)*
+**Scientist**: 4,337 *(50.3%)*
+**Breeder**: 1,552 *(50.3%)*
+**Backpacker**: 26,569 *(32.2%)*
+**Battle Girl**: 7,867 *(67.8%)*
+**Pokemon Ranger**: 354 *(34.9%)*
+**Berry Master**: 18,233 *(65.1%)*
+**Gym Leader**: 27,785 *(63.8%)*
+**Battle Legend**: 1454 *(98.0%)*
+**Champion**: 368 *(91.3%)*
+**Pokedex Caught**: 364 *(85.2%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 691 days
+**XP**/day: 74,089
+**KM**/day: 2.4
+**Catches**/day: 50.58
+**Evolves**/day: 6.28
+**Hatches**/day: 2.25
+**Spins**/day: 38.45
+**Battles**/day: 11.38
+**Quests**/day: 5.8
+**Berries**/day: 53.31
+**Gym Hours**/day: 81.24
+**Gold Gyms**/day: 0.25
+**Raids**/day: 1.09
+**Legendary Raids**/day: 1.18
+    

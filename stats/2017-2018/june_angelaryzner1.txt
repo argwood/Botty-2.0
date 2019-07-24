@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: AngelaRyzner1
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 21,183,054 *(23.2%)*
+**Gold Gyms**: 8 *(13.2%)*
+**Gym Badge**: 244 *(20.5%)*
+**Jogger**: 693.2 *(6.6%)*
+**Collector**: 9,475 *(6.0%)*
+**Scientist**: 1,333 *(15.2%)*
+**Breeder**: 873 *(18.5%)*
+**Backpacker**: 5,873 *(4.6%)*
+**Battle Girl**: 1,971 *(10.6%)*
+**Pokemon Ranger**: 147 *(4.6%)*
+**Berry Master**: 3,059 *(8.6%)*
+**Gym Leader**: 9,854 *(21.9%)*
+**Battle Legend**: 636 *(73.5%)*
+**Champion**: 151 *(40.4%)*
+**Pokedex Caught**: 368 *(91.4%)*
+**Pokedex Seen**: 371 *(33.8%)*
+    
+**Days Played**: 724 days
+**XP**/day: 29,258
+**KM**/day: 1.0
+**Catches**/day: 13.09
+**Evolves**/day: 1.84
+**Hatches**/day: 1.21
+**Spins**/day: 8.11
+**Battles**/day: 2.72
+**Quests**/day: 1.6
+**Berries**/day: 8.2
+**Gym Hours**/day: 26.42
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.41
+**Legendary Raids**/day: 0.44
+    

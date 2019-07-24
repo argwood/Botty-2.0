@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: Xelephanor
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 25,133,621 *(71.0%)*
+**Gold Gyms**: 51 *(94.0%)*
+**Gym Badge**: 743 *(95.0%)*
+**Jogger**: 2,190.6 *(44.0%)*
+**Collector**: 49,549 *(73.0%)*
+**Scientist**: 6,796 *(85.0%)*
+**Breeder**: 1,258 *(46.0%)*
+**Backpacker**: 39,510 *(60.0%)*
+**Battle Girl**: 10,338 *(83.0%)*
+**Ace Trainer**: 2396 *(81.0%)*
+**Berry Master**: 12,816 *(82.0%)*
+**Gym Leader**: 39,623 *(93.0%)*
+**Battle Legend**: 220 *(61.0%)*
+**Champion**: 87 *(48.0%)*
+**Pokedex Caught**: 291 *(44.0%)*
+**Pokedex Seen**: 315 *(71.0%)*
+    
+**Days Played**: 540 days
+**XP**/day: 46,543
+**KM**/day: 4.1
+**Catches**/day: 91.76
+**Evolves**/day: 12.59
+**Hatches**/day: 2.33
+**Spins**/day: 73.17
+**Battles**/day: 19.14
+**Berries**/day: 67.45
+**Gym Hours**/day: 208.54
+**Gold Gyms**/day: 0.27
+**Raids**/day: 0.47
+**Legendary Raids**/day: 0.54
+    

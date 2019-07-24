@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: PoeticEevee
+**Level**: 39
+**Team**: Valor
+**Region**: Other
+    
+**Total XP**: 15,541,620 *(23.1%)*
+**Jogger**: 2,000.2 *(29.7%)*
+**Collector**: 18,724 *(21.0%)*
+**Scientist**: 1,867 *(26.2%)*
+**Breeder**: 977 *(25.6%)*
+**Backpacker**: 18,163 *(21.5%)*
+**Battle Girl**: 2,381 *(24.6%)*
+**Gym Badge**: 192 *(16.9%)*
+**Gold Gyms**: 6 *(22.6%)*
+    
+**Pokemon Ranger**: 265 *(12.3%)*
+**Berry Master**: 1,679 *(11.3%)*
+**Gym Leader**: 9,397 *(30.3%)*
+**Battle Legend**: 425 *(49.7%)*
+**Champion**: 85 *(22.1%)*
+**Pokedex Caught**: 366 *(34.9%)*
+**Pokedex Seen**: 373 *(41.5%)*
+    
+**Days Played**: 753 days
+**XP**/day: 20,639
+**KM**/day: 2.7
+**Catches**/day: 24.87
+**Evolves**/day: 2.48
+**Hatches**/day: 1.3
+**Spins**/day: 24.12
+**Battles**/day: 3.16
+**Research**/day: 2.15
+**Berries**/day: 4.16
+**Gym Hours**/day: 23.26
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.21
+**Legendary Raids**/day: 0.23
+    

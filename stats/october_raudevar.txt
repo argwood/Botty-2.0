@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: RauDevar
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 174
+**Monthly Rank**: 56
+    
+**Total XP**: 38,828,643 *(37.1%)*
+**Jogger**: 1,640.3 *(17.1%)*
+**Collector**: 37,638 *(28.6%)*
+**Scientist**: 4,159 *(41.4%)*
+**Breeder**: 1,132 *(21.4%)*
+**Backpacker**: 33,973 *(30.0%)*
+**Battle Girl**: 12,435 *(71.4%)*
+**Gym Badge**: 827 *(73.6%)*
+**Gold Gyms**: 71 *(72.1%)*
+    
+**Pokemon Ranger**: 1,075 *(23.6%)*
+**Berry Master**: 22,874 *(49.3%)*
+**Gym Leader**: 39,662 *(62.9%)*
+**Battle Legend**: 463 *(42.9%)*
+**Champion**: 130 *(24.3%)*
+**Pokedex Caught**: 393.0 *(46.7%)*
+**Pokedex Seen**: 404.0 *(77.9%)*
+    
+**Days Played**: 425 days
+**XP**/day: 91,361
+**KM**/day: 3.9
+**Catches**/day: 88.56
+**Evolves**/day: 9.79
+**Hatches**/day: 2.66
+**Spins**/day: 79.94
+**Battles**/day: 29.26
+**Research**/day: 5.0
+**Berries**/day: 46.12
+**Gym Hours**/day: 79.96
+**Gold Gyms**/day: 0.14
+**Raids**/day: 0.26
+**Legendary Raids**/day: 0.28
+    

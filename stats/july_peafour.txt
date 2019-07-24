@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: PeaFour
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 7,605,263 *(12.3%)*
+**Jogger**: 849.5 *(10.8%)*
+**Collector**: 9,686 *(11.8%)*
+**Scientist**: 942 *(15.9%)*
+**Breeder**: 382 *(10.8%)*
+**Backpacker**: 10,488 *(12.8%)*
+**Battle Girl**: 961 *(14.9%)*
+**Gym Badge**: 348 *(37.4%)*
+**Gold Gyms**: 7 *(25.6%)*
+    
+**Pokemon Ranger**: 460 *(27.2%)*
+**Berry Master**: 5,490 *(25.6%)*
+**Gym Leader**: 10,407 *(31.3%)*
+**Battle Legend**: 90 *(12.8%)*
+**Champion**: 47 *(12.3%)*
+**Pokedex Caught**: 310 *(9.7%)*
+**Pokedex Seen**: 361 *(12.3%)*
+    
+**Fisherman**: 64
+**Youngster**: 58
+**Pikachu Fan**: 125
+**Unown**: 6
+**Pilot**: 110,794
+**Gentleman**: 26
+    
+**Days Played**: 755 days
+**XP**/day: 10,073
+**KM**/day: 1.1
+**Catches**/day: 12.83
+**Evolves**/day: 1.25
+**Hatches**/day: 0.51
+**Spins**/day: 13.89
+**Battles**/day: 1.27
+**Research**/day: 3.71
+**Berries**/day: 13.56
+**Gym Hours**/day: 25.7
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.12
+**Legendary Raids**/day: 0.13
+    

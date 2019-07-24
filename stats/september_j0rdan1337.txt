@@ -1,0 +1,42 @@
+**__SEPTEMBER__**
+    
+**Trainer**: j0rdan1337
+**Level**: 35
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 350
+**Monthly Rank**: N/A
+    
+**Total XP**: 6,588,901 *(11.4%)*
+**Jogger**: 949.0 *(12.1%)*
+**Collector**: 16,344 *(17.1%)*
+**Scientist**: 522 *(7.1%)*
+**Breeder**: 336 *(7.9%)*
+**Backpacker**: 13,565 *(14.3%)*
+**Battle Girl**: 1,378 *(16.4%)*
+**Gym Badge**: 88 *(6.4%)*
+**Gold Gyms**: 2 *(12.9%)*
+    
+**Pokemon Ranger**: 197 *(4.3%)*
+**Berry Master**: 1,302 *(10.7%)*
+**Gym Leader**: 1,609 *(6.4%)*
+**Battle Legend**: 12 *(4.3%)*
+**Champion**: 29 *(7.9%)*
+**Pokedex Caught**: 330.0 *(8.6%)*
+**Pokedex Seen**: 357.0 *(9.4%)*
+    
+**Days Played**: 811 days
+**XP**/day: 8,124
+**KM**/day: 1.2
+**Catches**/day: 20.15
+**Evolves**/day: 0.64
+**Hatches**/day: 0.41
+**Spins**/day: 16.73
+**Battles**/day: 1.7
+**Research**/day: 1.07
+**Berries**/day: 2.8
+**Gym Hours**/day: 3.46
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.06
+**Legendary Raids**/day: 0.07
+    

@@ -1,0 +1,50 @@
+**__OCTOBER__**
+    
+**Trainer**: MichiMise
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 31
+**Monthly Rank**: 39
+    
+**Total XP**: 61,159,333 *(67.1%)*
+**Jogger**: 4,640.7 *(74.3%)*
+**Collector**: 90,702 *(75.7%)*
+**Scientist**: 5,434 *(52.9%)*
+**Breeder**: 4,362 *(77.9%)*
+**Backpacker**: 116,121 *(92.9%)*
+**Battle Girl**: 31,718 *(97.1%)*
+**Gym Badge**: 1026 *(99.3%)*
+**Gold Gyms**: 200 *(93.6%)*
+    
+**Pokemon Ranger**: 1,661 *(40.7%)*
+**Berry Master**: 59,457 *(91.4%)*
+**Gym Leader**: 171,399 *(100.0%)*
+**Battle Legend**: 548 *(48.6%)*
+**Champion**: 582 *(95.0%)*
+**Pokedex Caught**: 404.0 *(96.3%)*
+**Pokedex Seen**: 406.0 *(95.6%)*
+    
+**Fisherman**: 367
+**Youngster**: 711
+**Pikachu Fan**: 865
+**Unown**: 28
+**Pilot**: 3,873,028
+**Gentleman**: 906
+**Idol**: 9
+    
+**Days Played**: 839 days
+**XP**/day: 72,895
+**KM**/day: 5.5
+**Catches**/day: 108.11
+**Evolves**/day: 6.48
+**Hatches**/day: 5.2
+**Spins**/day: 138.4
+**Battles**/day: 37.8
+**Research**/day: 7.69
+**Berries**/day: 119.63
+**Gym Hours**/day: 344.87
+**Gold Gyms**/day: 0.4
+**Raids**/day: 1.18
+**Legendary Raids**/day: 1.25
+    

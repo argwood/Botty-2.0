@@ -1,0 +1,39 @@
+**__JANUARY__**
+    
+**Trainer**: Gimlett7
+**Level**: 40
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 303
+**Monthly Rank**: 72
+    
+**Total XP**: 20,626,223 *(15.8%)*
+**Jogger**: 1,592.0 *(14.0%)*
+**Collector**: 21,017 *(14.9%)*
+**Scientist**: 2,396 *(28.9%)*
+**Breeder**: 685 *(10.5%)*
+**Backpacker**: 19,264 *(17.5%)*
+**Battle Girl**: 4,014 *(27.2%)*
+**Gold Gyms**: 12 *(21.9%)*
+    
+**Pokemon Ranger**: 840 *(15.8%)*
+**Berry Master**: 7,084 *(20.2%)*
+**Gym Leader**: 13,979 *(24.6%)*
+**Battle Legend**: 210 *(18.4%)*
+**Champion**: 160 *(28.1%)*
+    
+**Days Played**: 845 days
+**XP**/day: 24,409
+**KM**/day: 1.9
+**Catches**/day: 24.87
+**Evolves**/day: 2.84
+**Hatches**/day: 0.81
+**Spins**/day: 22.8
+**Battles**/day: 4.75
+**Research**/day: 2.74
+**Berries**/day: 12.05
+**Gym Hours**/day: 23.77
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.27
+**Legendary Raids**/day: 0.29
+    

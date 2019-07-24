@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: ZTrainConductor
+**Level**: 33
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 4,333,271 *(5.0%)*
+**Gold Gyms**: 0 *(4.0%)*
+**Gym Badge**: 166 *(10.0%)*
+**Jogger**: 322.6 *(2.0%)*
+**Collector**: 4,730 *(3.0%)*
+**Scientist**: 626 *(8.0%)*
+**Breeder**: 208 *(4.0%)*
+**Backpacker**: 3,321 *(2.0%)*
+**Battle Girl**: 525 *(4.0%)*
+**Ace Trainer**: 0 *(4.0%)*
+**Berry Master**: 1,245 *(3.0%)*
+**Gym Leader**: 3,133 *(8.0%)*
+**Battle Legend**: 79 *(12.0%)*
+**Champion**: 55 *(16.0%)*
+**Pokedex Caught**: 228 *(2.0%)*
+**Pokedex Seen**: 275 *(2.0%)*
+    
+**Days Played**: 102 days
+**XP**/day: 42,483
+**KM**/day: 3.2
+**Catches**/day: 46.37
+**Evolves**/day: 6.14
+**Hatches**/day: 2.04
+**Spins**/day: 32.56
+**Battles**/day: 5.15
+**Berries**/day: 6.55
+**Gym Hours**/day: 16.49
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.3
+**Legendary Raids**/day: 0.34
+    

@@ -1,0 +1,37 @@
+**__FEBRUARY__**
+    
+**Trainer**: Diskalon
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 44,753,198 *(94.7%)*
+**Gold Gyms**: 70 *(91.2%)*
+**Gym Badge**: 1000 *(100.0%)*
+**Jogger**: 3,633.4 *(77.9%)*
+**Collector**: 85,139 *(98.2%)*
+**Scientist**: 8,693 *(93.8%)*
+**Breeder**: 1,496 *(51.3%)*
+**Backpacker**: 75,807 *(92.0%)*
+**Battle Girl**: 22,423 *(99.1%)*
+**Berry Master**: 45,508 *(100.0%)*
+**Gym Leader**: 34,077 *(76.1%)*
+**Battle Legend**: 369 *(78.8%)*
+**Champion**: 67 *(17.7%)*
+**Pokedex Caught**: 322 *(12.4%)*
+**Pokedex Seen**: 367 *(86.7%)*
+    
+**Days Played**: 596 days
+**XP**/day: 75,089
+**KM**/day: 6.1
+**Catches**/day: 142.85
+**Evolves**/day: 14.59
+**Hatches**/day: 2.51
+**Spins**/day: 127.19
+**Battles**/day: 37.62
+**Berries**/day: 181.31
+**Gym Hours**/day: 135.76
+**Gold Gyms**/day: 0.28
+**Raids**/day: 0.27
+**Legendary Raids**/day: 0.3
+    

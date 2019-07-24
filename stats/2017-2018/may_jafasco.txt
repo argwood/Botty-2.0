@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Jafasco
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 32,966,297 *(64.4%)*
+**Gold Gyms**: 17 *(38.9%)*
+**Gym Badge**: 705 *(79.2%)*
+**Jogger**: 2,532.3 *(45.0%)*
+**Collector**: 52,267 *(64.4%)*
+**Scientist**: 6,305 *(69.8%)*
+**Breeder**: 3,479 *(83.2%)*
+**Backpacker**: 46,092 *(59.1%)*
+**Battle Girl**: 8,415 *(70.5%)*
+**Pokemon Ranger**: 265 *(22.1%)*
+**Berry Master**: 17,260 *(63.1%)*
+**Gym Leader**: 18,981 *(47.7%)*
+**Battle Legend**: 346 *(45.0%)*
+**Champion**: 185 *(64.4%)*
+**Pokedex Caught**: 362 *(49.7%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 689 days
+**XP**/day: 47,846
+**KM**/day: 3.7
+**Catches**/day: 75.86
+**Evolves**/day: 9.15
+**Hatches**/day: 5.05
+**Spins**/day: 66.9
+**Battles**/day: 12.21
+**Quests**/day: 4.27
+**Berries**/day: 50.32
+**Gym Hours**/day: 55.34
+**Gold Gyms**/day: 0.05
+**Raids**/day: 0.55
+**Legendary Raids**/day: 0.59
+    

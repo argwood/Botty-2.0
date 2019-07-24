@@ -1,0 +1,54 @@
+**__DECEMBER__**
+    
+**Trainer**: ConfuciusDragon
+**Level**: 39
+**Team**: Valor
+**Region**: Loop
+**Overall Rank**: 347
+**Monthly Rank**: 41
+    
+**Total XP**: 15,600,536 *(7.4%)*
+**Jogger**: 1,228.0 *(7.4%)*
+**Collector**: 24,339 *(15.7%)*
+**Scientist**: 1,271 *(14.9%)*
+**Breeder**: 541 *(5.0%)*
+**Backpacker**: 14,237 *(9.1%)*
+**Battle Girl**: 1,620 *(11.6%)*
+**Gold Gyms**: 3 *(5.0%)*
+    
+**Pokemon Ranger**: 1,490 *(24.8%)*
+**Berry Master**: 5,702 *(14.0%)*
+**Gym Leader**: 4,167 *(4.1%)*
+**Battle Legend**: 204 *(11.6%)*
+**Champion**: 70 *(5.8%)*
+    
+**Gym Badges**: 254
+**Pokedex Caught**: 404
+**Pokedex Seen**: 426
+**Fisherman**: 55
+**Youngster**: 105
+**Pikachu Fan**: 502
+**Unown**: 8
+**Pilot**: 855,368
+**Gentleman**: 2464
+**Idol**: 7
+**Ace Trainer**: 35
+**Great League Veteran**: 0
+**Ultra League Veteran**: 1
+**Master League Veteran**: 3
+    
+**Days Played**: 907 days
+**XP**/day: 17,200
+**KM**/day: 1.4
+**Catches**/day: 26.83
+**Evolves**/day: 1.4
+**Hatches**/day: 0.6
+**Spins**/day: 15.7
+**Battles**/day: 1.79
+**Research**/day: 5.4
+**Berries**/day: 10.24
+**Gym Hours**/day: 7.48
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.13
+**Legendary Raids**/day: 0.13
+    

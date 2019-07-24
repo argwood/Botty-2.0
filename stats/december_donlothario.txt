@@ -1,0 +1,54 @@
+**__DECEMBER__**
+    
+**Trainer**: DonLothario
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 64
+**Monthly Rank**: 7
+    
+**Total XP**: 77,251,902 *(74.4%)*
+**Jogger**: 9,223.0 *(97.5%)*
+**Collector**: 136,210 *(91.7%)*
+**Scientist**: 3,079 *(29.8%)*
+**Breeder**: 10,521 *(98.3%)*
+**Backpacker**: 103,213 *(85.1%)*
+**Battle Girl**: 4,490 *(30.6%)*
+**Gold Gyms**: 36 *(40.5%)*
+    
+**Pokemon Ranger**: 10,692 *(96.7%)*
+**Berry Master**: 50,031 *(81.0%)*
+**Gym Leader**: 23,579 *(30.6%)*
+**Battle Legend**: 496 *(38.8%)*
+**Champion**: 572 *(84.3%)*
+    
+**Gym Badges**: 355
+**Pokedex Caught**: 389
+**Pokedex Seen**: 432
+**Fisherman**: 392
+**Youngster**: 1127
+**Pikachu Fan**: 1597
+**Unown**: 10
+**Pilot**: 5,821,635
+**Gentleman**: 3922
+**Idol**: 61
+**Ace Trainer**: 259
+**Great League Veteran**: 19
+**Ultra League Veteran**: 19
+**Master League Veteran**: 16
+    
+**Days Played**: 906 days
+**XP**/day: 85,267
+**KM**/day: 10.2
+**Catches**/day: 150.34
+**Evolves**/day: 3.4
+**Hatches**/day: 11.61
+**Spins**/day: 113.92
+**Battles**/day: 4.96
+**Research**/day: 38.74
+**Berries**/day: 89.82
+**Gym Hours**/day: 42.33
+**Gold Gyms**/day: 0.06
+**Raids**/day: 1.03
+**Legendary Raids**/day: 1.09
+    

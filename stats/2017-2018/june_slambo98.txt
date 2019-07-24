@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: Slambo98
+**Level**: 39
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 18,531,943 *(20.5%)*
+**Gold Gyms**: 24 *(36.4%)*
+**Gym Badge**: 518 *(55.0%)*
+**Jogger**: 1,783.7 *(22.5%)*
+**Collector**: 20,992 *(14.6%)*
+**Scientist**: 2,225 *(22.5%)*
+**Breeder**: 1,314 *(32.5%)*
+**Backpacker**: 17,663 *(16.6%)*
+**Battle Girl**: 3,363 *(25.8%)*
+**Pokemon Ranger**: 463 *(24.5%)*
+**Berry Master**: 6,692 *(18.5%)*
+**Gym Leader**: 21,940 *(45.0%)*
+**Battle Legend**: 371 *(35.8%)*
+**Champion**: 149 *(38.4%)*
+**Pokedex Caught**: 365 *(55.6%)*
+**Pokedex Seen**: 371 *(33.8%)*
+    
+**Days Played**: -7 days
+**XP**/day: -2,647,420
+**KM**/day: -254.8
+**Catches**/day: -2998.86
+**Evolves**/day: -317.86
+**Hatches**/day: -187.71
+**Spins**/day: -2523.29
+**Battles**/day: -480.43
+**Quests**/day: 5.03
+**Berries**/day: 17.94
+**Gym Hours**/day: 58.82
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.4
+**Legendary Raids**/day: 0.43
+    

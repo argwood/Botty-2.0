@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Kyle321n
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 25,206,093 *(46.3%)*
+**Gold Gyms**: 42 *(65.8%)*
+**Gym Badge**: 229 *(18.8%)*
+**Jogger**: 1,884.7 *(29.5%)*
+**Collector**: 38,615 *(46.3%)*
+**Scientist**: 5,725 *(64.4%)*
+**Breeder**: 1,596 *(52.3%)*
+**Backpacker**: 26,554 *(31.5%)*
+**Battle Girl**: 5,782 *(55.7%)*
+**Pokemon Ranger**: 788 *(75.8%)*
+**Berry Master**: 10,692 *(40.9%)*
+**Gym Leader**: 15,903 *(40.9%)*
+**Battle Legend**: 394 *(53.7%)*
+**Champion**: 213 *(74.5%)*
+**Pokedex Caught**: 363 *(65.1%)*
+**Pokedex Seen**: 370 *(37.6%)*
+    
+**Days Played**: 694 days
+**XP**/day: 36,320
+**KM**/day: 2.7
+**Catches**/day: 55.64
+**Evolves**/day: 8.25
+**Hatches**/day: 2.3
+**Spins**/day: 38.26
+**Battles**/day: 8.33
+**Quests**/day: 12.92
+**Berries**/day: 31.26
+**Gym Hours**/day: 46.5
+**Gold Gyms**/day: 0.12
+**Raids**/day: 0.63
+**Legendary Raids**/day: 0.68
+    

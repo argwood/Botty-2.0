@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: LightningWolf
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 25,309,604 *(84.2%)*
+**Gold Gyms**: 11 *(69.2%)*
+**Gym Badge**: 471 *(85.0%)*
+**Jogger**: 2,762.4 *(72.2%)*
+**Collector**: 41,803 *(77.4%)*
+**Scientist**: 5,430 *(81.2%)*
+**Breeder**: 1,446 *(61.7%)*
+**Backpacker**: 37,336 *(76.7%)*
+**Battle Girl**: 4,661 *(72.2%)*
+**Ace Trainer**: 716 *(50.4%)*
+**Berry Master**: 10,395 *(91.0%)*
+**Gym Leader**: 9,642 *(58.6%)*
+**Battle Legend**: 330 *(93.2%)*
+**Champion**: 187 *(96.2%)*
+**Pokedex Caught**: 249 *(97.0%)*
+**Pokedex Seen**: 251 *(99.2%)*
+    
+**Days Played**: 506 days
+**XP**/day: 50,018
+**KM**/day: 5.5
+**Catches**/day: 82.61
+**Evolves**/day: 10.73
+**Catches**/evolve: 7.7
+**Hatches**/day: 2.86
+**KM**/egg: 1.91
+**Spins**/day: 73.79
+**Battles**/day: 9.21
+**Berries**/day: 67.06
+**Gym Hours**/day: 62.21
+**Gold Gyms**/day: 0.07
+**Raids**/day: 1.24
+**Legendary Raids**/day: 1.5
+    

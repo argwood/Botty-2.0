@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: itsRamel
+**Level**: 40
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 239
+**Monthly Rank**: N/A
+    
+**Total XP**: 26,285,506 *(20.0%)*
+**Jogger**: 2,924.4 *(40.7%)*
+**Collector**: 32,211 *(22.9%)*
+**Scientist**: 3,058 *(28.6%)*
+**Breeder**: 1,795 *(38.6%)*
+**Backpacker**: 35,006 *(31.4%)*
+**Battle Girl**: 4,263 *(36.4%)*
+**Gym Badge**: 34 *(1.4%)*
+**Gold Gyms**: 5 *(12.1%)*
+    
+**Pokemon Ranger**: 453 *(8.6%)*
+**Berry Master**: 2,042 *(11.4%)*
+**Gym Leader**: 13,504 *(29.3%)*
+**Battle Legend**: 447 *(41.4%)*
+**Champion**: 207 *(49.3%)*
+**Pokedex Caught**: 397.0 *(59.3%)*
+**Pokedex Seen**: 403.0 *(62.5%)*
+    
+**Days Played**: 841 days
+**XP**/day: 31,255
+**KM**/day: 3.5
+**Catches**/day: 38.3
+**Evolves**/day: 3.64
+**Hatches**/day: 2.13
+**Spins**/day: 41.62
+**Battles**/day: 5.07
+**Research**/day: 2.11
+**Berries**/day: 4.12
+**Gym Hours**/day: 27.23
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.42
+**Legendary Raids**/day: 0.44
+    

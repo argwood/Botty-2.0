@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: DissentOfMan
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 39,323,592 *(79.0%)*
+**Gold Gyms**: 163 *(98.4%)*
+**Gym Badge**: 521 *(58.1%)*
+**Jogger**: 4,698.1 *(86.3%)*
+**Collector**: 76,758 *(86.3%)*
+**Scientist**: 8,477 *(78.2%)*
+**Breeder**: 2,167 *(67.7%)*
+**Backpacker**: 72,860 *(89.5%)*
+**Battle Girl**: 30,754 *(97.6%)*
+**Pokemon Ranger**: 453 *(81.5%)*
+**Berry Master**: 23,919 *(79.0%)*
+**Gym Leader**: 86,406 *(98.4%)*
+**Battle Legend**: 457 *(75.0%)*
+**Champion**: 254 *(84.7%)*
+**Pokedex Caught**: 363 *(91.1%)*
+**Pokedex Seen**: 370 *(99.2%)*
+    
+**Days Played**: 654 days
+**XP**/day: 60,127
+**KM**/day: 7.2
+**Catches**/day: 117.37
+**Evolves**/day: 12.96
+**Hatches**/day: 3.31
+**Spins**/day: 111.41
+**Battles**/day: 47.02
+**Quests**/day: 14.61
+**Berries**/day: 76.66
+**Gym Hours**/day: 276.94
+**Gold Gyms**/day: 0.52
+**Raids**/day: 0.82
+**Legendary Raids**/day: 0.9
+    

@@ -1,0 +1,39 @@
+**__DECEMBER__**
+    
+**Trainer**: spong
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+**Overall Rank**: 81
+**Monthly Rank**: N/A
+    
+**Total XP**: 68,467,995 *(62.8%)*
+**Jogger**: 3,857.0 *(53.7%)*
+**Collector**: 95,284 *(68.6%)*
+**Scientist**: 9,097 *(73.6%)*
+**Breeder**: 2,494 *(52.1%)*
+**Backpacker**: 74,536 *(66.1%)*
+**Battle Girl**: 16,823 *(79.3%)*
+**Gold Gyms**: 76 *(71.9%)*
+    
+**Pokemon Ranger**: 1,933 *(36.4%)*
+**Berry Master**: 31,975 *(54.5%)*
+**Gym Leader**: 52,347 *(70.2%)*
+**Battle Legend**: 484 *(38.0%)*
+**Champion**: 141 *(19.8%)*
+    
+**Days Played**: 906 days
+**XP**/day: 75,571
+**KM**/day: 4.3
+**Catches**/day: 105.17
+**Evolves**/day: 10.04
+**Hatches**/day: 2.75
+**Spins**/day: 82.27
+**Battles**/day: 18.57
+**Research**/day: 7.0
+**Berries**/day: 57.41
+**Gym Hours**/day: 93.98
+**Gold Gyms**/day: 0.14
+**Raids**/day: 0.25
+**Legendary Raids**/day: 0.27
+    

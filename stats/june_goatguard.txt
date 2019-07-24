@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: goatguard
+**Level**: 40
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 132
+**Monthly Rank**: 55
+    
+**Total XP**: 59,046,089 *(42.0%)*
+**Jogger**: 6,300.2 *(70.5%)*
+**Collector**: 89,066 *(54.5%)*
+**Scientist**: 1,774 *(21.4%)*
+**Breeder**: 1,829 *(30.4%)*
+**Backpacker**: 54,735 *(46.4%)*
+**Battle Girl**: 11,002 *(61.6%)*
+**Gold Gyms**: 53 *(52.7%)*
+    
+**Pokemon Ranger**: 3,289 *(49.1%)*
+**Berry Master**: 29,703 *(48.2%)*
+**Gym Leader**: 61,500 *(71.4%)*
+**Battle Legend**: 890 *(58.0%)*
+**Champion**: 161 *(21.4%)*
+    
+**Days Played**: 1086 days
+**XP**/day: 54,370
+**KM**/day: 5.8
+**Catches**/day: 82.01
+**Evolves**/day: 1.63
+**Hatches**/day: 1.68
+**Spins**/day: 50.4
+**Battles**/day: 10.13
+**Research**/day: 7.2
+**Berries**/day: 40.25
+**Gym Hours**/day: 83.33
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.22
+**Legendary Raids**/day: 0.23
+    

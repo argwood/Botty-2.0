@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: Jamminspammin
+**Level**: 39
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 15,970,550 *(59.4%)*
+**Gold Gyms**: 5 *(39.8%)*
+**Gym Badge**: 309 *(53.4%)*
+**Jogger**: 1,719.9 *(39.8%)*
+**Collector**: 28,223 *(56.4%)*
+**Scientist**: 2,767 *(48.9%)*
+**Breeder**: 2,549 *(86.5%)*
+**Backpacker**: 33,817 *(66.9%)*
+**Battle Girl**: 2,041 *(44.4%)*
+**Ace Trainer**: 217 *(25.6%)*
+**Berry Master**: 7,133 *(75.2%)*
+**Gym Leader**: 3,975 *(28.6%)*
+**Battle Legend**: 244 *(83.5%)*
+**Champion**: 68 *(58.6%)*
+**Pokedex Caught**: 246 *(54.1%)*
+**Pokedex Seen**: 251 *(99.2%)*
+    
+**Days Played**: 495 days
+**XP**/day: 32,263
+**KM**/day: 3.5
+**Catches**/day: 57.02
+**Evolves**/day: 5.59
+**Catches**/evolve: 10.2
+**Hatches**/day: 5.15
+**KM**/egg: 0.67
+**Spins**/day: 68.32
+**Battles**/day: 4.12
+**Berries**/day: 46.02
+**Gym Hours**/day: 25.65
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.45
+**Legendary Raids**/day: 0.54
+    

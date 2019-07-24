@@ -1,0 +1,42 @@
+**__NOVEMBER__**
+    
+**Trainer**: jodafarr
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 221
+**Monthly Rank**: N/A
+    
+**Total XP**: 29,106,801 *(21.1%)*
+**Jogger**: 2,695 *(30.3%)*
+**Collector**: 43,831 *(30.3%)*
+**Scientist**: 1,575 *(16.5%)*
+**Breeder**: 1,857 *(35.8%)*
+**Backpacker**: 24,317 *(19.3%)*
+**Battle Girl**: 10,215 *(53.2%)*
+**Gym Badge**: 113 *(8.3%)*
+**Gold Gyms**: 16 *(25.7%)*
+    
+**Pokemon Ranger**: 4,205 *(80.7%)*
+**Berry Master**: 14,761 *(32.1%)*
+**Gym Leader**: 10,801 *(22.0%)*
+**Battle Legend**: 170 *(13.8%)*
+**Champion**: 234 *(40.4%)*
+**Pokedex Caught**: 388.0 *(13.3%)*
+**Pokedex Seen**: 415.0 *(26.7%)*
+    
+**Days Played**: 141 days
+**XP**/day: 206,431
+**KM**/day: 19.1
+**Catches**/day: 310.86
+**Evolves**/day: 11.17
+**Hatches**/day: 13.17
+**Spins**/day: 172.46
+**Battles**/day: 72.45
+**Research**/day: 17.16
+**Berries**/day: 28.06
+**Gym Hours**/day: 20.53
+**Gold Gyms**/day: 0.03
+**Raids**/day: 0.45
+**Legendary Raids**/day: 0.47
+    

@@ -1,0 +1,40 @@
+**Trainer**: DoubleDecomp
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 47,349,301 *(73.1%)*
+**Jogger**: 4,116.0 *(73.6%)*
+**Collector**: 77,182 *(76.6%)*
+**Scientist**: 6,974 *(73.6%)*
+**Breeder**: 1,276 *(33.3%)*
+**Backpacker**: 91,545 *(90.5%)*
+**Battle Girl**: 7,221 *(58.2%)*
+**Gym Badge**: 624 *(70.1%)*
+**Gold Gyms**: 18 *(38.8%)*
+    
+**Pokemon Ranger**: 1,554 *(71.1%)*
+**Berry Master**: 36,525 *(84.6%)*
+**Gym Leader**: 27,702 *(59.2%)*
+**Battle Legend**: 55 *(10.0%)*
+**Champion**: 505 *(95.5%)*
+**Pokedex Caught**: 373.0 *(92.2%)*
+**Pokedex Seen**: 376.0 *(99.5%)*
+    
+**Days Played**: 774 days
+**XP**/day: 61,174
+**KM**/day: 5.3
+**Catches**/day: 99.72
+**Evolves**/day: 9.01
+**Catches**/evolve: 11.07
+**Hatches**/day: 1.65
+**KM**/egg: 3.23
+**Spins**/day: 118.28
+**Battles**/day: 9.33
+**Research**/day: 10.29
+**Berries**/day: 84.55
+**Gym Hours**/day: 64.12
+**Gold Gyms**/day: 0.04
+**Raids**/day: 1.18
+**Legendary Raids**/day: 1.26
+    

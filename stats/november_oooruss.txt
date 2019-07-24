@@ -1,0 +1,42 @@
+**__NOVEMBER__**
+    
+**Trainer**: OooRuss
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+**Overall Rank**: 200
+**Monthly Rank**: N/A
+    
+**Total XP**: 33,998,957 *(27.5%)*
+**Jogger**: 2,729 *(33.0%)*
+**Collector**: 35,115 *(25.7%)*
+**Scientist**: 1,970 *(21.1%)*
+**Breeder**: 4,042 *(71.6%)*
+**Backpacker**: 31,840 *(28.4%)*
+**Battle Girl**: 4,830 *(34.9%)*
+**Gym Badge**: 317 *(30.3%)*
+**Gold Gyms**: 16 *(25.7%)*
+    
+**Pokemon Ranger**: 1,859 *(42.2%)*
+**Berry Master**: 24,949 *(45.9%)*
+**Gym Leader**: 10,868 *(22.9%)*
+**Battle Legend**: 115 *(8.3%)*
+**Champion**: 690 *(94.5%)*
+**Pokedex Caught**: 404.0 *(41.9%)*
+**Pokedex Seen**: 418.0 *(41.9%)*
+    
+**Days Played**: 869 days
+**XP**/day: 39,124
+**KM**/day: 3.1
+**Catches**/day: 40.41
+**Evolves**/day: 2.27
+**Hatches**/day: 4.65
+**Spins**/day: 36.64
+**Battles**/day: 5.56
+**Research**/day: 7.62
+**Berries**/day: 47.52
+**Gym Hours**/day: 20.7
+**Gold Gyms**/day: 0.03
+**Raids**/day: 1.32
+**Legendary Raids**/day: 1.39
+    

@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: SpatialOne1
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+    
+**Total XP**: 37,171,909 *(74.5%)*
+**Gold Gyms**: 31 *(55.7%)*
+**Gym Badge**: 392 *(40.3%)*
+**Jogger**: 3,000.0 *(57.0%)*
+**Collector**: 52,383 *(65.1%)*
+**Scientist**: 5,025 *(58.4%)*
+**Breeder**: 4,167 *(90.6%)*
+**Backpacker**: 46,155 *(59.7%)*
+**Battle Girl**: 2,430 *(22.8%)*
+**Pokemon Ranger**: 779 *(74.5%)*
+**Berry Master**: 21,579 *(72.5%)*
+**Gym Leader**: 13,780 *(36.2%)*
+**Battle Legend**: 481 *(69.8%)*
+**Champion**: 231 *(79.9%)*
+**Pokedex Caught**: 364 *(85.2%)*
+**Pokedex Seen**: 370 *(37.6%)*
+    
+**Days Played**: -43 days
+**XP**/day: -864,463
+**KM**/day: -69.8
+**Catches**/day: -1218.21
+**Evolves**/day: -116.86
+**Hatches**/day: -96.91
+**Spins**/day: -1073.37
+**Battles**/day: -56.51
+**Quests**/day: 12.56
+**Berries**/day: 62.91
+**Gym Hours**/day: 40.17
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.68
+**Legendary Raids**/day: 0.74
+    

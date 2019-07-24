@@ -1,0 +1,50 @@
+**__NOVEMBER__**
+    
+**Trainer**: bcellparty
+**Level**: 40
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 49
+**Monthly Rank**: 37
+    
+**Total XP**: 61,827,562 *(57.8%)*
+**Jogger**: 6,458 *(84.4%)*
+**Collector**: 91,586 *(66.1%)*
+**Scientist**: 8,577 *(72.5%)*
+**Breeder**: 3,260 *(64.2%)*
+**Backpacker**: 68,536 *(61.5%)*
+**Battle Girl**: 14,023 *(69.7%)*
+**Gym Badge**: 839 *(77.1%)*
+**Gold Gyms**: 52 *(54.1%)*
+    
+**Pokemon Ranger**: 6,788 *(94.5%)*
+**Berry Master**: 34,522 *(59.6%)*
+**Gym Leader**: 23,602 *(39.4%)*
+**Battle Legend**: 784 *(69.7%)*
+**Champion**: 323 *(56.9%)*
+**Pokedex Caught**: 407.0 *(53.3%)*
+**Pokedex Seen**: 420.0 *(56.2%)*
+    
+**Fisherman**: 297
+**Youngster**: 558
+**Pikachu Fan**: 947
+**Unown**: 10
+**Pilot**: 1,405,077
+**Gentleman**: 716
+**Idol**: 20
+    
+**Days Played**: 874 days
+**XP**/day: 70,740
+**KM**/day: 7.4
+**Catches**/day: 104.79
+**Evolves**/day: 9.81
+**Hatches**/day: 3.73
+**Spins**/day: 78.42
+**Battles**/day: 16.04
+**Research**/day: 27.71
+**Berries**/day: 65.63
+**Gym Hours**/day: 44.87
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.62
+**Legendary Raids**/day: 0.65
+    

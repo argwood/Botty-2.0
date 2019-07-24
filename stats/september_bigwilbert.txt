@@ -1,0 +1,50 @@
+**__SEPTEMBER__**
+    
+**Trainer**: bigwilbert
+**Level**: 40
+**Team**: Valor
+**Region**: Other
+**Overall Rank**: 41
+**Monthly Rank**: 22
+    
+**Total XP**: 91,671,618 *(90.0%)*
+**Jogger**: 3,496.4 *(52.1%)*
+**Collector**: 91,020 *(78.6%)*
+**Scientist**: 7,268 *(67.9%)*
+**Breeder**: 5,556 *(92.1%)*
+**Backpacker**: 71,342 *(70.0%)*
+**Battle Girl**: 6,716 *(45.7%)*
+**Gym Badge**: 987 *(85.0%)*
+**Gold Gyms**: 72 *(75.0%)*
+    
+**Pokemon Ranger**: 2,145 *(65.7%)*
+**Berry Master**: 41,086 *(78.6%)*
+**Gym Leader**: 27,898 *(50.7%)*
+**Battle Legend**: 1825 *(95.7%)*
+**Champion**: 351 *(78.6%)*
+**Pokedex Caught**: 375.0 *(87.1%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 344
+**Youngster**: 698
+**Pikachu Fan**: 692
+**Unown**: 27
+**Pilot**: 1,028,378
+**Gentleman**: 947
+**Idol**: 10
+    
+**Days Played**: 816 days
+**XP**/day: 112,342
+**KM**/day: 4.3
+**Catches**/day: 111.54
+**Evolves**/day: 8.91
+**Hatches**/day: 6.81
+**Spins**/day: 87.43
+**Battles**/day: 8.23
+**Research**/day: 11.66
+**Berries**/day: 88.36
+**Gym Hours**/day: 60.0
+**Gold Gyms**/day: 0.15
+**Raids**/day: 0.76
+**Legendary Raids**/day: 0.81
+    

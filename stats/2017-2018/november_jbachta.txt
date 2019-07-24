@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: Jbachta
+**Level**: 34
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 5,576,321 *(15.0%)*
+**Gold Gyms**: 2 *(24.1%)*
+**Gym Badge**: 208 *(31.6%)*
+**Jogger**: 578.3 *(9.8%)*
+**Collector**: 8,941 *(16.5%)*
+**Scientist**: 908 *(24.8%)*
+**Breeder**: 541 *(24.1%)*
+**Backpacker**: 8,735 *(16.5%)*
+**Battle Girl**: 2,074 *(45.1%)*
+**Ace Trainer**: 234 *(27.8%)*
+**Berry Master**: 1,576 *(24.8%)*
+**Gym Leader**: 3,567 *(24.1%)*
+**Battle Legend**: 118 *(36.1%)*
+**Champion**: 36 *(15.0%)*
+**Pokedex Caught**: 238 *(15.0%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 501 days
+**XP**/day: 11,130
+**KM**/day: 1.2
+**Catches**/day: 17.85
+**Evolves**/day: 1.81
+**Catches**/evolve: 9.85
+**Hatches**/day: 1.08
+**KM**/egg: 1.07
+**Spins**/day: 17.44
+**Battles**/day: 4.14
+**Berries**/day: 10.17
+**Gym Hours**/day: 23.01
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.24
+**Legendary Raids**/day: 0.29
+    

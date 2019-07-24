@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: ScottieTerrier
+**Level**: 25
+**Team**: Mystic
+**Region**: South
+**Overall Rank**: 523
+**Monthly Rank**: N/A
+    
+**Total XP**: 883,313 *(0.8%)*
+**Jogger**: 226.5 *(0.8%)*
+**Collector**: 1,078 *(0.8%)*
+**Scientist**: 51 *(0.8%)*
+**Breeder**: 42 *(0.8%)*
+**Backpacker**: 623 *(0.8%)*
+**Battle Girl**: 123 *(1.7%)*
+**Gold Gyms**: 0 *(2.5%)*
+    
+**Pokemon Ranger**: 39 *(0.8%)*
+**Berry Master**: 171 *(0.8%)*
+**Gym Leader**: 268 *(1.7%)*
+**Battle Legend**: 6 *(0.8%)*
+**Champion**: 23 *(0.8%)*
+    
+**Days Played**: 1056 days
+**XP**/day: 836
+**KM**/day: 0.2
+**Catches**/day: 1.02
+**Evolves**/day: 0.05
+**Hatches**/day: 0.04
+**Spins**/day: 0.59
+**Battles**/day: 0.12
+**Research**/day: 0.09
+**Berries**/day: 0.24
+**Gym Hours**/day: 0.38
+**Gold Gyms**/day: 0.0
+**Raids**/day: 0.03
+**Legendary Raids**/day: 0.03
+    

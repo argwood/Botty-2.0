@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: Jwiz1911
+**Level**: 40
+**Team**: Valor
+**Region**: Other
+**Overall Rank**: 35
+**Monthly Rank**: N/A
+    
+**Total XP**: 61,041,767 *(81.7%)*
+**Jogger**: 2,507.9 *(32.5%)*
+**Collector**: 86,002 *(81.7%)*
+**Scientist**: 6,803 *(65.0%)*
+**Breeder**: 3,893 *(80.8%)*
+**Backpacker**: 89,539 *(89.2%)*
+**Battle Girl**: 12,908 *(75.8%)*
+**Gym Badge**: 211 *(10.8%)*
+**Gold Gyms**: 64 *(71.7%)*
+    
+**Pokemon Ranger**: 2,307 *(73.3%)*
+**Berry Master**: 55,985 *(94.2%)*
+**Gym Leader**: 46,769 *(74.2%)*
+**Battle Legend**: 785 *(82.5%)*
+**Champion**: 474 *(94.2%)*
+**Pokedex Caught**: 373.0 *(66.1%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 173
+**Youngster**: 523
+**Pikachu Fan**: 780
+**Unown**: 8
+**Pilot**: 1,100,100
+**Gentleman**: 1388
+    
+**Days Played**: 776 days
+**XP**/day: 78,662
+**KM**/day: 3.2
+**Catches**/day: 110.83
+**Evolves**/day: 8.77
+**Hatches**/day: 5.02
+**Spins**/day: 115.39
+**Battles**/day: 16.63
+**Research**/day: 15.28
+**Berries**/day: 129.59
+**Gym Hours**/day: 108.26
+**Gold Gyms**/day: 0.15
+**Raids**/day: 1.11
+**Legendary Raids**/day: 1.18
+    

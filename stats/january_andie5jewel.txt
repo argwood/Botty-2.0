@@ -1,0 +1,54 @@
+**__JANUARY__**
+    
+**Trainer**: Andie5Jewel
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+**Overall Rank**: 163
+**Monthly Rank**: N/A
+    
+**Total XP**: 55,697,614 *(45.6%)*
+**Jogger**: 2,643.6 *(24.6%)*
+**Collector**: 45,180 *(34.2%)*
+**Scientist**: 4,982 *(54.4%)*
+**Breeder**: 3,332 *(60.5%)*
+**Backpacker**: 33,729 *(29.8%)*
+**Battle Girl**: 4,752 *(35.1%)*
+**Gold Gyms**: 38 *(42.1%)*
+    
+**Pokemon Ranger**: 1,912 *(36.8%)*
+**Berry Master**: 16,823 *(39.5%)*
+**Gym Leader**: 23,896 *(36.0%)*
+**Battle Legend**: 585 *(43.0%)*
+**Champion**: 512 *(76.3%)*
+    
+**Gym Badges**: 574
+**Pokedex Caught**: 0
+**Pokedex Seen**: 0
+**Fisherman**: 0
+**Youngster**: 0
+**Pikachu Fan**: 0
+**Unown**: 0
+**Pilot**: 571,424
+**Gentleman**: 357
+**Idol**: 51
+**Ace Trainer**: 0
+**Great League Veteran**: 0
+**Ultra League Veteran**: 0
+**Master League Veteran**: 0
+    
+**Days Played**: 853 days
+**XP**/day: 65,296
+**KM**/day: 3.1
+**Catches**/day: 52.97
+**Evolves**/day: 5.84
+**Hatches**/day: 3.91
+**Spins**/day: 39.54
+**Battles**/day: 5.57
+**Research**/day: 6.23
+**Berries**/day: 28.61
+**Gym Hours**/day: 40.64
+**Gold Gyms**/day: 0.06
+**Raids**/day: 0.88
+**Legendary Raids**/day: 0.92
+    

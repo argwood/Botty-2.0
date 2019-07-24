@@ -1,0 +1,38 @@
+**__DECEMBER__**
+    
+**Trainer**: 2chunks
+**Level**: 38
+**Team**: Valor
+**Region**: North
+    
+**Total XP**: 14,798,993 *(34.0%)*
+**Gold Gyms**: 2 *(11.0%)*
+**Gym Badge**: 400 *(51.0%)*
+**Jogger**: 2,515.4 *(52.0%)*
+**Collector**: 25,038 *(37.0%)*
+**Scientist**: 3,311 *(44.0%)*
+**Breeder**: 865 *(25.0%)*
+**Backpacker**: 25,892 *(38.0%)*
+**Battle Girl**: 1,069 *(12.0%)*
+**Ace Trainer**: 631 *(44.0%)*
+**Berry Master**: 9,683 *(65.0%)*
+**Gym Leader**: 1,999 *(3.0%)*
+**Battle Legend**: 198 *(48.0%)*
+**Champion**: 62 *(20.0%)*
+**Pokedex Caught**: 285 *(26.0%)*
+**Pokedex Seen**: 303 *(20.0%)*
+    
+**Days Played**: 539 days
+**XP**/day: 27,456
+**KM**/day: 4.7
+**Catches**/day: 46.45
+**Evolves**/day: 6.14
+**Hatches**/day: 1.6
+**Spins**/day: 48.04
+**Battles**/day: 1.98
+**Berries**/day: 50.96
+**Gym Hours**/day: 10.52
+**Gold Gyms**/day: 0.01
+**Raids**/day: 0.33
+**Legendary Raids**/day: 0.39
+    

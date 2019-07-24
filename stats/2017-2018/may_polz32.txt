@@ -1,0 +1,39 @@
+**__MAY__**
+    
+**Trainer**: Polz32
+**Level**: 40
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 60,930,821 *(90.6%)*
+**Gold Gyms**: 82 *(86.6%)*
+**Gym Badge**: 353 *(34.2%)*
+**Jogger**: 2,162.4 *(37.6%)*
+**Collector**: 83,652 *(87.9%)*
+**Scientist**: 7,435 *(79.9%)*
+**Breeder**: 3,564 *(84.6%)*
+**Backpacker**: 67,993 *(83.2%)*
+**Battle Girl**: 7,145 *(63.8%)*
+**Pokemon Ranger**: 1,680 *(94.0%)*
+**Berry Master**: 52,223 *(96.6%)*
+**Gym Leader**: 34,568 *(72.5%)*
+**Battle Legend**: 882 *(91.3%)*
+**Champion**: 386 *(93.3%)*
+**Pokedex Caught**: 363 *(65.1%)*
+**Pokedex Seen**: 371 *(96.6%)*
+    
+**Days Played**: 687 days
+**XP**/day: 88,691
+**KM**/day: 3.1
+**Catches**/day: 121.76
+**Evolves**/day: 10.82
+**Hatches**/day: 5.19
+**Spins**/day: 98.97
+**Battles**/day: 10.4
+**Quests**/day: 27.1
+**Berries**/day: 152.25
+**Gym Hours**/day: 100.78
+**Gold Gyms**/day: 0.24
+**Raids**/day: 1.14
+**Legendary Raids**/day: 1.23
+    

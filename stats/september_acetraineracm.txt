@@ -1,0 +1,42 @@
+**__SEPTEMBER__**
+    
+**Trainer**: AceTrainerACM
+**Level**: 40
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 204
+**Monthly Rank**: 69
+    
+**Total XP**: 27,554,025 *(27.9%)*
+**Jogger**: 2,138.4 *(27.9%)*
+**Collector**: 29,265 *(23.6%)*
+**Scientist**: 3,591 *(38.6%)*
+**Breeder**: 2,046 *(50.7%)*
+**Backpacker**: 23,490 *(24.3%)*
+**Battle Girl**: 4,583 *(35.7%)*
+**Gym Badge**: 202 *(19.3%)*
+**Gold Gyms**: 31 *(45.0%)*
+    
+**Pokemon Ranger**: 1,257 *(36.4%)*
+**Berry Master**: 12,445 *(33.6%)*
+**Gym Leader**: 14,049 *(33.6%)*
+**Battle Legend**: 413 *(37.1%)*
+**Champion**: 185 *(45.7%)*
+**Pokedex Caught**: 372.0 *(43.9%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Days Played**: 815 days
+**XP**/day: 33,808
+**KM**/day: 2.6
+**Catches**/day: 35.91
+**Evolves**/day: 4.41
+**Hatches**/day: 2.51
+**Spins**/day: 28.82
+**Battles**/day: 5.62
+**Research**/day: 6.83
+**Berries**/day: 26.76
+**Gym Hours**/day: 30.21
+**Gold Gyms**/day: 0.07
+**Raids**/day: 0.4
+**Legendary Raids**/day: 0.43
+    

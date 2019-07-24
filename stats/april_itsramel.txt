@@ -1,0 +1,39 @@
+**__APRIL__**
+    
+**Trainer**: itsRamel
+**Level**: 40
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 211
+**Monthly Rank**: N/A
+    
+**Total XP**: 44,947,770 *(26.5%)*
+**Jogger**: 4,300.0 *(43.9%)*
+**Collector**: 41,723 *(25.9%)*
+**Scientist**: 3,236 *(30.2%)*
+**Breeder**: 2,485 *(39.7%)*
+**Backpacker**: 45,069 *(34.9%)*
+**Battle Girl**: 5,353 *(30.7%)*
+**Gold Gyms**: 13 *(16.4%)*
+    
+**Pokemon Ranger**: 1,241 *(14.3%)*
+**Berry Master**: 3,610 *(10.6%)*
+**Gym Leader**: 22,593 *(27.5%)*
+**Battle Legend**: 606 *(40.2%)*
+**Champion**: 366 *(55.0%)*
+    
+**Days Played**: 1022 days
+**XP**/day: 43,980
+**KM**/day: 4.2
+**Catches**/day: 40.82
+**Evolves**/day: 3.17
+**Hatches**/day: 2.43
+**Spins**/day: 44.1
+**Battles**/day: 5.24
+**Research**/day: 3.13
+**Berries**/day: 5.33
+**Gym Hours**/day: 33.37
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.54
+**Legendary Raids**/day: 0.57
+    

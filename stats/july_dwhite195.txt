@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: Dwhite195
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 22,008,596 *(30.8%)*
+**Jogger**: 3,229.2 *(57.4%)*
+**Collector**: 36,556 *(40.5%)*
+**Scientist**: 5,263 *(60.0%)*
+**Breeder**: 1,577 *(45.1%)*
+**Backpacker**: 28,717 *(35.4%)*
+**Battle Girl**: 3,268 *(35.9%)*
+**Gym Badge**: 457 *(50.8%)*
+**Gold Gyms**: 10 *(29.2%)*
+    
+**Pokemon Ranger**: 900 *(44.6%)*
+**Berry Master**: 10,823 *(41.0%)*
+**Gym Leader**: 7,653 *(26.2%)*
+**Battle Legend**: 192 *(23.6%)*
+**Champion**: 180 *(56.4%)*
+**Pokedex Caught**: 369 *(59.5%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 158
+**Youngster**: 288
+**Pikachu Fan**: 577
+**Unown**: 12
+**Pilot**: 23,206
+**Gentleman**: 4
+    
+**Days Played**: 753 days
+**XP**/day: 29,227
+**KM**/day: 4.3
+**Catches**/day: 48.55
+**Evolves**/day: 6.99
+**Hatches**/day: 2.09
+**Spins**/day: 38.14
+**Battles**/day: 4.34
+**Research**/day: 7.32
+**Berries**/day: 26.79
+**Gym Hours**/day: 18.94
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.45
+**Legendary Raids**/day: 0.48
+    

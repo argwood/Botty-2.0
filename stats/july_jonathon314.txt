@@ -1,0 +1,40 @@
+**__JULY__**
+    
+**Trainer**: Jonathon314
+**Level**: 40
+**Team**: Valor
+**Region**: Burbs
+    
+**Total XP**: 20,041,718 *(27.2%)*
+**Jogger**: 2,579.0 *(43.1%)*
+**Collector**: 36,789 *(41.0%)*
+**Scientist**: 1,885 *(26.7%)*
+**Breeder**: 856 *(23.6%)*
+**Backpacker**: 35,045 *(43.1%)*
+**Battle Girl**: 1,758 *(21.0%)*
+**Gym Badge**: 586 *(64.6%)*
+**Gold Gyms**: 15 *(34.4%)*
+    
+**Pokemon Ranger**: 1,601 *(72.8%)*
+**Berry Master**: 18,227 *(54.9%)*
+**Gym Leader**: 13,482 *(35.4%)*
+**Battle Legend**: 191 *(23.1%)*
+**Champion**: 95 *(24.6%)*
+**Pokedex Caught**: 372 *(89.7%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Days Played**: 754 days
+**XP**/day: 26,580
+**KM**/day: 3.4
+**Catches**/day: 48.79
+**Evolves**/day: 2.5
+**Hatches**/day: 1.14
+**Spins**/day: 46.48
+**Battles**/day: 2.33
+**Research**/day: 13.02
+**Berries**/day: 45.12
+**Gym Hours**/day: 33.37
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.24
+**Legendary Raids**/day: 0.25
+    

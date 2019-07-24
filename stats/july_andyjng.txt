@@ -1,0 +1,47 @@
+**__JULY__**
+    
+**Trainer**: Andyjng
+**Level**: 40
+**Team**: Mystic
+**Region**: West
+    
+**Total XP**: 55,956,670 *(81.5%)*
+**Jogger**: 6,893.2 *(96.4%)*
+**Collector**: 102,653 *(89.7%)*
+**Scientist**: 11,086 *(88.2%)*
+**Breeder**: 2,679 *(68.7%)*
+**Backpacker**: 74,327 *(81.0%)*
+**Battle Girl**: 7,137 *(58.5%)*
+**Gym Badge**: 770 *(77.9%)*
+**Gold Gyms**: 18 *(40.0%)*
+    
+**Pokemon Ranger**: 2,778 *(89.7%)*
+**Berry Master**: 23,661 *(65.1%)*
+**Gym Leader**: 21,441 *(49.2%)*
+**Battle Legend**: 543 *(64.6%)*
+**Champion**: 143 *(43.6%)*
+**Pokedex Caught**: 372 *(89.7%)*
+**Pokedex Seen**: 374 *(99.5%)*
+    
+**Fisherman**: 256
+**Youngster**: 845
+**Pikachu Fan**: 958
+**Unown**: 11
+**Pilot**: 1,366,301
+**Gentleman**: 223
+    
+**Days Played**: 755 days
+**XP**/day: 74,114
+**KM**/day: 9.1
+**Catches**/day: 135.96
+**Evolves**/day: 14.68
+**Hatches**/day: 3.55
+**Spins**/day: 98.45
+**Battles**/day: 9.45
+**Research**/day: 22.59
+**Berries**/day: 58.57
+**Gym Hours**/day: 53.07
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.36
+**Legendary Raids**/day: 0.38
+    

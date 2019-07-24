@@ -1,0 +1,49 @@
+**__AUGUST__**
+    
+**Trainer**: Franco4785
+**Level**: 40
+**Team**: Instinct
+**Region**: South
+**Overall Rank**: 168
+**Monthly Rank**: 51
+    
+**Total XP**: 40,595,650 *(54.2%)*
+**Jogger**: 2,702.3 *(35.8%)*
+**Collector**: 60,666 *(55.8%)*
+**Scientist**: 4,196 *(43.3%)*
+**Breeder**: 936 *(18.3%)*
+**Backpacker**: 47,361 *(49.2%)*
+**Battle Girl**: 6,771 *(45.8%)*
+**Gym Badge**: 842 *(80.8%)*
+**Gold Gyms**: 17 *(25.8%)*
+    
+**Pokemon Ranger**: 1,881 *(65.8%)*
+**Berry Master**: 16,206 *(40.0%)*
+**Gym Leader**: 16,836 *(27.5%)*
+**Battle Legend**: 676 *(74.2%)*
+**Champion**: 75 *(10.0%)*
+**Pokedex Caught**: 363.0 *(17.8%)*
+**Pokedex Seen**: 376.0 *(100.0%)*
+    
+**Fisherman**: 233
+**Youngster**: 355
+**Pikachu Fan**: 814
+**Unown**: 17
+**Pilot**: 138,362
+**Gentleman**: 442
+    
+**Days Played**: 786 days
+**XP**/day: 51,648
+**KM**/day: 3.4
+**Catches**/day: 77.18
+**Evolves**/day: 5.34
+**Hatches**/day: 1.19
+**Spins**/day: 60.26
+**Battles**/day: 8.61
+**Research**/day: 12.21
+**Berries**/day: 37.26
+**Gym Hours**/day: 38.7
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.17
+**Legendary Raids**/day: 0.19
+    

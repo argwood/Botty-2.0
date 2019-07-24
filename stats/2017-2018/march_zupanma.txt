@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: zupanma
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 37,176,520 *(79.3%)*
+**Gold Gyms**: 29 *(64.9%)*
+**Gym Badge**: 664 *(73.9%)*
+**Jogger**: 2,667.0 *(44.1%)*
+**Collector**: 52,351 *(66.7%)*
+**Scientist**: 6,481 *(67.6%)*
+**Breeder**: 1,888 *(57.7%)*
+**Backpacker**: 44,830 *(58.6%)*
+**Battle Girl**: 4,584 *(42.3%)*
+**Berry Master**: 22,153 *(82.9%)*
+**Gym Leader**: 31,293 *(70.3%)*
+**Battle Legend**: 536 *(83.8%)*
+**Champion**: 269 *(91.9%)*
+**Pokedex Caught**: 358 *(60.4%)*
+**Pokedex Seen**: 369 *(100.0%)*
+    
+**Days Played**: 620 days
+**XP**/day: 59,962
+**KM**/day: 4.3
+**Catches**/day: 84.44
+**Evolves**/day: 10.45
+**Hatches**/day: 3.05
+**Spins**/day: 72.31
+**Battles**/day: 7.39
+**Berries**/day: 78.56
+**Gym Hours**/day: 110.97
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.97
+**Legendary Raids**/day: 1.07
+    

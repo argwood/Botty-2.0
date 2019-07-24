@@ -1,0 +1,39 @@
+**__JUNE__**
+    
+**Trainer**: RedPhaedrus
+**Level**: 40
+**Team**: Mystic
+**Region**: West
+**Overall Rank**: 231
+**Monthly Rank**: N/A
+    
+**Total XP**: 44,425,738 *(33.0%)*
+**Jogger**: 3,565.0 *(33.9%)*
+**Collector**: 57,621 *(35.7%)*
+**Scientist**: 3,510 *(40.2%)*
+**Breeder**: 2,381 *(35.7%)*
+**Backpacker**: 49,651 *(38.4%)*
+**Battle Girl**: 3,915 *(32.1%)*
+**Gold Gyms**: 18 *(32.1%)*
+    
+**Pokemon Ranger**: 1,196 *(20.5%)*
+**Berry Master**: 25,390 *(44.6%)*
+**Gym Leader**: 10,786 *(25.9%)*
+**Battle Legend**: 361 *(25.9%)*
+**Champion**: 199 *(30.4%)*
+    
+**Days Played**: 1089 days
+**XP**/day: 40,794
+**KM**/day: 3.3
+**Catches**/day: 52.91
+**Evolves**/day: 3.22
+**Hatches**/day: 2.19
+**Spins**/day: 45.59
+**Battles**/day: 3.6
+**Research**/day: 2.62
+**Berries**/day: 34.4
+**Gym Hours**/day: 14.62
+**Gold Gyms**/day: 0.02
+**Raids**/day: 0.27
+**Legendary Raids**/day: 0.28
+    

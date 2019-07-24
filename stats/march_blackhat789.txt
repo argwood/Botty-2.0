@@ -1,0 +1,54 @@
+**__MARCH__**
+    
+**Trainer**: BlackHat789
+**Level**: 40
+**Team**: Instinct
+**Region**: Burbs
+**Overall Rank**: 29
+**Monthly Rank**: 30
+    
+**Total XP**: 136,216,326 *(87.9%)*
+**Jogger**: 7,391.0 *(86.3%)*
+**Collector**: 148,464 *(87.9%)*
+**Scientist**: 26,882 *(97.8%)*
+**Breeder**: 5,824 *(81.9%)*
+**Backpacker**: 81,857 *(63.2%)*
+**Battle Girl**: 13,091 *(61.0%)*
+**Gold Gyms**: 64 *(56.6%)*
+    
+**Pokemon Ranger**: 5,001 *(77.5%)*
+**Berry Master**: 33,529 *(48.4%)*
+**Gym Leader**: 37,550 *(46.7%)*
+**Battle Legend**: 697 *(43.4%)*
+**Champion**: 501 *(73.1%)*
+    
+**Gym Badges**: 612
+**Pokedex Caught**: 462
+**Pokedex Seen**: 464
+**Fisherman**: 664
+**Youngster**: 1164
+**Pikachu Fan**: 1626
+**Unown**: 16
+**Pilot**: 3,298,390
+**Gentleman**: 2360
+**Idol**: 111
+**Ace Trainer**: 1812
+**Great League Veteran**: 48
+**Ultra League Veteran**: 9
+**Master League Veteran**: 21
+    
+**Days Played**: 992 days
+**XP**/day: 137,314
+**KM**/day: 7.5
+**Catches**/day: 149.66
+**Evolves**/day: 27.1
+**Hatches**/day: 5.87
+**Spins**/day: 82.52
+**Battles**/day: 13.2
+**Research**/day: 13.66
+**Berries**/day: 51.82
+**Gym Hours**/day: 58.04
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.78
+**Legendary Raids**/day: 0.81
+    

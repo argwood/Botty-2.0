@@ -1,0 +1,38 @@
+**Trainer**: xOxMeGatroNxOx
+**Level**: 40
+**Team**: Mystic
+**Region**: North
+    
+**Total XP**: 34,551,704 *(71.4%)*
+**Gold Gyms**: 23 *(55.3%)*
+**Gym Badge**: 700 *(75.2%)*
+**Jogger**: 5,668.1 *(94.0%)*
+**Collector**: 64,087 *(75.9%)*
+**Scientist**: 7,735 *(78.9%)*
+**Breeder**: 2,016 *(63.9%)*
+**Backpacker**: 94,124 *(94.7%)*
+**Battle Girl**: 18,579 *(92.5%)*
+**Ace Trainer**: 0 *(50.4%)*
+**Berry Master**: 15,677 *(63.2%)*
+**Gym Leader**: 36,187 *(75.2%)*
+**Battle Legend**: 326 *(53.4%)*
+**Champion**: 170 *(72.2%)*
+**Pokedex Caught**: 339 *(38.0%)*
+**Pokedex Seen**: 368 *(49.6%)*
+    
+**Days Played**: 598 days
+**XP**/day: 57,778
+**KM**/day: 9.5
+**Catches**/day: 107.17
+**Evolves**/day: 12.93
+**Catches**/evolve: 8.29
+**Hatches**/day: 3.37
+**KM**/egg: 2.81
+**Spins**/day: 157.4
+**Battles**/day: 31.07
+**Berries**/day: 62.46
+**Gym Hours**/day: 144.17
+**Gold Gyms**/day: 0.09
+**Raids**/day: 0.69
+**Legendary Raids**/day: 0.77
+    

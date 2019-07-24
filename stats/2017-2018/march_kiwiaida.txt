@@ -1,0 +1,37 @@
+**__MARCH__**
+    
+**Trainer**: KiwiAida
+**Level**: 37
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 10,348,571 *(8.1%)*
+**Gold Gyms**: 12 *(32.4%)*
+**Gym Badge**: 235 *(13.5%)*
+**Jogger**: 1,387.2 *(13.5%)*
+**Collector**: 10,880 *(7.2%)*
+**Scientist**: 1,011 *(9.0%)*
+**Breeder**: 436 *(7.2%)*
+**Backpacker**: 11,648 *(8.1%)*
+**Battle Girl**: 2,700 *(24.3%)*
+**Berry Master**: 2,421 *(8.1%)*
+**Gym Leader**: 13,036 *(32.4%)*
+**Battle Legend**: 186 *(15.3%)*
+**Champion**: 97 *(29.7%)*
+**Pokedex Caught**: 311 *(2.7%)*
+**Pokedex Seen**: 361 *(7.2%)*
+    
+**Days Played**: 630 days
+**XP**/day: 16,426
+**KM**/day: 2.2
+**Catches**/day: 17.27
+**Evolves**/day: 1.6
+**Hatches**/day: 0.69
+**Spins**/day: 18.49
+**Battles**/day: 4.29
+**Berries**/day: 8.59
+**Gym Hours**/day: 46.23
+**Gold Gyms**/day: 0.04
+**Raids**/day: 0.35
+**Legendary Raids**/day: 0.38
+    

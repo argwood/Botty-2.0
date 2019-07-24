@@ -1,0 +1,40 @@
+**__NOVEMBER__**
+    
+**Trainer**: eshabi2
+**Level**: 36
+**Team**: Mystic
+**Region**: Burbs
+    
+**Total XP**: 8,537,979 *(30.1%)*
+**Gold Gyms**: 12 *(72.2%)*
+**Gym Badge**: 331 *(59.4%)*
+**Jogger**: 744.1 *(15.0%)*
+**Collector**: 12,944 *(26.3%)*
+**Scientist**: 670 *(13.5%)*
+**Breeder**: 278 *(11.3%)*
+**Backpacker**: 12,898 *(24.1%)*
+**Battle Girl**: 1,739 *(32.3%)*
+**Ace Trainer**: 632 *(43.6%)*
+**Berry Master**: 3,687 *(48.9%)*
+**Gym Leader**: 18,136 *(82.0%)*
+**Battle Legend**: 221 *(78.9%)*
+**Champion**: 75 *(65.4%)*
+**Pokedex Caught**: 238 *(15.0%)*
+**Pokedex Seen**: 250 *(58.6%)*
+    
+**Days Played**: 506 days
+**XP**/day: 16,873
+**KM**/day: 1.5
+**Catches**/day: 25.58
+**Evolves**/day: 1.32
+**Catches**/evolve: 19.32
+**Hatches**/day: 0.55
+**KM**/egg: 2.68
+**Spins**/day: 25.49
+**Battles**/day: 3.44
+**Berries**/day: 23.79
+**Gym Hours**/day: 117.01
+**Gold Gyms**/day: 0.08
+**Raids**/day: 0.5
+**Legendary Raids**/day: 0.6
+    

@@ -1,0 +1,42 @@
+**__OCTOBER__**
+    
+**Trainer**: Egyptianish
+**Level**: 40
+**Team**: Valor
+**Region**: South
+**Overall Rank**: 25
+**Monthly Rank**: 10
+    
+**Total XP**: 79,702,652 *(83.6%)*
+**Jogger**: 6,346.7 *(88.6%)*
+**Collector**: 82,029 *(67.1%)*
+**Scientist**: 9,360 *(77.9%)*
+**Breeder**: 11,091 *(100.0%)*
+**Backpacker**: 97,944 *(87.9%)*
+**Battle Girl**: 7,567 *(52.9%)*
+**Gym Badge**: 414 *(40.0%)*
+**Gold Gyms**: 50 *(61.4%)*
+    
+**Pokemon Ranger**: 4,330 *(87.1%)*
+**Berry Master**: 59,203 *(90.7%)*
+**Gym Leader**: 40,527 *(63.6%)*
+**Battle Legend**: 1352 *(90.0%)*
+**Champion**: 411 *(86.4%)*
+**Pokedex Caught**: 404.0 *(96.3%)*
+**Pokedex Seen**: 406.0 *(95.6%)*
+    
+**Days Played**: 843 days
+**XP**/day: 94,546
+**KM**/day: 7.5
+**Catches**/day: 97.31
+**Evolves**/day: 11.1
+**Hatches**/day: 13.16
+**Spins**/day: 116.19
+**Battles**/day: 8.98
+**Research**/day: 20.14
+**Berries**/day: 119.36
+**Gym Hours**/day: 81.71
+**Gold Gyms**/day: 0.1
+**Raids**/day: 0.84
+**Legendary Raids**/day: 0.88
+    
