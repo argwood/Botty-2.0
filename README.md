@@ -9,7 +9,7 @@ Originally developed by me in 2017 for the [DTC Chicago Pok&eacute;mon GO Discor
 To host Botty-2.0 from your own machine, you'll need the following:
 * Python3 (Ideally Python3.4-3.6)
 * Discord.py version 0.16.12 (`pip3 install discord.py==0.16.12`)
-* A valid bot token (Steps 2-4 of [this guide] (https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/) are particularly helpful) 
+* A valid bot token (Steps 2-4 of [this guide](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/) are particularly helpful) 
 
 To run:
 * `export TOKEN='my_bot_token_here'`
