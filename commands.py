@@ -425,7 +425,7 @@ class Commands:
                         def_iv = str(15)
                         sta_iv = str(15)
                     site = 'https://gostadium.club/pvp/iv?pokemon=' + pokemon.capitalize() + '+' + condition.capitalize() + '&max_cp='+str(leagues[league])+'&min_iv='+miniv+'&att_iv=' + att_iv + '&def_iv=' + def_iv + '&sta_iv=' + sta_iv
-                else: return client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
+                else: return self._client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
             else:
                 att_iv = split[3]
                 def_iv = split[4]

@@ -5,7 +5,7 @@ import commands
 from dtc import DTC
 
 '''
-Botty Lite - a sassy but smart Discord bot for Pokemon GO
+Botty - a sassy but smart Discord bot for Pokemon GO
 
 Provide bot token as environment variable:
     export TOKEN='my_token_here'
@@ -35,6 +35,7 @@ if dtc:
 async def on_ready():
     print('Waking up Botty...')
     print('Currently running on Discord.py version {}. Botty runs best on version 0.16.12.'.format(discord.__version__))
+    await client.change_presence(game=discord.Game(name='with your emotions'))
 
 @client.event
 async def on_message(message):

@@ -74,15 +74,31 @@ class DTC:
             gym_link = 'http://imgur.com/a/O8acycN'
             await self._client.send_message(message.channel, 'Here is a list of gyms in Hyde Park/Woodlawn with their locations and EX eligibility:\n(' + gym_link + ')')
 
+    def get_users():
+
+        startTime = datetime.now().time
+        for server in client.servers:
+            online = 0
+            idle = 0
+            offline = 0
+
+            for member in server.members:
+                if str(member.status) == 'online':
+                    online+=1
+                elif str(member.status) == 'idle':
+                    idle += 1
+        totalUsers = online + idle
+        row = [totalUsers, online,idle]
+        return row
+
     async def announcement_count(self, message):
         if message.channel.id == self.announcements_channel:
             channel = message.channel
             time.sleep(30)
             cache_msg = await self._client.get_message(channel, message.id)
-            print(cache_msg.content)
             reacts = {react.emoji: react.count for react in cache_msg.reactions}
-            print(reacts)
-            row = [message.content[0:50], message.timestamp, message.author.display_name, len(message.content),len(message.attachments), reacts]
+            online = get_users()
+            row = [message.content[0:50], message.timestamp, message.author.display_name, len(message.content),len(message.attachments), reacts, online]
             with open('announcement_reacts.csv', 'a') as csvfile:
                 writer = csv.writer(csvfile)
                 writer.writerow(row)

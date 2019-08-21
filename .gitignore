@@ -1,2 +1,7 @@
 __pycache__
 token.txt
+token_dtc.txt
+friend_list.json
+announcement_reacts.csv
+./stats/*.txt
+./stats/*/*.txt
