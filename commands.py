@@ -68,8 +68,16 @@ class Commands:
                     random.seed()
                     choice = random.choice(list(friend_list))
                     user = discord.utils.get(message.server.members,name = choice[:-5], discriminator = choice[-4:])
+
                     choice_code = friend_list.get(str(choice))
-                    await self._client.send_message(message.channel, user.mention + ' doesn\'t bite. Their friend code is ``' + choice_code + '``.')
+                    try:
+                        await self._client.send_message(message.channel, user.mention + ' doesn\'t bite. Their friend code is ``' + choice_code + '``.')
+                    except AttributeError:
+                        choice = random.choice(list(friend_list))
+                        user = discord.utils.get(message.server.members,name = choice[:-5], discriminator = choice[-4:])
+                        choice_code = friend_list.get(str(choice))
+                        await self._client.send_message(message.channel, user.mention + ' doesn\'t bite. Their friend code is ``' + choice_code + '``.')
+
                 elif length == 4:
                     if str(message.content.split()[1].startswith('[')): # if they input their code with brackets
                         code_to_add = str((message.content.split()[1]).replace('[',''))+str(message.content.split()[2])+str((message.content.split()[3]).replace(']',''))
