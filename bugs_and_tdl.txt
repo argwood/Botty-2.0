@@ -2,13 +2,14 @@
 
 *Dex - Doesn't work for mons with multi-word names (i.e. Mr. Mime)
 *Friend List - Returns nothing if person removes their code or leaves server
-*Rank - Rounds to nearest full level 
+*Rank - Rounds to nearest full level (fixed) 
 
 #Planned Features/Updates
 
 *Rank - add Pokemon sprites as thumbnail
 *Rank - add color-coded embeds
 *Rank - make default league "great"
+*Rank - add option for !r instead of !rank (complete)
 *Shiny - improved error handling
 *Shiny - add forms
 

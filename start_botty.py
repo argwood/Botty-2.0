@@ -51,7 +51,7 @@ async def on_message(message):
         await _botty.friend(message)
     elif message.content.startswith('!dex'):
         await _botty.dex(message)
-    elif message.content.startswith('!rank'):
+    elif message.content.startswith('!rank') or message.content.startswith('!r '):
         await _botty.rank(message)
     elif message.content.startswith('!shiny'):
         await _botty.shiny(message)

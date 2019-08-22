@@ -101,7 +101,7 @@ class Commands:
                     else:
                         await self._client.send_message(message.channel, 'You have already been added to the Friend List. Try ``!friend remove`` if you want to edit your code.')
                 else:
-                    await self._client.send_message(message.channel, 'Use the following commands to find friends and add Trainers to your network:\n\n`!friend <code>` to add your Trainer Code\n`!friend <@username>` to search for a Trainer\'s Code\n`!friend remove` to remove your Trainer Code\n`!friend roulette` to roll the dice and get a random Trainer Code')
+                    await self._client.send_message(message.channel, 'Use the following commands to find friends and add Trainers to your network:\n\n`!friend XXXX XXXX XXXX` to add your Trainer Code\n`!friend <@username>` to search for a Trainer\'s Code\n`!friend remove` to remove your Trainer Code\n`!friend roulette` to roll the dice and get a random Trainer Code')
             elif length>1 and len(message.mentions) == 1:
                 friend_discrim = str(message.mentions[0])
                 friend_name = message.mentions[0].display_name
@@ -112,7 +112,7 @@ class Commands:
                 else:
                     await self._client.send_message(message.channel, 'Sorry, `{}`. '.format(message.author.display_name) + friend_name + ' has not provided a Trainer Code. Go send them a DM or make friends IRL.')
             else:
-                await self._client.send_message(message.channel, 'Use the following commands to find friends and add Trainers to your network:\n\n`!friend <code>` to add your Trainer Code\n`!friend <@username>` to search for a Trainer\'s Code\n`!friend remove` to remove your Trainer Code\n`!friend roulette` to roll the dice and get a random Trainer Code')
+                await self._client.send_message(message.channel, 'Use the following commands to find friends and add Trainers to your network:\n\n`!friend XXXX XXXX XXXX` to add your Trainer Code\n`!friend <@username>` to search for a Trainer\'s Code\n`!friend remove` to remove your Trainer Code\n`!friend roulette` to roll the dice and get a random Trainer Code')
 
     async def dex(self, message):
         condition = ''
@@ -394,13 +394,23 @@ class Commands:
         split = message.content.lower().split()
         leagues = {'great':1500, 'ultra':2500}
         condition = []
-        if len(split) == 6 or len(split) == 7 or len(split) == 3 or len(split) == 4: #format !rank league pokemon a d s
-            league = split[1]
+        conditions = ['alolan', 'speed', 'attack', 'defense', 'armored', 'origin', 'altered']
+        if len(split) > 1: #== 6 or len(split) == 7 or len(split) == 3 or len(split) == 4: #format !rank league pokemon [form] a d s
+            #league = split[1]
+            if split[1] not in ['great', 'ultra', 'master']:
+                league = 'great' # set default league to great
+                index = 1
+                pokemon = split[index]
+            else:
+                league = split[1]
+                index = 2
+                pokemon = split[index]
+
             if league not in ['great', 'ultra']:
                 if 'master' in league:
-                    await self._client.send_message(message.channel, 'No CP limit in Master League, you want 100% IVs')
+                    await self._client.send_message(message.channel, 'There is no CP limit in Master League, you want 100% IVs')
                 else: await self._client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
-            pokemon = split[2]
+            #pokemon = split[2]
             if pokemon not in dicts.pokemon:
                 await self._client.send_message(message.channel, (
                 "That's not any Pokemon I know of, check your spelling " +
@@ -408,18 +418,19 @@ class Commands:
             if pokemon in ['mew', 'deoxys', 'celebi']: #pokemon that can't be traded
                 miniv = '10'
             else: miniv = '0'
-            if len(split) == 3:
+            if len(split) == 2: #or len(split) == 3 and split[-1]: # show rank 1
                 att_iv = str(15)
                 def_iv = str(15)
                 sta_iv = str(15)
                 site = 'https://gostadium.club/pvp/iv?pokemon=' + pokemon.capitalize() + '&max_cp='+str(leagues[league])+'&min_iv='+miniv+'&att_iv=' + att_iv + '&def_iv=' + def_iv + '&sta_iv=' + sta_iv
-            elif len(split) == 7 or len(split) == 4:
-                if pokemon in ['deoxys', 'giratina'] or split[3] == 'alolan' or (pokemon=='mewtwo' and split[3] == 'armored'):
-                    condition = split[3]
-                    if len(split) == 7:
-                        att_iv = split[4]
-                        def_iv = split[5]
-                        sta_iv = split[6]
+            elif any(item in conditions for item in split):#len(split) == 7 or len(split) == 4:
+                if pokemon in ['deoxys', 'giratina', 'mewtwo'] or 'alolan' in split: #or (pokemon=='mewtwo' and split[3] == 'armored'):
+                    print(split)
+                    condition = split[index+1]
+                    if len(split) == 6 or len(split) == 7:
+                        att_iv = split[index+2]
+                        def_iv = split[index+3]
+                        sta_iv = split[index+4]
                     else:
                         att_iv = str(15)
                         def_iv = str(15)
@@ -427,26 +438,23 @@ class Commands:
                     site = 'https://gostadium.club/pvp/iv?pokemon=' + pokemon.capitalize() + '+' + condition.capitalize() + '&max_cp='+str(leagues[league])+'&min_iv='+miniv+'&att_iv=' + att_iv + '&def_iv=' + def_iv + '&sta_iv=' + sta_iv
                 else: return self._client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
             else:
-                att_iv = split[3]
-                def_iv = split[4]
-                sta_iv = split[5]
+                att_iv = split[index+1]
+                def_iv = split[index+2]
+                sta_iv = split[index+3]
                 site = 'https://gostadium.club/pvp/iv?pokemon=' + pokemon.capitalize() + '&max_cp='+str(leagues[league])+'&min_iv='+miniv+'&att_iv=' + att_iv + '&def_iv=' + def_iv + '&sta_iv=' + sta_iv
             page = requests.get(site)
             soup = BeautifulSoup(page.content, 'html.parser')
             rank_table_full = soup.find('table', attrs={'class':'table table-condensed table-striped text-light'})
             ranks = rank_table_full.find_all(lambda tag:tag.name=='td')
             rank = ranks[0].get_text()
-            lvl = str(int(float(ranks[1].get_text())))
+            lvl = str(float(ranks[1].get_text()))
             ivs = ranks[2].get_text()
             cp = ranks[3].get_text()
             max_stat = ranks[8].get_text()
-            best_lvl = str(int(float(ranks[10].get_text())))
+            best_lvl = str(float(ranks[10].get_text()))
             best_ivs= ranks[11].get_text()
             best_cp = ranks[12].get_text()
-            if len(split) == 3:
-                descript = '\n\n'
-                descript += '**Ideal IV **' + best_ivs + ' (' + best_cp + ' CP, Lvl ' + best_lvl + ')\n'
-            elif len(split) == 4:
+            if len(split) == 2 or len(split) == 3 or (len(split) == 4 and condition in conditions):
                 descript = '\n\n'
                 descript += '**Ideal IV **' + best_ivs + ' (' + best_cp + ' CP, Lvl ' + best_lvl + ')\n'
             elif len(split) == 7:

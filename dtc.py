@@ -97,6 +97,7 @@ class DTC:
             time.sleep(30)
             cache_msg = await self._client.get_message(channel, message.id)
             reacts = {react.emoji: react.count for react in cache_msg.reactions}
+            online = 0
             online = get_users()
             row = [message.content[0:50], message.timestamp, message.author.display_name, len(message.content),len(message.attachments), reacts, online]
             with open('announcement_reacts.csv', 'a') as csvfile:
