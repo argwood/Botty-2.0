@@ -402,7 +402,7 @@ class Commands:
         split = message.content.lower().split()
         leagues = {'great':1500, 'ultra':2500}
         condition = []
-        conditions = ['alolan', 'speed', 'attack', 'defense', 'armored', 'origin', 'altered']
+        conditions = ['alolan', 'speed', 's', 'attack', 'a', 'defense', 'd', 'armored', 'origin', 'altered']
         if len(split) > 1: #== 6 or len(split) == 7 or len(split) == 3 or len(split) == 4: #format !rank league pokemon [form] a d s
             #league = split[1]
             if split[1] not in ['great', 'ultra', 'master']:
@@ -426,7 +426,7 @@ class Commands:
             if pokemon in ['mew', 'deoxys', 'celebi']: #pokemon that can't be traded
                 miniv = '10'
             else: miniv = '0'
-            if len(split) == 2: #or len(split) == 3 and split[-1]: # show rank 1
+            if len(split) == 2 or (len(split) == 3 and pokemon in split[-1]): # show rank 1
                 att_iv = str(15)
                 def_iv = str(15)
                 sta_iv = str(15)
@@ -435,6 +435,13 @@ class Commands:
                 if pokemon in ['deoxys', 'giratina', 'mewtwo'] or 'alolan' in split: #or (pokemon=='mewtwo' and split[3] == 'armored'):
                     print(split)
                     condition = split[index+1]
+                    if condition == 's':
+                        condition = 'speed'
+                    elif condition == 'a':
+                        condition = 'attack'
+                    elif condition == 'd':
+                        condition = 'defense'
+
                     if len(split) == 6 or len(split) == 7:
                         att_iv = split[index+2]
                         def_iv = split[index+3]
@@ -446,10 +453,13 @@ class Commands:
                     site = 'https://gostadium.club/pvp/iv?pokemon=' + pokemon.capitalize() + '+' + condition.capitalize() + '&max_cp='+str(leagues[league])+'&min_iv='+miniv+'&att_iv=' + att_iv + '&def_iv=' + def_iv + '&sta_iv=' + sta_iv
                 else: return self._client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
             else:
-                att_iv = split[index+1]
-                def_iv = split[index+2]
-                sta_iv = split[index+3]
-                site = 'https://gostadium.club/pvp/iv?pokemon=' + pokemon.capitalize() + '&max_cp='+str(leagues[league])+'&min_iv='+miniv+'&att_iv=' + att_iv + '&def_iv=' + def_iv + '&sta_iv=' + sta_iv
+                try:
+                    att_iv = split[index+1]
+                    def_iv = split[index+2]
+                    sta_iv = split[index+3]
+                    site = 'https://gostadium.club/pvp/iv?pokemon=' + pokemon.capitalize() + '&max_cp='+str(leagues[league])+'&min_iv='+miniv+'&att_iv=' + att_iv + '&def_iv=' + def_iv + '&sta_iv=' + sta_iv
+                except:
+                    return self._client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
             page = requests.get(site)
             soup = BeautifulSoup(page.content, 'html.parser')
             rank_table_full = soup.find('table', attrs={'class':'table table-condensed table-striped text-light'})
@@ -485,26 +495,30 @@ class Commands:
                 #title += ' | ' + ivs
             em = discord.Embed(title=title, url=site, description=descript, color=0x000000)
             em.set_footer(text='Data courtesy of gostadium.club')
-           #  if condition == 'alolan':
-           #     em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_61.png').format(dex_number))
-           # elif 'deoxys' in pokemon:
-           #     if condition == 'attack':
-           #         em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
-           #     elif condition == 'defense':
-           #         em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_13.png').format(dex_number))
-           #     elif condition == 'speed':
-           #         em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_14.png').format(dex_number))
-           #     else:
-           #         em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_11.png').format(dex_number))
-           # elif 'giratina' in pokemon:
-           #     if condition == 'origin':
-           #         em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
-           #     else:
-          #          em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
-           # else:
-           #     em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
-
-
+            dex_number = dicts.pokemon.get(pokemon)
+            if condition == 'alolan':
+                em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_61.png').format(dex_number))
+            elif dex_number == 386: #deoxys
+                if condition == 'attack':
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
+                elif condition == 'defense':
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_13.png').format(dex_number))
+                elif condition == 'speed':
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_14.png').format(dex_number))
+                else:
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_11.png').format(dex_number))
+            elif dex_number == 487: #gira
+                if condition == 'origin':
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
+                else:
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
+            elif dex_number == 150: #mewtwo
+                if condition == 'armored':
+                    em.set_thumbnail(url=('https://pokemongo.gamepress.gg/sites/pokemongo/files/styles/240w/public/2019-07/mewtwoArmored.png?itok=LoC_Rd9g'))
+                else:
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
+            else:
+                em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
             await self._client.send_message(message.channel, embed=em)
         else:
             await self._client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
