@@ -3,6 +3,7 @@ import asyncio
 import os
 import csv
 import time
+import datetime
 
 class DTC:
 
@@ -74,7 +75,7 @@ class DTC:
             gym_link = 'http://imgur.com/a/O8acycN'
             await self._client.send_message(message.channel, 'Here is a list of gyms in Hyde Park/Woodlawn with their locations and EX eligibility:\n(' + gym_link + ')')
 
-    def get_users():
+    def get_users(self):
 
         startTime = datetime.now().time
         for server in client.servers:

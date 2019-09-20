@@ -61,7 +61,7 @@ class Commands:
                         del friend_list[author_discrim]
                         await self._client.send_message(message.channel, 'You have been removed from the Friend List.')
                     else:
-                        await self._client.send_message(message.channel, 'You are not currently in the Friend List, `{}`. Use ``!friend <Friend Code>`` to add yourself.'.format(message.author.display_name))
+                        await self._client.send_message(message.channel, 'You are not currently in the Friend List, `{}`. Use ``!friend XXXX XXXX XXXX`` to add yourself.'.format(message.author.display_name))
                     with open('friend_list.json', 'w') as f:
                         json.dump(friend_list, f)
                 elif message.content.split()[1].startswith('roulette'):
@@ -109,7 +109,7 @@ class Commands:
                     else:
                         await self._client.send_message(message.channel, 'You have already been added to the Friend List. Try ``!friend remove`` if you want to edit your code.')
                 else:
-                    await self._client.send_message(message.channel, 'Use the following commands to find friends and add Trainers to your network:\n\n`!friend XXXX XXXX XXXX` to add your Trainer Code\n`!friend <@username>` to search for a Trainer\'s Code\n`!friend remove` to remove your Trainer Code\n`!friend roulette` to roll the dice and get a random Trainer Code')
+                    await self._client.send_message(message.channel, 'Use the following commands to find friends and add Trainers to your network:\n\n`!friend XXXX XXXX XXXX` to add your Trainer Code\n`!friend @username` to search for a Trainer\'s Code\n`!friend remove` to remove your Trainer Code\n`!friend roulette` to roll the dice and get a random Trainer Code')
             elif length>1 and len(message.mentions) == 1:
                 friend_discrim = str(message.mentions[0])
                 friend_name = message.mentions[0].display_name
@@ -120,7 +120,7 @@ class Commands:
                 else:
                     await self._client.send_message(message.channel, 'Sorry, `{}`. '.format(message.author.display_name) + friend_name + ' has not provided a Trainer Code. Go send them a DM or make friends IRL.')
             else:
-                await self._client.send_message(message.channel, 'Use the following commands to find friends and add Trainers to your network:\n\n`!friend XXXX XXXX XXXX` to add your Trainer Code\n`!friend <@username>` to search for a Trainer\'s Code\n`!friend remove` to remove your Trainer Code\n`!friend roulette` to roll the dice and get a random Trainer Code')
+                await self._client.send_message(message.channel, 'Use the following commands to find friends and add Trainers to your network:\n\n`!friend XXXX XXXX XXXX` to add your Trainer Code\n`!friend @username` to search for a Trainer\'s Code\n`!friend remove` to remove your Trainer Code\n`!friend roulette` to roll the dice and get a random Trainer Code')
 
     async def dex(self, message):
         condition = ''
@@ -528,7 +528,7 @@ class Commands:
         if len(message.content.lower().split()) == 2:
             pokemon = message.content.lower().split()[1]
             if pokemon not in dicts.pokemon:
-                return client.send_message(message.channel, (
+                return self._client.send_message(message.channel, (
                 "That's not any Pokemon I know of, check your spelling " +
                 "`{}`").format(message.author.display_name))
             dex_num = dicts.pokemon.get(pokemon)
