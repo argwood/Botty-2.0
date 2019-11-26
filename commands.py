@@ -15,7 +15,7 @@ class Commands:
     def __init__(self, client):
         self._client = client
         self.botty_id = 599026500200562712
-        self.invite_link = 'https://discord.gg/sSeeGPs'
+        self.invite_link = 'https://discord.gg/NrxCsKG'
 
     async def invite(self, message):
         await self._client.send_message(message.channel, self.invite_link)
