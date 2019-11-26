@@ -9,7 +9,7 @@ class DTC:
 
     def __init__(self, client):
         self._client = client
-        self.invite_link = 'https://discord.gg/sSeeGPs'
+        self.invite_link = 'https://discord.gg/NrxCsKG'
         self.map_channel = '546072336642605056'
         self.HP_channel = '337956200048099328'
         self.announcements_channel = '303367823516893196'
@@ -66,9 +66,9 @@ class DTC:
         await self._client.send_message(message.channel, patreon_link)
 
     async def map(self, message):
-        if message.channel.id == self.map_channel:
-            map_link = 'https://map.dtc.fyi'
-            await self._client.send_message(message.channel, map_link)
+        #if message.channel.id == self.map_channel: #temporarily make !map work in all channels
+        map_link = 'https://map.dtc.fyi'
+        await self._client.send_message(message.channel, map_link)
 
     async def HPgyms(self, message):
         if message.channel.id == self.HP_channel:
