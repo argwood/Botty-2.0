@@ -67,6 +67,8 @@ async def on_message(message):
             await _dtc.patreon(message)
         elif message.content.startswith('!map'):
             await _dtc.map(message)
+        elif message.content.lower().startswith('ty next'):
+            await _dtc.alvin(message)
         elif message.content.lower().startswith('where is ') or message.content.lower().startswith('where\'s'):
             await _dtc.HPgyms(message)
         elif ('303367823516893196' in message.channel.id):
