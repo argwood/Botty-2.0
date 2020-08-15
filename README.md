@@ -10,6 +10,7 @@ To host Botty-2.0 from your own machine, you'll need the following:
 * Python3 (Python3.5.3 or higher is required for Discord.py versions above v1.0. I use Python3.6)
 * Discord.py version 1.4.1 or similar (`pip3 install discord.py==1.4.1` to install a specific version)
 * A valid bot token (Steps 2-4 of [this guide](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/) are particularly helpful) 
+* Necessary dependencies can be installed with `pip install -r requirements.txt`
 
 To run:
 * `export TOKEN='my_bot_token_here'`
