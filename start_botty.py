@@ -34,8 +34,8 @@ if dtc:
 @client.event
 async def on_ready():
     print('Waking up Botty...')
-    print('Currently running on Discord.py version {}. Botty runs best on version 0.16.12.'.format(discord.__version__))
-    await client.change_presence(game=discord.Game(name='with your emotions'))
+    print('Currently running on Discord.py version {}. Botty runs best on version 1.4.1 with Python3.6.'.format(discord.__version__))
+    await client.change_presence(activity=discord.Game(name='with your emotions'))
 
 @client.event
 async def on_message(message):
@@ -71,8 +71,6 @@ async def on_message(message):
             await _dtc.alvin(message)
         elif message.content.lower().startswith('where is ') or message.content.lower().startswith('where\'s'):
             await _dtc.HPgyms(message)
-        elif ('303367823516893196' in message.channel.id):
-            await _dtc.announcement_count(message)
 
 if __name__ == "__main__":
 

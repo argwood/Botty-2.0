@@ -14,11 +14,12 @@ class Commands:
 
     def __init__(self, client):
         self._client = client
-        self.botty_id = 599026500200562712
+        #self.botty_id = 599026500200562712
+        self.botty_id = 350123637535145986
         self.invite_link = 'https://discord.gg/NrxCsKG'
 
     async def invite(self, message):
-        await self._client.send_message(message.channel, self.invite_link)
+        await message.channel.send(self.invite_link)
 
     async def maze(self, message):
         random.seed()
@@ -35,15 +36,15 @@ class Commands:
         q11 = '*Hell is empty and all devils are here.*'
         q12 = '*Everything in this world is magic, except for the magician.*'
         quotes = [q1, q2, q3, q4, q5, q6, q7, q8, q9, q10, q11, q12]
-        await self._client.send_message(message.channel, random.choice(quotes))
+        await message.channel.send(random.choice(quotes))
 
     async def thanks(self, message):
-        botty_id = str(self.botty_id)
+        botty_id = self.botty_id
         if len(message.mentions) > 0:
             mention = message.mentions[0].id
-
-        if botty_id in mention:
-            await self._client.send_message(message.channel, ':kissing_heart:')
+        else: mention = message.mention
+        if mention == botty_id:
+            await message.channel.send(':kissing_heart:')
 
     async def friend(self, message):
         with open('friend_list.json') as f:
@@ -51,7 +52,7 @@ class Commands:
 
         if message.content.startswith('!friend list'):
             ordered_list = collections.OrderedDict(friend_list)
-            await self._client.send_message(message.channel, 'Sorry, this command was removed due to lack of use and extreme channel-ruining :poop:. \n\n')
+            await message.channel.send('Sorry, this command was removed due to lack of use and extreme channel-ruining :poop:. \n\n')
         else:
             length = len(message.content.split())
             if length>1 and len(message.mentions) == 0:
@@ -59,24 +60,23 @@ class Commands:
                     author_discrim = str(message.author)
                     if author_discrim in friend_list:
                         del friend_list[author_discrim]
-                        await self._client.send_message(message.channel, 'You have been removed from the Friend List.')
+                        await message.channel.send('You have been removed from the Friend List.')
                     else:
-                        await self._client.send_message(message.channel, 'You are not currently in the Friend List, `{}`. Use ``!friend XXXX XXXX XXXX`` to add yourself.'.format(message.author.display_name))
+                        await message.channel.send('You are not currently in the Friend List, `{}`. Use ``!friend XXXX XXXX XXXX`` to add yourself.'.format(message.author.display_name))
                     with open('friend_list.json', 'w') as f:
                         json.dump(friend_list, f)
                 elif message.content.split()[1].startswith('roulette'):
                     random.seed()
                     choice = random.choice(list(friend_list))
-                    user = discord.utils.get(message.server.members,name = choice[:-5], discriminator = choice[-4:])
-
+                    user = discord.utils.get(message.guild.members,name = choice[:-5], discriminator = choice[-4:])
                     choice_code = friend_list.get(str(choice))
                     try:
-                        await self._client.send_message(message.channel, user.mention + ' doesn\'t bite. Their friend code is ``' + choice_code + '``.')
+                        await message.channel.send(user.mention + ' doesn\'t bite. Their friend code is ``' + choice_code + '``.')
                     except AttributeError:
                         choice = random.choice(list(friend_list))
-                        user = discord.utils.get(message.server.members,name = choice[:-5], discriminator = choice[-4:])
+                        user = discord.utils.get(message.guild.members,name = choice[:-5], discriminator = choice[-4:])
                         choice_code = friend_list.get(str(choice))
-                        await self._client.send_message(message.channel, user.mention + ' doesn\'t bite. Their friend code is ``' + choice_code + '``.')
+                        await message.channel.send(str(user.mention) + ' doesn\'t bite. Their friend code is ``' + choice_code + '``.')
 
                 elif length == 4:
                     if str(message.content.split()[1].startswith('[')): # if they input their code with brackets
@@ -84,48 +84,48 @@ class Commands:
                     else: # if they input their code with spaces
                         code_to_add = str(message.content.split()[1])+str(message.content.split()[2])+str(message.content.split()[3])
                     author_name = str(message.author.display_name)
-                    author_id = str(message.author.id)
+                    author_id = message.author.id
                     author_discrim = str(message.author)
                     if author_discrim not in friend_list:
                         friend_list_add = {author_discrim:code_to_add}
                         friend_list.update(friend_list_add)
                         with open('friend_list.json', 'w') as f:
                             json.dump(friend_list, f)
-                            await self._client.send_message(message.channel, 'You have been added to the Friend List with code ``' + code_to_add + '``')
+                            await message.channel.send('You have been added to the Friend List with code ``' + code_to_add + '``')
                     else:
-                        await self._client.send_message(message.channel, 'You have already been added to the Friend List. Try ``!friend remove`` if you want to edit your code.')
+                        await message.channel.send('You have already been added to the Friend List. Try ``!friend remove`` if you want to edit your code.')
                 elif not message.content.split()[1][0].isalpha(): # only adds codes if they are numeric
                     if str(message.content.split()[1].startswith('[')):
                         code_to_add = re.sub("\[|\]","",str(message.content.split()[1]))
                     author_name = str(message.author.display_name)
-                    author_id = str(message.author.id)
+                    author_id = message.author.id
                     author_discrim = str(message.author)
                     if author_discrim not in friend_list:
                         friend_list_add = {author_discrim:code_to_add}
                         friend_list.update(friend_list_add)
                         with open('friend_list.json', 'w') as f:
                             json.dump(friend_list, f)
-                        await self._client.send_message(message.channel, 'You have been added to the Friend List with code ``' + code_to_add + '``')
+                        await message.channel.send('You have been added to the Friend List with code ``' + code_to_add + '``')
                     else:
-                        await self._client.send_message(message.channel, 'You have already been added to the Friend List. Try ``!friend remove`` if you want to edit your code.')
+                        await message.channel.send('You have already been added to the Friend List. Try ``!friend remove`` if you want to edit your code.')
                 else:
-                    await self._client.send_message(message.channel, 'Use the following commands to find friends and add Trainers to your network:\n\n`!friend XXXX XXXX XXXX` to add your Trainer Code\n`!friend @username` to search for a Trainer\'s Code\n`!friend remove` to remove your Trainer Code\n`!friend roulette` to roll the dice and get a random Trainer Code')
+                    await message.channel.send('Use the following commands to find friends and add Trainers to your network:\n\n`!friend XXXX XXXX XXXX` to add your Trainer Code\n`!friend @username` to search for a Trainer\'s Code\n`!friend remove` to remove your Trainer Code\n`!friend roulette` to roll the dice and get a random Trainer Code')
             elif length>1 and len(message.mentions) == 1:
                 friend_discrim = str(message.mentions[0])
                 friend_name = message.mentions[0].display_name
                 friend_id = message.mentions[0].id
                 if friend_discrim in friend_list:
                     friend_code = friend_list.get(str(friend_discrim))
-                    await self._client.send_message(message.channel, friend_name + '\'s friend code is ``' + friend_code + '``. Please play nicely.')
+                    await message.channel.send(friend_name + '\'s friend code is ``' + friend_code + '``. Please play nicely.')
                 else:
-                    await self._client.send_message(message.channel, 'Sorry, `{}`. '.format(message.author.display_name) + friend_name + ' has not provided a Trainer Code. Go send them a DM or make friends IRL.')
+                    await message.channel.send('Sorry, `{}`. '.format(message.author.display_name) + friend_name + ' has not provided a Trainer Code. Go send them a DM or make friends IRL.')
             else:
-                await self._client.send_message(message.channel, 'Use the following commands to find friends and add Trainers to your network:\n\n`!friend XXXX XXXX XXXX` to add your Trainer Code\n`!friend @username` to search for a Trainer\'s Code\n`!friend remove` to remove your Trainer Code\n`!friend roulette` to roll the dice and get a random Trainer Code')
+                await message.channel.send('Use the following commands to find friends and add Trainers to your network:\n\n`!friend XXXX XXXX XXXX` to add your Trainer Code\n`!friend @username` to search for a Trainer\'s Code\n`!friend remove` to remove your Trainer Code\n`!friend roulette` to roll the dice and get a random Trainer Code')
 
     async def dex(self, message):
         condition = ''
         if len(message.content.lower().split()) == 1:
-            await self._client.send_message(message.channel, 'Nope. Use ``!dex [Pokemon] [form]`` to search for typing, movesets, CPs, and more for a specific \'mon.')
+            await message.channel.send('Nope. Use ``!dex [Pokemon] [form]`` to search for typing, movesets, CPs, and more for a specific \'mon.')
         elif len(message.content.lower().split()) == 2:
             pokemon = message.content.lower().split()[1]
         elif len(message.content.lower().split()) == 3 and message.content.lower().split()[2] in ['a', 'alolan']:
@@ -147,7 +147,7 @@ class Commands:
             pokemon = message.content.lower().split()[1]
             condition = 'armored'
         else:
-            await self._client.send_message(message.channel, (
+            await message.channel.send((
                 'Something\'s not quite right, `{}`. Use ``!dex [Pokemon] [form]`` to search for a specific \'mon.').format(message.author.display_name))
 
         if pokemon in dicts.pokemon:
@@ -392,9 +392,9 @@ class Commands:
             else:
                 em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
             em.set_footer(text='Data courtesy of pokemongo.gamepress.gg')
-            await self._client.send_message(message.channel, embed=em)
+            await message.channel.send(embed=em)
         else:
-            await self._client.send_message(message.channel, (
+            await message.channel.send((
                 "That's not any Pokemon I know of, check your spelling " +
                 "`{}`").format(message.author.display_name))
 
@@ -416,11 +416,11 @@ class Commands:
 
             if league not in ['great', 'ultra']:
                 if 'master' in league:
-                    await self._client.send_message(message.channel, 'There is no CP limit in Master League, you want 100% IVs')
-                else: await self._client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
+                    await message.channel.send('There is no CP limit in Master League, you want 100% IVs')
+                else: await message.channel.send('Usage: `!rank League Pokemon [form] Atk Def Sta`')
             #pokemon = split[2]
             if pokemon not in dicts.pokemon:
-                await self._client.send_message(message.channel, (
+                await message.channel.send((
                 "That's not any Pokemon I know of, check your spelling " +
                 "`{}`").format(message.author.display_name))
             if pokemon in ['mew', 'deoxys', 'celebi']: #pokemon that can't be traded
@@ -451,7 +451,7 @@ class Commands:
                         def_iv = str(15)
                         sta_iv = str(15)
                     site = 'https://gostadium.club/pvp/iv?pokemon=' + pokemon.capitalize() + '+' + condition.capitalize() + '&max_cp='+str(leagues[league])+'&min_iv='+miniv+'&att_iv=' + att_iv + '&def_iv=' + def_iv + '&sta_iv=' + sta_iv
-                else: return self._client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
+                else: return message.channel.send('Usage: `!rank League Pokemon [form] Atk Def Sta`')
             else:
                 try:
                     att_iv = split[index+1]
@@ -459,7 +459,7 @@ class Commands:
                     sta_iv = split[index+3]
                     site = 'https://gostadium.club/pvp/iv?pokemon=' + pokemon.capitalize() + '&max_cp='+str(leagues[league])+'&min_iv='+miniv+'&att_iv=' + att_iv + '&def_iv=' + def_iv + '&sta_iv=' + sta_iv
                 except:
-                    return self._client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
+                    return message.channel.send('Usage: `!rank League Pokemon [form] Atk Def Sta`')
             page = requests.get(site)
             soup = BeautifulSoup(page.content, 'html.parser')
             rank_table_full = soup.find('table', attrs={'class':'table table-condensed table-striped text-light'})
@@ -519,16 +519,16 @@ class Commands:
                     em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
             else:
                 em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
-            await self._client.send_message(message.channel, embed=em)
+            await message.channel.send(embed=em)
         else:
-            await self._client.send_message(message.channel, 'Usage: `!rank League Pokemon [form] Atk Def Sta`')
+            await message.channel.send('Usage: `!rank League Pokemon [form] Atk Def Sta`')
 
     async def shiny(self, message):
         condition = ''
         if len(message.content.lower().split()) == 2:
             pokemon = message.content.lower().split()[1]
             if pokemon not in dicts.pokemon:
-                return self._client.send_message(message.channel, (
+                return message.channel.send((
                 "That's not any Pokemon I know of, check your spelling " +
                 "`{}`").format(message.author.display_name))
             dex_num = dicts.pokemon.get(pokemon)
@@ -538,7 +538,7 @@ class Commands:
             em = discord.Embed(title=title, color=0xffffff)
             em.set_image(url=shiny_img_url)
             em.set_thumbnail(url=img_url)
-            await self._client.send_message(message.channel, embed=em)
+            await message.channel.send(embed=em)
 
     async def help(self, message):
 
@@ -554,6 +554,7 @@ class Commands:
             "`!shiny` to see the shiny version of a particular Pokemon \n" +
             "`!invite` to get an invite link to the server \n" +
             "`!friend` to see commands for Botty's Friend List  \n")
-        await self._client.send_message(message.channel, info_msg)
+        #await self._client.send_message(message.channel, info_msg)
+        await message.channel.send(info_msg)
 
 

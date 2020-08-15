@@ -10,11 +10,11 @@ class DTC:
     def __init__(self, client):
         self._client = client
         self.invite_link = 'https://discord.gg/NrxCsKG'
-        self.map_channel = '546072336642605056'
-        self.HP_channel = '337956200048099328'
-        self.trophy_room = '412901620183990274'
-        self.announcements_channel = '303367823516893196'
-        self.playground = '558128086852567041'
+        self.map_channel = 546072336642605056
+        self.HP_channel = 337956200048099328
+        self.trophy_room = 412901620183990274
+        self.announcements_channel = 303367823516893196
+        self.playground = 558128086852567041
 
     async def userstats(self, message):
         months = {'nov': 'november', 'dec': 'december', 'jan':'january', 'feb':'february', 'mar':'march', 'apr':'april','may':'may', 'jun':'june','jul':'july','aug':'august','sept':'september','sep':'september','oct':'october'}
@@ -35,16 +35,16 @@ class DTC:
                         './stats/' + month + '_' + username +'.txt'), 'r+') as stats_file:
                         for line in stats_file:
                             notif = notif + line
-                        await self._client.send_message(message.channel, (notif).format(message.author.display_name))
+                        await message.channel.send((notif).format(message.author.display_name))
                 else:
                     if month not in ['nov', 'november', 'dec', 'december', 'jan', 'january','feb','february','mar','march','apr','april','may', 'jun','june','jul','july','aug','august','sept','sep','september','oct','october']:
-                        await self._client.send_message(message.channel, (
+                        await message.channel.send((
                         "That's not a month, `{}`.").format(message.author.display_name))
                     else:
-                        await self._client.send_message(message.channel, (
+                        await message.channel.send((
                         "Try your PoGo trainer name instead. Or did you forget to submit your stats to DTC this month, `{}`?").format(message.author.display_name))
             else:
-                await self._client.send_message(message.channel, (
+                await message.channel.send((
                     ':facepalm: Not how this works, `{}`. Try ' +
                     '!stats [PoGo trainer name] [month] ' +
                     'and then cry at your terrible stats :sob:').format(message.author.display_name))
@@ -56,39 +56,39 @@ class DTC:
 
     async def guide(self, message):
         guide_link = 'https://dtc.fyi/gofestguide2019'
-        await self._client.send_message(message.channel, guide_link)
+        await message.channel.send(guide_link)
 
     async def merch(self, message):
         merch_link = 'https://dtc.fyi/merch'
-        await self._client.send_message(message.channel, merch_link)
+        await message.channel.send(merch_link)
 
     async def patreon(self, message):
         patreon_link = 'https://www.patreon.com/dtcpkmngo'
-        await self._client.send_message(message.channel, patreon_link)
+        await message.channel.send(patreon_link)
 
     async def map(self, message):
         #if message.channel.id == self.map_channel: #temporarily make !map work in all channels
         map_link = 'https://map.dtc.fyi'
-        await self._client.send_message(message.channel, map_link)
+        await message.channel.send(map_link)
 
     async def alvin(self, message):
         if message.channel.id == self.trophy_room:
-            await self._client.send_message(message.channel, "Nobody cares, Alvin")
+            await message.channel.send("Nobody cares, Alvin")
 
     async def HPgyms(self, message):
         if message.channel.id == self.HP_channel:
             gym_link = 'http://imgur.com/a/O8acycN'
-            await self._client.send_message(message.channel, 'Here is a list of gyms in Hyde Park/Woodlawn with their locations and EX eligibility:\n(' + gym_link + ')')
+            await message.channel.send('Here is a list of gyms in Hyde Park/Woodlawn with their locations and EX eligibility:\n(' + gym_link + ')')
 
     def get_users(self):
 
         startTime = datetime.now().time
-        for server in client.servers:
+        for guild in client.guilds:
             online = 0
             idle = 0
             offline = 0
 
-            for member in server.members:
+            for member in guild.members:
                 if str(member.status) == 'online':
                     online+=1
                 elif str(member.status) == 'idle':
