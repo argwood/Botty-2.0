@@ -71,6 +71,8 @@ async def on_message(message):
             await _dtc.alvin(message)
         elif message.content.lower().startswith('where is ') or message.content.lower().startswith('where\'s'):
             await _dtc.HPgyms(message)
+        elif message.content.lower().startswith('!tiebreaker') and (message.author.id==320601364143013888 or message.author.id==529159480471191563 or message.author.id==501870861192658944):
+            await _dtc.tiebreaker(message)
 
 if __name__ == "__main__":
 

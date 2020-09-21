@@ -4,6 +4,7 @@ import os
 import csv
 import time
 import datetime
+import random
 
 class DTC:
 
@@ -110,6 +111,24 @@ class DTC:
                 writer = csv.writer(csvfile)
                 writer.writerow(row)
             return reacts
+
+    async def tiebreaker(self, message):
+        random.seed()
+        user1 = '<@535216754415239179>'
+        user2 = '<@151547602020728833>'
+        user3 = '<@427193238756261888>'
+        users = [user1, user2, user3]
+
+        await message.channel.send('Congratulations on making it this far in the Draft tournament, %s, %s, and %s! Unfortunately, only one of you can clinch that final Wildcard spot. To proceed to the final tiebreaker between you three, we will randomly select a winner...:drum:' % (user1, user2, user3))
+        time.sleep(1)
+        await message.channel.send('3...')
+        time.sleep(1)
+        await message.channel.send('2...')
+        time.sleep(1)
+        await message.channel.send('1...')
+        time.sleep(1)
+        winner = random.choice(users)
+        await message.channel.send('The winner is... %s :tada:!' % winner)
 
 
 
