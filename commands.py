@@ -369,28 +369,28 @@ class Commands:
                                color=dicts.type_colors[
                                    types[0].get_text().split()[0].lower()])
             if condition == 'alolan':
-                em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_61.png').format(dex_number))
+                em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_61.png').format(dex_number))
             elif dex_number == 386: #deoxys
                 if condition == 'attack':
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
                 elif condition == 'defense':
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_13.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_13.png').format(dex_number))
                 elif condition == 'speed':
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_14.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_14.png').format(dex_number))
                 else:
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_11.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_11.png').format(dex_number))
             elif dex_number == 487: #gira
                 if condition == 'origin':
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
                 else:
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
             elif dex_number == 150: #mewtwo
                 if condition == 'armored':
                     em.set_thumbnail(url=('https://pokemongo.gamepress.gg/sites/pokemongo/files/styles/240w/public/2019-07/mewtwoArmored.png?itok=LoC_Rd9g'))
                 else:
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
             else:
-                em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
+                em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
             em.set_footer(text='Data courtesy of pokemongo.gamepress.gg')
             await message.channel.send(embed=em)
         else:
@@ -497,28 +497,28 @@ class Commands:
             em.set_footer(text='Data courtesy of gostadium.club')
             dex_number = dicts.pokemon.get(pokemon)
             if condition == 'alolan':
-                em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_61.png').format(dex_number))
+                em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_61.png').format(dex_number))
             elif dex_number == 386: #deoxys
                 if condition == 'attack':
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
                 elif condition == 'defense':
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_13.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_13.png').format(dex_number))
                 elif condition == 'speed':
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_14.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_14.png').format(dex_number))
                 else:
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_11.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_11.png').format(dex_number))
             elif dex_number == 487: #gira
                 if condition == 'origin':
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_12.png').format(dex_number))
                 else:
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
             elif dex_number == 150: #mewtwo
                 if condition == 'armored':
                     em.set_thumbnail(url=('https://pokemongo.gamepress.gg/sites/pokemongo/files/styles/240w/public/2019-07/mewtwoArmored.png?itok=LoC_Rd9g'))
                 else:
-                    em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
+                    em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
             else:
-                em.set_thumbnail(url=('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
+                em.set_thumbnail(url=('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_00.png').format(dex_number))
             await message.channel.send(embed=em)
         else:
             await message.channel.send('Usage: `!rank League Pokemon [form] Atk Def Sta`')
@@ -532,8 +532,8 @@ class Commands:
                 "That's not any Pokemon I know of, check your spelling " +
                 "`{}`").format(message.author.display_name))
             dex_num = dicts.pokemon.get(pokemon)
-            img_url = ('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00.png').format(dex_num)
-            shiny_img_url = ('https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_{0:0=3d}_00_shiny.png').format(dex_num)
+            img_url = ('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_00.png').format(dex_num)
+            shiny_img_url = ('https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_{0:0=3d}_00_shiny.png').format(dex_num)
             title = pokemon.upper()
             em = discord.Embed(title=title, color=0xffffff)
             em.set_image(url=shiny_img_url)
